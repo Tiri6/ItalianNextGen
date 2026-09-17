@@ -2,6 +2,32 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-09-17",
+      "player": "Pietro Comuzzo",
+      "club": "Torino",
+      "opponent": "Sassuolo",
+      "competition": "",
+      "result": "",
+      "goals": 1,
+      "note": "Ha segnato ma con una prestazione frammentaria e imprecisioni",
+      "noteEn": "Scored but delivered a fragmented performance with imprecisions",
+      "source": "Torino Granata",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVFPMlVTZGpKS1RxWkVKSmRpR2t2Uy1sZkpTUDZ3b1ZPbHRYZGtQVDFIZXZTRm1qc0FFVzhuSUQ3aWFSX0JXMVdBa1FCeEVJRkhBT2pTbTFTWGJNN3plTHliTjVvSWw3TjVLOGZZOURGbUpCZm0ydS1MNmlhd2dGaGFlVTM4MEFTekhlOWhlX09JQlJZNi04N09DUTAtdVZUbkFEeGtVRllGTmJhVHBlYUliZ21RbVVZd1JBSFlZWFozZTdsRDJvclNrVXh0eHNWaDdtc3Q2dGRLZ3hvYko0djNR?oc=5"
+    },
+    {
+      "date": "2026-09-17",
+      "player": "Alessio Cacciamani",
+      "club": "Torino",
+      "opponent": "Sassuolo",
+      "competition": "",
+      "result": "",
+      "assists": 1,
+      "note": "Ha mostrato crescita evidente nel corso della gara con assist decisivo",
+      "noteEn": "Showed evident growth during the match with a decisive assist",
+      "source": "Torino Granata",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVFPMlVTZGpKS1RxWkVKSmRpR2t2Uy1sZkpTUDZ3b1ZPbHRYZGtQVDFIZXZTRm1qc0FFVzhuSUQ3aWFSX0JXMVdBa1FCeEVJRkhBT2pTbTFTWGJNN3plTHliTjVvSWw3TjVLOGZZOURGbUpCZm0ydS1MNmlhd2dGaGFlVTM4MEFTekhlOWhlX09JQlJZNi04N09DUTAtdVZUbkFEeGtVRllGTmJhVHBlYUliZ21RbVVZd1JBSFlZWFozZTdsRDJvclNrVXh0eHNWaDdtc3Q2dGRLZ3hvYko0djNR?oc=5"
+    },
+    {
       "date": "2026-09-02",
       "player": "Tommaso Baldanzi",
       "club": "Genoa",
@@ -224,30 +250,6 @@
       "noteEn": "Scores a brace in an important performance",
       "source": "Tuttosport",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQWpMcFRGX1hMREdWQk9LclQtTEozcVhHNzZfTTRGZlEzdkhBWmtDYk00ZjlBQUVINlhFWktVcnlsMk5KVUMyZjhrZ2xORFYyVk1uV2RhTEtaZ25mWTNPSGgzVnFaNHFOQVBwZ0VMRFpwUVc0SnNmemE1U0lSZXNzS3BuN19nUGxYaWMySmM1UnM3UEtXaXI5YS1WT25yWGF4RzVCQVZodnZoZjcxVnpCWERBNTc0UE9peUFoU1MzNDAyNTgzbzR4MXFoTENDWHktLXRrRG9LMXlIUTRCQVFmaEFPT0lXSkJRQXBTcWNvSG5sWjk4SHVWTlA3MXZNRTJI0gGAAkFVX3lxTE9BakxwVEZfWExER1ZCT0tyVC1MSjNxWEc3Nl9NNEZmUTN2SEFaa0NiTTRmOUFBRUg2WEVaS1VyeWwyTkpVQzJmOGtnbE5EVjJWTW5XZGFMS1pnbmZZM09IaDNWcVo0cU5BUHBnRUxEWnBRVzRKc2Z6YTVTSVJlc3NLcG43X2dQbFhpYzJKYzVSczdQS1dpcjlhLVZPbnJYYXhHNUJBVmh2dmhmNzFWekJYREE1NzRQT2l5QWhTUzM0MDI1ODNvNHgxcWhMQ0NYeS0tdGtEb0sxeUhRNEJBUWZoQU9PSVdKQlFBcFNxY29IbmxaOThIdVZOUDcxdk1FMkg?oc=5"
-    },
-    {
-      "date": "2026-07-22",
-      "player": "Giovanni Daffara",
-      "club": "Parma",
-      "opponent": "Under 20",
-      "competition": "",
-      "result": "",
-      "note": "Prosegue il suo cammino formativo in secondo piano rispetto a Corvi, consolidando l'apprendimento nel ruolo difensivo.",
-      "noteEn": "Continues his formative path in a secondary role compared to Corvi, consolidating his learning in the defensive role.",
-      "source": "FantaMaster",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2pwSmNKMHNxNFFrRl9rZU5Ndnl6ZmRjSDZBN2hiR0d2VDZ3RUN2VGp0RWRZRWFzbGYxd1BycjBRTENzTWVkcmVMX09YLTJMM0JKMWQzX0VXY2ZKaEQ1ekd1cVdrek5BVWlodG0xTy1lZzljZGs1b0JnU3VoY0NJY3JzbGNGb3d3QnVPMVFsMmRmdw?oc=5"
-    },
-    {
-      "date": "2026-07-02",
-      "player": "Jamal Iddrissou",
-      "club": "Italia U19",
-      "opponent": "Croazia",
-      "competition": "Europeo U19 · Gruppo B",
-      "result": "0-0",
-      "note": "Tra i migliori degli azzurrini nel pari senza reti di Caernarfon.",
-      "noteEn": "Among Italy's best in the goalless draw at Caernarfon.",
-      "source": "Virgilio Sport",
-      "sourceUrl": "https://sport.virgilio.it/europei-u19-top-e-flop-di-croazia-italia-liberali-flop-962095"
     }
   ]
 }
