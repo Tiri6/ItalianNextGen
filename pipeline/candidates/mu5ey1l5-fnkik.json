@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Nazionale, Romano verso la convocazione. Pessina in pole su Caprile",
+    "titleEn": "Romano set for call-up. Pessina edges out Caprile for Italy squad",
+    "excerpt": "Nelle valutazioni per le prossime convocazioni della Nazionale, emerge il nome di Romano tra i candidati. Nel frattempo, Massimo Pessina potrebbe precedere Caprile nelle considerazioni del commissario tecnico.",
+    "excerptEn": "As Italy prepares its next squad, Romano emerges among the candidates. Meanwhile, Massimo Pessina could edge out Caprile in the coach's considerations.",
+    "bodyIt": "Le prossime convocazioni della Nazionale stanno prendendo forma, con il nome di Romano che trova conferma tra gli elementi considerati dallo staff azzurro. Il giocatore sembra destinato a ricevere una chiamata nei progetti futuri della selezione italiana.\n\nParallamente, nelle valutazioni per i centrocampisti emerge uno scenario interessante: Massimo Pessina starebbe sorpassando Caprile nelle preferenze tecniche. Una dinamica che rispecchia il serrato confronto tra profili differenti nel comparto di mezzo del campo, dove la competizione interna si fa sempre più accesa in vista dei prossimi impegni.",
+    "bodyEn": "Italy's upcoming squad selections are taking shape, with Romano's name confirmed among the elements being considered by the Azzurri staff. The player appears set to receive a call in the Italian national team's future projects.\n\nMeanwhile, in the evaluation of midfielders, an interesting scenario emerges: Massimo Pessina is reportedly moving ahead of Caprile in the technical preferences. A dynamic that reflects the intense competition between different profiles in the midfield, where internal rivalry is intensifying ahead of the team's next commitments.",
+    "_fromSource": true
+  }
 }

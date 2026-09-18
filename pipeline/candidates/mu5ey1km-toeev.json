@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Taranto, Lupo arriva sulla sinistra",
+    "titleEn": "Taranto bolsters left flank with Lupo signing",
+    "excerpt": "Il club ionico annuncia l'arrivo di Christian Lupo per rinforzare la corsia mancina della difesa.",
+    "excerptEn": "Taranto announces the arrival of Christian Lupo to strengthen the left side of their defence.",
+    "bodyIt": "La Taranto ha ufficializzato l'ingaggio di Christian Lupo, esterno sinistro chiamato a potenziare la rosa difensiva del club pugliese. Un movimento interno al mercato che rispecchia le necessità tattiche della squadra nella corsia sinistra.\n\nL'arrivo di Lupo rappresenta una scelta mirata per completare gli effettivi disponibili sulla fascia, con l'obiettivo di garantire maggiori alternative e competitività nei prossimi impegni di campionato.",
+    "bodyEn": "Taranto have officially announced the signing of Christian Lupo, a left-back brought in to strengthen the defensive ranks of the Apulian club. The move reflects the squad's tactical requirements on the left flank.\n\nLupo's arrival represents a targeted choice to bolster the available pool of defenders, designed to provide greater options and competition as the club looks ahead to its upcoming fixtures.",
+    "_fromSource": true
+  }
 }

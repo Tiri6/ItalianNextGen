@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Roma, Guaglianone illumina il progetto giovani giallorosso",
+    "titleEn": "Roma's Guaglianone shines in Giallorossi youth project",
+    "excerpt": "Il talento di Mattia Guaglianone cattura l'attenzione della Roma, che continua a investire sulla propria filiera generazionale.",
+    "excerptEn": "Mattia Guaglianone's talent catches Roma's eye as the club pursues its youth development strategy.",
+    "bodyIt": "La Roma ripone fiducia nei propri giovani elementi, e Mattia Guaglianone rappresenta un tassello importante del mosaico futuro del club. Il suo sbocciare come calciatore conferma la bontà della scelta giallorossa di puntare su ragazzi del proprio vivaio, costruendo una base solida per gli anni avvenire.\n\nLa società capitolina continua a monitorare con attenzione l'evoluzione dei propri talenti in ascesa, ritenendo che una crescita consapevole dalle fondamenta sia la strada più percorribile per consolidare il progetto tecnico.",
+    "bodyEn": "Roma places its confidence in young prospects, and Mattia Guaglianone represents an important piece of the club's future plans. His emergence as a footballer confirms the value of the Giallorossi's strategy of developing academy talents, laying solid groundwork for years to come.\n\nThe capital club continues to monitor the progress of its rising talents closely, believing that thoughtful development from the youth ranks is the most viable path to strengthen the club's technical project.",
+    "_fromSource": true
+  }
 }
