@@ -2,6 +2,18 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-09-19",
+      "player": "Niccolò Fortini",
+      "club": "Torino",
+      "opponent": "Fiorentina",
+      "competition": "",
+      "result": "0-0",
+      "note": "Centrocampista che non mostra segni di frustrazione e guarda alla ripresa con fiducia.",
+      "noteEn": "Midfielder who shows no signs of frustration and looks to the second half with confidence.",
+      "source": "Toro News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZheWhwclFKSGdYOUtERWRHeUxMQXZJZU1IbDFfcnhDel9SWnRlR095MTZ6enJ5Y2lNWVRIOXpqdUpCeXJ5VG40NFlmaWFDUk0wVW1jcDJ3Wm5LT2hCVC0wMldPczRkRmQtdllBbEctTUZJLXlRVXRaeFVvcDBKc2Nuank1dC1YWkxMN1BEZkM1X0NER0l4UGlTSl9fdlFFcTdXSkpB0gGrAUFVX3lxTFBQekkyN1lFMmt0WHNSVXppT0NfVm5Scnpya3NTWkltN1p0SGhQUWhQdHltUXp4LWc0b3lodW96NzRXcHFNd2RNLUwwT1N2RG5RWmJtQW8weWxZR1lYSklRdlp0Y1F6NV9BOHRIUFZpd1Z1QjZZQk05MFFjS3JueXRWd19YdmExamFrbFJfSFJua3NNSWt1cTBlRG9VZ08yR2lxLWRmSnF0bjJXZw?oc=5"
+    },
+    {
       "date": "2026-09-17",
       "player": "Pietro Comuzzo",
       "club": "Torino",
@@ -235,19 +247,6 @@
       "goals": 5,
       "note": "Realizza cinque reti e dimostra il suo fiuto per il gol",
       "noteEn": "Scores five goals and demonstrates his goal-scoring instinct",
-      "source": "Tuttosport",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQWpMcFRGX1hMREdWQk9LclQtTEozcVhHNzZfTTRGZlEzdkhBWmtDYk00ZjlBQUVINlhFWktVcnlsMk5KVUMyZjhrZ2xORFYyVk1uV2RhTEtaZ25mWTNPSGgzVnFaNHFOQVBwZ0VMRFpwUVc0SnNmemE1U0lSZXNzS3BuN19nUGxYaWMySmM1UnM3UEtXaXI5YS1WT25yWGF4RzVCQVZodnZoZjcxVnpCWERBNTc0UE9peUFoU1MzNDAyNTgzbzR4MXFoTENDWHktLXRrRG9LMXlIUTRCQVFmaEFPT0lXSkJRQXBTcWNvSG5sWjk4SHVWTlA3MXZNRTJI0gGAAkFVX3lxTE9BakxwVEZfWExER1ZCT0tyVC1MSjNxWEc3Nl9NNEZmUTN2SEFaa0NiTTRmOUFBRUg2WEVaS1VyeWwyTkpVQzJmOGtnbE5EVjJWTW5XZGFMS1pnbmZZM09IaDNWcVo0cU5BUHBnRUxEWnBRVzRKc2Z6YTVTSVJlc3NLcG43X2dQbFhpYzJKYzVSczdQS1dpcjlhLVZPbnJYYXhHNUJBVmh2dmhmNzFWekJYREE1NzRQT2l5QWhTUzM0MDI1ODNvNHgxcWhMQ0NYeS0tdGtEb0sxeUhRNEJBUWZoQU9PSVdKQlFBcFNxY29IbmxaOThIdVZOUDcxdk1FMkg?oc=5"
-    },
-    {
-      "date": "2026-07-24",
-      "player": "Jamal Iddrissou",
-      "club": "Inter",
-      "opponent": "SV Aasen",
-      "competition": "",
-      "result": "",
-      "goals": 2,
-      "note": "Autore di una doppietta in una prestazione importante",
-      "noteEn": "Scores a brace in an important performance",
       "source": "Tuttosport",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQWpMcFRGX1hMREdWQk9LclQtTEozcVhHNzZfTTRGZlEzdkhBWmtDYk00ZjlBQUVINlhFWktVcnlsMk5KVUMyZjhrZ2xORFYyVk1uV2RhTEtaZ25mWTNPSGgzVnFaNHFOQVBwZ0VMRFpwUVc0SnNmemE1U0lSZXNzS3BuN19nUGxYaWMySmM1UnM3UEtXaXI5YS1WT25yWGF4RzVCQVZodnZoZjcxVnpCWERBNTc0UE9peUFoU1MzNDAyNTgzbzR4MXFoTENDWHktLXRrRG9LMXlIUTRCQVFmaEFPT0lXSkJRQXBTcWNvSG5sWjk4SHVWTlA3MXZNRTJI0gGAAkFVX3lxTE9BakxwVEZfWExER1ZCT0tyVC1MSjNxWEc3Nl9NNEZmUTN2SEFaa0NiTTRmOUFBRUg2WEVaS1VyeWwyTkpVQzJmOGtnbE5EVjJWTW5XZGFMS1pnbmZZM09IaDNWcVo0cU5BUHBnRUxEWnBRVzRKc2Z6YTVTSVJlc3NLcG43X2dQbFhpYzJKYzVSczdQS1dpcjlhLVZPbnJYYXhHNUJBVmh2dmhmNzFWekJYREE1NzRQT2l5QWhTUzM0MDI1ODNvNHgxcWhMQ0NYeS0tdGtEb0sxeUhRNEJBUWZoQU9PSVdKQlFBcFNxY29IbmxaOThIdVZOUDcxdk1FMkg?oc=5"
     }
