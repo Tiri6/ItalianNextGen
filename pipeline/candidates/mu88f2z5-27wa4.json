@@ -16,5 +16,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Avellino, tre talenti in nazionale: Faticanti e Moruzzi all'Under 21",
+    "titleEn": "Avellino, three talents called up: Faticanti and Moruzzi to Under 21",
+    "excerpt": "La società irpina conferma la crescita dei suoi giovani: due calciatori convocati nella selezione Under 21, Martinelli aggregato all'Under 20.",
+    "excerptEn": "The Campania club confirms the progress of its young talents: two players called up to the Under 21 squad, while Martinelli joins the Under 20.",
+    "bodyIt": "L'Avellino continua a sfornare prospettive interessanti nel panorama calcistico italiano. Tre elementi della rosa biancoverde hanno ricevuto convocazioni nelle selezioni giovanili nazionali, segnale tangibile del lavoro svolto dal settore giovanile del club.\n\nGiacomo Faticanti e Moruzzi sono stati selezionati per l'Under 21, categoria dove si concentra il grosso dei talenti in rampa di lancio verso la prima squadra. Nel frattempo, Tommaso Martinelli raggiunge l'Under 20, completando il quadro delle promozioni dalle file avellinesi.\n\nQueste chiamate rappresentano un riconoscimento della qualità espressa dai tre calciatori a livello di club e confermano il valore dell'attività formativa condotta in città.",
+    "bodyEn": "Avellino continues to produce promising prospects in Italian football. Three players from the squad have received call-ups to the national youth teams, a clear sign of the work carried out by the club's youth academy.\n\nGiacomo Faticanti and Moruzzi have been selected for the Under 21, the category where most emerging talents are preparing their step toward senior football. Meanwhile, Tommaso Martinelli joins the Under 20, completing the list of promotions from Avellino's ranks.\n\nThese convocations represent recognition of the quality shown by the three players at club level and confirm the value of the youth development work being carried out in the city.",
+    "_fromSource": true
+  }
 }
