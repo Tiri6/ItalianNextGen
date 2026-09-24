@@ -1,0 +1,42 @@
+---
+title: "Taccuino del giorno · 21 settembre 2026"
+titleEn: "Daily Notebook · September 21, 2026"
+excerpt: "Tre giorni di calcio giovanile italiano tra le formazioni ufficiali della Serie C e gli aggiornamenti dagli infermerie delle big."
+excerptEn: "Three days of Italian youth football between official lineups in Serie C and injury updates from the major clubs' medical rooms."
+date: 2026-09-24
+publishedAt: 2026-09-24T11:40:00+02:00
+featured: true
+category: taccuino
+players: ["Mattia Mosconi", "Mattia Marello", "Leonardo Noah Bovio", "Jeff Ekhator"]
+competitions: []
+source: "Taccuino da 2 fonti"
+sourceUrl: ""
+---
+
+Tra i giovani talenti monitorati in Serie C e le situazioni fisiche dei prospetti nelle squadre di vertice, prosegue il monitoraggio costante del vivaio azzurro.
+
+**Leonardo Noah Bovio**
+Il centrocampista dell'Inter U23 parte da titolare nella sfida di Serie C contro il Foggia, confermando la fiducia che il club ripone in lui nella categoria. [fonte](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUNIBeEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUA?oc=5)
+
+**Mattia Mosconi e Mattia Marello**
+I due prospetti nerazzurri partono dalla panchina nella stessa gara, pronti a essere impiegati durante il match contro i pugliesi. [fonte](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUNIBeEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUA?oc=5)
+
+**Jeff Ekhator**
+L'attaccante della Juventus rimane ai box nell'elenco dei giocatori ancora convalescenti in casa bianconera, insieme a diversi compagni di squadra alle prese con infortuni. [fonte](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTnNtU0N0Q1lRRjRGeVpDN05sQjU2b3hkaEJyejB5QVhSUEVLU3RNX2hkaG5RVmIzSWpRU1VhUXFYblRKUERSMmNVR2MyUVZxXzdOTkZPc1YyYU4xdTR5cG5EVE11dURGSUdKNEZQSlg1TTRMTmUwdnRRcFlJYkF3YkVaVnFFWGg1M1RQUmM3QWRWZlB1bE90cUNYY2lZeU5tWVhrMlNqa2pNOXFEM1ZnUVVQM1FDNXFhVHNCQk1HNVB2YkFiMWoyaVdiQmZNUzNOVlNfd2FFc3gyNlVZNlhCNkZYUUxYSU0?oc=5)
+
+Gli aggiornamenti sui giovani azzurri proseguono costanti tra campionato e sala medica.
+
+<!--EN-->
+
+Between young talents monitored in Serie C and the physical conditions of prospects in top-flight squads, continuous oversight of the Italian youth system continues.
+
+**Leonardo Noah Bovio**
+The Inter U23 midfielder starts from the beginning in the Serie C match against Foggia, confirming the faith the club places in him in the category. [source](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUNIBeEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUA?oc=5)
+
+**Mattia Mosconi and Mattia Marello**
+Both Nerazzurri prospects start from the bench in the same match, ready to be deployed during the game against the Pugliese side. [source](https://news.google.com/rss/articles/CBMieEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUNIBeEFVX3lxTFB0eW5vTFhUbHNoSGczNVBVdGNxWDlWeDdLVEU5bkhFT0R3ZE1jdUFPWHlBc1BuRUF5VWIxYXZrbXhsQW5RWnM2ejJhbV9ORjF2bzJCRW9KQkhiekJRcUVkWFRJaDlBNkNWdTgzV0hqdDNTdVlYV0hyUA?oc=5)
+
+**Jeff Ekhator**
+The Juventus striker remains sidelined on the list of players still recovering at the Bianconeri, alongside several teammates dealing with injuries. [source](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTnNtU0N0Q1lRRjRGeVpDN05sQjU2b3hkaEJyejB5QVhSUEVLU3RNX2hkaG5RVmIzSWpRU1VhUXFYblRKUERSMmNVR2MyUVZxXzdOTkZPc1YyYU4xdTR5cG5EVE11dURGSUdKNEZQSlg1TTRMTmUwdnRRcFlJYkF3YkVaVnFFWGg1M1RQUmM3QWRWZlB1bE90cUNYY2lZeU5tWVhrMlNqa2pNOXFEM1ZnUVVQM1FDNXFhVHNCQk1HNVB2YkFiMWoyaVdiQmZNUzNOVlNfd2FFc3gyNlVZNlhCNkZYUUxYSU0?oc=5)
+
+Updates on young Italian talent continue steadily across league play and medical reports.

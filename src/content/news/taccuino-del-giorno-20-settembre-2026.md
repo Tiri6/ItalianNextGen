@@ -1,0 +1,60 @@
+---
+title: "Taccuino del giorno · 20 settembre 2026"
+titleEn: "Daily Notebook · September 20, 2026"
+excerpt: "Cinque giovani talenti italiani protagonisti in questo sabato di calcio tra Serie A, B e competizioni internazionali."
+excerptEn: "Five young Italian talents take center stage on this Saturday of football across Serie A, B and international competitions."
+date: 2026-09-24
+publishedAt: 2026-09-24T11:20:00+02:00
+featured: true
+category: taccuino
+players: ["Honest Ahanor", "Dominic Vavassori", "Stefano Di Mario", "Federico Steffanoni", "Leonardo Noah Bovio"]
+competitions: []
+source: "Taccuino da 5 fonti"
+sourceUrl: ""
+---
+
+**Honest Ahanor**
+La stella del futuro azzurro continua a brillare in Europa, superando già i parametri leggendari di Bergomi. Una crescita esponenziale che cattura l'attenzione dei maggiori osservatori continentali.
+[fonte](https://news.google.com/rss/articles/CBMiowFBVV95cUxPekxNZWZXNXliX1VzM3NLSXJxemF1MDdjSlVXN0otaWF0WEJsMFNnZTRJWGd4S3k1YzRuUlVJWnBPbWV0VV93cXFTeTZidFpGQTdpcHNFRHdxQnprOWtaT1dRRFZZb3l3MmNvRU0zOG8xMmZ0WnZZV1ZTdERIY2o1S1ozSHh3U2VKQVVQSThwaDFSM21LLWo0MU02dUgwZURDWDFR?oc=5)
+
+**Dominic Vavassori**
+Il giovane del Palermo ha segnato la sua prima doppietta in Serie B, permettendo ai rosanero di chiudere la sosta da capolista con un risultato importante. Un passo significativo verso la continuità di rendimento.
+[fonte](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUQ4ZmEtRXVTSmdGbG5xdEJ5ZGQwcU53UUoxRWxMdHUwNU93OVRVZk9vOEZIQ3liZXZaRVBvOWxCT1pkMnJaN05hOVpmbVN3X3hfUTBTREY2elRTVWxSbGZBaTRpaXZyck00YjZfUzVFREQ0ZGh3S1Rma19RRHhsemRTTEZBa201SDBWLU5UWlpGcjI5R2FyZFpvV2tDUQ?oc=5)
+
+**Stefano Di Mario**
+La difesa della Cremonese ha fatto da muro nel pareggio interno contro l'Entella, con Di Mario protagonista nell'annullare le iniziative avversarie. Una prestazione di solidità nella sfida di Serie B.
+[fonte](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2todWV3SEZzTm5VNkl3Rm9nTU9KMm1pYXYzUU16NnFIZVFJTG5UWEZYZWF6WGpWQWRzRnhDb3p0Q1VMZUtNV0wzTW5fUTlMNVRDalFmU2gxeTExbEd3ZUxJWE9UeTZ2VzZSclNLUDVMVEpRemdtSnhRcjlELWhtdFRucW42TEtDZUdqUi11S2ZnVWZxaDQ3M1JMdW40MTlmcjBYOHREOFd6Zw?oc=5)
+
+**Federico Steffanoni**
+Il terzino atalantino ha vissuto un mese ricco di impegni, affrontando sfide importanti nel club e approdando anche alle convocazioni azzurre. Un periodo di grande visibilità per il giovane talento bergamasco.
+[fonte](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTllYdEN1RnM1b1JfeDZFZmJUdXN4UkxSYW5BcW9hS2ZGRHdqM0tzNnRhNUxtc1F0Um1jVVZQdVdUSDZpZk9wTUVkUVF6NTNHaldkRTNCTEFaOERmSHZsTE1SeFp4VU9keUk4TWhVQzI5T2gwU2J1RTI5M1Z4NFNsNXpUR1BZNEA?oc=5)
+
+**Leonardo Noah Bovio**
+L'infortunio di un difensore internazionale apre uno spiraglio per il giovane nerazzurro, che vede nella partita contro la Roma un'occasione per mettersi in mostra. Un'opportunità che potrebbe cambiare i suoi prossimi impegni.
+[fonte](https://news.google.com/rss/articles/CBMieEFVX3lxTE0wMnJPRTMyallQVTExcjN5QzRYclA0TkdRSnZLSDY0NDJ4VzR0OURUNWZiM3V4WTFwczI5M2lWY2hYaDFqaTBlRk51MnNaM2VZRDJXZm44bWdrU1VyVGw1bGEwTDU3ZVpYaEVLMXpmaHcyLTBoUzNPNw?oc=5)
+
+Una giornata che premia la continuità e l'opportunismo nei giovani profili azzurri.
+
+<!--EN-->
+
+**Honest Ahanor**
+The rising Italian star continues to shine across Europe, already surpassing Bergomi's legendary benchmarks. An exponential growth that captures the attention of major continental scouts.
+[source](https://news.google.com/rss/articles/CBMiowFBVV95cUxPekxNZWZXNXliX1VzM3NLSXJxemF1MDdjSlVXN0otaWF0WEJsMFNnZTRJWGd4S3k1YzRuUlVJWnBPbWV0VV93cXFTeTZidFpGQTdpcHNFRHdxQnprOWtaT1dRRFZZb3l3MmNvRU0zOG8xMmZ0WnZZV1ZTdERIY2o1S1ozSHh3U2VKQVVQSThwaDFSM21LLWo0MU02dUgwZURDWDFR?oc=5)
+
+**Dominic Vavassori**
+The young Palermo forward scored his first Serie B brace, allowing the Rosanero to close the international break as table leaders. A significant step toward consistent performance.
+[source](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUQ4ZmEtRXVTSmdGbG5xdEJ5ZGQwcU53UUoxRWxMdHUwNU93OVRVZk9vOEZIQ3liZXZaRVBvOWxCT1pkMnJaN05hOVpmbVN3X3hfUTBTREY2elRTVWxSbGZBaTRpaXZyck00YjZfUzVFREQ0ZGh3S1Rma19RRHhsemRTTEZBa201SDBWLU5UWlpGcjI5R2FyZFpvV2tDUQ?oc=5)
+
+**Stefano Di Mario**
+Cremonese's defense stood firm in the home draw against Entella, with Di Mario proving decisive in neutralizing opponents' attacks. A solid performance in the Serie B fixture.
+[source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2todWV3SEZzTm5VNkl3Rm9nTU9KMm1pYXYzUU16NnFIZVFJTG5UWEZYZWF6WGpWQWRzRnhDb3p0Q1VMZUtNV0wzTW5fUTlMNVRDalFmU2gxeTExbEd3ZUxJWE9UeTZ2VzZSclNLUDVMVEpRemdtSnhRcjlELWhtdFRucW42TEtDZUdqUi11S2ZnVWZxaDQ3M1JMdW40MTlmcjBYOHREOFd6Zw?oc=5)
+
+**Federico Steffanoni**
+The Atalanta fullback enjoyed a busy month juggling club commitments and earning national team calls. A period of remarkable exposure for the young Bergamo talent.
+[source](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTllYdEN1RnM1b1JfeDZFZmJUdXN4UkxSYW5BcW9hS2ZGRHdqM0tzNnRhNUxtc1F0Um1jVVZQdVdUSDZpZk9wTUVkUVF6NTNHaldkRTNCTEFaOERmSHZsTE1SeFp4VU9keUk4TWhVQzI5T2gwU2J1RTI5M1Z4NFNsNXpUR1BZNEA?oc=5)
+
+**Leonardo Noah Bovio**
+An injury to an international defender opens a window for the young Inter prospect, who sees the Rome clash as a chance to prove himself. An opportunity that could shape his upcoming appearances.
+[source](https://news.google.com/rss/articles/CBMieEFVX3lxTE0wMnJPRTMyallQVTExcjN5QzRYclA0TkdRSnZLSDY0NDJ4VzR0OURUNWZiM3V4WTFwczI5M2lWY2hYaDFqaTBlRk51MnNaM2VZRDJXZm44bWdrU1VyVGw1bGEwTDU3ZVpYaEVLMXpmaHcyLTBoUzNPNw?oc=5)
+
+A day that rewards consistency and opportunism across the young Italian talent pool.
