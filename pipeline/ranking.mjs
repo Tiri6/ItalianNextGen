@@ -43,6 +43,9 @@ function stripTags(s) {
     .replace(/&amp;/g, '&').replace(/\[\d+\]/g, '').replace(/\s+/g, ' ').trim();
 }
 
+// Parole della colonna "movimento" (non sono nomi di squadra).
+const MOVE = /^(steady|increase|decrease|same|new|re-?entry|up|down|stabile|in aumento|in diminuzione|invariat|nuova|nuovo)/i;
+
 // Estrae le righe {rank, team, points} dalla prima tabella "classifica" trovata.
 function parseRanking(html) {
   const rows = [];
@@ -54,10 +57,16 @@ function parseRanking(html) {
     const rank = cells.map((c) => c.match(/^\d{1,3}$/)?.[0]).find(Boolean);
     const pointsCell = cells.find((c) => /^\d{3,4}[.,]\d{1,2}$/.test(c));
     if (!rank || !pointsCell) continue;
-    // il team è la cella testuale più lunga senza cifre iniziali
-    const team = cells
-      .filter((c) => /[A-Za-zÀ-ÿ]{3,}/.test(c) && !/^\d/.test(c))
-      .sort((a, b) => b.length - a.length)[0];
+    // il team è il testo del link alla nazione (es. <a href="/wiki/Italy...">Italy</a>);
+    // in mancanza, la cella testuale più lunga escludendo la colonna "movimento".
+    const anchors = [...tr.matchAll(/<a\b[^>]*href="\/wiki\/[^"]+"[^>]*>([^<]{2,40})<\/a>/gi)]
+      .map((m) => stripTags(m[1]));
+    let team = anchors.find((t) => /^[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ .'’-]{2,}$/.test(t) && !/national|football|team|ranking|classifica|calcio|nazionale/i.test(t));
+    if (!team) {
+      team = cells
+        .filter((c) => /[A-Za-zÀ-ÿ]{3,}/.test(c) && !/^\d/.test(c) && !MOVE.test(c))
+        .sort((a, b) => b.length - a.length)[0];
+    }
     if (!team) continue;
     rows.push({ rank: Number(rank), team, points: Number(pointsCell.replace(',', '.')) });
   }

@@ -12,6 +12,7 @@
 import { readFile, writeFile, readdir, rename, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { isBlocked } from './sources.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES = path.join(ROOT, 'pipeline', 'candidates');
@@ -40,7 +41,7 @@ const pool = [];
 for (const f of files) {
   try {
     const c = JSON.parse(await readFile(path.join(CANDIDATES, f), 'utf8'));
-    if (!c.draft && !c.isDigest) pool.push({ f, c });
+    if (!c.draft && !c.isDigest && !isBlocked(c.source)) pool.push({ f, c });
   } catch {}
 }
 if (pool.length < 2) {

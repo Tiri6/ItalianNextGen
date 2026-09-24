@@ -130,10 +130,10 @@
     },
     {
       "name": "Honest Ahanor",
-      "club": "Atalanta",
+      "club": "Crystal Palace (prestito Atalanta)",
       "role": "Difensore centrale",
       "born": 2008,
-      "status": "serie-a",
+      "status": "estero",
       "value": 30,
       "valueHistory": [
         {
@@ -237,7 +237,7 @@
     },
     {
       "name": "Pietro Comuzzo",
-      "club": "Fiorentina",
+      "club": "Torino",
       "role": "Difensore centrale",
       "born": 2005,
       "status": "serie-a",
@@ -383,7 +383,7 @@
     },
     {
       "name": "Niccolò Fortini",
-      "club": "Fiorentina",
+      "club": "Torino",
       "role": "Terzino sinistro",
       "born": 2006,
       "status": "serie-a",
@@ -467,7 +467,7 @@
     },
     {
       "name": "Luca Koleosho",
-      "club": "Burnley",
+      "club": "Paris FC",
       "role": "Ala destra",
       "born": 2004,
       "status": "estero",
@@ -514,7 +514,7 @@
       "club": "Frosinone",
       "role": "Mediano",
       "born": 2006,
-      "status": "serie-b",
+      "status": "serie-a",
       "value": 5,
       "queries": [
         "Cichella Frosinone"
@@ -544,10 +544,10 @@
     },
     {
       "name": "Giacomo Faticanti",
-      "club": "Lecce",
+      "club": "Avellino",
       "role": "Mediano",
       "born": 2004,
-      "status": "serie-a",
+      "status": "serie-b",
       "value": 4.5,
       "queries": [
         "Faticanti"
@@ -632,7 +632,7 @@
       "club": "Monza",
       "role": "Mediano",
       "born": 2005,
-      "status": "serie-b",
+      "status": "serie-a",
       "value": 4,
       "queries": [
         "Leonardo Colombo Monza"
@@ -654,7 +654,7 @@
       "club": "Pisa",
       "role": "Difensore centrale",
       "born": 2005,
-      "status": "serie-a",
+      "status": "serie-b",
       "value": 3.5,
       "queries": [
         "Francesco Coppola Pisa"
@@ -706,7 +706,7 @@
     },
     {
       "name": "Seydou Fini",
-      "club": "Genoa",
+      "club": "Frosinone",
       "role": "Ala destra",
       "born": 2006,
       "status": "serie-a",
@@ -750,7 +750,7 @@
     },
     {
       "name": "Eddy Kouadio",
-      "club": "Fiorentina",
+      "club": "Monza",
       "role": "Difensore centrale",
       "born": 2006,
       "status": "serie-a",
@@ -797,7 +797,7 @@
       "club": "Hellas Verona",
       "role": "Difensore centrale",
       "born": 2005,
-      "status": "serie-a",
+      "status": "serie-b",
       "value": 2,
       "queries": [
         "Nicolò Calabrese"
@@ -808,7 +808,7 @@
       "club": "Venezia",
       "role": "Punta centrale",
       "born": 2005,
-      "status": "serie-b",
+      "status": "serie-a",
       "value": 2,
       "queries": [
         "Alvin Okoro"
@@ -860,10 +860,10 @@
     },
     {
       "name": "Diego Mascardi",
-      "club": "Spezia",
+      "club": "Torino",
       "role": "Portiere",
       "born": 2007,
-      "status": "serie-b",
+      "status": "serie-a",
       "value": 1.3,
       "queries": [
         "Mascardi Spezia"
@@ -1292,6 +1292,171 @@
       "status": "primavera",
       "queries": [
         "David Bonacina Torino"
+      ]
+    },
+    {
+      "name": "Daniele Ghilardi",
+      "club": "Roma",
+      "role": "Difensore centrale",
+      "born": 2003,
+      "status": "serie-a",
+      "queries": [
+        "Ghilardi Roma",
+        "Daniele Ghilardi"
+      ]
+    },
+    {
+      "name": "Diego Coppola",
+      "club": "Paris FC",
+      "role": "Difensore centrale",
+      "born": 2003,
+      "status": "estero",
+      "queries": [
+        "Diego Coppola",
+        "Diego Coppola"
+      ]
+    },
+    {
+      "name": "Alessandro Romano",
+      "club": "Cagliari",
+      "role": "Centrocampista",
+      "born": 2006,
+      "status": "serie-a",
+      "queries": [
+        "Alessandro Romano Cagliari",
+        "Alessandro Romano"
+      ]
+    },
+    {
+      "name": "Issa Doumbia",
+      "club": "Sporting CP",
+      "role": "Centrocampista",
+      "born": 2003,
+      "status": "estero",
+      "queries": [
+        "Issa Doumbia",
+        "Issa Doumbia"
+      ]
+    },
+    {
+      "name": "Antonio Vergara",
+      "club": "Napoli",
+      "role": "Attaccante",
+      "born": 2003,
+      "status": "serie-a",
+      "queries": [
+        "Vergara Napoli",
+        "Antonio Vergara"
+      ]
+    },
+    {
+      "name": "Mohamed Alì Zoma",
+      "club": "Norimberga",
+      "role": "Attaccante",
+      "born": 2003,
+      "status": "estero",
+      "queries": [
+        "Zoma Norimberga",
+        "Mohamed Alì Zoma"
+      ]
+    },
+    {
+      "name": "Sebastiano Esposito",
+      "club": "Sassuolo",
+      "role": "Attaccante",
+      "born": 2002,
+      "status": "serie-a",
+      "queries": [
+        "Sebastiano Esposito",
+        "Sebastiano Esposito"
+      ]
+    },
+    {
+      "name": "Lorenzo Palmisani",
+      "club": "Frosinone",
+      "role": "Portiere",
+      "born": 2004,
+      "status": "serie-a",
+      "queries": [
+        "Palmisani Frosinone",
+        "Lorenzo Palmisani"
+      ]
+    },
+    {
+      "name": "Gabriele Calvani",
+      "club": "Frosinone (prestito Genoa)",
+      "role": "Difensore centrale",
+      "born": 2004,
+      "status": "serie-a",
+      "queries": [
+        "Calvani Frosinone",
+        "Gabriele Calvani"
+      ]
+    },
+    {
+      "name": "Costantino Favasuli",
+      "club": "Napoli (prestito Catanzaro)",
+      "role": "Terzino",
+      "born": 2004,
+      "status": "serie-a",
+      "queries": [
+        "Favasuli Napoli",
+        "Costantino Favasuli"
+      ]
+    },
+    {
+      "name": "Emanuele Lulli",
+      "club": "Roma",
+      "role": "Terzino destro",
+      "born": 2007,
+      "status": "serie-a",
+      "queries": [
+        "Emanuele Lulli",
+        "Emanuele Lulli"
+      ]
+    },
+    {
+      "name": "Brando Moruzzi",
+      "club": "Avellino (prestito Juventus)",
+      "role": "Difensore",
+      "born": 2004,
+      "status": "serie-b",
+      "queries": [
+        "Moruzzi Avellino",
+        "Brando Moruzzi"
+      ]
+    },
+    {
+      "name": "Tommaso Berti",
+      "club": "Cremonese",
+      "role": "Centrocampista",
+      "born": 2004,
+      "status": "serie-b",
+      "queries": [
+        "Tommaso Berti Cremonese",
+        "Tommaso Berti"
+      ]
+    },
+    {
+      "name": "Luigi Cherubini",
+      "club": "Benevento",
+      "role": "Ala",
+      "born": 2004,
+      "status": "serie-b",
+      "queries": [
+        "Cherubini Benevento",
+        "Luigi Cherubini"
+      ]
+    },
+    {
+      "name": "Antonio Raimondo",
+      "club": "Frosinone (prestito Bologna)",
+      "role": "Punta centrale",
+      "born": 2004,
+      "status": "serie-a",
+      "queries": [
+        "Raimondo Frosinone",
+        "Antonio Raimondo"
       ]
     }
   ],

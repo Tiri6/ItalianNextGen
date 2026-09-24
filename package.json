@@ -17,7 +17,8 @@
     "coverage": "node pipeline/coverage.mjs",
     "review": "node review/server.mjs",
     "social": "node pipeline/social.mjs",
-    "perf": "node pipeline/performances.mjs"
+    "perf": "node pipeline/performances.mjs",
+    "ranking": "node pipeline/ranking.mjs"
   },
   "dependencies": {
     "@fontsource/inter": "^5.1.0",

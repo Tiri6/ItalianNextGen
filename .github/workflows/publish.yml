@@ -23,6 +23,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Pulizia fonti non ammesse (data/sources.json)
+        run: node pipeline/pulisci-fonti.mjs
+        continue-on-error: true
       - name: Pubblicazione bozze di qualità
         run: node pipeline/publish.mjs --max=${{ github.event.inputs.quanti || '10' }}
       - name: Scaglionamento orari (1 ogni 20 min, 9-21)
@@ -37,7 +40,7 @@ jobs:
         run: |
           git config user.name "ing-redazione"
           git config user.email "redazione@italiannextgen"
-          git add src/content/news pipeline/approved pipeline/candidates public/social || true
+          git add src/content/news pipeline/removed-sources pipeline/rejected pipeline/approved pipeline/candidates public/social || true
           git diff --cached --quiet || git commit -m "pubblicati nuovi articoli ($(date +%F))"
           # Push con riallineamento: se un altro workflow ha appena committato, riprova
           for i in 1 2 3; do

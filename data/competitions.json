@@ -335,12 +335,16 @@
       "matches": [
         {
           "date": "2025-09-05",
-          "stage": "Qualificazioni · Gruppo E",
-          "stageEn": "Qualifiers · Group E",
+          "stage": "Qualificazioni · Gruppo E · La Spezia",
+          "stageEn": "Qualifiers · Group E · La Spezia",
           "home": "Italia",
           "away": "Montenegro",
+<<<<<<< Updated upstream
           "result": "3-0",
           "_autoResult": true
+=======
+          "result": "2-1"
+>>>>>>> Stashed changes
         },
         {
           "date": "2025-10-10",
@@ -357,7 +361,7 @@
           "stageEn": "Qualifiers · Group E · Cremona",
           "home": "Italia",
           "away": "Armenia",
-          "result": ""
+          "result": "5-1"
         },
         {
           "date": "2026-10-01",

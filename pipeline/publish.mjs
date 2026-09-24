@@ -10,6 +10,7 @@
 import { readFile, writeFile, readdir, rename, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { sourceClass } from './sources.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES = path.join(ROOT, 'pipeline', 'candidates');
@@ -86,6 +87,10 @@ const eligible = queue
   .filter(({ c }) => {
     const d = c.draft;
     if (!d || !d.bodyIt || d.bodyIt.trim().length < 40) return false; // mai senza testo
+    // Regole fonti (data/sources.json): bloccate = mai; 'confirm' = niente voci di mercato in automatico
+    const cls = c.isDigest ? 'approved' : sourceClass(c.source);
+    if (cls === 'blocked') return false;
+    if (cls === 'confirm' && c.category === 'mercato') return false;
     return ALL || d._fromSource || c.isDigest;
   })
   // Ordina per ROTAZIONE (giocatori meno coperti nella settimana prima),

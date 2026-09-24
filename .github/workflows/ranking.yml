@@ -1,0 +1,34 @@
+# 🌍 AGGIORNA RANKING FIFA — automatico, una volta al mese.
+# Legge la classifica FIFA aggiornata e aggiorna il pannello nella pagina Nazionali.
+# Puoi lanciarlo anche a mano dal tab Actions dopo una nuova pubblicazione FIFA.
+name: 🌍 Aggiorna ranking FIFA
+
+on:
+  schedule:
+    - cron: '0 8 2 * *'   # il 2 di ogni mese alle 08:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  ranking:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Aggiorna il ranking FIFA
+        run: node pipeline/ranking.mjs
+      - name: Commit del ranking
+        run: |
+          git config user.name "ing-redazione"
+          git config user.email "redazione@italiannextgen"
+          git add data/ranking.json || true
+          git diff --cached --quiet || git commit -m "aggiornato ranking FIFA ($(date +%F))"
+          for i in 1 2 3; do
+            git push && break
+            git pull --rebase origin main
+            sleep 5
+          done

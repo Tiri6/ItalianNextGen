@@ -1,3 +1,4 @@
+import { isBlocked } from '../sources.mjs';
 // AGENTE VALIDATORE
 // Riceve gli item grezzi dagli scout e:
 //  1. scarta duplicati (stesso link o titolo quasi identico)
@@ -60,6 +61,8 @@ export function validate(items, players, seen) {
   for (const item of items) {
     const normTitle = normalizeTitle(item.title);
     if (!normTitle) continue;
+    // Fonte bloccata (data/sources.json): scartata alla raccolta
+    if (isBlocked(item.source)) continue;
     if (seen.has(item.link) || seen.has(normTitle)) continue;
     if (seenTitles.has(normTitle)) continue;
 

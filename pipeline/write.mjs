@@ -13,6 +13,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { writeDraft } from './agents/writer.mjs';
+import { isBlocked } from './sources.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES = path.join(ROOT, 'pipeline', 'candidates');
@@ -54,6 +55,8 @@ const queue = [];
 for (const f of files) {
   try { queue.push({ f, c: JSON.parse(await readFile(path.join(CANDIDATES, f), 'utf8')) }); } catch {}
 }
+// Mai scrivere bozze da fonti bloccate (data/sources.json)
+for (let i = queue.length - 1; i >= 0; i--) if (isBlocked(queue[i].c.source)) queue.splice(i, 1);
 queue.sort((a, b) => b.c.score - a.c.score);
 
 const pending = queue.filter((q) => !q.c.draft).length;

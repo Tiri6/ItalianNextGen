@@ -44,6 +44,9 @@ jobs:
         if: env.ANTHROPIC_API_KEY != ''
         run: node pipeline/digest.mjs
         continue-on-error: true
+      - name: Pulizia fonti non ammesse (data/sources.json)
+        run: node pipeline/pulisci-fonti.mjs
+        continue-on-error: true
       - name: Scaglionamento articoli rimasti senza orario
         run: node pipeline/scheduler.mjs
         continue-on-error: true
@@ -56,7 +59,7 @@ jobs:
         run: |
           git config user.name "ing-redazione"
           git config user.email "redazione@italiannextgen"
-          git add pipeline/candidates pipeline/state pipeline/rejected pipeline/digested data/competitions.json data/performances.json src/content/news public/social || true
+          git add pipeline/removed-sources pipeline/rejected pipeline/candidates pipeline/state pipeline/rejected pipeline/digested data/competitions.json data/performances.json src/content/news public/social || true
           git diff --cached --quiet || git commit -m "redazione: candidate e bozze del $(date +%F)"
           for i in 1 2 3; do
             git push && break
