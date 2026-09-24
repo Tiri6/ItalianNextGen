@@ -12,7 +12,7 @@ html: true
 
 <p>Scrivi qui il tuo editoriale. Con <code>html: true</code> puoi usare qualsiasi HTML:</p>
 
-<p><strong>grassetti</strong>, <em>corsivi</em>, <a href="https://tiri6.github.io">link</a>, elenchi:</p>
+<p><strong>grassetti</strong>, <em>corsivi</em>, <a href="https://italiannextgen.it">link</a>, elenchi:</p>
 
 <ul>
   <li>primo punto</li>
@@ -35,7 +35,7 @@ html: true
 
 <!-- ISTRUZIONI (cancella pure questo blocco):
 COME PUBBLICARE L'EDITORIALE, ANCHE DA CELLULARE:
-1. Vai su github.com/Tiri6/tiri6.github.io → cartella src/content/news
+1. Vai su github.com/Tiri6/ItalianNextGen → cartella src/content/news
 2. In alto a destra: "Add file" → "Create new file"
 3. Nome file: editoriale-2026-07-20.md (usa la data di oggi)
 4. Incolla questo template compilato (aggiorna title, date ecc.)

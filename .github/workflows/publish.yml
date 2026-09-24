@@ -1,5 +1,5 @@
 # PUBBLICA — il tuo bottone da cellulare.
-# Vai su github.com/Tiri6/tiri6.github.io/actions/workflows/publish.yml
+# Vai su github.com/Tiri6/ItalianNextGen/actions/workflows/publish.yml
 # → "Run workflow" → scegli quanti articoli → il sito si aggiorna da solo.
 # Pubblica SOLO bozze di qualità (scritte leggendo la fonte) e il Taccuino.
 name: 📣 Pubblica articoli
