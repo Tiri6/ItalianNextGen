@@ -2,6 +2,19 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-09-24",
+      "player": "Dominic Vavassori",
+      "club": "Palermo",
+      "opponent": "Padova",
+      "competition": "Serie B",
+      "result": "",
+      "goals": 2,
+      "note": "Autore di una doppietta decisiva che ha guidato la rimonta del Palermo",
+      "noteEn": "Scored a decisive brace that led Palermo's comeback",
+      "source": "L'Italiano - Quotidiano Nazionale Indipendente",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTFxTGNnbi1TN3YyZ2QtYnhwN2dZUmE0dWdJODVnUE9CcHdCUl9xMV9NSlFValpFQ0FJMkt4U3d1cEx0d2c1Z0YwSHEwVzI3Mkg1QWlzTTBIdm5WNWxhZnp0MWVVRUlBRW9rTjlzN0JCQTRFSzAzYmVxMGhfQWJ0b09Rdk9WaDYwS0JrUzBTRHhUNldXeXZMZkZmQ0lsdWJxNU56b0N0YlFpeWlZSVVYc2U3Q01GRzFqVjJJaFZWaTFET1pZSURXSjJtdlpOdw?oc=5"
+    },
+    {
       "date": "2026-09-19",
       "player": "Niccolò Fortini",
       "club": "Torino",
@@ -236,19 +249,6 @@
       "noteEn": "Brace in seven minutes in the Glasgow test: one from the spot and a header from a Chukwueze cross.",
       "source": "ANSA",
       "sourceUrl": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/milan-pari-al-primo-test-col-celtic-2-2-e-doppietta-camarda_6a40f7b3-acc6-4295-bb75-4af74bb9200e.html"
-    },
-    {
-      "date": "2026-07-24",
-      "player": "Francesco Pio Esposito",
-      "club": "Inter",
-      "opponent": "SV Aasen",
-      "competition": "",
-      "result": "",
-      "goals": 5,
-      "note": "Realizza cinque reti e dimostra il suo fiuto per il gol",
-      "noteEn": "Scores five goals and demonstrates his goal-scoring instinct",
-      "source": "Tuttosport",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQWpMcFRGX1hMREdWQk9LclQtTEozcVhHNzZfTTRGZlEzdkhBWmtDYk00ZjlBQUVINlhFWktVcnlsMk5KVUMyZjhrZ2xORFYyVk1uV2RhTEtaZ25mWTNPSGgzVnFaNHFOQVBwZ0VMRFpwUVc0SnNmemE1U0lSZXNzS3BuN19nUGxYaWMySmM1UnM3UEtXaXI5YS1WT25yWGF4RzVCQVZodnZoZjcxVnpCWERBNTc0UE9peUFoU1MzNDAyNTgzbzR4MXFoTENDWHktLXRrRG9LMXlIUTRCQVFmaEFPT0lXSkJRQXBTcWNvSG5sWjk4SHVWTlA3MXZNRTJI0gGAAkFVX3lxTE9BakxwVEZfWExER1ZCT0tyVC1MSjNxWEc3Nl9NNEZmUTN2SEFaa0NiTTRmOUFBRUg2WEVaS1VyeWwyTkpVQzJmOGtnbE5EVjJWTW5XZGFMS1pnbmZZM09IaDNWcVo0cU5BUHBnRUxEWnBRVzRKc2Z6YTVTSVJlc3NLcG43X2dQbFhpYzJKYzVSczdQS1dpcjlhLVZPbnJYYXhHNUJBVmh2dmhmNzFWekJYREE1NzRQT2l5QWhTUzM0MDI1ODNvNHgxcWhMQ0NYeS0tdGtEb0sxeUhRNEJBUWZoQU9PSVdKQlFBcFNxY29IbmxaOThIdVZOUDcxdk1FMkg?oc=5"
     }
   ]
 }

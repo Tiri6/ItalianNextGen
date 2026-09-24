@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Casadei verso il rientro: il Torino accelera il recupero",
+    "titleEn": "Casadei on the mend: Torino speeds up recovery",
+    "excerpt": "Il centrocampista granata lavora per tornare in campo dopo l'infortunio. I tempi di recupero si accorciano.",
+    "excerptEn": "The Torino midfielder is working to return after injury. Recovery timelines are shortening.",
+    "bodyIt": "Cesare Casadei segue un percorso positivo verso il recupero dall'infortunio che lo ha costretto ai box. Il calciatore granata sta accelerando i tempi di rientro, con la squadra ottimista sulla sua disponibilità nei prossimi impegni.\n\nIl centrocampista non è il solo a marciare verso il ritorno: anche Che Adams sta progredendo nel recupero, seguendo un programma differenziato che avanza secondo i piani stabiliti dallo staff medico del Torino.",
+    "bodyEn": "Cesare Casadei is making solid progress in his recovery from injury. The Torino midfielder is accelerating his return timeline, with the club confident about his availability for upcoming fixtures.\n\nCasadei is not alone in working back to fitness. Che Adams is also progressing through his rehabilitation, following an individualised programme that is advancing according to schedule set by Torino's medical staff.",
+    "_fromSource": true
+  }
 }
