@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Luongo protagonista con l'Under-19 in Croazia, occhi su Cereser",
+    "titleEn": "Luongo shines with Italy U-19 in Croatia, Cereser in focus",
+    "excerpt": "La giovane nazionale azzurra conferma ambizioni in terra croata. Protagonisti della spedizione anche i talenti seguiti da Italian Next Gen.",
+    "excerptEn": "Italy's young national team proves its credentials in Croatia. Promising prospects continue to make their mark in the Azzurri project.",
+    "bodyIt": "L'Under-19 italiana ha trovato in Luongo uno dei volti più rappresentativi della spedizione in Croazia. Il calciatore si è messo in luce nel corso della competizione, confermando le qualità tecniche già note agli addetti ai lavori e mantenendo viva l'attenzione del progetto azzurro.\n\nParallela all'ottima prova della stella della rosa è la trasferta di Cereser, altro profilo monitorato con interesse dalla federazione. Entrambi rappresentano il filone di continuità nei quali l'Italia ripone fiducia per i prossimi appuntamenti.",
+    "bodyEn": "Italy's Under-19 side found in Luongo one of the standout performers during their campaign in Croatia. The player delivered a solid display, reinforcing his technical credentials and maintaining his relevance within the Azzurri's development pathway.\n\nAlongside Luongo's strong showing, Cereser featured in the squad as another prospect being carefully tracked by the federation. Both players embody the talent pool that Italy is building for upcoming international challenges.",
+    "_fromSource": true
+  }
 }
