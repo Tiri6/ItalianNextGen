@@ -1,5 +1,5 @@
 ---
-title: "Ripartire da Mancini: l'Italia minore non ha più margine d'errore"
+title: "Ripartire da Mancini: l'Italia non ha più margine d'errore"
 titleEn: "Back to Mancini: a minor Italy has no room left for mistakes"
 excerpt: "Dopo l'estate turbolenta e il naufragio della pista Maldini-Leonardo-Guardiola, Malagò richiama Mancini. Le nuove convocazioni promettono, ma senza un progetto vero rischiamo di ripeterci."
 excerptEn: "After a turbulent summer and the collapsed Maldini-Leonardo-Guardiola pursuit, Malagò turns back to Mancini. The new call-ups are promising, but without a real project we risk repeating ourselves."
