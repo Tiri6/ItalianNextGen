@@ -63,6 +63,10 @@ jobs:
           git diff --cached --quiet || git commit -m "redazione: candidate e bozze del $(date +%F)"
           for i in 1 2 3; do
             git push && break
+            if [ "$i" = "3" ]; then
+              echo "::error::push fallito dopo 3 tentativi (probabile conflitto con un altro workflow che ha scritto su main nello stesso momento)"
+              exit 1
+          fi
             git pull --rebase origin main
             sleep 5
           done
