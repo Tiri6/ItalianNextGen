@@ -2,23 +2,55 @@
   "_note": "Ranking FIFA maschile. Aggiornare 'updated'/'updatedLabel' e i numeri ad ogni nuova pubblicazione FIFA (di norma dopo le finestre internazionali). Fonte ufficiale: fifa.com/fifa-world-ranking.",
   "source": "Ranking FIFA",
   "sourceUrl": "https://inside.fifa.com/fifa-world-ranking/men",
-  "updated": "2026-07",
-  "updatedLabel": "luglio 2026",
-  "updatedLabelEn": "July 2026",
+  "updated": "2026-09",
+  "updatedLabel": "settembre 2026",
+  "updatedLabelEn": "September 2026",
   "italy": {
     "rank": 15,
     "points": 1704.73,
-    "trend": -3,
-    "note": "Scesa di 3 posizioni dopo l'assenza al Mondiale 2026.",
-    "noteEn": "Down three places after missing the 2026 World Cup."
+    "trend": 0,
+    "note": "Posizione invariata nell’ultimo aggiornamento.",
+    "noteEn": "Unchanged in the latest update."
   },
   "top": [
-    { "rank": 1, "team": "Spagna", "teamEn": "Spain", "points": 1995.88 },
-    { "rank": 2, "team": "Argentina", "teamEn": "Argentina", "points": 1970.37 }
+    {
+      "rank": 1,
+      "team": "Spagna",
+      "teamEn": "Spain",
+      "points": 1995.98
+    },
+    {
+      "rank": 2,
+      "team": "Argentina",
+      "teamEn": "Argentina",
+      "points": 1970.37
+    }
   ],
   "around": [
-    { "rank": 13, "team": "Croazia", "teamEn": "Croatia", "points": 1723.05 },
-    { "rank": 14, "team": "Svizzera", "teamEn": "Switzerland", "points": 1710.88 },
-    { "rank": 15, "team": "Italia", "teamEn": "Italy", "points": 1704.73, "italy": true }
+    {
+      "rank": 13,
+      "team": "Croazia",
+      "teamEn": "Croatia",
+      "points": 1723.05
+    },
+    {
+      "rank": 14,
+      "team": "Svizzera",
+      "teamEn": "Switzerland",
+      "points": 1710.88
+    },
+    {
+      "rank": 15,
+      "team": "Italia",
+      "teamEn": "Italy",
+      "points": 1704.73,
+      "italy": true
+    },
+    {
+      "rank": 16,
+      "team": "Stati Uniti",
+      "teamEn": "United States",
+      "points": 1690.33
+    }
   ]
 }
