@@ -59,7 +59,15 @@ jobs:
         run: |
           git config user.name "ing-redazione"
           git config user.email "redazione@italiannextgen"
-          git add pipeline/removed-sources pipeline/rejected pipeline/candidates pipeline/state pipeline/rejected pipeline/digested data/competitions.json data/performances.json src/content/news public/social || true
+          git add pipeline/removed-sources || true
+          git add pipeline/rejected || true
+          git add pipeline/candidates || true
+          git add pipeline/state || true
+          git add pipeline/digested || true
+          git add data/competitions.json || true
+          git add data/performances.json || true
+          git add src/content/news || true
+          git add public/social || true
           git diff --cached --quiet || git commit -m "redazione: candidate e bozze del $(date +%F)"
           for i in 1 2 3; do
             git push && break
