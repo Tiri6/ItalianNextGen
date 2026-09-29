@@ -14,5 +14,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Da Catanzaro alla Serie A: il percorso dei giovani talenti italiani",
+    "titleEn": "From Catanzaro to Serie A: The Journey of Italy's Young Talents",
+    "excerpt": "La storia di Liberali, Cissè e Favasuli rappresenta il cammino di tanti prospetti azzurri che muovono i primi passi nel calcio professionistico italiano.",
+    "excerptEn": "The stories of Liberali, Cissè and Favasuli exemplify the journey of Italian prospects taking their first steps in professional football.",
+    "bodyIt": "Il passaggio dalla Calabria al grande palcoscenico della massima serie costituisce un banco di prova fondamentale per i giovani calciatori italiani. I nomi di Mattia Liberali, Alphadjo Cissè e Costantino Favasuli incrociano il percorso già tracciato da Chi come Aquilani, dimostrando come Catanzaro continui a rappresentare una tappa importante nella formazione di talenti che aspirano a affermarsi in Serie A.\n\nLa sfida non risolta nella città calabrese diviene spesso il trampolino verso opportunità più ambiziose. Questi profili incarnano la voglia di riscatto e di crescita che caratterizza il calcio giovanile italiano, dove la perseveranza e la qualità tecnica devono trovare il giusto equilibrio per emergere in un contesto sempre più competitivo.",
+    "bodyEn": "The transition from Calabria to Italy's top flight represents a crucial testing ground for young footballers. The trajectories of Mattia Liberali, Alphadjo Cissè, and Costantino Favasuli intersect with a path previously established by figures like Aquilani, confirming that Catanzaro remains an important stepping stone for talents aspiring to break through in Serie A.\n\nAn unfinished challenge in the Calabrian club often becomes a springboard toward greater opportunities. These profiles embody the hunger for redemption and development that characterizes Italian youth football, where technical quality and determination must find the right balance to emerge in an increasingly competitive environment.",
+    "_fromSource": true
+  }
 }

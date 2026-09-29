@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Kofler, il difensore che protegge anche la sua privacy",
+    "titleEn": "Kofler, the defender who guards his privacy too",
+    "excerpt": "Raphael Kofler continua a costruire la sua carriera nel calcio italiano mantenendo una riservatezza totale sulla vita personale.",
+    "excerptEn": "Raphael Kofler continues building his career in Italian football while maintaining complete discretion about his personal life.",
+    "bodyIt": "Raphael Kofler rappresenta un profilo sempre più raro nel panorama del calcio moderno: un giovane difensore che sceglie di restare lontano dai riflettori al di fuori del rettangolo verde. Mentre molti colleghi costruiscono la propria visibilità attraverso i social e le vicende extra-calcistiche, il centrale mantiene un'assoluta discrezione su ogni aspetto della propria quotidianità.\n\nUna scelta consapevole che contrasta con le abitudini contemporanee, dove la sfera privata degli atleti è sempre più esposta. Per Kofler, l'attenzione rimane focalizzata esclusivamente sulle prestazioni sportive e sulla crescita difensiva, senza distrazioni esterne. Un approccio che, al di là delle preferenze personali, rappresenta anche una strada meno battuta ma comunque valida nel progetto di affermazione calcistica.",
+    "bodyEn": "Raphael Kofler embodies an increasingly rare profile in modern football: a young defender who chooses to remain off the spotlight outside the pitch. While many of his peers build visibility through social media and their off-field activities, the centre-back maintains absolute discretion about every aspect of his personal life.\n\nA deliberate choice that stands apart from contemporary habits, where athletes' private spheres are increasingly exposed. For Kofler, attention stays focused exclusively on sporting performance and defensive development, without external distractions. An approach that, beyond personal preference, also represents a less common but nonetheless valid path within his football development project.",
+    "_fromSource": true
+  }
 }

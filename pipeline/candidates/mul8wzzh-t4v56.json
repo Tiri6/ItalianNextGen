@@ -13,5 +13,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Martinelli e Nunziante: i portieri della nuova generazione azzurra in prima linea",
+    "titleEn": "Martinelli and Nunziante: Italy's next generation goalkeepers step into the spotlight",
+    "excerpt": "Due giovani estremi difensori trovano spazio da titolari in Serie B, consolidando il loro percorso di crescita nel calcio italiano.",
+    "excerptEn": "Two young goalkeepers earn starting roles in Serie B, establishing themselves as emerging talents in Italian football.",
+    "bodyIt": "Tommaso Martinelli e Alessandro Nunziante si confermano tra i profili più interessanti del panorama calcistico italiano grazie alla loro schieramento da protagonisti in cadetteria. La titolarità in Serie B rappresenta un traguardo significativo nel loro sviluppo tecnico e psicologico, fase decisiva per consolidare le competenze alla base di qualsiasi portiere moderno.\n\nI due estremi difensori dimostrano come il calcio giovanile tricolore continui a produrre talenti in grado di confrontarsi con i ritmi della professione. Martinelli e Nunziante si trovano ora di fronte alla sfida di mantenere continuità negli impegni di stagione regolare, passaggio fondamentale per chi ambisce a emergere nel calcio che conta.",
+    "bodyEn": "Tommaso Martinelli and Alessandro Nunziante are reinforcing their standing among Italy's brightest young talents through their deployment as Serie B starters. Playing regularly in the second tier marks a crucial milestone in their technical and mental development, a phase essential for building the core competencies expected of any modern goalkeeper.\n\nBoth shot-stoppers exemplify how Italian youth football continues to produce prospects capable of competing at professional tempo. Martinelli and Nunziante now face the challenge of maintaining consistency across a full season in the second division—a necessary step for anyone seeking to break through at the highest level.",
+    "_fromSource": true
+  }
 }
