@@ -2,6 +2,18 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-01",
+      "player": "Leonardo Colombo",
+      "club": "Parma",
+      "opponent": "Turchia",
+      "competition": "Italia Under 17",
+      "result": "3-3",
+      "note": "Titolare, scelta del commissario tecnico, prova incoraggiante nel suo percorso di sviluppo.",
+      "noteEn": "Starter, chosen by the technical commissioner, encouraging performance in his development path.",
+      "source": "Parma Live",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlZlMFZsY0szLU5GTXZVeGp4aDBJWDJTNDBoUDZsbzdvSm5ZYjhFTUplaGY0eWRhM0cyR000QmQxTHZiRkFkV2ZTemw4UFFXTGRlcEg1WlNNTGVQNG5SemlWWTc0RGpjU2psNUxPYS1VYWI3MDNVMVB5c29KeGVOYzJHbjVKbVl4cTJoVFFQa21fTVcxV1l1Ty1OUmQteXFTUHl1QnkyZEJDWTZEZXpDUG53ZzMtS2wtSXhPRjVmTl9wUnM1?oc=5"
+    },
+    {
       "date": "2026-09-27",
       "player": "Issa Doumbia",
       "club": "",
@@ -235,18 +247,6 @@
       "noteEn": "scored a goal that left a mark in memory",
       "source": "FiorentinaNews.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQVJ6RmxMQ0Fxci0yZWxDRmJzcHpFdm10ajZYcjIwUUVxRTgxMlJieW5VaXl2QV9veXJCWVFkY2tpcGduWUxOaGs3LUJnbGE5ZlUtbUVkWW9zTzlnZkR1Tndvb3c1cVRHbW5VbUszNFNvLURNeUZ6TXVGWXFtUnh0SDVsRUk5bGFfeDJUNHNDRFFJOUpwVHhkZmhjWU5Jb0V1VzNvWGdoS19waUlURU1mbGdHOHdfcFpkamZadVgzTVdsWEZSSGdwNFdBY0pocHlxTEFfUVliYkJDNGZxV3NTSzRUa0NqTzJmS1JhcjFZMEM0dGk4SHpTNWo0Wlg0TFl3?oc=5"
-    },
-    {
-      "date": "2026-07-27",
-      "player": "Mattia Mosconi",
-      "club": "Inter",
-      "opponent": "Aasen",
-      "competition": "",
-      "result": "16-0",
-      "note": "A referto nel roboante successo con prestazione caratterizzata da qualità del vivaio interista",
-      "noteEn": "A referto nel roboante successo con prestazione caratterizzata da qualità del vivaio interista",
-      "source": "La Casa di C",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVlqUXdWOTdFbm00ZXFYY0l6V2pRczFpaFB3MXBPWTlHYmFXTENnR3hXRDM1NjJYeW5PWTlYMTh2S1N0bjlmemV1V1JWMG9zU21wMGhqS2VJTHFuRGVMcVF3UE5IZGlFWGZ2SDNfUExiV1dIVWtNclB4T1NoenlNTHRNU20zY2NCRnVtVW9EMl91Y2lhcVJV?oc=5"
     }
   ]
 }
