@@ -2,9 +2,9 @@
   "_note": "Ranking FIFA maschile. Aggiornare 'updated'/'updatedLabel' e i numeri ad ogni nuova pubblicazione FIFA (di norma dopo le finestre internazionali). Fonte ufficiale: fifa.com/fifa-world-ranking.",
   "source": "Ranking FIFA",
   "sourceUrl": "https://inside.fifa.com/fifa-world-ranking/men",
-  "updated": "2026-09",
-  "updatedLabel": "settembre 2026",
-  "updatedLabelEn": "September 2026",
+  "updated": "2026-10",
+  "updatedLabel": "ottobre 2026",
+  "updatedLabelEn": "October 2026",
   "italy": {
     "rank": 15,
     "points": 1704.73,
