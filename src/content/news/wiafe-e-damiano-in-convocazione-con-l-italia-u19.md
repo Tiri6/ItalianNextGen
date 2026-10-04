@@ -1,0 +1,23 @@
+---
+title: "Wiafe e Damiano in convocazione con l'Italia U19"
+titleEn: "Wiafe and Damiano called up by Italy U19"
+excerpt: "Due talenti del Genoa trovano spazio nella selezione azzurra Under 19. Un riconoscimento per il percorso dei giovani rossoblu."
+excerptEn: "Two Genoa prospects earn call-ups to the Italian Under 19 squad. Recognition for the development path of the young Rossoblu talents."
+date: 2026-10-04
+publishedAt: 2026-10-04T14:40:00+02:00
+category: news
+players: ["Samuel Wiafe", "Vincenzo Damiano"]
+competitions: ["euro-u19-2026"]
+source: "Buon Calcio a Tutti"
+sourceUrl: "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkt3TUVfLXBzZnpQeV8yT2xuQTQ5N3pZR1FLTXJGNVMzYmFia0cyM1RXQ0d4S0RLWjNKRUd1VThWWm1xZnptNjhLSk9FNUd0QnQ5VHU4aTRrUGVyTjhkbWk3bDNzMTN2a2lPTDRGeEw4TXkwSGNhbWNxR0FSWnJwZ0IxOTlDV1lVbUpGUWlDX01Tc0NfTGY2c1RlZDBLdVdialHSAacBQVVfeXFMT0E3TTZmaUZlSUxxU1RyTzlCTEFCV0x2MTFxS0J5RjlYWWFrNmJCbmRDN2xIT1hfUFVqSkx4dWRqc1BrZU5uVmdPSERjTFVNLW1mU0lfb3ZWY1Y1RFJnanVqOHJVWnE3aTljdDZoeGJHNVBRTjd6RWZ0SHh5RXRqbndnVzQ5NFVzRlBTUTVwS1B1VF9IYkFWekg2UXltcVBxYVNOcmJWcWc?oc=5"
+---
+
+Samuel Wiafe e Vincenzo Damiano hanno ricevuto la convocazione per la Nazionale italiana Under 19. I due calciatori del Genoa entrano così nel radar della federazione, confermando il lavoro svolto nel settore giovanile rossoblù.
+
+Per entrambi si tratta di un'opportunità di visibilità a livello internazionale, in una fase cruciale della loro formazione calcistica.
+
+<!--EN-->
+
+Samuel Wiafe and Vincenzo Damiano have been called up to the Italian Under 19 national team. The two Genoa players are now on the radar of the federation, validating the work carried out in the club's youth academy.
+
+For both, this represents an opportunity for visibility at international level during a crucial phase of their football development.

@@ -1,0 +1,23 @@
+---
+title: "I tempi diversi di Romano e Pisilli: due strade verso l'azzurro"
+titleEn: "Romano and Pisilli on different paths: two ways toward Italy"
+excerpt: "Mentre un giovane talento della Roma accelera verso i palcoscenici maggiori, un suo compagno procede con i tempi della Nazionale under 21. Due traiettorie che disegnano il paradosso della transizione generazionale italiana."
+excerptEn: "While one Roma prospect accelerates toward senior football, a teammate advances through the U21 pathway. Two different trajectories that reveal Italy's generational transition paradox."
+date: 2026-10-04
+publishedAt: 2026-10-04T12:40:00+02:00
+category: news
+players: ["Niccolò Pisilli", "Diego Sia", "Alessandro Romano"]
+competitions: ["euro-u21-2027"]
+source: "Siamo la Roma"
+sourceUrl: "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFpvN051TllVMWJQVXF3eExzN3c1Y21XMVZINGg2ZzNPUm1jZ1hhQkY3TjZuTEFXNUNPWlZjZDNOQnYxb3JHOXQ2dzlaVjc0WFZ6SDRDTWRTOXdGZFFqaFp5eUNyUWtjNnc5WkpfWjlQYnA3Z003cFliUmhxdmd0OEhmcnk5azBFOGx3X1I4UkluOTl4NGw1TUpyYjRsNGhNbHZaRGcwRzA?oc=5"
+---
+
+Il calcio italiano conosce pochi schemi lineari. La Roma è teatro di uno di questi contrasti: Alessandro Romano prosegue la sua scalata con rapidità, bruciando tappe nel percorso verso le responsabilità calcistiche più importanti. Parallelamente, Niccolò Pisilli naviga le acque della Nazionale Under 21, dove il tempo sembra scandito da logiche diverse—più caute, più graduali.
+
+Diego Sia e gli altri prospetti giallorossi si muovono in questo spazio intermedio dove convivono accelerazioni e pause. Non è una questione di qualità: piuttosto il riflesso di come il sistema nazionale decida di gestire l'ascesa dei propri giovani. Alcuni brillano e bruciano i tempi, altri accumulano esperienza nei ranghi Under, costruendo le fondamenta del loro calcio con pazienza. Il calcio italiano naviga tra questi due modelli, cercando di trasformare entrambi in risorse.
+
+<!--EN-->
+
+Italian football rarely follows linear paths. AS Roma exemplifies this contrast: Alessandro Romano progresses swiftly, skipping stages in his rise toward senior football's main stage. At the same time, Niccolò Pisilli moves through the U21 National Team, where timing follows different logic—more measured, more methodical.
+
+Diego Sia and other Roma prospects operate within this intermediate space where acceleration and patience coexist. It's not a matter of quality: rather, it reflects how the national system manages the ascent of its young talents. Some shine and advance rapidly, others accumulate experience in U21 ranks, building their football foundations patiently. Italian football navigates between these two models, attempting to convert both into assets.
