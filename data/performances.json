@@ -2,6 +2,42 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-04",
+      "player": "Luigi Cherubini",
+      "club": "Benevento",
+      "opponent": "Empoli Primavera",
+      "competition": "Italia Under 21",
+      "result": "",
+      "note": "Sceso in campo da titolare, dimostrando fiducia nelle sue qualità tecniche e nella capacità di interpretare il gioco in mezzo al campo.",
+      "noteEn": "Started as a starter, demonstrating confidence in his technical qualities and ability to interpret the game in midfield.",
+      "source": "Calcio Benevento",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXZKRzZtdUpCa0pKOVJtUkZEMll3T2VCVDB5aUx1SWVXemhzUWtzVk82c2dTUS05T2dUVkpaS0FaN3VLeVljUllXVFJDM1VtOHpZY29CRVZicUdlMThuQ0xJLWtsaUdrbl82d3p1VTZfX1dIMURld3Q1ZWRzUDkyNnR1cEQ1NndlODluYkhmYkxxeHFEUEpsb3JxZFlHMHl0V0xzX1FZYURfOG9WRllSTUdWQjJXY2RjUnVYeHM5MlFNeWs2?oc=5"
+    },
+    {
+      "date": "2026-10-04",
+      "player": "Giacomo Faticanti",
+      "club": "Avellino",
+      "opponent": "Spezia",
+      "competition": "Under 21",
+      "result": "10-0",
+      "note": "Si è messo in luce personalmente nella goleada, confermando i progressi individuali",
+      "noteEn": "Stood out personally in the goal fest, confirming individual progress",
+      "source": "Tutto Avellino",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbldPcFlMSFQ4N1o5QzJkRmZIMDZtano1Nm5BXzlYOXVYbnRQMFBSMmFXelV1SDN1c0VwdnVSajVWc1k2b1Zqd191V2NmN2pKS3FGbTV0eFBqU0VRS3ZvS2lMcl9CQXZOU3l3UTdibW8xejU2dm5mY0ZOc3I0THZaN0V6Y2RaTGl4ZlVXX2hCWmV5NHpCSXZrQV9YYk82QQ?oc=5"
+    },
+    {
+      "date": "2026-10-04",
+      "player": "Brando Moruzzi",
+      "club": "Avellino",
+      "opponent": "Spezia",
+      "competition": "Under 21",
+      "result": "10-0",
+      "note": "Si è messo in luce personalmente nella goleada, confermando i progressi individuali",
+      "noteEn": "Stood out personally in the goal fest, confirming individual progress",
+      "source": "Tutto Avellino",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbldPcFlMSFQ4N1o5QzJkRmZIMDZtano1Nm5BXzlYOXVYbnRQMFBSMmFXelV1SDN1c0VwdnVSajVWc1k2b1Zqd191V2NmN2pKS3FGbTV0eFBqU0VRS3ZvS2lMcl9CQXZOU3l3UTdibW8xejU2dm5mY0ZOc3I0THZaN0V6Y2RaTGl4ZlVXX2hCWmV5NHpCSXZrQV9YYk82QQ?oc=5"
+    },
+    {
       "date": "2026-10-01",
       "player": "Leonardo Colombo",
       "club": "Parma",
@@ -209,44 +245,6 @@
       "noteEn": "Opens the scoring after 7' from a Nmecha pass: an angled finish that sparks the trophy-winning win.",
       "source": "beIN Sports",
       "sourceUrl": "https://www.beinsports.com/en-us/soccer/articles/an-unexpected-youth-display-shakes-arsenal-at-the-emirates-stadium-2026-08-09"
-    },
-    {
-      "date": "2026-07-29",
-      "player": "Mattia Marello",
-      "club": "Inter",
-      "opponent": "Karlsruher",
-      "competition": "Primavera",
-      "result": "",
-      "note": "Si è dimostrato uno degli elementi di spicco, contribuendo attivamente alla vittoria della squadra",
-      "noteEn": "Proved to be one of the standout players, actively contributing to the team's victory",
-      "source": "MondoPrimavera",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWVFcUNacVQ1VDBGNGFsSkkxU1NEWk9GZ1Rod3djaDl6eGlFNXR1NWxPSXM0V3dkTEhQOUk2WFFQYzZoMTYtQTlaeVF1cFBJRzJrdUMtVXBxYlp6bXkwWnE1cldJdlBQcmptZWVleWpqb2ZsYjhkMTctWEZNcGE1cFVKeTZvUnNkTzVCU2lqeUhwRExTcmFiQ2JVMWxDQQ?oc=5"
-    },
-    {
-      "date": "2026-07-29",
-      "player": "Mattia Liberali",
-      "club": "Como",
-      "opponent": "Villarreal",
-      "competition": "Como Cup (amichevole)",
-      "result": "1-1 (ko ai rigori)",
-      "goals": 1,
-      "note": "Gran gol di sinistro a giro all'incrocio: prestazione da applausi, con Fabregas che pensa a un nuovo ruolo per lui.",
-      "noteEn": "Superb curling left-footed goal into the top corner: a standout display, with Fabregas pondering a new role for him.",
-      "source": "SportMediaset",
-      "sourceUrl": "https://www.sportmediaset.mediaset.it/calcio/como-cup-lariani-sconfitti-ai-rigori-contro-il-villareal-in-gol-liberali_114955493-202602k.shtml"
-    },
-    {
-      "date": "2026-07-28",
-      "player": "Cher Ndour",
-      "club": "Fiorentina",
-      "opponent": "Juventus",
-      "competition": "",
-      "result": "",
-      "goals": 1,
-      "note": "ha segnato un gol che ha lasciato il segno nella memoria",
-      "noteEn": "scored a goal that left a mark in memory",
-      "source": "FiorentinaNews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQVJ6RmxMQ0Fxci0yZWxDRmJzcHpFdm10ajZYcjIwUUVxRTgxMlJieW5VaXl2QV9veXJCWVFkY2tpcGduWUxOaGs3LUJnbGE5ZlUtbUVkWW9zTzlnZkR1Tndvb3c1cVRHbW5VbUszNFNvLURNeUZ6TXVGWXFtUnh0SDVsRUk5bGFfeDJUNHNDRFFJOUpwVHhkZmhjWU5Jb0V1VzNvWGdoS19waUlURU1mbGdHOHdfcFpkamZadVgzTVdsWEZSSGdwNFdBY0pocHlxTEFfUVliYkJDNGZxV3NTSzRUa0NqTzJmS1JhcjFZMEM0dGk4SHpTNWo0Wlg0TFl3?oc=5"
     }
   ]
 }

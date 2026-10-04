@@ -17,5 +17,14 @@
   ],
   "category": "news",
   "score": 15,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Mancini punta sui giovani: da Kayode a Pio Esposito, la nuova generazione azzurra",
+    "titleEn": "Mancini sets sights on youth: from Kayode to Pio Esposito, Italy's next wave",
+    "excerpt": "Il commissario tecnico della nazionale ripone fiducia nei talenti emergenti del calcio italiano. Tra i nomi seguiti con attenzione figurano difensori, centrocampisti e attaccanti dalle prospettive interessanti.",
+    "excerptEn": "Italy's head coach places his trust in emerging talent from domestic football. Among the closely watched names are defenders, midfielders and forwards with intriguing potential.",
+    "bodyIt": "Luciano Mancini continua a scandagliare le risorse del calcio italiano in cerca di profili da inserire nel suo progetto. L'attenzione ricade su elementi provenienti da diversi ruoli e contesti: dalla difesa con Michael Kayode e Antonio Vergara, fino al centrocampo dove Issa Doumbia rappresenta una soluzione interessante, passando per l'attacco con Francesco Pio Esposito e il fratello Sebastiano.\n\nLa ricerca del commissario tecnico rispecchia una strategia mirata a individuare soluzioni sia immediate che per il medio termine. Ciascuno dei profili monitorati possiede caratteristiche specifiche che potrebbero risultare utili al progetto della nazionale. Tra loro figura anche Alessandro Romano, altro nome inserito nel novero dei giovani seguiti con interesse.",
+    "bodyEn": "Luciano Mancini continues to scout Italian football in search of profiles to integrate into his project. His attention spans multiple positions and contexts: in defense with Michael Kayode and Antonio Vergara, midfield where Issa Doumbia represents an interesting option, and attack with Francesco Pio Esposito and his brother Sebastiano.\n\nThe head coach's research reflects a strategy aimed at identifying both immediate solutions and medium-term prospects. Each of the monitored profiles possesses specific characteristics that could prove valuable to the national team's project. Among them is also Alessandro Romano, another name included in the roster of young players under close watch.",
+    "_fromSource": true
+  }
 }

@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 5,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Azzurri a Casteldebole, lunedì sfida con la Turchia",
+    "titleEn": "Italy trains at Casteldebole, Turkey clash on Monday",
+    "excerpt": "La nazionale si ritrova al centro sportivo bolognese per preparare l'impegno internazionale di inizio settimana. Pessina tra i convocati.",
+    "excerptEn": "The national team gathers at Bologna's training ground to prepare for the international match. Pessina among the squad.",
+    "bodyIt": "La nazionale italiana ha iniziato la sua fase di preparazione presso il centro sportivo di Casteldebole. Gli azzurri lavorano oggi e domani in vista dell'impegno di lunedì contro la Turchia, sfida che rappresenta un'importante tappa nella stagione internazionale.\n\nTra i convocati figura Massimo Pessina, che continua a essere una risorsa nel progetto della selezione tricolore. Il raduno bolognese costituisce l'occasione per affinare i meccanismi di squadra in vista del match.",
+    "bodyEn": "The Italian national team has begun its preparation phase at Casteldebole training ground. The Azzurri will work today and tomorrow ahead of Monday's fixture against Turkey, a match representing an important step in the international calendar.\n\nMassimo Pessina is among the called-up players, continuing to be a valued resource in the national team's plans. The Bologna gathering offers the opportunity to fine-tune tactical patterns before the game.",
+    "_fromSource": true
+  }
 }

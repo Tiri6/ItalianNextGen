@@ -14,5 +14,14 @@
   ],
   "category": "news",
   "score": 5,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Under 19, Steffanoni e Pedretti dominano in Croazia: tre vittorie e il primo posto",
+    "titleEn": "Under 19, Steffanoni and Pedretti dominate in Croatia: three wins and top spot",
+    "excerpt": "L'Italia Under 19 conclude il torneo in Croazia con un percorso netto: tre successi consecutivi e la prima posizione nella classifica finale.",
+    "excerptEn": "Italy Under 19 completes the tournament in Croatia with a clean slate: three consecutive wins and first place in the final standings.",
+    "bodyIt": "L'Italia Under 19 ha completato il proprio impegno in Croazia con un bilancio da squadra dominante. Tre vittorie consecutive hanno permesso ai giovani azzurri di terminare il torneo al comando, confermando una prestazione solida su tutta la linea. Federico Steffanoni e Nicolò Pedretti sono stati tra i protagonisti di questa spedizione, lasciando buone impressioni durante la competizione.\n\nLa conquista del primo posto rappresenta un segnale positivo in vista dei prossimi impegni della selezione. Il percorso netto senza sconfitte testimonia la qualità del lavoro svolto dal gruppo, che ha saputo esprimere calcio propositivo e risultati concreti.",
+    "bodyEn": "Italy Under 19 completed its campaign in Croatia with the performance of a dominant squad. Three consecutive victories allowed the young Azzurri to finish the tournament at the top, confirming solid performances across the board. Federico Steffanoni and Nicolò Pedretti were among the protagonists of this expedition, leaving positive impressions during the competition.\n\nThe achievement of first place represents a positive signal for the team's upcoming commitments. The unbeaten run without defeats demonstrates the quality of the group's work, which managed to display attacking football and concrete results.",
+    "_fromSource": true
+  }
 }
