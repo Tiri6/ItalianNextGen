@@ -374,7 +374,8 @@
           "stageEn": "Qualifiers · Group E · final matchday",
           "home": "Italia",
           "away": "Polonia",
-          "result": ""
+          "result": "1-0",
+          "_autoResult": true
         }
       ],
       "events": [
