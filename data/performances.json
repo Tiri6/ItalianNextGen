@@ -2,6 +2,31 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-06",
+      "player": "Mattia Mosconi",
+      "club": "Primavera nerazzurra",
+      "opponent": "Francia",
+      "competition": "Italia U20",
+      "result": "3-0",
+      "goals": 1,
+      "note": "Ha segnato una marcatura nella vittoria azzurrina, contribuendo al successo della squadra.",
+      "noteEn": "Scored a goal in the Italian team's victory, contributing to the team's success.",
+      "source": "Tutto C",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0s5WC11MkxKM1U5UjhRdUVVcEdDeDJMMXIwMFZacHlaR25faS1PTDZZUGZ1bWw5dU9hRWtrSkd0SlVYY3plY0RNRTFHbEh3ZHl2ZFdseEhXYmVVNExvbG5NTmoyaXIzQUNRU0hXdHFEZ2I0LU56MDd5Y3Y5aGN5NmFpT2hEZlljX19lZWVibmx0OXJ2elNj?oc=5"
+    },
+    {
+      "date": "2026-10-06",
+      "player": "Simone Pafundi",
+      "club": "Catanzaro",
+      "opponent": "Germania",
+      "competition": "Italia under 20",
+      "result": "",
+      "note": "Schierato dal primo minuto in una gara amichevole di prestigio internazionale.",
+      "noteEn": "Started from the first minute in a prestigious friendly international match.",
+      "source": "calciocatanzaro.it",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0NVOGZVUmJrT2RiMGJVM0pLekNkd1o2YzdLbjlsbVdfYnpBTG9JYjV4aXFJNmtVV0N5eDI2WE80ejNmUndoaWd6amRsQXRqX3h0LXR2c21RcTZFQU45OTlQOFRLeG9YdUlobnhLYnJ1VnpoQmRobkkzOGFVaW1wc0VKdGRVazZRVzFxalFRdUplbEpya2N1Qk13MkdWT29wZjNMajQ4bUN5aGVyNndQYzFpM1ZwVG1WWGc?oc=5"
+    },
+    {
       "date": "2026-10-04",
       "player": "Luigi Cherubini",
       "club": "Benevento",
@@ -220,31 +245,6 @@
       "noteEn": "Confirmed ability to manage the pace of the match with lucidity and personality.",
       "source": "Calcio Genoa",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGZjNXQ1ekdETUdpUy01eUFUaHdWYk1aX2lzZnRJYk03V1lyWFJmalpDSkw2TnFuTF9KNnNnNEQ4clh5Wkh6VG83S3pZZFN5MkItWVBNTFN0TGtaT0ZuUDlIczNkdlpxTTVkSXJZcjB3MHJmcTZpdUhZT3AtQWM2b2lLQ0NwMHdQamVKMEl3Y2g1R1FqTWFSYXduTFJoYnRJcjFHY1dkZTktYkgtOWhTNWlaS21TUQ?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "player": "Samuel Wiafe",
-      "club": "",
-      "opponent": "Marassi",
-      "competition": "",
-      "result": "",
-      "note": "Ha dimostrato che l'arrivo di nuovi elementi non comporta una fase di rodaggio estenuante, con contributo tangibile.",
-      "noteEn": "Demonstrated that the arrival of new elements does not necessarily entail an exhausting settling-in phase, with tangible contribution.",
-      "source": "Calcio Genoa",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGZjNXQ1ekdETUdpUy01eUFUaHdWYk1aX2lzZnRJYk03V1lyWFJmalpDSkw2TnFuTF9KNnNnNEQ4clh5Wkh6VG83S3pZZFN5MkItWVBNTFN0TGtaT0ZuUDlIczNkdlpxTTVkSXJZcjB3MHJmcTZpdUhZT3AtQWM2b2lLQ0NwMHdQamVKMEl3Y2g1R1FqTWFSYXduTFJoYnRJcjFHY1dkZTktYkgtOWhTNWlaS21TUQ?oc=5"
-    },
-    {
-      "date": "2026-08-09",
-      "player": "Samuele Inacio",
-      "club": "Borussia Dortmund",
-      "opponent": "Arsenal",
-      "competition": "Emirates Cup (amichevole)",
-      "result": "3-2",
-      "goals": 1,
-      "note": "Apre le marcature dopo 7' su assist di Nmecha: gol da posizione angolata che avvia il successo che vale il trofeo.",
-      "noteEn": "Opens the scoring after 7' from a Nmecha pass: an angled finish that sparks the trophy-winning win.",
-      "source": "beIN Sports",
-      "sourceUrl": "https://www.beinsports.com/en-us/soccer/articles/an-unexpected-youth-display-shakes-arsenal-at-the-emirates-stadium-2026-08-09"
     }
   ]
 }
