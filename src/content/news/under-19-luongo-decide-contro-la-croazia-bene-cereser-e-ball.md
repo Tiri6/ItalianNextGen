@@ -1,0 +1,23 @@
+---
+title: "Under 19, Luongo decide contro la Croazia: bene Cereser e Ballanti"
+titleEn: "Under 19, Luongo's goal seals victory over Croatia: Cereser and Ballanti impress"
+excerpt: "L'attaccante porta l'Italia alla vittoria nella sfida giovanile. In evidenza anche i due centrocampisti granata."
+excerptEn: "The striker leads Italy to victory in the youth clash. Two Torino midfielders also stand out in the performance."
+date: 2026-10-06
+publishedAt: 2026-10-06T16:40:00+02:00
+category: news
+players: ["Andrea Ballanti", "Francesco Cereser"]
+competitions: ["euro-u19-2026"]
+source: "Torino Granata"
+sourceUrl: "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHFiVG1WdHFTYmJvUFJoVUZUeHpZN1QzWS1iUUlCQ2dtMVhKdDN5SkxfRTdGTkh2YW5qdnl1cmF0NTVFaUdUNTRvT3UxMG92VGRNT2I2eVZfX1lwYzgwc2ltNVdEeHltTjRKMl9jczlHaFBzVW81aFVpaW93NzVubEY3bEJSQU9RNTNlMGNKdWFyOTFUM1p5ejEwV2FaS3ZsWjg0OFM5M1BGNUlGWHV4NGR2WWFGOHRLcEtkMEhR?oc=5"
+---
+
+Luongo è stato il protagonista assoluto della sfida tra l'Italia Under 19 e la Croazia, con il suo gol che ha deciso l'incontro a favore degli azzurrini. Una prestazione che ha confermato le qualità dell'attaccante nel torneo giovanile.
+
+Accanto a lui, altri elementi hanno lasciato il segno nella partita. Francesco Cereser e Andrea Ballanti hanno giocato ruoli chiave nella gestione del centrocampo, contribuendo in modo significativo al risultato finale. I due calciatori del Torino hanno dimostrato compattezza e capacità di controllo nel mezzo del campo.
+
+<!--EN-->
+
+Luongo was the standout performer in the Italy Under 19 encounter with Croatia, scoring the decisive goal that secured victory for the Azzurrini. A display that further showcased the striker's qualities in youth competition.
+
+Beyond the goalscorer, other players made their mark on the pitch. Francesco Cereser and Andrea Ballanti occupied key roles in midfield control, contributing meaningfully to the final result. The two Torino players demonstrated solidity and composure in the centre of the park.

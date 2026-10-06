@@ -1,0 +1,23 @@
+---
+title: "U21, l'Armenia beffa gli azzurrini al 95': Palmisani e Fini non bastano"
+titleEn: "U21, Armenia stuns Italy in stoppage time: Palmisani and Fini efforts in vain"
+excerpt: "La nazionale Under 21 cede in casa contro l'Armenia per il gol di Cisse nei minuti di recupero. Protagonisti i due giovani della Lazio."
+excerptEn: "Italy U21 falls to Armenia in a late defeat. Cisse's stoppage-time goal proves decisive as the youngsters suffer a frustrating loss at home."
+date: 2026-10-06
+publishedAt: 2026-10-06T16:20:00+02:00
+category: news
+players: ["Seydou Fini", "Lorenzo Palmisani"]
+competitions: ["euro-u21-2027"]
+source: "TuttoFrosinone.com"
+sourceUrl: "https://news.google.com/rss/articles/CBMixAFBVV95cUxONE9OX1d5ZUZWWGI4bWVGVy1iZ1lpWUI1Q3g4MEkzTEd6aEJkV211aHhHOFA1VjlqRVFUN1hmOV9SX0ZLN2dqQ1pVdWFxZjFScjJHaXd0dGpfRXBfMlZ4V3M5T3JyQXF5eTIzNmtWcWpMRGRvUkJLcWVmUmp0WXlLbk9UMjVWYV9IdklocXMzTlktTkxmMXNFZjdWZFRRcWZ3NGRqbW9CRWJvaHZzX01JREVFS2V2R2VacUFPZ0tlSWRZZC1a?oc=5"
+---
+
+Una sconfitta amareggiante quella subita dall'Italia Under 21 contro l'Armenia. Nonostante il dominio della gara, gli azzurrini non riescono a trovare il vantaggio e capitolano al 95' con il gol di Cisse, che gela il pubblico nei minuti di recupero. Una beffa che arriva quando la partita sembrava già indirizzata verso lo 0-0.
+
+Da segnalare le prestazioni di Seydou Fini e Lorenzo Palmisani, entrambi della Lazio, che si sono distinti nella compagine italiana. I due giovani hanno provato a trascinare i compagni verso il successo, ma l'episodio tardivo di Cisse ha deciso il risultato. Una lezione difficile per il gruppo di Bollini, che dovrà metabolizzare una gara dove il merito del possesso palla non è stato sufficiente a portare punti in dote.
+
+<!--EN-->
+
+A bitter defeat for Italy U21 against Armenia, who claimed a dramatic late winner. Despite controlling large spells of the match, the Azzurrini failed to capitalize on their chances and conceded through Cisse's 95th-minute strike that sent shockwaves through the stadium in stoppage time. A frustrating outcome when a draw seemed to be the likely outcome.
+
+Seydou Fini and Lorenzo Palmisani, both from Lazio, stood out as bright spots in the Italian lineup. The two youngsters attempted to drive their side toward victory, but Cisse's late intervention ultimately decided the contest. It's a tough lesson for Bollini's group, who must process a match where territorial dominance and possession failed to translate into a result worth celebrating.
