@@ -1,5 +1,5 @@
 ---
-title: "🧨 UFFICIALE | Triplo colpo Avellino: ecco Martinelli, Moruzzi e Faticanti. Le formule - Pianeta Serie B"
+title: "UFFICIALE | Triplo colpo Avellino: ecco Martinelli, Moruzzi e Faticanti. Le formule"
 titleEn: "Avellino Seals Triple Signing: Martinelli, Moruzzi and Faticanti Arrive"
 excerpt: "L'Avellino ufficializza l'arrivo di tre giocatori con diverse formule contrattuali. Tra i colpi figurano Tommaso Martinelli e Giacomo Faticanti, elementi seguiti nel progetto Next Gen."
 excerptEn: "Avellino officially announces three new signings with various contractual arrangements. Among the arrivals are Tommaso Martinelli and Giacomo Faticanti, players tracked within the Next Gen project."

@@ -1,5 +1,5 @@
 ---
-title: "Torino, Abate riparte dalla linea green: da Cacciamani a Dellavalle, con un 17enne in difesa - TUTTOmercatoWEB"
+title: "Torino, Abate riparte dalla linea green: da Cacciamani a Dellavalle, con un 17enne in difesa"
 titleEn: "Torino's Youth Project: Abate Builds Future Defences with Cacciamani and Dellavalle"
 excerpt: "Il Torino riparte dalla difesa con i giovani talenti. Cacciamani e Dellavalle guidano il progetto di Abate, che affida responsabilità anche a un diciassettenne in retroguardia."
 excerptEn: "Torino is rebuilding its defence around youth prospects. Cacciamani and Dellavalle lead Abate's project, with a 17-year-old also trusted in the backline."

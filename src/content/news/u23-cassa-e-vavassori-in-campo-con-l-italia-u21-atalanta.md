@@ -1,5 +1,5 @@
 ---
-title: "U23, Cassa e Vavassori in campo con l'Italia U21 - Atalanta"
+title: "U23, Cassa e Vavassori in campo con l'Italia U21"
 titleEn: "Vavassori and Cassa Feature in Italy U21 Action with Atalanta"
 excerpt: "Dominic Vavassori scende in campo con la Nazionale Under 21 italiana, proseguendo il percorso formativo che punta ai Mondiali 2030."
 excerptEn: "Dominic Vavassori takes to the pitch with Italy's Under 21 squad, continuing his development pathway toward the 2030 World Cup."

@@ -1,5 +1,5 @@
 ---
-title: "Va subito KO all’esordio con la Juve: le condizioni di Ekhator | CM - Calciomercato.it"
+title: "Va subito KO all’esordio con la Juve: le condizioni di Ekhator | CM"
 titleEn: "Ekhator's Juventus Debut Ends Early: Injury Concerns Emerge"
 excerpt: "Esordio amaro per Jeff Ekhator con la Juventus: il giovane talento è costretto al ritiro anticipato. Le sue condizioni destano preoccupazione."
 excerptEn: "Jeff Ekhator's debut with Juventus proves disappointing as the prospect is forced to withdraw early. Health concerns now loom over the young talent."

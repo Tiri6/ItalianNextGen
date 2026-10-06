@@ -1,5 +1,5 @@
 ---
-title: "Ritiro decisivo per le scelte di Allegri: sfida Marin-Marianucci in difesa - Il Napoli Online"
+title: "Ritiro decisivo per le scelte di Allegri: sfida Marin-Marianucci in difesa"
 titleEn: "Allegri's Ritiro Decisive: Marin and Marianucci Compete for Defense Spot"
 excerpt: "Durante il ritiro, Allegri osserva da vicino due difensori italiani promettenti: Renato Marin e Luca Marianucci si contendono un posto nella linea arretrata, in una sfida che potrebbe avere riflessi importanti per il progetto verso il 2030."
 excerptEn: "During the training camp, Allegri closely watches two promising Italian defenders: Renato Marin and Luca Marianucci compete for a defensive spot, in a contest that could have significant implications for the 2030 project."

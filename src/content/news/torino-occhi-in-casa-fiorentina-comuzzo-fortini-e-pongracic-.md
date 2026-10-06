@@ -1,5 +1,5 @@
 ---
-title: "Torino, occhi in casa Fiorentina: Comuzzo, Fortini e Pongracic nel mirino - TUTTOmercatoWEB"
+title: "Torino, occhi in casa Fiorentina: Comuzzo, Fortini e Pongracic nel mirino"
 titleEn: "Torino Targets Fiorentina Talents: Comuzzo and Fortini on the Radar"
 excerpt: "Il Torino guarda con interesse verso la Fiorentina. Nel mirino dei granata figurano difensori di prospettiva come Pietro Comuzzo e Niccolò Fortini, potenziali pedine per il progetto futuro."
 excerptEn: "Torino sets its sights on Fiorentina's young defensive talents. Comuzzo and Fortini are among the names the Turin club is monitoring for future opportunities."

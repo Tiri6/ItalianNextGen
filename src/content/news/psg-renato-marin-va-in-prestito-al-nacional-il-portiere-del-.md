@@ -1,5 +1,5 @@
 ---
-title: "PSG, Renato Marin va in prestito al Nacional: il \"portiere del futuro\" lascia Parigi - Calcio.com"
+title: "PSG, Renato Marin va in prestito al Nacional: il \"portiere del futuro\" lascia Parigi"
 titleEn: "PSG, Renato Marin Joins Nacional on Loan: Young Italian Goalkeeper Seeks Playing Time"
 excerpt: "Il portiere italiano Renato Marin lascia il PSG in prestito al Nacional per accumulare esperienza e minuti in campo. Una scelta strategica verso la maturazione del talento."
 excerptEn: "Italian goalkeeper Renato Marin leaves PSG on loan to Nacional to gain experience and playing time. A strategic choice for the young talent's development."

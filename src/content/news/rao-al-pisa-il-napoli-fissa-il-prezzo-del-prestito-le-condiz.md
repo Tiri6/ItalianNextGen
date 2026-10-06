@@ -1,5 +1,5 @@
 ---
-title: "Rao al Pisa, il Napoli fissa il prezzo del prestito: le condizioni degli azzurri - Calcio Napoli 1926"
+title: "Rao al Pisa, il Napoli fissa il prezzo del prestito: le condizioni degli azzurri"
 titleEn: "Rao to Pisa: Napoli Sets Loan Terms for Young Prospect"
 excerpt: "Il Napoli ha definito le condizioni per il prestito di Emanuele Rao al Pisa. Un'operazione che rientra nella strategia azzurra di valorizzazione dei giovani talenti."
 excerptEn: "Napoli has established the terms for Emanuele Rao's loan move to Pisa. A transfer that fits the Partenopei's strategy of developing young talent."

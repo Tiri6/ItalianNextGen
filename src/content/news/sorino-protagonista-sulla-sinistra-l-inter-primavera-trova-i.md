@@ -6,7 +6,7 @@ excerptEn: "Davide Sorino establishes himself as Inter Primavera's starting left
 date: 2026-09-01
 publishedAt: 2026-09-01T14:20:00+02:00
 category: performance
-players: ["Diego Sia", "Davide Sorino"]
+players: ["Davide Sorino"]
 competitions: []
 source: "MondoPrimavera"
 sourceUrl: "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0djBhbnlMTnF6NjI5elItcEFyWnN3bXlQQ1FELTBxYTNHS1N0NDE5RjJWTDIzS1ZOUUF5cE9qcEU0RkFXd2hXbWdfendBQTNoZ2RiLUNhNU5KQmJfS1BJTXpQdWc3cmJtalBn?oc=5"

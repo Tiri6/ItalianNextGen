@@ -1,5 +1,5 @@
 ---
-title: "Vicenza, ritorno alle origini per Amey: vicino il prestito dal Bologna - TUTTOmercatoWEB"
+title: "Vicenza, ritorno alle origini per Amey: vicino il prestito dal Bologna"
 titleEn: "Amey Heads Back Home: Bologna Loan Move to Vicenza on the Horizon"
 excerpt: "Wisdom Amey è prossimo al trasferimento in prestito dal Bologna al Vicenza, club dove il terzino ha le sue radici calcistiche. Un ritorno alle origini per il giovane difensore della Next Gen italiana."
 excerptEn: "Wisdom Amey is set for a loan move from Bologna to Vicenza, marking a return to the club where the fullback's career took shape. A homecoming for one of Italy's promising defensive talents."

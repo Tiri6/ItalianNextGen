@@ -1,5 +1,5 @@
 ---
-title: "Under 21, un guizzo di Calvani regala all'Italia la vittoria contro l'Albania - Quotidiano Sportivo"
+title: "Under 21, un guizzo di Calvani regala all'Italia la vittoria contro l'Albania"
 titleEn: "Calvani's brilliance secures Italy U21 victory over Albania"
 excerpt: "Un'azione decisiva di Calvani permette all'Under 21 italiana di superare l'Albania. Gli azzurrini continuano il loro percorso di avvicinamento ai Mondiali 2030."
 excerptEn: "Calvani's decisive moment guides Italy U21 past Albania. The Azzurrini maintain their momentum toward the 2030 World Cup path."

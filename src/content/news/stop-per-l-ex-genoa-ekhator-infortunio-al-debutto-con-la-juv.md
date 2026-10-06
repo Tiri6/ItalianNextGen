@@ -1,5 +1,5 @@
 ---
-title: "Stop per l’ex Genoa Ekhator: infortunio al debutto con la Juventus e futuro in prestito - Genoa Oggi"
+title: "Stop per l’ex Genoa Ekhator: infortunio al debutto con la Juventus e futuro in prestito"
 titleEn: "Ekhator's Juventus Dream Interrupted: Injury Halts Debut, Loan Move Looms"
 excerpt: "Jeff Ekhator, promettente talento cresciuto nel Genoa, ha dovuto fare i conti con un infortunio durante la sua prima apparizione con la Juventus. Per il giovane attaccante si prospetta ora una soluzione in prestito."
 excerptEn: "Jeff Ekhator, promising talent developed at Genoa, has encountered an injury during his debut appearance with Juventus. A loan move now appears to be on the horizon for the young forward."

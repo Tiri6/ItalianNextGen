@@ -1,5 +1,5 @@
 ---
-title: "Torino, il punto sui giocatori in prestito in Serie B: da Cacciamani a Pellegri - Torino Granata"
+title: "Torino, il punto sui giocatori in prestito in Serie B: da Cacciamani a Pellegri"
 titleEn: "Torino's Loan Players in Serie B: Cacciamani and Pellegri Among Those Out on Loan"
 excerpt: "Il Torino monitora attentamente i propri talenti in prestito in Serie B, con particolare attenzione a profili come Alessio Cacciamani. Una strategia di crescita che punta a costruire il vivaio granata per il futuro."
 excerptEn: "Torino is closely tracking its young talents on loan in Serie B, including Alessio Cacciamani. A development strategy aimed at building the club's academy for the future."

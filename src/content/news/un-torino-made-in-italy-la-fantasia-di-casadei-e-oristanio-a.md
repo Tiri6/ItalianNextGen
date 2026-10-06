@@ -1,12 +1,12 @@
 ---
-title: "Un Torino made in Italy: la fantasia di Casadei e Oristanio al servizio del calcio di Abate - La Gazzetta dello Sport"
+title: "Un Torino made in Italy: la fantasia di Casadei e Oristanio al servizio del calcio di Abate"
 titleEn: "Torino's Italian Blueprint: Casadei and Oristanio Fuel Abate's Vision"
 excerpt: "Il Torino di Abate si costruisce attorno alla creatività dei giovani talenti italiani. Casadei e Oristanio rappresentano il progetto di rinascita granata in chiave azzurra."
 excerptEn: "Abate's Torino is being built around the creativity of young Italian talents. Casadei and Oristanio embody the Granata project's renaissance with an eye on the Azzurri."
 date: 2026-07-22
 publishedAt: 2026-07-22T15:00:00+02:00
 category: news
-players: ["Cesare Casadei", "Diego Sia"]
+players: ["Cesare Casadei"]
 competitions: []
 source: "La Gazzetta dello Sport"
 sourceUrl: "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3hxb0dJNlpRdjNETFY5UnRSenotand3bWxWYU4yUVZDTWxSNjdDd0ZfamxCdWZLQkw5MERIcm1mVWlJS1FKdnYwSUotX2g4N0dXR3UtN2VWNHhqNG9NbHAtaDFJdzhoVmFhQXdGRXM4TmprQ3pMTDlZeldiNXVITHdaN2xfcWFBaFhlc1o2SFhfX2tqb0c0OU1iWWwxQThIZXRaREFwMGI3cjdrMzVVU3ZrRnBWdE9WQ1Q5RWdpS2g0MlFnMlpCaTRCYWJUQVHSAdQBQVVfeXFMTm94RUszV1ZwS08xeEphWVMySXlZd2ZQVVZ1VmhKS2M4VmdrTlZnVDNhRVR4amJXQndYdEJvdkNQNWF4dHJaNkpDSnNxR3E5aWI5N1VUekdoVE84bTMybWlodkhRY0V2TWpSdklnRkRyRmNBeGwwTUNITzE0R3R5NUJEa3ZYRnphaU13QW9QMnNxeGc5cnRVNlBCVGgyNmRCXzdDaGlGOUd1ZWQ5S0tiYWNtbHJ4M3JLOV9hOURtUFZJZkQwWlhuVFpzM09zWHpfaXhzbng?oc=5"

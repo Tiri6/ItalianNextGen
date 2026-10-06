@@ -6,7 +6,7 @@ excerptEn: "The Giallorossi midfielder speaks about his bond with the stadium an
 date: 2026-09-17
 publishedAt: 2026-09-17T15:20:00+02:00
 category: performance
-players: ["Niccolò Pisilli", "Diego Sia"]
+players: ["Niccolò Pisilli"]
 competitions: []
 source: "Siamo la Roma"
 sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW5pMWZkV0lrRnd5ZThBSDBjZXN4M2xNS1A2SlN6YllKMGVGNU1CdG1ncFBUYTYzd2o1NFlnMUl0cGpTM3hwLXEyWFBhZzhBaHY0eFhtcnlGeHh1d3gzTU0wdC1UOHI3bXZtTUt5NkU3U1BQcjFPelU0WExqVnFLUzNrbE5zZW9VLUg3QklJX3pXZUszMGRJODdXNkptRVNaNUk1WWlyOFdBMzQyX1ZweEcwbw?oc=5"

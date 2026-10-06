@@ -1,5 +1,5 @@
 ---
-title: "Serie B. Hellas Verona, tre giovani si giocano il futuro: Calabrese, Corradi e De Battisti al ritiro di Folgaria - Tuttocampo"
+title: "Serie B. Hellas Verona, tre giovani si giocano il futuro: Calabrese, Corradi e De Battisti al ritiro di Folgaria"
 titleEn: "Verona's Young Talents Test Themselves at Folgaria Ritiro"
 excerpt: "Al ritiro estivo di Folgaria, l'Hellas Verona offre una vetrina importante a tre giovani promesse: Calabrese, Corradi e De Battisti si giocano il loro futuro in Serie B."
 excerptEn: "At the Folgaria summer training camp, Hellas Verona provides three young prospects with a crucial opportunity: Calabrese, Corradi and De Battisti will compete for their future in Serie B."

@@ -6,7 +6,7 @@ excerptEn: "Italy U21 head coach Baldini has decided to call up Edoardo Motta to
 date: 2026-09-24
 publishedAt: 2026-09-24T17:20:00+02:00
 category: news
-players: ["Diego Sia", "Edoardo Motta"]
+players: ["Edoardo Motta"]
 competitions: ["euro-u21-2027"]
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmJjVUdoTnZxdnpCWnZ0b1FaWVlmZjBDYkcwSlVSQUt4NEJWTDFuX2NKczE1cHFiQy13OEtQZ2VoTEQ2Ung1QUZXRk5Hc1RBZHJkYTMwX1U1YTQ4OXh3aGZ5QkEtVmNvVEtEUm9MWlpockZ5dmUzeUdtNnozWlo2UjFtcnVrMnpKY0pHMXJfb0JHWUtsYndr?oc=5"

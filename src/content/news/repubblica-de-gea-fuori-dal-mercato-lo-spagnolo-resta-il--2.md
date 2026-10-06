@@ -1,5 +1,5 @@
 ---
-title: "Repubblica - De Gea fuori dal mercato: lo spagnolo resta il titolare. Martinelli per il futuro - LaViola.it"
+title: "Repubblica - De Gea fuori dal mercato: lo spagnolo resta il titolare. Martinelli per il futuro"
 titleEn: "De Gea Secured as Starter; Martinelli Eyes Future Role"
 excerpt: "Lo spagnolo De Gea rimane il portiere titolare, chiudendo così le speculazioni di mercato. Tommaso Martinelli rappresenta l'alternativa per il progetto futuro."
 excerptEn: "Spanish goalkeeper De Gea remains the undisputed starter, settling transfer speculation. Tommaso Martinelli is positioned as the heir apparent for upcoming seasons."

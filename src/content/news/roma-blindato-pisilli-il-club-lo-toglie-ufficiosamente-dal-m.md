@@ -1,11 +1,11 @@
 ---
-title: "Roma, blindato Pisilli: il club lo toglie ufficiosamente dal mercato - Siamo la Roma"
+title: "Roma, blindato Pisilli: il club lo toglie ufficiosamente dal mercato"
 titleEn: "Roma Keeps Pisilli Off the Market: Young Midfielder Becomes Untouchable"
 excerpt: "La Roma ha deciso di blindare Niccolò Pisilli, escludendolo ufficiosamente dal mercato. Il centrocampista classe 2003 rimane un asset fondamentale nel progetto giallorosso."
 excerptEn: "Roma has officially taken Niccolò Pisilli off the market, making the young midfielder untouchable. The 2003-born player remains a key asset in the Giallorossi's project."
 date: 2026-07-06
 category: mercato
-players: ["Niccolò Pisilli", "Diego Sia"]
+players: ["Niccolò Pisilli"]
 competitions: []
 source: "Siamo la Roma"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzlBUHo5bkNhbkpxU3dQMkg5T2dNU0pQQzkxMDF1X2otVFZ0S0hPemdRNnNaY2RvZGpVQWxsNC1jOWpUVFl0MnFwaURhMmpPZFJHX1VjN1JmcUFtQnJrWmtiTUNJV3otWEx6NXgydWx3MUI2QVdTZnlxZVQwajRzVnVkNVRCZ3lVRDZaV29pUnNoSHlzVlBGb0l0bnB1bmVUUnFBSDMwSkg?oc=5"

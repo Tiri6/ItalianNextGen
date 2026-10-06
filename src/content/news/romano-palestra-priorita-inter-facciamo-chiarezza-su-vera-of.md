@@ -1,5 +1,5 @@
 ---
-title: "Romano: “Palestra, priorità Inter. Facciamo chiarezza su vera offerta, richiesta e…Cocchi” - FC Inter 1908"
+title: "Romano: “Palestra, priorità Inter. Facciamo chiarezza su vera offerta, richiesta e…Cocchi”"
 titleEn: "Palestra Priority at Inter: Club Clarifies Offer Details and Cocchi Situation"
 excerpt: "L'Inter fa chiarezza sulla trattativa per Marco Palestra, ribadendo le priorità del club nerazzurro. Nel comunicato emerge anche un aggiornamento sulla posizione di Matteo Cocchi."
 excerptEn: "Inter clarifies the negotiations regarding Marco Palestra, reaffirming the Nerazzurri's priorities. The statement also includes an update on Matteo Cocchi's situation."

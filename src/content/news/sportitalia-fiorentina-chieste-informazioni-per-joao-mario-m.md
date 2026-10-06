@@ -1,5 +1,5 @@
 ---
-title: "SPORTITALIA - Fiorentina, chieste informazioni per Joao Mario, ma tutto dipenderà da Fortini e Dodò - Napoli Magazine"
+title: "SPORTITALIA - Fiorentina, chieste informazioni per Joao Mario, ma tutto dipenderà da Fortini e Dodò"
 titleEn: "Fiorentina Eyes João Mário: Future Depends on Fortini and Dodò"
 excerpt: "La Fiorentina ha avviato sondaggi per João Mário, ma la trattativa rimane subordinata alle situazioni di Fortini e Dodò."
 excerptEn: "Fiorentina has made inquiries for João Mário, though any deal hinges on developments involving Fortini and Dodò."

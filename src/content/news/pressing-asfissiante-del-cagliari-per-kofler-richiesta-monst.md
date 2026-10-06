@@ -1,12 +1,12 @@
 ---
-title: "💰 Pressing ASFISSIANTE del Cagliari per Kofler: richiesta MONSTRE di Lovisa - Pianeta Serie B"
+title: "Pressing ASFISSIANTE del Cagliari per Kofler: richiesta MONSTRE di Lovisa"
 titleEn: "Cagliari's Aggressive Pursuit of Kofler: Hefty Demands from Lovisa"
 excerpt: "Il Cagliari intensifica la pressione per assicurarsi Raphael Kofler, ma la richiesta economica del club detentore dei diritti risulta particolarmente onerosa."
 excerptEn: "Cagliari intensifies its efforts to secure Raphael Kofler, though the financial demands from the player's current club prove to be a significant obstacle."
 date: 2026-07-18
 publishedAt: 2026-07-18T14:20:00+02:00
 category: news
-players: ["Raphael Kofler", "Diego Sia"]
+players: ["Raphael Kofler"]
 competitions: []
 source: "Pianeta Serie B"
 sourceUrl: "https://news.google.com/rss/articles/CBMingFBVV95cUxQbl81U2NZVUQtSkkzc2dnbjVmbDZPQ1J2TG5ReThGZkYtalBBbjduamIyODdQemV1dDBoZnFsbktMTUgxUDJSNTdNQzk0aDJsOU91ZHNuWUh4cTViYzBDTXNCWjFoZkFjcVBKZmtkYmwtYlB4eTZjNG5VUGVNMjdsX2pRSXVLbXRJTWtSSk5HQ0hOZmNjTEdPY2ZjQ3lzZw?oc=5"

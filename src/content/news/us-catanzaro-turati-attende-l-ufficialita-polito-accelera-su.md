@@ -1,5 +1,5 @@
 ---
-title: "Us Catanzaro, Turati attende l'ufficialità: Polito accelera sul mercato e punta su Rispoli · LaC News24 - LaC News24"
+title: "Us Catanzaro, Turati attende l'ufficialità: Polito accelera sul mercato e punta su Rispoli · LaC News24"
 titleEn: "Catanzaro Accelerates: Rispoli in Sights as Turati Awaits Official Confirmation"
 excerpt: "La US Catanzaro continua a muoversi sul mercato. Mentre Turati attende l'ufficialità del suo arrivo, il direttore Polito punta su Fabio Rispoli per rinforzare la rosa."
 excerptEn: "US Catanzaro continues to move in the transfer market. While Turati awaits official confirmation of his arrival, director Polito targets Fabio Rispoli to strengthen the squad."

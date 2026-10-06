@@ -6,7 +6,7 @@ excerptEn: "The Inter player praises Esposito but sees the young AC Milan prospe
 date: 2026-08-12
 publishedAt: 2026-08-12T17:20:00+02:00
 category: performance
-players: ["Francesco Pio Esposito", "Francesco Camarda", "Emanuele Rao"]
+players: ["Francesco Pio Esposito", "Francesco Camarda"]
 competitions: []
 source: "FC Inter News"
 sourceUrl: "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVBiVHNzOTlqckM0YV9WSC1JWDZURkMwZkNQcHRhMW1JU2ZkOW9ObXhIeVdqYjlFVDF0Wm1nY3A4MGhoTUJhVVd6UWFseVU0NGQ0RUYwRjZxNVJMRDJoZVlidWRkTnZqd0pmRmlCRzJmRzVwNDBSMDNSTWJObUtLT1FLVmNjR3V1Z0hCNGhWMi1UZGJTeDlSWklFSE54Vk5XaW41Z0dpdC1zdlZPSWY4WDJtS0hhb25nTnpNMQ?oc=5"

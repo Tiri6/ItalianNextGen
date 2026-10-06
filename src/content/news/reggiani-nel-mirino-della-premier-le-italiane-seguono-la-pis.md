@@ -6,7 +6,7 @@ excerptEn: "The Borussia Dortmund defender has caught the attention of Premier L
 date: 2026-09-08
 publishedAt: 2026-09-08T13:00:00+02:00
 category: mercato
-players: ["Luca Reggiani", "Diego Sia"]
+players: ["Luca Reggiani"]
 competitions: []
 source: "DirettaCalcioMercato"
 sourceUrl: "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakgxbndueEs5QlJuOE1iZjBwa19sdnhJQkluUFdvYTc0NG9yMkJOM3R2d0U2d1VzTEQyUllzNWpySllVNEVIeThPakZjRXNMb0NrejVoUGhqWlI1OWVxM2hyaERaUTFKQnBJVXJFQWcwenk0YzI2eVd6MWUxQzllVFpFOU9HUFZDWGlFbEZIbWV4Wmo2VUxrcldoTXJnWXFqdnE2Xzc1UGJ4QmFLWUdDcTVR?oc=5"

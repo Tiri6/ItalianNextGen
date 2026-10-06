@@ -1,12 +1,12 @@
 ---
-title: "Partitella al Viola Park tra prima squadra e Primavera: finisce 8-1 per i 'grandi'. Kean riassaggia il campo e trova il gol - LaViola.it"
+title: "Partitella al Viola Park tra prima squadra e Primavera: finisce 8-1 per i 'grandi'. Kean riassaggia il campo e trova il gol"
 titleEn: "Kean Returns to Action in Fiorentina Training Match as Primavera Falls Short"
 excerpt: "Nella partitella al Viola Park tra la prima squadra e la Primavera della Fiorentina, i calciatori esperti si impongono con un netto 8-1. Moise Kean trova il gol nel suo rientro in campo."
 excerptEn: "In a training match at Viola Park between Fiorentina's first team and Primavera, the senior squad dominates 8-1. Moise Kean scores upon his return to action."
 date: 2026-07-23
 publishedAt: 2026-07-23T14:40:00+02:00
 category: performance
-players: ["Seydou Fini"]
+players: []
 competitions: []
 source: "LaViola.it"
 sourceUrl: "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFRaZ2x6UXZSZzhXOF9RVk5FSkNQU1RGTlA5eW1KNk01R2QxSkNVT1puQk1TczlZR3lJUmgtc0s1elJqWjlidFBFUkNSRkNHcThlZUhqNHdPSlhkaXc0cnJKYmJrVEVhQlpkNm0wcS1ENkI3WFc2b05BVU9tOHdnWmRTWl8zcTJmUTJtZVBVX0hpYThfQXd4MGktNWZpTkU?oc=5"
