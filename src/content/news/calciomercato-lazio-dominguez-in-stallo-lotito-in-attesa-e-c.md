@@ -1,12 +1,12 @@
 ---
-title: "Calciomercato Lazio | Dominguez in stallo, Lotito in attesa. E Comuzzo... - La Lazio Siamo Noi"
+title: "Calciomercato Lazio | Dominguez in stallo, Lotito in attesa. E Comuzzo..."
 titleEn: "Lazio's Market Stalemate: Dominguez Uncertain, Comuzzo in the Spotlight"
 excerpt: "La Lazio rimane bloccata sulla trattativa per Dominguez mentre Lotito attende sviluppi. Nel frattempo, l'attenzione si sposta su Comuzzo, giovane talento seguito dal club biancoceleste."
 excerptEn: "Lazio's pursuit of Dominguez hits a standstill as Lotito awaits news. Attention now turns to Comuzzo, a promising prospect on the capital club's radar."
 date: 2026-07-23
 publishedAt: 2026-07-23T10:40:00+02:00
 category: mercato
-players: ["Pietro Comuzzo", "Diego Sia"]
+players: ["Pietro Comuzzo"]
 competitions: []
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMirAFBVV95cUxNemtMakRvTEZPSVBnaXZSSGFmbmV6RWl0bzhCUWFYc2Ntc3FZNlBVc0tfeTJ6V2ZiTU9URWk1MEZ3RENMZGdVUXNCaHdpMHpIMjgtMDVPQURVVHcyYktvTmNyazlUNUtqajBSOGpqRmhjVzg4YWlmX3o4R1NMdlhROWh3NUViUFJJWXJSNzY4TFV3Ym80RzdwQTFfaUhoVk9UVEFhbUhGc2RJTldZ?oc=5"

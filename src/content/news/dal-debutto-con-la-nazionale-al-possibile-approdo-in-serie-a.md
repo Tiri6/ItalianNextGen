@@ -1,5 +1,5 @@
 ---
-title: "Dal debutto con la Nazionale al possibile approdo in Serie A: la Lazio segue Chiarodia - TUTTOmercatoWEB"
+title: "Dal debutto con la Nazionale al possibile approdo in Serie A: la Lazio segue Chiarodia"
 titleEn: "Chiarodia's Rise: From Italy Debut to Serie A Target"
 excerpt: "Fabio Chiarodia continua a catalizzare l'attenzione del calcio italiano. Dopo il debutto in Nazionale, la Lazio segue con interesse il giovane talento."
 excerptEn: "Fabio Chiarodia continues to attract Italian football's attention. Following his senior international debut, Lazio is tracking the promising youngster."

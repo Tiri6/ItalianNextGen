@@ -1,12 +1,12 @@
 ---
-title: "Camarda nel mirino della Sampdoria: in blucerchiato ritroverebbe Corradi. Possibilità in prestito? - Milan News 24"
+title: "Camarda nel mirino della Sampdoria: in blucerchiato ritroverebbe Corradi. Possibilità in prestito?"
 titleEn: "Sampdoria Eyes Camarda: Blucerchiati Offer Path to Serie A Experience"
 excerpt: "La Sampdoria punta Francesco Camarda, giovane talento rossonero. In blucerchiato il classe 2005 troverebbe Corradi: ipotesi prestito sul tavolo."
 excerptEn: "Sampdoria targets Francesco Camarda, Milan's promising prospect. A move to Genoa would reunite the youngster with Corradi: loan deal under consideration."
 date: 2026-07-20
 publishedAt: 2026-07-20T11:00:00+02:00
 category: mercato
-players: ["Francesco Camarda", "Guido Della Rovere"]
+players: ["Francesco Camarda"]
 competitions: []
 source: "Milan News 24"
 sourceUrl: "https://news.google.com/rss/articles/CBMieEFVX3lxTE81d1MzNHh6NHVfem5yRmo0bTYxMkVvLVVfV21uczM1RDhUZ3lsbm9PYU56X1dIazdtdmhrbk83Y185R2ZrZWF3R1cwS285VE5sQmcxZHUwaERfX3BrY2Mwc2F3Z1hab3Byd3hiZkFqc3Q2RFQwOWVCYg?oc=5"

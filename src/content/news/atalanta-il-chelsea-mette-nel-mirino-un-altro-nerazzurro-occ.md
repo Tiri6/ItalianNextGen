@@ -1,5 +1,5 @@
 ---
-title: "Atalanta, il Chelsea mette nel mirino un altro nerazzurro: occhi su Ahanor - TUTTOmercatoWEB"
+title: "Atalanta, il Chelsea mette nel mirino un altro nerazzurro: occhi su Ahanor"
 titleEn: "Chelsea Turn Attention to Atalanta's Ahanor"
 excerpt: "Il Chelsea aggiunge un altro nome alla lista dei gioielli nerazzurri: nel mirino dei Blues finisce Honest Ahanor, confermando l'interesse dei club europei per i talenti bergamaschi."
 excerptEn: "Chelsea add another Atalanta prospect to their radar: Honest Ahanor becomes the latest target for the Blues, underlining the Premier League side's focus on Bergamo's emerging talents."

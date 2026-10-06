@@ -1,5 +1,5 @@
 ---
-title: "Camarda, messaggio ad Amorim e il Milan: gol in amichevole e rinnovo pronto - MondoPrimavera"
+title: "Camarda, messaggio ad Amorim e il Milan: gol in amichevole e rinnovo pronto"
 titleEn: "Camarda Sends Message to Amorim and Milan with Goal in Friendly, Contract Renewal on the Horizon"
 excerpt: "Francesco Camarda continua a rispondere sul campo. Il giovane attaccante rossonero ha trovato la rete in un'amichevole e si avvicina al rinnovo del contratto, consolidando il suo percorso nel progetto Milan."
 excerptEn: "Francesco Camarda keeps answering on the pitch. The young Rossoneri striker found the back of the net in a friendly match and is moving closer to a contract renewal, solidifying his path within Milan's project."

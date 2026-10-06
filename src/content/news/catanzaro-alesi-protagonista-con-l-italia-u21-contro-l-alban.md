@@ -1,5 +1,5 @@
 ---
-title: "Catanzaro, Alesi protagonista con l’Italia U21 contro l’Albania: sugli scudi Rispoli, Nuamah e Bashi - Calcio Catanzaro"
+title: "Catanzaro, Alesi protagonista con l’Italia U21 contro l’Albania: sugli scudi Rispoli, Nuamah e Bashi"
 titleEn: "Catanzaro's Alesi Shines for Italy U21 Against Albania as Rispoli Impresses"
 excerpt: "Nella sfida tra l'Italia U21 e l'Albania, Fabio Rispoli del Catanzaro si è distinto in campo, insieme ad altri compagni che hanno contribuito alla prestazione della selezione giovanile."
 excerptEn: "In the clash between Italy U21 and Albania, Catanzaro's Fabio Rispoli stood out on the pitch, joining teammates who contributed to the youth squad's performance."

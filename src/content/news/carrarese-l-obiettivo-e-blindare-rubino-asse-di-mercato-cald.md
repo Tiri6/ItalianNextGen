@@ -1,5 +1,5 @@
 ---
-title: "Carrarese, l’obiettivo è blindare Rubino: asse di mercato caldo con la Fiorentina - MondoPrimavera"
+title: "Carrarese, l’obiettivo è blindare Rubino: asse di mercato caldo con la Fiorentina"
 titleEn: "Carrarese Set to Secure Rubino: Fiorentina Connection Heats Up Market"
 excerpt: "La Carrarese lavora per trattenere Tommaso Rubino. Emerge un asse di mercato attivo con la Fiorentina attorno al giovane talento."
 excerptEn: "Carrarese working to retain Tommaso Rubino. An active market link with Fiorentina emerges around the young prospect."

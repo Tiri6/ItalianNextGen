@@ -1,5 +1,5 @@
 ---
-title: "Catanzaro, Iemmello: «Cissè e Liberali talentuosi. Se il Milan dovrà dare in prestito Alphadjo, meglio che lo rimandi qui - MilanPress"
+title: "Catanzaro, Iemmello: «Cissè e Liberali talentuosi. Se il Milan dovrà dare in prestito Alphadjo, meglio che lo rimandi qui"
 titleEn: "Catanzaro Manager Eyes Milan Talents: Liberali and Cissè Could Strengthen Calabrian Squad"
 excerpt: "Il tecnico del Catanzaro elogia le qualità di Mattia Liberali e Alphadjo Cissè, suggerendo che il Milan potrebbe valorizzare il secondo in prestito nella piazza calabrese."
 excerptEn: "Catanzaro's manager praises the talents of Mattia Liberali and Alphadjo Cissè, hinting that Milan should consider sending the latter on loan to the Calabrian club."

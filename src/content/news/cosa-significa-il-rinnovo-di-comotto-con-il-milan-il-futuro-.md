@@ -1,5 +1,5 @@
 ---
-title: "Cosa significa il rinnovo di Comotto con il Milan: il futuro e le prospettive con Amorim e com'è andato allo Spezia - Goal.com"
+title: "Cosa significa il rinnovo di Comotto con il Milan: il futuro e le prospettive con Amorim e com'è andato allo Spezia"
 titleEn: "Comotto's Milan Renewal: New Chapter Under Amorim"
 excerpt: "Christian Comotto ha rinnovato il suo contratto con il Milan in una mossa che segna un punto di svolta nella sua carriera rossonera. L'operazione rappresenta una fiducia importante del club nella crescita del giovane talento italiano."
 excerptEn: "Christian Comotto has renewed his contract with Milan in a move that marks a turning point in his Rossoneri career. The operation represents significant club confidence in the Italian youngster's development."

@@ -1,5 +1,5 @@
 ---
-title: "Europei U19 – Iddrissou e Mosconi pericolosi ma l’Italia non sfonda: 0-0 con la Croazia - FC Inter 1908"
+title: "Europei U19 – Iddrissou e Mosconi pericolosi ma l’Italia non sfonda: 0-0 con la Croazia"
 titleEn: "Italy U19 Stalemate in Croatia: Iddrissou and Mosconi Impress in Goalless Draw"
 excerpt: "L'Italia Under 19 non trova il varco contro la Croazia agli Europei di categoria. Mosconi e Iddrissou si rendono pericolosi, ma il risultato rimane bloccato sullo 0-0."
 excerptEn: "Italy U19 fails to break through against Croatia at the European Championship. Mosconi and Iddrissou show promise in attack, but the match ends in a scoreless stalemate."

@@ -1,5 +1,5 @@
 ---
-title: "Auguri Idrissi, oggi 21 anni: per il ragazzo di Sadali rientro a settembre - Calcio Casteddu"
+title: "Auguri Idrissi, oggi 21 anni: per il ragazzo di Sadali rientro a settembre"
 titleEn: "Idrissi Turns 21: Sadali Prospect Eyes September Return"
 excerpt: "Riyad Idrissi compie 21 anni. Il giovane talento sardo si prepara a un rientro in campo previsto per settembre."
 excerptEn: "Riyad Idrissi celebrates his 21st birthday. The Sadali prospect is targeting a September comeback."

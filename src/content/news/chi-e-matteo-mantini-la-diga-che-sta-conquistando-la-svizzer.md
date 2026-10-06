@@ -1,5 +1,5 @@
 ---
-title: "Chi è Matteo Mantini, la diga che sta conquistando la Svizzera\" - MondoPrimavera"
+title: "Chi è Matteo Mantini, la diga che sta conquistando la Svizzera\""
 titleEn: "Matteo Mantini, the Italian defensive prospect making waves in Swiss football"
 excerpt: "Matteo Mantini si sta imponendo come difensore di spessore nel calcio svizzero. Il giovane talento italiano rappresenta una speranza per il progetto tecnico azzurro verso il 2030."
 excerptEn: "Matteo Mantini is establishing himself as a solid defensive prospect in Swiss football. The young Italian talent represents a promising asset for Italy's technical project toward 2030."

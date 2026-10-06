@@ -1,5 +1,5 @@
 ---
-title: "Con Mario e il ritorno di Marin e Marianucci ecco i sei della difesa - Il Napoli Online"
+title: "Con Mario e il ritorno di Marin e Marianucci ecco i sei della difesa"
 titleEn: "Napoli's Defensive Lineup Takes Shape: Mario, Marin and Marianucci Return"
 excerpt: "Il Napoli delinea il proprio assetto difensivo con il rientro di elementi chiave. Tra i protagonisti figurano Stefano Di Mario, Renato Marin e Luca Marianucci."
 excerptEn: "Napoli shapes its defensive structure with the return of key players. Among the protagonists are Stefano Di Mario, Renato Marin and Luca Marianucci."

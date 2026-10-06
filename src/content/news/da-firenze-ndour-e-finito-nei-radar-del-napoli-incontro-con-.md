@@ -1,11 +1,11 @@
 ---
-title: "Da Firenze - Ndour è finito nei radar del Napoli: incontro con gli agenti, apertura al trasferimento in azzurro - CalcioNapoli24"
+title: "Da Firenze - Ndour è finito nei radar del Napoli: incontro con gli agenti, apertura al trasferimento in azzurro"
 titleEn: "Napoli Moves for Ndour: Contacts Underway with Young Fiorentina Talent"
 excerpt: "Il Napoli ha avviato i contatti con gli agenti di Cher Ndour, esterno della Fiorentina. Il giocatore ha manifestato apertura verso un trasferimento in azzurro."
 excerptEn: "Napoli has initiated negotiations with the representatives of Cher Ndour, winger at Fiorentina. The player has shown willingness to move to the Partenopei."
 date: 2026-07-06
 category: mercato
-players: ["Cher Ndour", "Seydou Fini"]
+players: ["Cher Ndour"]
 competitions: []
 source: "CalcioNapoli24"
 sourceUrl: "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHVES0lCODFicGFOVlZjaXoxbGkycVFaT1ptOWZqWjQ5QmN5c1VFRmZ6akRTRnRQVE9RVXd4d3FxRWVzUnRCX0J2VkdZeVVfMElWcktpU2ZlRzVrcXZRbmdSMWRXWF92ejZINlNHdXVsVFJiOFc5Z0FPd3RyX0FjNThrVnprUjlaQVl1eHNvS0p1TWlzREN3TnZJWlZVaHNIS3pYak1QQ2xscXl5cTdYRzllejMxQQ?oc=5"

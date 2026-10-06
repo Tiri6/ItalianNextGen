@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Napoli, tra i convocati dell'Italia per gli Europei Under 19 anche due obiettivi azzurri - NapoliToday"
+title: "Calciomercato Napoli, tra i convocati dell'Italia per gli Europei Under 19 anche due obiettivi azzurri"
 titleEn: "Italy U19 Euros: Two Napoli Targets Named in Squad"
 excerpt: "Due profili seguiti dal Napoli trovano spazio nella convocazione dell'Italia per gli Europei Under 19. Un segnale della qualità che il vivaio italiano sta producendo in ottica futura."
 excerptEn: "Two players tracked by Napoli have been included in Italy's U19 European Championship squad. A sign of the quality coming through Italian youth development for the years ahead."

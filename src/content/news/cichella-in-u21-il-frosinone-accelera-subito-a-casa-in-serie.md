@@ -6,7 +6,7 @@ excerptEn: "Frosinone defender Matteo Cichella expresses satisfaction at his U21
 date: 2026-10-01
 publishedAt: 2026-10-01T10:40:00+02:00
 category: mercato
-players: ["Matteo Cichella", "Diego Sia"]
+players: ["Matteo Cichella"]
 competitions: ["euro-u21-2027"]
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1FiVC1xXzl3ZVpmZkVvY1BRU3RsOHRrVXlNNEJIN1RpREc0VnJiNlh5NlFDLVBidFRpbUpvWTJwTXhGS3VXVEFzSXQtU25GaE1lZXhyXzBUTl9BUHpfTTRaUF9pTEF2dHIxelRsa292NnRnZjJmM0YtMHZjWGNZTlBrZzBqYkU2MUNLcHlPX3FJM0FrcDI4Tkc1SGxDY28tSmVhMjkzMA?oc=5"

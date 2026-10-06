@@ -1,5 +1,5 @@
 ---
-title: "Bari, Dorval verso il Padova e Rao nel mirino del Benevento: Mané può rinnovare - TUTTOmercatoWEB"
+title: "Bari, Dorval verso il Padova e Rao nel mirino del Benevento: Mané può rinnovare"
 titleEn: "Bari's Summer: Dorval Exits, Rao Targeted, Mané Mulls Future"
 excerpt: "Movimenti importanti in casa Bari: Dorval verso Padova, Rao nel mirino del Benevento e Mané valuta il rinnovo. Dinamiche che interessano da vicino il vivaio italiano."
 excerptEn: "Significant transfers brewing at Bari: Dorval heading to Padova, Rao attracting Benevento's attention, and Mané considering contract renewal. Movements worth monitoring in Italy's talent pipeline."

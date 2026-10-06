@@ -1,11 +1,11 @@
 ---
-title: "Croazia-Italia U19 0-0, in campo Arena e Nardin. Qualificazione rimandata - Siamo la Roma"
+title: "Croazia-Italia U19 0-0, in campo Arena e Nardin. Qualificazione rimandata"
 titleEn: "Italy U19 Held by Croatia in Goalless Draw, Qualification Hopes Delayed"
 excerpt: "L'Under 19 italiana non va oltre lo 0-0 contro la Croazia, rimandando l'aritmetica qualificazione ai prossimi impegni. In campo Arena e Nardin nella sfida di cartello."
 excerptEn: "Italy's U19 side draws 0-0 with Croatia, postponing their mathematical qualification. Arena and Nardin featured in the key fixture."
 date: 2026-07-06
 category: news
-players: ["Antonio Arena", "Diego Sia"]
+players: ["Antonio Arena"]
 competitions: ["euro-u19-2026"]
 source: "Siamo la Roma"
 sourceUrl: "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLW5FMEd5X2tuSWdNTzY1UjlWUjZQVkZxZDdZTnM4bzUxUERYWnd1QWhXMHNGb3JaMEtoWmJ3aWotQjVXZGFrX25fRm1YUVd6OWtHWWtNeWo4S1AxbUxWV0tDX0dGX3FBOWpraDRiRl8yZ2pvX0dQUmFWNGdOcFd4QnNZb3FzUG9sZ09DaTF4NnRlb0dxLXBoM0IzZ0llektMT2YwOU9kLXdBRjVUNEsw?oc=5"

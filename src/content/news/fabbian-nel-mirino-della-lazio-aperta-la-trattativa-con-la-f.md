@@ -6,7 +6,7 @@ excerptEn: "The Italian midfielder is at the center of a possible operation betw
 date: 2026-07-27
 publishedAt: 2026-07-27T13:20:00+02:00
 category: mercato
-players: ["Giovanni Fabbian", "Seydou Fini"]
+players: ["Giovanni Fabbian"]
 competitions: []
 source: "Laziochannel.it"
 sourceUrl: "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUs5dndQWmFtUXlIc2tRaFpLemstcmRDVzJVRWlTQlF6MW9RUGdyUWs0QUQ1azNqLWplbTktdENPWXgxTXh2aXJENkliLWJkRU94T1FQUXVHSjdfcWNhbXAtN3dKc3hDLUs4aUQzU0dydWhoR0xUUjJnZnpPMFlRdWpqb3dwM3lLSkdhdWJFblRDVVo2NS0wLU9COGE2NHdZcVNPZ2hOUWhCVkt3UURvMV93TmZQUm1kQWc5MGFDZlFBdU44WGFEMWFmUl94UFHSAc8BQVVfeXFMTllLOXZ3UFphbVF5SHNrUWhaS3prLXJkQ1cyVUVpU0JRejFvUVBnclFrNEFENWszai1qZW05LXRDT1l4MU14dmlyRDZJYi1iZEVPeE9RUFF1R0o3X3FjYW1wLTd3SnN4Qy1LOGlEM1NHcnVoaEdMVFIyZ2Z6TzBZUXVqam93cDN5S0pHYXViRW5UQ1VaNjUtMC1PQjhhNjR3WXFTT2doTlFoQlZLd1FEbzFfd05mUFJtZEFnOTBhQ2ZRQXVOOFhhRDFhZlJfeFBR?oc=5"

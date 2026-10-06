@@ -1,5 +1,5 @@
 ---
-title: "Atalanta, si tratta per la permanenza di Scalvini e Scamacca: le proposte di rinnovo per gli italiani della Dea - Gonfia la Rete"
+title: "Atalanta, si tratta per la permanenza di Scalvini e Scamacca: le proposte di rinnovo per gli italiani della Dea"
 titleEn: "Atalanta Pushes for Scalvini and Scamacca Renewals: Contract Talks Underway for Young Italians"
 excerpt: "L'Atalanta lavora al rinnovo dei contratti di Giorgio Scalvini e Gianluca Scamacca con proposte concrete per trattenere i due talenti italiani della Dea."
 excerptEn: "Atalanta is working on contract renewals for Giorgio Scalvini and Gianluca Scamacca with concrete proposals to retain the two Italian talents at the club."

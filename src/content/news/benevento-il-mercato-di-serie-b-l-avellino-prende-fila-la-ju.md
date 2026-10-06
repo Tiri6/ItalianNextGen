@@ -1,5 +1,5 @@
 ---
-title: "Benevento, il mercato di Serie B: l’Avellino prende Fila, la Juve Stabia spinge per Vavassori - Calcio Benevento"
+title: "Benevento, il mercato di Serie B: l’Avellino prende Fila, la Juve Stabia spinge per Vavassori"
 titleEn: "Benevento's Serie B Market: Avellino Secure Fila, Juve Stabia Chase Vavassori"
 excerpt: "Movimenti di mercato nella provincia campana: l'Avellino conclude l'arrivo di Fila, mentre la Juve Stabia intensifica gli sforzi per assicurarsi Dominic Vavassori."
 excerptEn: "Market movements in Campania's second division: Avellino complete the signing of Fila, while Juve Stabia intensify efforts to secure Dominic Vavassori."

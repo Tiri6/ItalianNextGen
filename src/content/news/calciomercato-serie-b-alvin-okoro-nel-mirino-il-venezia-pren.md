@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Serie B, Alvin Okoro nel mirino: il Venezia prende tempo - SetteCalcio"
+title: "Calciomercato Serie B, Alvin Okoro nel mirino: il Venezia prende tempo"
 titleEn: "Venezia plays waiting game for Alvin Okoro in Serie B market"
 excerpt: "Il Venezia non affonda il colpo immediato per il giovane talento Okoro: i lagunari stanno valutando con calma la situazione di mercato in Serie B."
 excerptEn: "Venezia are taking their time in the pursuit of young prospect Okoro: the Venetian club is carefully assessing the situation in the Serie B transfer market."

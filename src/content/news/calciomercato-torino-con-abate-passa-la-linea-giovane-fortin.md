@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Torino: con Abate passa la linea giovane, Fortini e Mascardi in arrivo - Torino Granata"
+title: "Calciomercato Torino: con Abate passa la linea giovane, Fortini e Mascardi in arrivo"
 titleEn: "Torino Sets Course on Youth: Fortini and Mascardi Arrive Under Abate's Vision"
 excerpt: "Il Torino consolida la propria strategia di ringiovanimento con l'arrivo di Niccolò Fortini e Diego Mascardi. La dirigenza granata prosegue il percorso tracciato da Abate puntando sui giovani talenti italiani."
 excerptEn: "Torino reinforces its youth development strategy with the signings of Niccolò Fortini and Diego Mascardi. The Granata management continues the path established by Abate, focusing on promising Italian prospects."

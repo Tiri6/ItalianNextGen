@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Roma, definite le tempistiche dei riscatti di Romano e Baldanzi - Forzaroma.info"
+title: "Calciomercato Roma, definite le tempistiche dei riscatti di Romano e Baldanzi"
 titleEn: "Roma Settles Buyout Terms for Romano and Baldanzi"
 excerpt: "La Roma ha definito le modalità e i tempi per l'esercizio dei diritti di riscatto sui giovani talenti Tommaso Baldanzi e Seydou Fini, un passaggio cruciale nella pianificazione giallorossa."
 excerptEn: "Roma has clarified the timeline and procedures for exercising buyout options on young prospects Tommaso Baldanzi and Seydou Fini, a key step in the Giallorossi's strategic planning."

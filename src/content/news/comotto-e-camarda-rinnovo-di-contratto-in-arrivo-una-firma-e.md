@@ -1,5 +1,5 @@
 ---
-title: "Comotto e Camarda, rinnovo di contratto in arrivo: una firma è già attesa in giornata - Pianeta Milan"
+title: "Comotto e Camarda, rinnovo di contratto in arrivo: una firma è già attesa in giornata"
 titleEn: "Camarda and Comotto Set for Contract Extensions at Milan"
 excerpt: "In casa Milan arrivano novità positive sul fronte dei rinnovi: sia Francesco Camarda che Christian Comotto sono prossimi alla firma sui nuovi accordi, con una sottoscrizione attesa già nelle prossime ore."
 excerptEn: "Milan prepares to secure two young prospects with contract renewals: Francesco Camarda and Christian Comotto are close to penning new deals, with signatures expected imminently."

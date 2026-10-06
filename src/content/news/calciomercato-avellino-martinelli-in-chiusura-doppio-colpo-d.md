@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Avellino: Martinelli in chiusura, doppio colpo dalla Juve e intrecci per Kouadio e Maistro - Il Corriere del Pallone"
+title: "Calciomercato Avellino: Martinelli in chiusura, doppio colpo dalla Juve e intrecci per Kouadio e Maistro"
 titleEn: "Avellino's Youth Market: Martinelli Deal Near, Juventus Connections and Kouadio Moves"
 excerpt: "L'Avellino accelera sul mercato con Martinelli verso la chiusura e doppi colpi dalla Juventus. Coinvolti negli sviluppi anche Kouadio e Maistro."
 excerptEn: "Avellino accelerates in the transfer market with Martinelli's deal nearing completion and multiple moves involving Juventus prospects. Kouadio and Maistro also involved in ongoing negotiations."

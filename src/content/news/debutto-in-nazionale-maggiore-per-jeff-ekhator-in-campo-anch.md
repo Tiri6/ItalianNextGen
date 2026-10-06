@@ -1,5 +1,5 @@
 ---
-title: "Debutto in nazionale maggiore per Jeff Ekhator. In campo anche Fini - Telenord"
+title: "Debutto in nazionale maggiore per Jeff Ekhator. In campo anche Fini"
 titleEn: "Ekhator makes senior debut as Fini enters the scene"
 excerpt: "Jeff Ekhator ha esordito in nazionale maggiore. Nel match è stato schierato anche Seydou Fini."
 excerptEn: "Jeff Ekhator made his senior national team debut. Seydou Fini also featured in the match."

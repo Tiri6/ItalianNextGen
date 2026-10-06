@@ -1,12 +1,12 @@
 ---
-title: "Cocchi-Padova, ci siamo: visite mediche per l'esterno. La formula del trasferimento - L'Interista"
+title: "Cocchi-Padova, ci siamo: visite mediche per l'esterno. La formula del trasferimento"
 titleEn: "Cocchi Set for Padova Move: Medical Examinations Underway"
 excerpt: "L'esterno nerazzurro Matteo Cocchi è in dirittura d'arrivo verso il trasferimento al Padova. Le visite mediche sono già in calendario per formalizzare l'operazione."
 excerptEn: "Inter winger Matteo Cocchi is close to completing his move to Padova. Medical examinations are scheduled to finalize the transfer."
 date: 2026-07-24
 publishedAt: 2026-07-24T14:00:00+02:00
 category: mercato
-players: ["Matteo Cocchi", "Diego Sia"]
+players: ["Matteo Cocchi"]
 competitions: []
 source: "L'Interista"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelhmLUJGQzJoNUg1U0NuZkR3Q0QtSHA4Tk00bTZ2Wno4Zmh6R0V4TGFsZi1IRzlsd2M3RkRfR2dzTjBaTHVpcklmR1VFUzR5cmVpWlBENGl5bU5hbDE2aGFWeUhiS2c5UlBrbENfZXZJblFXNFAtUzJJNi1TU3ZFN3ZiVndGTk9IRzJOT2c3VTJzVzZtZGVUZmhHNUhoUXhPc1lDNnJ6V2NoNjA?oc=5"

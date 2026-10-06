@@ -6,7 +6,7 @@ excerptEn: "Fabio Depaoli publicly encouraged Sebastiano Esposito on social medi
 date: 2026-10-04
 publishedAt: 2026-10-04T12:20:00+02:00
 category: news
-players: ["Francesco Pio Esposito", "Cristiano De Paoli", "Sebastiano Esposito"]
+players: ["Francesco Pio Esposito", "Sebastiano Esposito"]
 competitions: []
 source: "clubdoria46.it"
 sourceUrl: "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkZfRmdjVHhGcWtxMUtpNFVCVDZrMElxRXluVVRsd0R0XzRnRlQxdm1jamlzdU1ZcEZucXU2NzlXdEJHaGhrZWZoeTNOQU45TGx0dVBVN1NWcnRqWUdpOG0tQnBWbTVhQkNYV3FaaC1OcFNuSTBWZjlfcTQ2M0dqeG5YZ1NMN0FtWUl2c0FQM0w0TDNFdzdBaG9KOG5zQW12QXZpTm93VGlsS2FZWk16TVM3M1k?oc=5"

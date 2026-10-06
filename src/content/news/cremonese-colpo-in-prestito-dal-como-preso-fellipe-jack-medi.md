@@ -1,5 +1,5 @@
 ---
-title: "Cremonese, colpo in prestito dal Como: preso Fellipe Jack - Mediagol"
+title: "Cremonese, colpo in prestito dal Como: preso Fellipe Jack"
 titleEn: "Cremonese Complete Fellipe Jack Loan Deal from Como"
 excerpt: "La Cremonese si rafforza in difesa con l'arrivo in prestito di Fellipe Jack dal Como. Un movimento di mercato che potrebbe rappresentare una risorsa importante per il percorso dei grigiorossi."
 excerptEn: "Cremonese bolster their defensive options with the loan signing of Fellipe Jack from Como. A market move that could prove valuable for the Lombardy club's campaign."

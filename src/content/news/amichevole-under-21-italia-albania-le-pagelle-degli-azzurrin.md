@@ -1,5 +1,5 @@
 ---
-title: "Amichevole Under 21, Italia-Albania: le pagelle degli azzurrini - MondoPrimavera"
+title: "Amichevole Under 21, Italia-Albania: le pagelle degli azzurrini"
 titleEn: "Italy U21 vs Albania: Performance Review from Friendly Clash"
 excerpt: "Gli azzurrini scendono in campo in un'amichevole contro l'Albania. Il match rappresenta un'occasione di valutazione per il progetto giovanile italiano in vista degli impegni futuri."
 excerptEn: "Italy's U21 squad takes on Albania in a friendly encounter. The match serves as an evaluation opportunity for the Italian youth project ahead of upcoming commitments."

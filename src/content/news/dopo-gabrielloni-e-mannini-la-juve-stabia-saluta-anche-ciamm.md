@@ -1,5 +1,5 @@
 ---
-title: "Dopo Gabrielloni e Mannini, la Juve Stabia saluta anche Ciammaglichella: rientra al Torino - TUTTOmercatoWEB"
+title: "Dopo Gabrielloni e Mannini, la Juve Stabia saluta anche Ciammaglichella: rientra al Torino"
 titleEn: "Ciammaglichella Returns to Torino: Juve Stabia's Loan Spell Ends"
 excerpt: "Aaron Ciammaglichella conclude la sua esperienza in prestito alla Juve Stabia e rientra al Torino. Il giovane talento torna alla casa madre dopo il periodo in Serie B."
 excerptEn: "Aaron Ciammaglichella's loan spell at Juve Stabia has come to an end, with the prospect returning to Torino. The young talent heads back to his parent club after his stint in the second tier."

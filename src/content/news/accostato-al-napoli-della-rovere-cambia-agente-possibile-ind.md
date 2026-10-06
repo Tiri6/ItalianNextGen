@@ -1,5 +1,5 @@
 ---
-title: "Accostato al Napoli, Della Rovere cambia agente: possibile indizio di mercato - Calcio Napoli 1926"
+title: "Accostato al Napoli, Della Rovere cambia agente: possibile indizio di mercato"
 titleEn: "Della Rovere Changes Agent: Market Signal Ahead of Napoli Interest?"
 excerpt: "Guido Della Rovere ha modificato la sua rappresentanza. Il cambio di agente potrebbe segnalare movimenti imminenti sul mercato, in un momento in cui il nome del giovane talento circola negli ambienti partenopei."
 excerptEn: "Guido Della Rovere has changed his agent. The move could indicate incoming transfer activity, as the young prospect's name continues to circulate around Napoli."

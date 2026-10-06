@@ -1,5 +1,5 @@
 ---
-title: "Cremonese, Davide Pavesi passa in prestito alla Pergolettese - CremonaSport"
+title: "Cremonese, Davide Pavesi passa in prestito alla Pergolettese"
 titleEn: "Pavesi Joins Pergolettese on Loan from Cremona"
 excerpt: "Davide Pavesi lascia temporaneamente la Cremonese per una esperienza in prestito alla Pergolettese, cercando di accumulare minuti e continuità agonistica."
 excerptEn: "Davide Pavesi temporarily leaves Cremona on loan to Pergolettese, aiming to gain regular playing time and competitive experience."

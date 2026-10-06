@@ -6,7 +6,7 @@ excerptEn: "The Italian prospect expresses enthusiasm for joining Juventus and t
 date: 2026-07-27
 publishedAt: 2026-07-27T12:40:00+02:00
 category: news
-players: ["Jeff Ekhator", "Antonio Arena"]
+players: ["Jeff Ekhator"]
 competitions: []
 source: "arenacalcio.it"
 sourceUrl: "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzB2SzMtc3B3N0steHFwVkpsclltZGhDOWJ2NDE3SkVSZklnTHdBVUUyLVJpV21RLTVjRUh2ZUNFbWxqV0ViZmpvNmtTRmxyOVh5WUpIN3dDcDJUQllhZEZrSWQ4Sl95d1ctSDJfbXlsU1lMS0lfa3dHMVhIYUI3ZFNKZlJ5OTBQZkV6Ml9LYUtOeXlvRjBuMzQtdS1ZUGtoeXZaWnFYa05FU0lORXUxMUNfeTJYcE0yZFpWemtjbTlkV1RN0gHKAUFVX3lxTFBXaXJxa0VYTXJNSFBwblFDanRxV3ZVQnF5V19oWjBVYzFqTFp5elFiaWNlWVJGUGNxVmd5cHpjT2dXUTRiNDFRbUhROG9YTkdTTnJsRGZnMTVVX1pJcF9pR3FUaTVRNDUtV3BWanhaTllFRlVHcFBUb0M4ZXBNd3R6cTh5SE5FeUQ4cVZ6WHd6MEpGREU4bHRJOUhwbXltYm9HNEtQeHhWWDZYcHlheEdVRW1HLUNHUnhTZ3JEbVpSc3lHd1VVSUIwcGc?oc=5"

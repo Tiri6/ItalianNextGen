@@ -1,5 +1,5 @@
 ---
-title: "Coletta, il line-breaker dell’Italia U19 andato all’estero per spiccare il volo - MondoPrimavera"
+title: "Coletta, il line-breaker dell’Italia U19 andato all’estero per spiccare il volo"
 titleEn: "Coletta Takes Next Step: Italy's U19 Prospect Seeks Growth Abroad"
 excerpt: "Federico Coletta, il talento che sta impressionando nella Nazionale Under 19 azzurra con le sue doti di attaccante capace di saltare le linee difensive, ha deciso di trasferirsi all'estero per accelerare la propria crescita calcistica."
 excerptEn: "Federico Coletta, the talent impressing with Italy's U19 squad thanks to his ability to break through defensive lines, has moved abroad to accelerate his development."

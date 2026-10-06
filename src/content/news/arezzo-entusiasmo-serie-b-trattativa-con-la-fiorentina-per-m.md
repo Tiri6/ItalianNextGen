@@ -1,11 +1,11 @@
 ---
-title: "Arezzo, entusiasmo Serie B: trattativa con la Fiorentina per Martinelli, Kospo e Sadotti - TUTTOmercatoWEB"
+title: "Arezzo, entusiasmo Serie B: trattativa con la Fiorentina per Martinelli, Kospo e Sadotti"
 titleEn: "Arezzo Pursues Fiorentina Talent: Martinelli Deal in Advanced Stages"
 excerpt: "L'Arezzo lavora per portare in Serie B tre giovani dalla Fiorentina. Tra i nomi in trattativa figura anche Tommaso Martinelli, classe 2005 seguito da Italian Next Gen."
 excerptEn: "Arezzo is working to bring three young talents from Fiorentina to Serie B. Among the names in negotiations is Tommaso Martinelli, 2005-born, tracked by Italian Next Gen."
 date: 2026-07-06
 category: mercato
-players: ["Tommaso Martinelli", "Diego Sia"]
+players: ["Tommaso Martinelli"]
 competitions: []
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMivAFBVV95cUxOREFtT1E5N2xQdlY2QlZTNzBreVhzdUhwcXYwSXBDVzYwYzlfSkRnZkdCUUlBRlBZNlBVNDNHU3RYQ01zUjlELXZCd3daazdEODhiMUliVVV2SEsxTHJPZjlfRWtoQTBkbW5ZcE9DMEM0Y0NKUUh6U2xTVXdTQmpUZU00M0xRY3VVbDZ6N0VpczZtMUYzUDdiUFBjY1lkSlpNS1lwUG5hWWVON2VSRTFPZkZ3Sk9ETVJfdHBlQ9IBvwFBVV95cUxNMVd4eEFmWENlaEk5YmVxU2J3d0p3UmVWVzc4cEJ6NDhiOVpUV0lOR0YzOW9PdHdMYmFBVUhMV2hIQUVoeGlsZ0RoNHlKT2NpS043V1ZrVzlXRGlfRk9jY24tYjJGNnpsS21nV2ozM0hzLTRSTmpGOXJKUUZfakhmSk5ZTVN6STdKb1ZnM3VTNS16RmdYV2JvSUFOWDhnZ3hwQ2h2SmlLdTlJa1J5UzBld0VaTC1naFF5VVVWWnV0aw?oc=5"

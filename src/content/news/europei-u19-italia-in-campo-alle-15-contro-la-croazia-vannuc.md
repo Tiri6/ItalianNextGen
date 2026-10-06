@@ -1,5 +1,5 @@
 ---
-title: "Europei U19, Italia in campo alle 15 contro la Croazia. Vannucchi in panchina - Firenze Viola"
+title: "Europei U19, Italia in campo alle 15 contro la Croazia. Vannucchi in panchina"
 titleEn: "Vannucchi on the bench as Italy U19 faces Croatia at Euros"
 excerpt: "Gli Azzurrini scendono in campo a Firenze nel campionato europeo under 19. Tommaso Vannucchi parte dalla panchina nella sfida contro la Croazia."
 excerptEn: "Italy's U19 squad takes to the pitch in Florence for the European championship. Tommaso Vannucchi starts from the bench in the clash against Croatia."

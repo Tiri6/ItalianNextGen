@@ -6,7 +6,7 @@ excerptEn: "Leonardo Colombo deployed in the starting lineup for Italy's youth s
 date: 2026-10-01
 publishedAt: 2026-10-01T11:00:00+02:00
 category: performance
-players: ["Leonardo Colombo", "Seydou Fini", "Federico Croci"]
+players: ["Leonardo Colombo"]
 competitions: ["euro-u17"]
 source: "Parma Live"
 sourceUrl: "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlZlMFZsY0szLU5GTXZVeGp4aDBJWDJTNDBoUDZsbzdvSm5ZYjhFTUplaGY0eWRhM0cyR000QmQxTHZiRkFkV2ZTemw4UFFXTGRlcEg1WlNNTGVQNG5SemlWWTc0RGpjU2psNUxPYS1VYWI3MDNVMVB5c29KeGVOYzJHbjVKbVl4cTJoVFFQa21fTVcxV1l1Ty1OUmQteXFTUHl1QnkyZEJDWTZEZXpDUG53ZzMtS2wtSXhPRjVmTl9wUnM1?oc=5"

@@ -1,5 +1,5 @@
 ---
-title: "Comotto e Camarda, rinnovo e prestito in vista: Amorim può cambiare - Milan News"
+title: "Comotto e Camarda, rinnovo e prestito in vista: Amorim può cambiare"
 titleEn: "Camarda and Comotto: Contract Extensions and Loan Moves on Horizon Under Amorim"
 excerpt: "In casa Milan si muove qualcosa attorno ai due giovani talenti: rinnovi e possibili partenze in prestito potrebbero caratterizzare il mercato rossonero con l'arrivo del nuovo tecnico."
 excerptEn: "At Milan, moves are underway involving two young talents: contract extensions and potential loan departures could shape the Rossoneri's market activity with the new coach's arrival."

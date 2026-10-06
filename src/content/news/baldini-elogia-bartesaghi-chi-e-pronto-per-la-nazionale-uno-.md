@@ -1,11 +1,11 @@
 ---
-title: "Baldini elogia Bartesaghi: \"Chi è pronto per la Nazionale? Uno ce l'ho accanto\" - Mediaset Infinity"
+title: "Baldini elogia Bartesaghi: \"Chi è pronto per la Nazionale? Uno ce l'ho accanto\""
 titleEn: "Baldini backs Bartesaghi: 'He's ready for the Azzurri'"
 excerpt: "L'allenatore Baldini esprime fiducia nelle qualità di Davide Bartesaghi, considerandolo pronto per il salto in Nazionale. Un endorsement che conferma le aspettative su uno dei prospetti più interessanti del calcio italiano."
 excerptEn: "Coach Baldini voices confidence in Davide Bartesaghi's readiness for the Italian national team, endorsing one of the country's most promising young talents."
 date: 2026-07-06
 category: news
-players: ["Davide Bartesaghi", "Seydou Fini"]
+players: ["Davide Bartesaghi"]
 competitions: []
 source: "Mediaset Infinity"
 sourceUrl: "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON3hUdGFETUx0Rk9lSVl4Ml9ZblJqVVJoX1o0a2JyR1p6ZlZjNlZxRGpLYzBLcnNrcFpJWHRpVko0dmxzbjZ3UHdDdmFsWjhWRE9iTVNQN2hYa1JWS2s3Qm9neEhWLXFndHdNXzZBemhqdUFRNTVrbkZZazFZYmdZbXV1NnN5VXBnNXVRQ1JwbkVxSkwwaTVvdkQ5MmFfYlVQRWdjWHBQbktXa2NVSGlkWTh3NTl4WU9heHNqNFNnNFZjeUZWVV9naUpkU0xmQnFndThLUVE4aE85Rkh6TVE3OTNn?oc=5"

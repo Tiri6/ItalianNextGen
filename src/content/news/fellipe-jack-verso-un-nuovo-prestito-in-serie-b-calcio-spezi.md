@@ -1,5 +1,5 @@
 ---
-title: "Fellipe Jack verso un nuovo prestito in Serie B - Calcio Spezia"
+title: "Fellipe Jack verso un nuovo prestito in Serie B"
 titleEn: "Fellipe Jack Set for New Serie B Loan Move"
 excerpt: "Il giovane talento della Spezia verso una nuova esperienza in prestito in cadetteria. Un'occasione per continuare la crescita in un campionato competitivo."
 excerptEn: "Spezia's promising prospect heading for a fresh loan spell in Serie B. Another chance to develop in a demanding league."

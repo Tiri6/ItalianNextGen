@@ -1,5 +1,5 @@
 ---
-title: "Corriere dello Sport: “Serie B, Modena accelera per Brugman e Ambrosino. Samp e Catanzaro protagoniste sul mercato” - Ilovepalermocalcio.com"
+title: "Corriere dello Sport: “Serie B, Modena accelera per Brugman e Ambrosino. Samp e Catanzaro protagoniste sul mercato”"
 titleEn: "Ambrosino in the Spotlight: Serie B Clubs Intensify Summer Moves"
 excerpt: "Il mercato di Serie B si anima con movimenti significativi. Tra i protagonisti emerge Giuseppe Ambrosino, seguito da diversi club nella corsa ai talenti azzurri."
 excerptEn: "Serie B market activity heats up with several clubs making strategic moves. Giuseppe Ambrosino is among the young talents attracting attention in the Italian second division."

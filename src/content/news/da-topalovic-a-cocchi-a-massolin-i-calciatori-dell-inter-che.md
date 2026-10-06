@@ -1,5 +1,5 @@
 ---
-title: "🔥 Da Topalovic a Cocchi a Massolin: i calciatori dell'Inter che fanno gola in Serie B - Pianeta Serie B"
+title: "Da Topalovic a Cocchi a Massolin: i calciatori dell'Inter che fanno gola in Serie B"
 titleEn: "Inter's Young Talents Turn Heads in Serie B: Cocchi Among the Prospects"
 excerpt: "Diversi calciatori della Primavera nerazzurra stanno attirando l'attenzione del calcio cadetto. Matteo Cocchi è tra i giovani dell'Inter che suscitano interesse in Serie B."
 excerptEn: "Several Primavera players from Inter are catching the eye of Serie B clubs. Matteo Cocchi is among the young Nerazzurri talents generating interest in the second tier."
