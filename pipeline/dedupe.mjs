@@ -7,6 +7,8 @@
 // pipeline/removed-duplicates/ (recuperabili). Due articoli sono considerati
 // duplicati se: pubblicati a max 3 giorni di distanza, stessa categoria o
 // stessi giocatori, e titoli molto simili (60%+ di parole significative in comune).
+// In più: due articoli con lo STESSO link alla fonte sono sempre doppioni,
+// a qualunque distanza di giorni (resta il primo uscito).
 
 import { readFile, readdir, rename, mkdir } from 'node:fs/promises';
 import path from 'node:path';
@@ -42,7 +44,8 @@ for (const f of files) {
   const date = fm.match(/^date:\s*["']?(\d{4}-\d{2}-\d{2})/m)?.[1] ?? '2000-01-01';
   const cat = fm.match(/^category:\s*["']?(\w+)/m)?.[1] ?? 'news';
   const players = [...fm.matchAll(/"([^"]+)"/g)].map((m) => m[1]);
-  arts.push({ f, title, date, cat, w: words(title), players: new Set(players) });
+  const src = fm.match(/^sourceUrl:\s*"(.*)"/m)?.[1] ?? '';
+  arts.push({ f, title, date, cat, src, w: words(title), players: new Set(players) });
 }
 
 // Ordina per data: in un gruppo di duplicati sopravvive il più vecchio (il primo uscito)
@@ -55,6 +58,10 @@ for (let i = 0; i < arts.length; i++) {
     const A = arts[i], B = arts[j];
     if (toRemove.some((r) => r.f === B.f)) continue;
     if (A.cat === 'taccuino' || B.cat === 'taccuino') continue; // i taccuini non si toccano
+    if (A.src && A.src === B.src) { // stessa fonte = stessa notizia, a qualunque distanza
+      toRemove.push({ f: B.f, dupOf: A.f, sim: 'stessa fonte', title: B.title });
+      continue;
+    }
     const daysDiff = Math.abs((new Date(A.date) - new Date(B.date)) / 86400000);
     if (daysDiff > 3) continue;
     const sim = similarity(A.w, B.w);
