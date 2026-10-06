@@ -1,5 +1,5 @@
 ---
-title: "Milan Top News: Inacio in arrivo? L'enigma Gimenez e le cessioni. Camarda e Comotto, rinnovo in vista - Pianeta Milan"
+title: "Milan Top News: Inacio in arrivo? L'enigma Gimenez e le cessioni. Camarda e Comotto, rinnovo in vista"
 titleEn: "Milan's Youth Reinforcements: Inacio Interest, Camarda and Comotto Contract Talks"
 excerpt: "Il Milan muove sul mercato dei giovani con l'interesse per Samuele Inacio, mentre Francesco Camarda e Christian Comotto sono in trattative per il rinnovo contrattuale."
 excerptEn: "Milan moves in the youth market with interest in Samuele Inacio, while Francesco Camarda and Christian Comotto are in contract renewal negotiations."

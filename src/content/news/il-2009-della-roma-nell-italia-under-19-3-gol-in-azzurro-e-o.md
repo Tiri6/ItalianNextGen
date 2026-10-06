@@ -1,5 +1,5 @@
 ---
-title: "Il 2009 della Roma nell’Italia Under 19: 3 gol in azzurro e ora la Serbia - Gazzetta Regionale"
+title: "Il 2009 della Roma nell’Italia Under 19: 3 gol in azzurro e ora la Serbia"
 titleEn: "Roma's 2009 Class: Young Striker's Three Goals for Italy U19 Ahead of Serbia Clash"
 excerpt: "Un attaccante della Roma classe 2009 ha già collezionato tre reti con l'Italia Under 19 e si prepara ad affrontare la Serbia nei prossimi impegni della selezione azzurra."
 excerptEn: "A Roma striker born in 2009 has already scored three goals for Italy's U19 team and is preparing to face Serbia in the Azzurri's upcoming fixtures."

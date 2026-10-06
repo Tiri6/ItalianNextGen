@@ -6,7 +6,7 @@ excerptEn: "The national team coach focuses on the defender, while two Roma pros
 date: 2026-09-24
 publishedAt: 2026-09-24T16:20:00+02:00
 category: news
-players: ["Niccolò Pisilli", "Diego Sia"]
+players: ["Niccolò Pisilli"]
 competitions: ["euro-u21-2027"]
 source: "Siamo la Roma"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnB2bVpZYWhod0N2TG8tUlJuMG9DUmc5M1A1aVJ1b3BmVWlMRjNMdXkxcnJkeTFsVWZSUDU4QnVqcEpqcFpBMWlPdGZzX1VxMWVrYkFNR21MbjlzSUFFbXdMeHVNR1dtcGVQbXJBTzdJdmUtRFl2UmdFbmg2MFFJLThMd09xallLSDFPTGpNdzNxLWkwLUNSSnZNem5CU2U5SUl1TmxDbXk?oc=5"

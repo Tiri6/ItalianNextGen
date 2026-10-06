@@ -1,5 +1,5 @@
 ---
-title: "La Stampa: \"Fortini, Comuzzo, Amatucci, l'alleanza sul mercato con la Fiorentina\" - Toro News"
+title: "La Stampa: \"Fortini, Comuzzo, Amatucci, l'alleanza sul mercato con la Fiorentina\""
 titleEn: "Torino and Fiorentina's Market Alliance: Fortini and Comuzzo in Focus"
 excerpt: "Il Torino e la Fiorentina rafforzano la loro collaborazione sul mercato. Tra i nomi coinvolti figurano Niccolò Fortini e Pietro Comuzzo, giovani talenti seguiti per il progetto 2030."
 excerptEn: "Torino and Fiorentina strengthen their market partnership. Young talents Niccolò Fortini and Pietro Comuzzo are among those involved in the alliance."

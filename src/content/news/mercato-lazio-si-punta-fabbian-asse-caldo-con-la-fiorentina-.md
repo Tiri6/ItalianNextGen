@@ -1,5 +1,5 @@
 ---
-title: "Mercato Lazio: si punta Fabbian, asse caldo con la Fiorentina - Goalnews24"
+title: "Mercato Lazio: si punta Fabbian, asse caldo con la Fiorentina"
 titleEn: "Lazio Eyes Fabbian: Negotiations Heat Up with Fiorentina"
 excerpt: "La Lazio intensifica i contatti per assicurarsi Giovanni Fabbian, con trattative in corso con la Fiorentina. Un'operazione che potrebbe rinforzare il centrocampo biancoceleste nel progetto di rinnovamento."
 excerptEn: "Lazio pushes to sign Giovanni Fabbian in heated negotiations with Fiorentina. A potential move aimed at strengthening the midfield ahead of future ambitions."

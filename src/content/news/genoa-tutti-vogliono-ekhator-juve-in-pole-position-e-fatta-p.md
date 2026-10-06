@@ -1,11 +1,11 @@
 ---
-title: "Genoa, tutti vogliono Ekhator: Juve in pole position. E’ fatta per Wiafe, Traorè più vicino - Primocanale"
+title: "Genoa, tutti vogliono Ekhator: Juve in pole position. E’ fatta per Wiafe, Traorè più vicino"
 titleEn: "Juve Eyes Genoa Prospect Ekhator as Serie A Talent Race Heats Up"
 excerpt: "La Juventus si posiziona in prima fila per assicurarsi Jeff Ekhator dal Genoa. Nel frattempo, Samuel Wiafe è vicino al trasferimento, mentre Traorè continua a essere seguito con interesse."
 excerptEn: "Juventus leads the race to secure Jeff Ekhator from Genoa. Elsewhere, Samuel Wiafe edges closer to a move, while Traorè remains firmly on scouts' radars."
 date: 2026-07-06
 category: news
-players: ["Jeff Ekhator", "Emanuele Rao", "Samuel Wiafe"]
+players: ["Jeff Ekhator", "Samuel Wiafe"]
 competitions: []
 source: "Primocanale"
 sourceUrl: "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW9KaXBXWW5mTGwzN2NMRHVtdmVMc1VJYzJueG82Q2xTTndVSUltbmlJMzhUWTZWSnRpczgwZURzV1Q4bXNIbTJudWd0VWJHdTlpWEs5SWQ4a3lPbW04cDNYNjJKTGFWbTVwUEwtRm1pVmJ6SkdGcjVHZUtXS2VpOHZhXy1LMlM5MVhXbktnbTFuQU5oNkJ6UXVZaWwwODF4NXEwQWJycjRTTm45?oc=5"

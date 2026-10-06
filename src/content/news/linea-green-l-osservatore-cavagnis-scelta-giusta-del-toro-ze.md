@@ -1,5 +1,5 @@
 ---
-title: "Linea Green, l'osservatore Cavagnis: \"Scelta giusta del Toro! Zeroli-Casadei? Bel centrocampo dinamico\" - Torino Granata"
+title: "Linea Green, l'osservatore Cavagnis: \"Scelta giusta del Toro! Zeroli-Casadei? Bel centrocampo dinamico\""
 titleEn: "Torino's Midfield Bet: Zeroli and Casadei Build Future"
 excerpt: "L'osservatore Cavagnis approva la strategia del Torino nel rafforzare il centrocampo con due giovani talenti italiani destinati a segnare il calcio dei prossimi anni."
 excerptEn: "Scout Cavagnis endorses Torino's strategy to strengthen midfield with two promising Italian talents set to shape the game in coming years."

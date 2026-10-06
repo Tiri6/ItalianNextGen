@@ -1,5 +1,5 @@
 ---
-title: "🧤 L'Arezzo rinnova Venturi: previsto un incontro tra Cutolo e il portiere! Su Nunziante... - Pianeta Serie B"
+title: "L'Arezzo rinnova Venturi: previsto un incontro tra Cutolo e il portiere! Su Nunziante..."
 titleEn: "Arezzo Set to Extend Venturi: Goalkeeper Talks Imminent"
 excerpt: "L'Arezzo prepara il rinnovo del portiere Venturi con un incontro programmato tra la dirigenza e il numero uno. Situazione in evoluzione anche su Nunziante."
 excerptEn: "Arezzo moving toward extending goalkeeper Venturi's contract with negotiations set to begin. Updates expected on Nunziante's future as well."

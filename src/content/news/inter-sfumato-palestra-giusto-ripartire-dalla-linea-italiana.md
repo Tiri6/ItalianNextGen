@@ -1,5 +1,5 @@
 ---
-title: "Inter, sfumato Palestra, giusto ripartire dalla linea Italiana: ecco perché Cambiaso o Kayode - TUTTOmercatoWEB"
+title: "Inter, sfumato Palestra, giusto ripartire dalla linea Italiana: ecco perché Cambiaso o Kayode"
 titleEn: "Inter's Palestra Move Falls Through: Focus Shifts to Cambiaso and Kayode"
 excerpt: "L'Inter non ha potuto contare su Palestra e ripensa alla difesa con nomi italiani come Cambiaso e Kayode, confermando l'attenzione verso i giovani azzurri in ottica futura."
 excerptEn: "Inter's move for Palestra failed to materialize. The Nerazzurri are now considering Italian defenders including Cambiaso and Kayode, reinforcing their focus on homegrown talent."

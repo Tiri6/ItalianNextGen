@@ -1,5 +1,5 @@
 ---
-title: "Mercato Lazio, Chiarodia e Rivero sorpassano Coppola per il post Romagnoli: le ultime - Cittaceleste.it"
+title: "Mercato Lazio, Chiarodia e Rivero sorpassano Coppola per il post Romagnoli: le ultime"
 titleEn: "Lazio's succession plan: Chiarodia and Rivero emerge as Romagnoli replacements ahead of Coppola"
 excerpt: "La Lazio accelera sulla difesa: Chiarodia e Rivero salgono in pole position per ereditare la fascia di Romagnoli, mentre Coppola scivola indietro nelle gerarchie biancocelesti."
 excerptEn: "Lazio speeds up defensive recruitment: Chiarodia and Rivero move to the front of the queue to replace Romagnoli, with Coppola falling down the pecking order."

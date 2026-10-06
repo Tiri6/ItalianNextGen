@@ -1,5 +1,5 @@
 ---
-title: "Il Parma sta prendendo un 2010: chi è Daniel Ethan Colombo - Forza Parma"
+title: "Il Parma sta prendendo un 2010: chi è Daniel Ethan Colombo"
 titleEn: "Parma Secure Young Talent Daniel Ethan Colombo - Class of 2010"
 excerpt: "Il Parma prosegue il lavoro di scouting sui giovani talenti azzurri ingaggiando Daniel Ethan Colombo, classe 2010. Un colpo in ottica futura per il progetto dei ducali."
 excerptEn: "Parma continues its scouting operations on young Italian talents by signing Daniel Ethan Colombo, born in 2010. A move aimed at strengthening the club's long-term development project."

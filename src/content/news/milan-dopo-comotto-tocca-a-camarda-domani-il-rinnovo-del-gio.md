@@ -1,5 +1,5 @@
 ---
-title: "Milan, dopo Comotto tocca a Camarda: domani il rinnovo del giovane attaccante - TUTTOmercatoWEB"
+title: "Milan, dopo Comotto tocca a Camarda: domani il rinnovo del giovane attaccante"
 titleEn: "Milan Set to Extend Camarda's Contract Following Comotto Renewal"
 excerpt: "Il Milan prosegue nella sua strategia di consolidamento dei talenti giovani: dopo Christian Comotto, domani è atteso il rinnovo di Francesco Camarda, il promettente attaccante della Primavera rossonera."
 excerptEn: "Milan continues its strategy to secure young talent: following Christian Comotto's contract extension, Francesco Camarda, the Rossoneri's promising academy striker, is set to extend his deal."

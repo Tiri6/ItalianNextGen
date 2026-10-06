@@ -1,5 +1,5 @@
 ---
-title: "Il Frosinone si inserisce su Amey del Bologna: possibile beffa per il Vicenza - TUTTOmercatoWEB"
+title: "Il Frosinone si inserisce su Amey del Bologna: possibile beffa per il Vicenza"
 titleEn: "Frosinone Eyes Amey: Bologna Prospect Becomes Target in Serie B Battle"
 excerpt: "Il Frosinone si inserisce nella corsa per Wisdom Amey, terzino del Bologna. Il club ciociaro potrebbe soffiare il giovane talento al Vicenza, che aveva già avviato i contatti."
 excerptEn: "Frosinone enters the race for Wisdom Amey, Bologna's fullback prospect. The Ciociarian club could snatch the young talent from Vicenza, who had already initiated contact."

@@ -1,5 +1,5 @@
 ---
-title: "Italia Under 21, vittoria in amichevole contro l'Albania: in campo Torriani e Zeroli, segna Calvani - Calciomercato"
+title: "Italia Under 21, vittoria in amichevole contro l'Albania: in campo Torriani e Zeroli, segna Calvani"
 titleEn: "Italy U21 Defeats Albania in Friendly, Torriani and Zeroli Feature in Victory"
 excerpt: "L'Under 21 italiana supera l'Albania in amichevole. In campo Torriani e Zeroli, con Calvani a segno."
 excerptEn: "Italy's Under 21 side beats Albania in a friendly match. Torriani and Zeroli featured in the lineup, with Calvani on the scoresheet."

@@ -6,7 +6,7 @@ excerptEn: "The defender returns to Liguria with the Italian U21 squad. Importan
 date: 2026-10-04
 publishedAt: 2026-10-04T13:40:00+02:00
 category: news
-players: ["Diego Mascardi", "Christian Lupo"]
+players: ["Diego Mascardi"]
 competitions: ["euro-u21-2027"]
 source: "Città della Spezia"
 sourceUrl: "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3hMTU5CWHpJaEJtcmdIWHp2RkszenROM2NvVENNZFZPeDlsdFdOcm8yQllXcGI2c1lzUUgwekh1NllkMzZBMFJDYVRfYzZvakZFUG80UjJ1dURnZWVmd2ptUGtTeFc0ZFp3QXc4SzVVN0wzNXYyOTFIV2cwcFNoVF9aOVpWLU1TbW5nZ0FLWTFDNXcxaFZhZW9JdkFiSEhHOUtJVzhkMTAtbFVUMk80aC1waHJIVjFmMlp1X0FUN19YTXduOHdjSC04LV9lYWFnM0ZMYg?oc=5"

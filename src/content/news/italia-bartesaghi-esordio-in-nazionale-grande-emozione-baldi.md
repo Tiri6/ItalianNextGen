@@ -1,5 +1,5 @@
 ---
-title: "Italia, Bartesaghi: \"Esordio in Nazionale grande emozione, Baldini trasmette serenità\" - Sportmediaset"
+title: "Italia, Bartesaghi: \"Esordio in Nazionale grande emozione, Baldini trasmette serenità\""
 titleEn: "Bartesaghi: Italy Debut a Dream Come True, Baldini Brings Calm"
 excerpt: "Davide Bartesaghi racconta l'emozione del primo cap con l'Italia, sottolineando la serenità trasmessa dal ct Baldini. Un esordio che rappresenta un ulteriore passo nel percorso della Next Gen azzurra verso il 2030."
 excerptEn: "Davide Bartesaghi recounts the emotion of his Italy debut, highlighting the serenity conveyed by coach Baldini. A milestone that marks another step in the journey of Italian's next generation toward 2030."

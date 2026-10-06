@@ -6,7 +6,7 @@ excerptEn: "Leonardo Mendicino leaves Atalanta and joins Bari on a permanent tra
 date: 2026-09-17
 publishedAt: 2026-09-17T14:40:00+02:00
 category: news
-players: ["Seydou Fini", "Leonardo Mendicino"]
+players: ["Leonardo Mendicino"]
 competitions: []
 source: "Tuttocampo"
 sourceUrl: "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmF3Z0E2ZllRekh2NlI2UWR2OXE4SjRZTEUzb09QMHNOX0hTZEU5Zk9vSUpROE5VQVMzd1Jqc2pCZ3ViMzQ0MGJBNi05Yld1UXg3NGdaSlBHZ21hRkp2R0hMSUl6bE9WdWE3WWQ0bG5qendsc1VMM2Y3YjA1cG03UUMzU3IwaGUzZXlBbEFDMGR2RVpnWXdDUVZZZnlYYm8xaGRUdWhsT1pxZjVkTWJXYzZQbXhUWWNRSmxXTU9yMTV5RGVxZi1kS201Tmx1MUtsd29aWlRLc9IB2wFBVV95cUxOWGMxeEhlejhVSWJCcTRvZ0hQOHBuWGtWN1ozUFY3dExTX21qekZlbDFqSC1Jc2lhSkpERk01aEpzWkEtSkp2U25JS3VRRm1iRTdxV0I1WkJGZjg5U3hLTDZrbTNnTEN3OWpsUHBaZE1aWTZhSEU3MWxEMi1lcDFsRVFIcS13b3Mzb0NUTVd2OFpDZDhOZm5UYXNBZnh0VWhjMDRQNHI2UFljSXhNMW5mTXFZRXZvVjhLRDVrcm5vbHpIZHZUZ0tCcE1jcEl2T0dQLTdkWHJXb0Y5TFE?oc=5"

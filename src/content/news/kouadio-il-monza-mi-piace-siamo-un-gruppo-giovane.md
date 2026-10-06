@@ -6,7 +6,7 @@ excerptEn: "The Brianza midfielder speaks about his positive start to the season
 date: 2026-09-19
 publishedAt: 2026-09-19T12:20:00+02:00
 category: mercato
-players: ["Eddy Kouadio", "Diego Sia"]
+players: ["Eddy Kouadio"]
 competitions: []
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3ZVOVc0bDN5U21rcDdxWmN4akc5OFFlaTl2bXZtek5Md01TQ2RLWHYtaVdiM09lNDFMZGt5NnJOakNHaDlFSzVVTmM2eER6anZmUHJBMXZZVmNXd2dJVktBNEJOOG5hTTR0VzRPd0ZYa205T1I4dTc4RVVtNFAzTS1sT2Y4ZUpGNHBtTUhjVjI4NWlWVjFLRA?oc=5"

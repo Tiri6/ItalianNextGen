@@ -1,5 +1,5 @@
 ---
-title: "Milan, rinnovi fino al 2031 per Camarda e Comotto: il club blinda i suoi gioielli - TUTTOmercatoWEB"
+title: "Milan, rinnovi fino al 2031 per Camarda e Comotto: il club blinda i suoi gioielli"
 titleEn: "Milan Secures Future of Camarda and Comotto with Contract Extensions Through 2031"
 excerpt: "Il Milan ha blindato due dei suoi prospetti più promettenti con rinnovi contrattuali fino al 2031. Francesco Camarda e Christian Comotto rappresentano il nucleo su cui il club rossonero intende costruire il proprio futuro."
 excerptEn: "AC Milan has secured two of its most promising young talents with contract extensions through 2031. Francesco Camarda and Christian Comotto embody the foundation upon which the Rossoneri plan to build their future."

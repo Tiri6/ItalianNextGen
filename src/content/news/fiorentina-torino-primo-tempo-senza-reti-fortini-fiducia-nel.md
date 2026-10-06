@@ -6,7 +6,7 @@ excerptEn: "Fiorentina and Torino remain locked at 0-0 after the opening half. T
 date: 2026-09-19
 publishedAt: 2026-09-19T11:00:00+02:00
 category: performance
-players: ["Niccolò Fortini", "Guido Della Rovere"]
+players: ["Niccolò Fortini"]
 competitions: []
 source: "Toro News"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZheWhwclFKSGdYOUtERWRHeUxMQXZJZU1IbDFfcnhDel9SWnRlR095MTZ6enJ5Y2lNWVRIOXpqdUpCeXJ5VG40NFlmaWFDUk0wVW1jcDJ3Wm5LT2hCVC0wMldPczRkRmQtdllBbEctTUZJLXlRVXRaeFVvcDBKc2Nuank1dC1YWkxMN1BEZkM1X0NER0l4UGlTSl9fdlFFcTdXSkpB0gGrAUFVX3lxTFBQekkyN1lFMmt0WHNSVXppT0NfVm5Scnpya3NTWkltN1p0SGhQUWhQdHltUXp4LWc0b3lodW96NzRXcHFNd2RNLUwwT1N2RG5RWmJtQW8weWxZR1lYSklRdlp0Y1F6NV9BOHRIUFZpd1Z1QjZZQk05MFFjS3JueXRWd19YdmExamFrbFJfSFJua3NNSWt1cTBlRG9VZ08yR2lxLWRmSnF0bjJXZw?oc=5"

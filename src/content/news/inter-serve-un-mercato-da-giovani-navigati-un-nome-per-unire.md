@@ -1,5 +1,5 @@
 ---
-title: "Inter, serve un mercato da \"giovani navigati\". Un nome per unire esperienza e futuro: è italiano e gioca in Premier - L'Interista"
+title: "Inter, serve un mercato da \"giovani navigati\". Un nome per unire esperienza e futuro: è italiano e gioca in Premier"
 titleEn: "Inter's Market Strategy: Seeking Experienced Young Talents, Italian Option in Premier League"
 excerpt: "L'Inter pianifica un mercato orientato verso profili di giovani calciatori con già una solida esperienza internazionale. Nel mirino dei nerazzurri un talento italiano che milita in Premier League, capace di unire freschezza anagrafica e maturità calcistica."
 excerptEn: "Inter plans a market strategy focused on young players with solid international experience. In the Nerazzurri's sights is an Italian talent playing in the Premier League, capable of combining youth with football maturity."

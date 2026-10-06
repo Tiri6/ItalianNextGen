@@ -6,7 +6,7 @@ excerptEn: "Samuele Inacio discusses his journey through Borussia Dortmund's aca
 date: 2026-10-01
 publishedAt: 2026-10-01T11:20:00+02:00
 category: news
-players: ["Samuele Inacio", "Diego Sia"]
+players: ["Samuele Inacio"]
 competitions: []
 source: "YouTube"
 sourceUrl: "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40Z3U5eGNTSGpnc3pYTk1kMGhjYjRiVkNJbXdQaG1DaUFTdFAxa0NfczhPRDcwMDMtVWY2NndZNGgzMVVXRElmS0Z0T1RQZVQxTTNLR0ltbkZZYjRB?oc=5"

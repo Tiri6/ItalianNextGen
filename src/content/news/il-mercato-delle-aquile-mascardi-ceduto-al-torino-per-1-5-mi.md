@@ -1,12 +1,12 @@
 ---
-title: "Il mercato delle Aquile, Mascardi ceduto al Torino per 1,5 milioni. I gol di Mazzocchi, la fantasia di Florenzi - Quotidiano Sportivo"
+title: "Il mercato delle Aquile, Mascardi ceduto al Torino per 1,5 milioni. I gol di Mazzocchi, la fantasia di Florenzi"
 titleEn: "Mascardi Joins Torino: Young Talents on the Move in Italian Football Market"
 excerpt: "Diego Mascardi passa al Torino per 1,5 milioni di euro. Nel mercato delle giovani promesse italiane, continuano a muoversi i pezzi in vista della costruzione della squadra del futuro."
 excerptEn: "Diego Mascardi moves to Torino for €1.5 million. Italy's young talent market remains active as clubs build for the future."
 date: 2026-07-19
 publishedAt: 2026-07-19T19:40:00+02:00
 category: mercato
-players: ["Diego Mascardi", "Diego Sia"]
+players: ["Diego Mascardi"]
 competitions: []
 source: "Quotidiano Sportivo"
 sourceUrl: "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbE1LRkpScUY0Z1ZSV2hCaEprNlpXMHhwOFhpM0tCa0N4R3lvRGR3cnFNZFRVR3NmbFBVRHRDajBpeUJrY0I4SmlhVlBJQ05PbUN5cks5WnN6cDdnOV83dzc0TktFdEdoLTlGNGpkMmItaUlEM0RNTTlyR2FVd01QXzZUNVpPTFU1X3NSeg?oc=5"

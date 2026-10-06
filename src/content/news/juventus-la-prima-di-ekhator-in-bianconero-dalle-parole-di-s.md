@@ -1,5 +1,5 @@
 ---
-title: "Juventus, la prima di Ekhator in bianconero: dalle parole di Spalletti al debutto da titolare - TUTTOmercatoWEB"
+title: "Juventus, la prima di Ekhator in bianconero: dalle parole di Spalletti al debutto da titolare"
 titleEn: "Ekhator's Juventus debut: from Spalletti's words to starting XI"
 excerpt: "Jeff Ekhator ha esordito da titolare in bianconero. Le indicazioni di Spalletti hanno tracciato il percorso del giovane talento italiano verso la Vecchia Signora."
 excerptEn: "Jeff Ekhator made his Juventus debut as a starter. Spalletti's guidance paved the way for the young Italian talent to the Bianconeri."

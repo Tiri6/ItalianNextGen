@@ -1,5 +1,5 @@
 ---
-title: "Le prossime mosse dell'Inter sul mercato dopo Khalaili: gli obiettivi dei nerazzurri da Chalobah al centrocampista e chi può partire - Goal.com"
+title: "Le prossime mosse dell'Inter sul mercato dopo Khalaili: gli obiettivi dei nerazzurri da Chalobah al centrocampista e chi può partire"
 titleEn: "Inter's Market Moves: Targets from Chalobah to Midfield, Potential Departures Ahead"
 excerpt: "Dopo Khalaifi, l'Inter continua a pianificare il proprio mercato con nomi nuovi in difesa e a centrocampo, mentre alcuni giocatori potrebbero lasciare Milano."
 excerptEn: "Following Khalaifi's move, Inter plans its next market strategy with new defensive and midfield targets, while some squad members could depart."

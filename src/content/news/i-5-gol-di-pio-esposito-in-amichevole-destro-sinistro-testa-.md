@@ -1,12 +1,12 @@
 ---
-title: "I 5 gol di Pio Esposito in amichevole: destro, sinistro, testa e… - Mediaset Infinity"
+title: "I 5 gol di Pio Esposito in amichevole: destro, sinistro, testa e…"
 titleEn: "Pio Esposito Stars with Five-Goal Display in Friendly"
 excerpt: "Francesco Pio Esposito protagonista assoluto in amichevole con una prestazione straordinaria: una tripletta di gol realizzati con diverse tecniche evidenzia la completezza offensiva del talento della next gen azzurra."
 excerptEn: "Francesco Pio Esposito steals the show in friendly match with an extraordinary performance: multiple goals using different techniques highlight the offensive completeness of Italy's next generation talent."
 date: 2026-07-24
 publishedAt: 2026-07-24T15:00:00+02:00
 category: performance
-players: ["Francesco Pio Esposito", "Seydou Fini"]
+players: ["Francesco Pio Esposito"]
 competitions: []
 source: "Mediaset Infinity"
 sourceUrl: "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVNSV2ppNjNPdlBPRWJsQXBmNGRHNUxrMW02VGxLLXpwVFNmZGRFbElWaFZWaFN0bTBLRjBaUmdZMXRFS2szRUhSRkFDRktZcHlNdkhOVGVIdFJmQnVlZG1LM1R3UWNEQTlILWpGdUJCTVJ6YWRKbHpqYlVwWkp0WC0takItenhPWkt5Zk0zNkNYeWN5U2hUal80LUpaWTBYd1NTV1hCMnVFZFpmZkc4M2U3STBDYkQ3MkdqV3RsdmZxZk41bU9MQktyZS02WTh1?oc=5"

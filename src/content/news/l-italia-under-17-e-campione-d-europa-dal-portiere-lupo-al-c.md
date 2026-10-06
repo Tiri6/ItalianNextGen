@@ -1,5 +1,5 @@
 ---
-title: "L'Italia Under 17 è Campione d'Europa: dal portiere Lupo al CT Franceschini, i protagonisti del trionfo azzurro - Goal.com"
+title: "L'Italia Under 17 è Campione d'Europa: dal portiere Lupo al CT Franceschini, i protagonisti del trionfo azzurro"
 titleEn: "Italy U17 Crowned European Champions: Lupo and Franceschini Lead Azzurri to Glory"
 excerpt: "L'Italia Under 17 ha vinto il Campionato Europeo. Una vittoria che conferma la solidità del percorso formativo azzurro in vista dei prossimi impegni internazionali."
 excerptEn: "Italy's U17 side has clinched the European Championship title. A triumph that underscores the strength of Italian youth development ahead of upcoming international challenges."

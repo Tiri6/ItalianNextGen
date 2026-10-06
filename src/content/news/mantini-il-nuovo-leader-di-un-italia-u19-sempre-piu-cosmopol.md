@@ -1,5 +1,5 @@
 ---
-title: "Mantini: il nuovo leader di un'Italia U19 sempre più cosmopolita - MondoPrimavera"
+title: "Mantini: il nuovo leader di un'Italia U19 sempre più cosmopolita"
 titleEn: "Mantini Leads Italy U19 in New European Era"
 excerpt: "Matteo Mantini emerge come figura centrale nella nazionale Under 19 italiana, che continua a rinnovarsi con una composizione sempre più internazionale. Un cambio generazionale che guarda alle sfide future."
 excerptEn: "Matteo Mantini stands out as a key player in Italy's U19 squad, which keeps evolving with an increasingly cosmopolitan roster. A generational shift with an eye toward future challenges."

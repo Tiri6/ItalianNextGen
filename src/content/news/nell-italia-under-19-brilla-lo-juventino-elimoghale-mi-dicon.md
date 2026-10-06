@@ -1,5 +1,5 @@
 ---
-title: "Nell'Italia Under 19 brilla lo juventino Elimoghale: \"Mi dicono che somigli a Rafa Leao\" - TUTTOmercatoWEB"
+title: "Nell'Italia Under 19 brilla lo juventino Elimoghale: \"Mi dicono che somigli a Rafa Leao\""
 titleEn: "Juventus Talent Elimoghale Shines in Italy U19: The Next Generation Eyes 2030"
 excerpt: "Destiny Elimoghale continua a impressionare nelle giovanili della Juventus e della nazionale italiana Under 19. Le sue qualità tecniche lo accostano ai migliori talenti europei del suo profilo."
 excerptEn: "Destiny Elimoghale continues to impress in Juventus youth ranks and Italy's U19 squad. His technical qualities are drawing comparisons to top European talents of his profile."

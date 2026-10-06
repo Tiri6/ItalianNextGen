@@ -1,5 +1,5 @@
 ---
-title: "Italia U19, Federico Coletta: \"Contro l'Ucraina daremo tutto\" - MondoPrimavera"
+title: "Italia U19, Federico Coletta: \"Contro l'Ucraina daremo tutto\""
 titleEn: "Italy U19, Federico Coletta: \"We'll Give Everything Against Ukraine\""
 excerpt: "Il centrocampista della Nazionale giovanile italiana si prepara alla sfida contro l'Ucraina con determinazione, promettendo massimo impegno in una partita fondamentale per il progetto azzurro."
 excerptEn: "The Italian youth national team midfielder prepares for the clash against Ukraine with determination, promising maximum effort in a crucial match for the Azzurri project."

@@ -1,5 +1,5 @@
 ---
-title: "Grecia-Italia 0-1: ancora gol di Pio Esposito, la Nazionale di Baldini chiude con due successi in amichevole - Corriere della Sera"
+title: "Grecia-Italia 0-1: ancora gol di Pio Esposito, la Nazionale di Baldini chiude con due successi in amichevole"
 titleEn: "Esposito Strikes Again: Italy Completes Friendly Double with Greece Victory"
 excerpt: "Francesco Pio Esposito continua la sua striscia positiva in maglia azzurra. La Nazionale di Baldini chiude il ciclo di amichevoli con il secondo successo consecutivo."
 excerptEn: "Francesco Pio Esposito extends his scoring streak in the Azzurri jersey. Baldini's squad closes the friendly window with a second consecutive victory."

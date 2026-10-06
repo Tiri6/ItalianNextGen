@@ -1,5 +1,5 @@
 ---
-title: "MERCATO - Napoli, duello in Serie B tra Modena e Cesena per l'azzurro Ambrosino: i dettagli - Napoli Magazine"
+title: "MERCATO - Napoli, duello in Serie B tra Modena e Cesena per l'azzurro Ambrosino: i dettagli"
 titleEn: "Ambrosino in the spotlight: Modena and Cesena battle for Napoli's young talent"
 excerpt: "Giuseppe Ambrosino finisce nel mirino di due club di Serie B. Modena e Cesena si contendono il giovane azzurro in un duello di mercato che potrebbe rappresentare un passaggio importante nella sua crescita calcistica."
 excerptEn: "Giuseppe Ambrosino becomes the subject of intense competition in the lower division. Modena and Cesena are both pursuing the Napoli prospect in a market battle that could prove decisive for his development."

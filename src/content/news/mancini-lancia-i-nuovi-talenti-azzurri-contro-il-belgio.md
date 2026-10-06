@@ -6,7 +6,7 @@ excerptEn: "Mancini fields Doumbia, Zoma and Inacio against Belgium. A decisive 
 date: 2026-09-27
 publishedAt: 2026-09-27T19:00:00+02:00
 category: performance
-players: ["Samuele Inacio", "Simone Pafundi", "Issa Doumbia", "Mohamed Alì Zoma"]
+players: ["Samuele Inacio", "Issa Doumbia", "Mohamed Alì Zoma"]
 competitions: []
 source: "Mowmag.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ3NHWEtPa201N1I5eWMzN0VxQlJFNU5Ua29ScEdrbjlNVUtzTkJzcFZTTEFya0NCY3VnaEwwZW5jeVF1aGVrNWFzV3o5Q2d5SlRzb3BabXFfakx4THMzV3dSOWJZQS03RklIZ3pEaGJOOU03cmg0T2lJMHVtZlRtNllXZ0M1NXhwcWxieFBYZDZjRWRfSU05U0YxSzRzTF9YX3VtZ080U002Q1VwRjZpSHhNVXhfNE5uV0ROVWJ5WTdGYXdXdzN6U0gxSUZhQ29id2hGUDZITzF4UUI2a2Z6TjZhM1RUX3BCWUxKemJyQWRkUTM1N2E3bWxxdHNQNklGakQyVkp0aFoxbkNMZmx1MlpnalpoQWRuWG5SMWE3ZnlXdWh1RWFnRnp3?oc=5"

@@ -1,5 +1,5 @@
 ---
-title: "Matteo Cichella: profilo e statistiche del giocatore - Sky Sport"
+title: "Matteo Cichella: profilo e statistiche del giocatore"
 titleEn: "Matteo Cichella: Profile and Statistics"
 excerpt: "Sky Sport dedica uno speciale al profilo e alle statistiche di Matteo Cichella, giovane talento seguito da Italian Next Gen in ottica dei Mondiali 2030."
 excerptEn: "Sky Sport focuses on the profile and statistics of Matteo Cichella, a young talent being monitored for the 2030 World Cup project."

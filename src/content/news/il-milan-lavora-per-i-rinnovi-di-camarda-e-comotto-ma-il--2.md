@@ -1,12 +1,12 @@
 ---
-title: "Il Milan lavora per i rinnovi di Camarda e Comotto: ma il futuro è da definire - Tutto Udinese"
+title: "Il Milan lavora per i rinnovi di Camarda e Comotto: ma il futuro è da definire"
 titleEn: "Milan in Talks with Camarda and Comotto Over Contract Extensions"
 excerpt: "Il Milan sta lavorando ai rinnovi di Francesco Camarda e Christian Comotto, anche se il profilo del loro futuro rimane ancora da definire con chiarezza."
 excerptEn: "AC Milan is working on contract renewals for Francesco Camarda and Christian Comotto, though the trajectory of their futures remains to be determined."
 date: 2026-07-14
 publishedAt: 2026-07-14T10:00:00+02:00
 category: news
-players: ["Francesco Camarda", "Christian Comotto", "Seydou Fini"]
+players: ["Francesco Camarda", "Christian Comotto"]
 competitions: []
 source: "Tutto Udinese"
 sourceUrl: "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHcxc054dF9iWDRmZVhQcnRBRERxUWpGMWNTTjNZVzF1SnFsdENuU3g1WXk0ZHVROWN6d3JvUGFHOUFaZ19SX2UzX1VMLUhHNGQzRGt4RWZfdWtnYkQ0X1JQbF91VmdhY0x5M3lZWFkzcmdWbTc3dnhaS3o4MVZKUnNQakZzOUlGdHlvRkNpZnIzcXdQd2lucw?oc=5"

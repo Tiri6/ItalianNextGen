@@ -1,5 +1,5 @@
 ---
-title: "Gravina: \"Se perdiamo gli Inacio e i Reggiani, il problema non è della FIGC\" - TUTTOmercatoWEB"
+title: "Gravina: \"Se perdiamo gli Inacio e i Reggiani, il problema non è della FIGC\""
 titleEn: "Gravina Shifts Responsibility: Blame Not on FIGC for Losing Young Talent"
 excerpt: "Il presidente federale respinge le critiche sulla perdita di giovani promesse come Inacio e Reggiani, sostenendo che la responsabilità non ricade sulla FIGC."
 excerptEn: "The federation chief deflects criticism over the loss of emerging talents like Inacio and Reggiani, arguing the FIGC is not responsible."

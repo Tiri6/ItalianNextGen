@@ -1,5 +1,5 @@
 ---
-title: "Genoa, ecco Wiafe: il nuovo acquisto anticipa il rientro e raggiunge De Rossi a Moena - MondoPrimavera"
+title: "Genoa, ecco Wiafe: il nuovo acquisto anticipa il rientro e raggiunge De Rossi a Moena"
 titleEn: "Genoa's Wiafe Joins De Rossi's Squad in Moena, Returns Early from Break"
 excerpt: "Samuel Wiafe ha accelerato i tempi del suo rientro e si è aggregato anticipatamente al ritiro del Genoa a Moena con il tecnico De Rossi, segnando un buon segnale in vista della stagione."
 excerptEn: "Samuel Wiafe has hastened his return and joined Genoa's training camp in Moena under coach De Rossi ahead of schedule, a positive signal for the upcoming season."

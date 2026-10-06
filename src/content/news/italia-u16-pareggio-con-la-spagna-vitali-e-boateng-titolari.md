@@ -6,7 +6,7 @@ excerptEn: "Young Italy held to a draw against Spain. The two Parma players had 
 date: 2026-09-19
 publishedAt: 2026-09-19T12:00:00+02:00
 category: performance
-players: ["Seydou Fini", "Federico Croci"]
+players: []
 competitions: ["under-15-16"]
 source: "Parma Live"
 sourceUrl: "https://news.google.com/rss/articles/CBMid0FVX3lxTE03ZExZZTExaUdkN2NQa1BhOTJuZW82LTNNS3VKbmJVdUpWeXBtYmhTSTZra2habWxUbkhxOUlxNjY4M2VZekM5Q2FOOWI1MklKQlhET2NpcVE2SFAxeGxsTHdya0lCYUFNWkdybm43cVdTQVhWMVJn?oc=5"

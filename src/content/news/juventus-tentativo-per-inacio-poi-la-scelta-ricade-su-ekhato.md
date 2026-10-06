@@ -6,7 +6,7 @@ excerptEn: "The Bianconeri had targeted Samuele Inacio in the transfer market, b
 date: 2026-09-27
 publishedAt: 2026-09-27T18:40:00+02:00
 category: mercato
-players: ["Jeff Ekhator", "Samuele Inacio", "Alessandro Romano"]
+players: ["Jeff Ekhator", "Samuele Inacio"]
 competitions: []
 source: "Calciomercato"
 sourceUrl: "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlltOGEwbkpiVEFKT0NhMkRzczFQTk9LNWY1cWhSY2tOUE5fSVIwOVBoQkpTWE1IM3VjdXIzd1pXWklvTjRtdVNFeFVSSUlHVzJ1bXVicURELUZRTGlrdjkzcU4xbnAwZDZYZWFnWDVReEZucGRaWGxVMjdYMEpJNDdmVE1lVm5fNmlvU0JiRDFVaDJMbG80UHJxQlZLLTVSdWpFTmVPaFNncVd6VFVQOUJVZ3REWmdOYUhUZG0teVBGVHBPa3RicHhYdEI?oc=5"

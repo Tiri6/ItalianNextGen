@@ -1,5 +1,5 @@
 ---
-title: "Leali al Verona libera Montipò, sirene inglesi per Desplanches - Calciomercato"
+title: "Leali al Verona libera Montipò, sirene inglesi per Desplanches"
 titleEn: "Leali's Verona Move Frees Up Montipò, English Clubs Circle Desplanches"
 excerpt: "Il mercato dei portieri italiani si muove: l'arrivo di Leali al Verona libera Montipò, mentre Desplanches attira l'interesse di club inglesi."
 excerptEn: "The Italian goalkeepers market shifts: Leali's arrival at Verona opens the door for Montipò, while Desplanches catches the attention of English sides."

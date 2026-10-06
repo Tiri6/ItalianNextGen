@@ -1,5 +1,5 @@
 ---
-title: "Il Borsino del Calciomercato di Serie B: Desplanches verso la A, rebus Di Nardo e Mulattieri - Virgilio Sport"
+title: "Il Borsino del Calciomercato di Serie B: Desplanches verso la A, rebus Di Nardo e Mulattieri"
 titleEn: "Desplanches Eyes Serie A Move: Young Talents in the Spotlight of Summer Transfers"
 excerpt: "Il portiere Sebastiano Desplanches è nel mirino dei club di Serie A dopo una stagione convincente in cadetteria. Nel mercato estivo emergono anche i dubbi legati a profili come Di Nardo e Mulattieri."
 excerptEn: "Goalkeeper Sebastiano Desplanches is attracting Serie A clubs following a strong season in Serie B. The summer transfer window also raises questions about other young prospects like Di Nardo and Mulattieri."

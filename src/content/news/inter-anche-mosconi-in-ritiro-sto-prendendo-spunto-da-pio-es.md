@@ -1,5 +1,5 @@
 ---
-title: "Inter, anche Mosconi in ritiro: \"Sto prendendo spunto da Pio Esposito. Chivu? Futuro da top\" - TUTTOmercatoWEB"
+title: "Inter, anche Mosconi in ritiro: \"Sto prendendo spunto da Pio Esposito. Chivu? Futuro da top\""
 titleEn: "Inter, Mosconi Joins Training Camp: Learning from Pio Esposito's Path"
 excerpt: "Il difensore Mattia Mosconi è stato aggregato al ritiro nerazzurro, dove sta studiando da vicino l'evoluzione di Francesco Pio Esposito. Chivu rappresenta un modello di crescita verso i vertici internazionali."
 excerptEn: "Defender Mattia Mosconi has joined Inter's training camp, where he is closely observing Francesco Pio Esposito's development. Chivu embodies the model of growth towards international excellence."

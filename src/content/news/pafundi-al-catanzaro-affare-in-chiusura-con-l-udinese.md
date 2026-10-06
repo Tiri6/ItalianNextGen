@@ -6,7 +6,7 @@ excerptEn: "Negotiations between the Calabrian club and Udinese are close to bei
 date: 2026-07-28
 publishedAt: 2026-07-28T15:20:00+02:00
 category: mercato
-players: ["Simone Pafundi", "Seydou Fini"]
+players: ["Simone Pafundi"]
 competitions: []
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWtYdUFENW9jUG02NnNUVlA3LWhSWnlTbkFMT1dCeGVGdmV0M19IZVgwSld6dWwza0szT3RCa3FZVlVuV1pqeW8zbkN3TUM0cnNqT3FDcDdjbE9QdTJ0Z1U4eUprSUN4d0hsZ2dVd1k2UFczalNjU0xjVmNzNHpib25DZ3NIU3BWcXJEeWRsWkJodDJaWlNHYlZMUGtncE9GN0cxYUpfMndleHJSZFBQdTZuOVZQUlJuYWc?oc=5"

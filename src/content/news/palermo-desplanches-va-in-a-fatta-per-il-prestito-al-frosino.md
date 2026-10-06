@@ -1,5 +1,5 @@
 ---
-title: "Palermo, Desplanches va in A: fatta per il prestito al Frosinone - Mediagol"
+title: "Palermo, Desplanches va in A: fatta per il prestito al Frosinone"
 titleEn: "Desplanches Steps Up to Serie A: Palermo Loan Deal with Frosinone Sealed"
 excerpt: "Sebastiano Desplanches lascia il Palermo in prestito per approdare al Frosinone in Serie A. Un'opportunità di crescita per il giovane portiere nel massimo campionato italiano."
 excerptEn: "Sebastiano Desplanches leaves Palermo on loan to join Frosinone in Serie A. A growth opportunity for the young goalkeeper in Italy's top flight."

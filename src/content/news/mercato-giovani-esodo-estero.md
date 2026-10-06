@@ -5,7 +5,7 @@ excerpt: "Da Leoni a Koleosho, sono già 15 i talenti italiani under 23 nei camp
 excerptEn: "From Leoni to Koleosho, 15 Italian under-23 talents already play in foreign leagues. Italian football's cultural revolution travels on budget airlines."
 date: 2026-06-15
 category: mercato
-players: ["Giovanni Leoni", "Luca Koleosho", "Cher Ndour"]
+players: ["Giovanni Leoni", "Luca Koleosho"]
 source: "Sportmediaset"
 sourceUrl: "https://www.sportmediaset.mediaset.it/foto/calcio/nazionale/talenti-italiani-estero-under-21-nazionale-futuro_111054497-202602k.shtml"
 ---

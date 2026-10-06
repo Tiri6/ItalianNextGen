@@ -6,7 +6,7 @@ excerptEn: "Italian winger Luca Koleosho will not continue in Serie A. The 2005-
 date: 2026-07-31
 publishedAt: 2026-07-31T13:40:00+02:00
 category: mercato
-players: ["Luca Koleosho", "Seydou Fini"]
+players: ["Luca Koleosho"]
 competitions: []
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlc1cVk1TkE3ZHZycmY3dWVWcWJlLTJBV2FWdVlhYWdWNzFlM2ROdU5QdzI0T0Q4Y1FXWHotNWtld0VjU1dYalZQeTl0blRfamVGWmt1SXQ4V19vWENLQ1JrMzdNb3JORU5Yem1MaFRYMUg4OU44TEhib3ozTU9GOEdWTzFDb3RvU0xQalgxbHNYZks0c0ZnR1Y3aTBtenA0UGZUNDBvZ2VXZFR3dGlV?oc=5"
