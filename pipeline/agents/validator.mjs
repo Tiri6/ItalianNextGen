@@ -44,6 +44,19 @@ function normalizeTitle(t) {
   return t.toLowerCase().replace(/[^a-zà-ù0-9 ]/gi, '').replace(/\s+/g, ' ').trim();
 }
 
+// Cognomi che sono anche parole comuni o nomi di altre persone note del calcio:
+// per questi serve il NOME COMPLETO nel titolo (es. "sia" congiunzione, "Fini"/"finisce",
+// "Romano" = Fabrizio Romano, "Arena" = stadi/palazzetti/testate).
+const AMBIGUOUS_SURNAMES = new Set(['sia', 'romano', 'arena']);
+// Omonimi famosi da escludere: se nel titolo c'è questo nome, il cognome NON è il nostro giocatore
+const HOMONYMS = { motta: ['thiago motta'], esposito: ['salvatore esposito', 'sebastiano esposito'] };
+
+// Match a PAROLA INTERA (niente "ansia" → Sia, "crociati" → Croci, "arenacalcio" → Arena)
+function hasWord(text, word) {
+  const w = word.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return new RegExp(`(^|[^a-z0-9à-ù])${w}($|[^a-z0-9à-ù])`, 'i').test(text);
+}
+
 function lastName(fullName) {
   const parts = fullName.split(' ');
   return parts[parts.length - 1];
@@ -60,6 +73,10 @@ export function validate(items, players, seen) {
 
   for (const item of items) {
     const normTitle = normalizeTitle(item.title);
+    // Titolo senza la testata finale (" - TuttoFrosinone.com"): il nome del sito non è un giocatore
+    // (punteggiatura → spazio, così "Inter-Kayode" o "Mascardi-day" agganciano comunque il cognome)
+    const matchTitle = String(item.title).replace(/\s+[-–|]\s+[^-–|]+$/, '')
+      .toLowerCase().replace(/[^a-zà-ù0-9]+/gi, ' ').trim();
     if (!normTitle) continue;
     // Fonte bloccata (data/sources.json): scartata alla raccolta
     if (isBlocked(item.source)) continue;
@@ -76,9 +93,11 @@ export function validate(items, players, seen) {
     // "Leonardo Casadei" alla mostra d'arte vs Cesare Casadei calciatore).
     const hasFootballCtx = FOOTBALL_CTX.test(item.title);
     const matched = players.filter((p) => {
-      if (normTitle.includes(p.name.toLowerCase())) return true; // nome+cognome: sempre valido
+      if (hasWord(matchTitle, p.name.toLowerCase())) return true; // nome+cognome: sempre valido
       const ln = lastName(p.name).toLowerCase();
-      return hasFootballCtx && normTitle.includes(ln); // solo cognome: serve contesto calcio
+      if (AMBIGUOUS_SURNAMES.has(ln)) return false; // cognome ambiguo: serve il nome completo
+      if ((HOMONYMS[ln] ?? []).some((h) => h !== p.name.toLowerCase() && hasWord(matchTitle, h))) return false;
+      return hasFootballCtx && hasWord(matchTitle, ln); // solo cognome: serve contesto calcio
     });
 
     // REGOLA CONTENUTO — la notizia deve rientrare in UNO di questi casi:
@@ -95,7 +114,7 @@ export function validate(items, players, seen) {
     let score = 0;
     // Il match sul nome completo pesa di più di quello sul solo cognome
     for (const p of matched) {
-      score += normTitle.includes(p.name.toLowerCase()) ? 4 : 2;
+      score += hasWord(matchTitle, p.name.toLowerCase()) ? 4 : 2;
     }
     // Notizia di nazionale senza giocatori in watchlist: comunque rilevante
     if (matched.length === 0 && isNazionale) score += 4;
