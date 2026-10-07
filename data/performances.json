@@ -2,6 +2,19 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-07",
+      "player": "Cher Ndour",
+      "club": "",
+      "opponent": "Polonia",
+      "competition": "Italia Under 21",
+      "result": "6-2",
+      "goals": 1,
+      "note": "Ha segnato una rete di straordinaria fattura da circa 70 metri",
+      "noteEn": "Scored a goal of extraordinary quality from approximately 70 meters",
+      "source": "Goal.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOa3VPSFhlVFJteHNydC1GSUo4YU00UHZfa1BxeTVIeFk0ZUdvdDh5T2tKcEtONTdhbXJJQ3hsaFBXZ09xaDVzSzNUMkZybEdBdzZjejNkemg5VzZfUllScFY1MmFDZ1BIUlZ5OVU2R0JXa21JNjBqX2hFQU5wcFhRNHB6NG5YWE5XNDVILTZpeE9xX0VxVGNmSVRXYUJvQlFZYlVFRkZPc3ZHYWpTeVdTQWFJN181M0cxS1g0NlFVTlV2YW5jbTJzMmlvZkFXQWpNWHZfcVNRbkZFZ18xeHlHeEpZWFB0NVJpRUR0Uzdnazl2c2dPaVdCUWhyczQzWUpNSExlZ1dlSGRRWjNyM0lJ?oc=5"
+    },
+    {
       "date": "2026-10-06",
       "player": "Mattia Mosconi",
       "club": "Primavera nerazzurra",
@@ -225,18 +238,6 @@
     {
       "date": "2026-08-19",
       "player": "Tommaso Baldanzi",
-      "club": "",
-      "opponent": "Marassi",
-      "competition": "",
-      "result": "",
-      "note": "Ha confermato di saper gestire il ritmo della gara con lucidità e personalità.",
-      "noteEn": "Confirmed ability to manage the pace of the match with lucidity and personality.",
-      "source": "Calcio Genoa",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGZjNXQ1ekdETUdpUy01eUFUaHdWYk1aX2lzZnRJYk03V1lyWFJmalpDSkw2TnFuTF9KNnNnNEQ4clh5Wkh6VG83S3pZZFN5MkItWVBNTFN0TGtaT0ZuUDlIczNkdlpxTTVkSXJZcjB3MHJmcTZpdUhZT3AtQWM2b2lLQ0NwMHdQamVKMEl3Y2g1R1FqTWFSYXduTFJoYnRJcjFHY1dkZTktYkgtOWhTNWlaS21TUQ?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "player": "Leonardo Colombo",
       "club": "",
       "opponent": "Marassi",
       "competition": "",
