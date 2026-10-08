@@ -10,5 +10,14 @@
   "players": [],
   "category": "performance",
   "score": 9,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Under 18, l'Italia supera l'Ungheria: prosegue la striscia positiva di Varali",
+    "titleEn": "Italy U18 beats Hungary: Varali's side continues winning run",
+    "excerpt": "Altra affermazione per la nazionale giovanile italiana, che si impone con un risultato netto. La squadra mantiene il suo percorso positivo.",
+    "excerptEn": "Another victory for Italy's youth national team in a convincing display. The squad continues its successful campaign.",
+    "bodyIt": "Continua a raccogliere successi la rappresentativa Under 18 dell'Italia guidata da Varali. La squadra ha ottenuto una nuova affermazione contro l'Ungheria, confermando il buon momento di forma che caratterizza il gruppo.\n\nUn risultato che contribuisce a consolidare il percorso della selezione italiana nei tornei giovanili, dove la continuità di risultati rappresenta un elemento importante per lo sviluppo dei calciatori in prospettiva.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Italy's Under 18 national team, led by Varali, continues to pile up positive results. The squad secured another victory against Hungary, demonstrating the momentum the team has built in recent matches.\n\nThe achievement adds to the team's solid performance in youth competitions, where consistent results play a key role in the development pathway for emerging Italian talents.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

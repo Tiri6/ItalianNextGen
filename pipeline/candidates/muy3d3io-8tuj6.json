@@ -10,5 +10,14 @@
   "players": [],
   "category": "performance",
   "score": 8,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Atalanta, la sosta in numeri: quattro reti e sette assist",
+    "titleEn": "Atalanta's break in numbers: four goals and seven assists",
+    "excerpt": "Durante la pausa del campionato, i bergamaschi hanno fatto registrare dati offensivi significativi. Un bilancio che racconta l'efficacia della squadra nerazzurra.",
+    "excerptEn": "During the league break, the Bergamo side recorded significant offensive statistics. A balance sheet that tells the story of the Nerazzurri's effectiveness.",
+    "bodyIt": "La sosta ha permesso di tracciare un primo bilancio dell'Atalanta attraverso i numeri. Il computo parla di quattro gol e sette assist complessivi per i nerazzurri, una fotografia che evidenzia il contributo offensivo della squadra in questo periodo.\n\nI dati, per quanto parziali, offrono uno spaccato interessante della capacità realizzativa e della qualità negli ultimi sedici metri. Un elemento su cui l'ambiente bergamasco continua a registrare buone indicazioni nell'economia complessiva del gioco.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "The break has made it possible to take stock of Atalanta through the numbers. The tally shows four goals and seven assists overall for the Nerazzurri, a snapshot that highlights the team's offensive contribution during this period.\n\nThe data, while partial, offers an interesting picture of the squad's finishing ability and quality in the final third. An element on which the Bergamo environment continues to register positive signs in the overall game economy.\n\n(Draft from title only: verify details on the source.)",
+    "_fromSource": false
+  }
 }

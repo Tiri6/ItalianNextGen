@@ -10,5 +10,14 @@
   "players": [],
   "category": "performance",
   "score": 8,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Romano protagonista con la Nazionale: l'assist che zittisce le critiche",
+    "titleEn": "Romano shines for Italy: the assist that silences doubters",
+    "excerpt": "Il calciatore risponde sul campo alle voci negative con una prestazione incisiva nel match contro la Turchia.",
+    "excerptEn": "The player answers critics on the pitch with an impactful performance in the Turkey match.",
+    "bodyIt": "Romano ha trovato spazio nel match di Nazionale contro la Turchia e ha deciso di rispondere alle critiche ricevute con i fatti. L'assist realizzato durante la partita rappresenta un segnale chiaro della sua capacità di influire sugli sviluppi offensivi della squadra.\n\nUna prova che testimonia come il giocatore non intenda restare passivo di fronte alle valutazioni negative: in campo ha dimostrato presenza e lucidità nei momenti decisivi. Il contributo offensivo arriva in un match di rilievo e consolida l'idea che il talento, quando messo nelle giuste condizioni, trova sempre modo di emergere.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Romano featured in Italy's match against Turkey and chose to respond to criticism through his performance on the pitch. The assist he provided during the game represents a clear signal of his ability to influence the team's attacking play.\n\nA display that shows the player is determined not to remain passive in the face of negative assessments: he demonstrated presence and composure in crucial moments. His offensive contribution comes in a significant fixture and reinforces the idea that talent, when given the right conditions, always finds a way to emerge.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

@@ -10,5 +10,14 @@
   "players": [],
   "category": "performance",
   "score": 9,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "La Nazionale ritrova serenità: Mancini centra il bersaglio con la Turchia",
+    "titleEn": "Italy finds its stride again: Mancini hits the mark against Turkey",
+    "excerpt": "Gli Azzurri tornano a vincere e ritrovano fiducia nei propri mezzi. Il mese di novembre si prospetta cruciale per gli sviluppi futuri.",
+    "excerptEn": "Italy returns to winning ways and rediscovers confidence. November looms as a decisive month ahead.",
+    "bodyIt": "La Nazionale regala segnali positivi sul campo affrontando la Turchia e portando a casa il risultato che i tifosi attendevano. Il successo riaccende l'entusiasmo intorno al gruppo, dopo una fase caratterizzata da incertezze e risultati deludenti.\n\nMancini riesce a ritrovare gli equilibri della squadra e la risposta dei calciatori è stata quella sperata. Con questo nuovo impulso, il cammino entra in una fase dove ogni partita assume un valore particolare. Le prossime settimane diranno molto sulla solidità di questa ripresa e sulla capacità della Nazionale di confermare quanto di buono emerso contro gli avversari turchi.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Italy delivered encouraging signs on the pitch against Turkey, securing the result supporters had been hoping for. The victory reignites enthusiasm around the squad after a period marked by uncertainties and disappointing outcomes.\n\nMancini manages to restore equilibrium within the team, and the players' response was the one expected. With this fresh momentum, the journey enters a phase where every match carries particular weight. The coming weeks will reveal much about the solidity of this recovery and the National Team's ability to build on what emerged against the Turkish opponents.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }
