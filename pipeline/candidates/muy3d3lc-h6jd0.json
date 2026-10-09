@@ -15,5 +15,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Moruzzi e Faticanti rientrano in gruppo dopo gli impegni con l'Under 21",
+    "titleEn": "Moruzzi and Faticanti return to squad after U21 commitments",
+    "excerpt": "I due calciatori dell'Avellino hanno concluso i loro obblighi con la selezione giovanale e sono a disposizione per gli impegni del club.",
+    "excerptEn": "The two Avellino players have completed their duties with the youth national team and are available for club duties.",
+    "bodyIt": "Dopo aver assolto gli impegni con la rappresentativa Under 21, Giacomo Faticanti e Brando Moruzzi fanno ritorno alla disponibilità del gruppo dell'Avellino. I due elementi tornano così a essere a piena disposizione per le esigenze tecniche della società irpina.\n\nLa conclusione dei rispettivi impegni in nazionale consente al club di contare nuovamente su entrambi i profili per la prosecuzione della stagione.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "After fulfilling their commitments with the Under 21 national team, Giacomo Faticanti and Brando Moruzzi have returned to Avellino's squad. The two players are now fully available again for the club's tactical requirements.\n\nThe conclusion of their respective national team duties allows the Irpinian side to count on both players for the continuation of the season.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

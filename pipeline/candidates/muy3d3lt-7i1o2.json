@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Cremonese, i giovani azzurri tra le convocazioni",
+    "titleEn": "Cremona's talents in the national team spotlight",
+    "excerpt": "La Cremonese continua a fornire elementi alle selezioni italiane. Focus sui rendimenti di due prospetti grigiorossi in maglia azzurra.",
+    "excerptEn": "Cremona keeps supplying players to Italian national selections. A look at how two young Grigiorossi performers are faring in the Azzurri ranks.",
+    "bodyIt": "Dalle fila della Cremonese arrivano segnali positivi legati alla presenza di giovani calciatori nelle convocazioni della nazionale. Lordkipanidze e Fellipe Jack rappresentano due esempi di talenti che stanno trovando spazio nelle selezioni italiane, confermando il ruolo del club lombardo nel panorama della formazione calcistica nazionale.\n\nI loro rendimenti in azzurro restano sotto osservazione, in un contesto dove il vivaio grigiorosso continua a rappresentare una risorsa per le scelte tecniche della federazione.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Cremona continues to draw attention for its young talent making their way into Italian national selections. Lordkipanidze and Fellipe Jack stand out as prospects earning opportunities to represent the Azzurri, underlining the Lombardy club's role in developing players for the national system.\n\nTheir performances in the national team merit continued tracking as the Grigiorossi academy maintains its standing as a source of options for federation scouts and coaches.\n\n(Draft from title only: verify details on the original source.)",
+    "_fromSource": false
+  }
 }

@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 7,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Roma riparte con i nazionali: Mancini in campo, rinviato l'esordio di Ghilardi",
+    "titleEn": "Roma resumes training with internationals: Mancini set to play, Ghilardi debut postponed",
+    "excerpt": "Dopo la pausa delle nazionali, il club giallorosso torna in campo oggi. Tra i rientranti figura il centrocampista impegnato in Italia-Turchia, mentre il difensore dovrà attendere ancora.",
+    "excerptEn": "After the international break, the Giallorossi return to training today. Among those coming back is the midfielder competing in Italy-Turkey, while the defender will have to wait.",
+    "bodyIt": "La Roma riprende oggi gli allenamenti dopo lo stop dovuto agli impegni delle nazionali. Nel gruppo rientra Mancini, che scenderà in campo nella sfida tra Italia e Turchia durante questa finestra internazionale.\n\nDiverse le vicende di Ghilardi: il difensore non sarà ancora della partita nella ripresa odierna. Il suo esordio stagionale slitta a un momento successivo, con i tempi della sua reintegrazione ancora da definire.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Roma return to training today after the international break. Among those rejoining the squad is Mancini, who will feature in the Italy-Turkey match during this international window.\n\nThe situation differs for Ghilardi: the defender will not participate in today's session. His debut will be postponed to a later date, with the timeline for his return still to be determined.\n\n(Draft from title only: verify details on the source.)",
+    "_fromSource": false
+  }
 }

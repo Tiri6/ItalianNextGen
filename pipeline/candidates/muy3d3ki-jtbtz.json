@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Reggiani, il Borussia Dortmund apre alla cessione",
+    "titleEn": "Reggiani, Borussia Dortmund open to sale",
+    "excerpt": "Movimenti di mercato in arrivo per il difensore italiano in forza al club tedesco.",
+    "excerptEn": "Transfer activity ahead for the Italian defender at the German club.",
+    "bodyIt": "Luca Reggiani potrebbe lasciare il Borussia Dortmund nel prossimo futuro. Secondo le informazioni disponibili, il club della Ruhr starebbe valutando l'ipotesi di una cessione del giocatore, aprendo così a possibili sviluppi di mercato.\n\nI dettagli della situazione rimangono da chiarire, ma la notizia rappresenta un punto di svolta nella permanenza di Reggiani in Germania. Nelle prossime settimane potranno emergere novità significative riguardanti il suo futuro.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Luca Reggiani could be leaving Borussia Dortmund in the coming period. According to available information, the Ruhr-based club is considering the possibility of selling the player, opening the door to potential transfer developments.\n\nThe details of the situation remain to be clarified, but the news represents a turning point in Reggiani's time in Germany. Significant developments regarding his future could emerge in the coming weeks.\n\n(Draft from title only: verify details on the source.)",
+    "_fromSource": false
+  }
 }

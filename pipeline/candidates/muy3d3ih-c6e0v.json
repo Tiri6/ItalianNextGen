@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Scalvini convince in azzurro, la sfida è ripetersi con l'Atalanta",
+    "titleEn": "Scalvini impresses with Italy, now must deliver consistently at club level",
+    "excerpt": "Il difensore ha mostrato buone cose con la maglia della Nazionale. Ora l'impegno è consolidare le prestazioni anche nel campionato di club.",
+    "excerptEn": "The defender has shown positive signs wearing the Italy shirt. The challenge now is to maintain that level of performance at club level.",
+    "bodyIt": "Giorgio Scalvini ha lasciato una buona impressione durante gli impegni con la Nazionale. Le sue prestazioni in difesa hanno attirato attenzione, confermando il potenziale del giovane calciatore nel panorama azzurro.\n\nMa le prove in maglia italiana rappresentano solo una parte del percorso di crescita. Il vero banco di prova rimane il campionato, dove Scalvini avrà l'occasione di trasformare le buone indicazioni in continuità di rendimento con l'Atalanta. Solo mantenendo standard elevati in Serie A potrà completare il suo sviluppo.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Giorgio Scalvini has made a positive impression during his appearances with the Italian national team. His defensive displays have caught the eye, underlining his potential in the Azzurri setup.\n\nYet performances in an Italy shirt represent just one chapter of his development. The real test lies in Serie A, where Scalvini will need to translate those encouraging signs into consistent performances with Atalanta. Only by maintaining high standards in the league can he complete his growth as a player.\n\n(Draft from title only: verify details on the original source.)",
+    "_fromSource": false
+  }
 }

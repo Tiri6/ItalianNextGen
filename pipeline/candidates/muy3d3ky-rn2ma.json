@@ -15,5 +15,14 @@
   ],
   "category": "news",
   "score": 7,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Under 21, Baldini sceglie il tridente offensivo per la sfida con la Polonia",
+    "titleEn": "U21, Baldini deploys attacking trio against Poland",
+    "excerpt": "Mattia Liberali e Luca Koleosho protagonisti della formazione italiana nel match odierno. Baldini affida il reparto avanzato al tridente scelto per l'occasione.",
+    "excerptEn": "Mattia Liberali and Luca Koleosho among the starters in Italy's attacking setup. Baldini opts for a three-man forward line to face the Poles.",
+    "bodyIt": "La Nazionale Under 21 scende in campo oggi contro la Polonia con una formazione che punta sull'attacco. Il commissario tecnico Baldini ha deciso di schierare un tridente offensivo nel quale figurano Mattia Liberali e Luca Koleosho, chiamati a fare da protagonisti nel reparto avanzato.\n\nLa scelta di Baldini rispecchia una volontà di cercare soluzioni offensive per affrontare gli avversari. Liberali e Koleosho rappresentano due profili su cui il tecnico ha deciso di fare affidamento per questa sfida, insieme al terzo elemento del tridente.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Italy's Under 21 side takes to the pitch today against Poland with an attacking-minded setup. Coach Baldini has opted to deploy an offensive three-man forward line featuring Mattia Liberali and Luca Koleosho in key roles.\n\nBaldini's choice reflects a tactical approach aimed at generating attacking opportunities against the opponents. Both Liberali and Koleosho have been selected to spearhead the team's forward push, completing a trident designed to trouble the Polish defense.\n\n(Draft from headline only: verify details on source.)",
+    "_fromSource": false
+  }
 }

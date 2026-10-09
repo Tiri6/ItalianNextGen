@@ -15,5 +15,14 @@
   ],
   "category": "news",
   "score": 7,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "L'Italia U21 batte la Polonia e vola all'Europeo: Fini e Palmisani trascinano",
+    "titleEn": "Italy U21 defeats Poland, secures spot at European Championship",
+    "excerpt": "Gli azzurrini conquistano il primo posto nel girone grazie a una vittoria netta. Due calciatori del Frosinone protagonisti della serata.",
+    "excerptEn": "Young Italians clinch group leadership with decisive victory. Two Frosinone players key to the result.",
+    "bodyIt": "La nazionale italiana Under 21 ha centrato la qualificazione per l'Europeo di categoria. Protagonisti della sfida anche due giocatori legati al Frosinone: Seydou Fini e Lorenzo Palmisani hanno contribuito al successo azzurrino.\n\nIl risultato consente all'Italia di chiudere al primo posto il proprio raggruppamento, centrando così l'accesso alla fase finale della competizione continentale. Un traguardo importante per il progetto della selezione giovanile, che prosegue il cammino verso l'affermazione del calcio italiano su scala europea.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Italy's Under 21 national team has secured qualification for the European Championship. Two Frosinone-linked players, Seydou Fini and Lorenzo Palmisani, were instrumental in the young Azzurri's performance.\n\nThe result saw Italy finish atop their qualifying group, confirming their place at the continental tournament. An important milestone for the youth setup as Italian football continues building depth at international level.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

@@ -13,5 +13,14 @@
   ],
   "category": "news",
   "score": 7,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Mancini monitora sei talenti azzurri tra cui Vergara e Cacciamani",
+    "titleEn": "Mancini keeps tabs on six Italian prospects including Vergara and Cacciamani",
+    "excerpt": "Il commissario tecnico della Nazionale segue da vicino un gruppo di giovani calciatori in rampa di lancio. Tra i nomi nel mirino figurano Alessio Cacciamani e Antonio Vergara.",
+    "excerptEn": "Italy's national team coach is closely monitoring a group of emerging young players. Among those under observation are Alessio Cacciamani and Antonio Vergara.",
+    "bodyIt": "Roberto Mancini non smette di scandagliare le giovani leve del calcio italiano. Secondo quanto riportato, il commissario tecnico della Nazionale tiene d'occhio sei prospetti che ritiene meritevoli di attenzione per il progetto azzurro. Nel lotto rientrano nomi come Alessio Cacciamani e Antonio Vergara, giocatori su cui la federazione ripone aspettative significative.\n\nLa pratica dell'osservazione costante dei talenti rappresenta una consuetudine consolidata dello staff tecnico italiano, funzionale a costruire il vivaio della squadra nazionale. L'attività di scouting prosegue con metodo e dedizione, in vista delle prossime scadenze agonistiche e delle esigenze di rinnovamento del movimento azzurro.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Roberto Mancini continues to scout Italy's emerging talent pool. According to reports, the national team coach is closely tracking six young prospects deemed worthy of attention for the Azzurri project. The list includes figures such as Alessio Cacciamani and Antonio Vergara, players on whom the federation has placed considerable hope.\n\nThe practice of constant talent monitoring represents a well-established routine within Italy's technical staff, serving to build the national team's youth base. The scouting activity proceeds methodically and diligently, with an eye toward upcoming competitive fixtures and the needs of the Italian football movement's renewal.\n\n(Draft from title only: please verify details from the source.)",
+    "_fromSource": false
+  }
 }
