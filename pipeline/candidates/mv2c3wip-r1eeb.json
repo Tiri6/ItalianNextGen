@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Cacciamani: Bale il mio modello, sorpreso dalla chiamata in Nazionale",
+    "titleEn": "Cacciamani: Bale my model, surprised by the National Team call",
+    "excerpt": "Il giovane talento italiano ammira lo strapotere fisico dell'ex attaccante gallese e rivela di non essersi aspettato la convocazione.",
+    "excerptEn": "The young Italian talent admires the Welsh former striker's physical prowess and reveals he didn't expect the call-up.",
+    "bodyIt": "Alessio Cacciamani ha rivelato le proprie fonti d'ispirazione nel calcio, indicando in Gareth Bale il proprio punto di riferimento. L'attaccante italiano sottolinea in particolare lo strapotere fisico del gallese come elemento che lo affascina e che vorrebbe sviluppare nel proprio percorso.\n\nAltrettanto significativa è la reazione di Cacciamani riguardo alla convocazione in Nazionale: il giocatore ha ammesso di non attendersi questa opportunità, suggerendo un certo grado di sorpresa per il riconoscimento ricevuto. Una dichiarazione che riflette il mix di ambizione e umiltà tipico dei giovani talenti italiani in ascesa.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Alessio Cacciamani has revealed his footballing inspiration, naming Gareth Bale as his benchmark. The Italian forward particularly emphasizes the Welsh player's physical dominance as an element that fascinates him and that he aims to develop in his own career path.\n\nEqually significant is Cacciamani's reaction to his National Team call-up: the player admitted he did not anticipate this opportunity, suggesting some degree of surprise at the recognition he has received. A statement that reflects the blend of ambition and humility typical of rising young Italian talents.\n\n(Draft from title only: verify details from the source.)",
+    "_fromSource": false
+  }
 }

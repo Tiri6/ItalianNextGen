@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Inter, Sorino continua a crescere nella Primavera",
+    "titleEn": "Inter, Sorino keeps growing in Primavera",
+    "excerpt": "La società nerazzurra riconferma la fiducia al giovane talento Under 18. Un segnale importante per la crescita del calciatore in ambito giovanile.",
+    "excerptEn": "The Nerazzurri club reaffirms its confidence in the young Under 18 talent. A significant signal for the player's development in the youth system.",
+    "bodyIt": "L'Inter continua a puntare su Davide Sorino nella categoria Primavera. Il riconoscimento della fiducia della società al talento Under 18 rappresenta un momento importante nel percorso formativo del giocatore, che prosegue il suo sviluppo all'interno del vivaio nerazzurro.\n\nLa scelta del club meneghino di mantenere la propria stima nei confronti del giovane sottolinea l'importanza attribuita alla sua progressione tecnica e tattica in questa fase della carriera. Un segnale chiaro su come l'Inter continui a credere nelle potenzialità del calciatore.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Inter continues to bank on Davide Sorino in the Primavera category. The Nerazzurri club's reaffirmation of confidence in the Under 18 talent marks an important moment in the player's development pathway within the Milan club's youth academy.\n\nThe Milanese side's choice to maintain its backing of the young player underscores the importance placed on his technical and tactical progression at this stage of his career. A clear signal of how Inter continues to believe in the player's potential.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

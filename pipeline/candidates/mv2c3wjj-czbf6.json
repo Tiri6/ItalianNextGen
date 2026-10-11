@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Inter segue Alessandro Romano: il talento attira i nerazzurri",
+    "titleEn": "Inter watching Alessandro Romano: talent catches Nerazzurri's attention",
+    "excerpt": "L'Inter ha acceso i riflettori su Alessandro Romano. Il giovane calciatore rientra tra i profili monitorati dal club milanese.",
+    "excerptEn": "Inter have turned their attention to Alessandro Romano. The young footballer is among the profiles being monitored by the Milanese club.",
+    "bodyIt": "Alessandro Romano figura tra i giocatori seguiti con interesse dall'Inter. Il club meneghino continua a scandagliare il panorama dei talenti italiani, cercando profili in grado di rappresentare il futuro del movimento calcistico nazionale.\n\nLa presenza di Romano nel mirino nerazzurro testimonia l'attenzione costante delle big del nostro calcio verso le giovani promesse. In un mercato sempre più orientato verso l'investimento nel settore giovanile, anche l'Inter conferma la propria strategia di scouting sul territorio.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Alessandro Romano has caught the attention of Inter. The Milanese club continues to scan the landscape of Italian talent, looking for profiles capable of representing the future of Italian football.\n\nRomano's presence on Inter's radar reflects the constant focus of Italy's top clubs on emerging prospects. In a market increasingly oriented towards investment in youth development, Inter too confirms its scouting strategy across the country.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Juventus sul mercato: tre profili nel mirino per l'attacco",
+    "titleEn": "Juventus targets three forwards in transfer market",
+    "excerpt": "La Juventus accelera la ricerca di un nuovo attaccante. Nel taccuino bianconero anche Jeff Ekhator, che rimane una pista monitorata.",
+    "excerptEn": "Juventus steps up its search for a new striker. Jeff Ekhator remains among the targets on the Bianconeri's radar.",
+    "bodyIt": "La Juventus continua a scandagliare il mercato alla ricerca di rinforzi offensivi. Secondo quanto riportato, il club bianconero avrebbe almeno tre nomi nella lista per rafforzare il reparto d'attacco. Tra i profili seguiti con attenzione figura anche Jeff Ekhator, che rappresenta un'opzione nella strategia di mercato bianconera.\n\nI dettagli della trattativa e le caratteristiche specifiche dei profili rimangono ancora da chiarire, come pure le tempistiche e le priorità operative della dirigenza torinese.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Juventus continues to explore the transfer market in search of attacking reinforcements. According to reports, the Bianconeri have at least three names on their shortlist to strengthen their forward line. Among the profiles being monitored closely is Jeff Ekhator, who represents an option within Juventus's transfer strategy.\n\nThe details of the negotiations and the specific characteristics of the targets remain to be clarified, as do the timing and operational priorities of the Turin club's management.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Cacciamani, il Torino blinda il difensore con il rinnovo",
+    "titleEn": "Torino secures Cacciamani with contract extension",
+    "excerpt": "Alessio Cacciamani ha rinnovato il suo contratto con il Torino dopo l'esperienza in prestito alla Juve Stabia. Il club granata consolida così il proprio progetto difensivo.",
+    "excerptEn": "Alessio Cacciamani has extended his contract with Torino following his loan spell at Juve Stabia. The Granata secure their defensive plans.",
+    "bodyIt": "Il Torino ha deciso di prolungare l'accordo con Alessio Cacciamani. La scelta del club granata arriva dopo il periodo passato dal difensore in prestito alla Juve Stabia, esperienza che ha convinto la società a blindare il giocatore.\n\nUn segnale chiaro della fiducia riposta nel centrale, che rappresenta una soluzione per il presente e il futuro della difesa torinese.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Torino have moved to extend Alessio Cacciamani's contract with the club. The Granata's decision follows the defender's loan period at Juve Stabia, an experience that persuaded the management to secure his future.\n\nA clear signal of confidence in the centre-back, who features in Torino's defensive plans both in the present and beyond.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

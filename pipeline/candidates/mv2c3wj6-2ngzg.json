@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Elimoghale nella lista dei 60 talenti mondiali, la Juve pianifica il futuro",
+    "titleEn": "Elimoghale makes Guardian's top 60 young talents, Juventus charts long-term strategy",
+    "excerpt": "Il giovane calciatore italiano entra nella prestigiosa selezione internazionale. Il club bianconero lavora al progetto per i prossimi anni.",
+    "excerptEn": "The Italian prospect makes the cut in an exclusive worldwide ranking. Juventus develops its blueprint for tomorrow.",
+    "bodyIt": "Destiny Elimoghale figura nella lista dei 60 migliori giovani calciatori al mondo secondo la selezione operata da The Guardian. Un riconoscimento che testimonia il valore del talento italiano nel contesto calcistico internazionale.\n\nLa Juventus segue con attenzione il percorso del giocatore, inserendolo nei piani di sviluppo della società per il medio-lungo termine. Un segnale della fiducia riposta dalle strutture bianconere nel potenziale dell'atleta.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Destiny Elimoghale has earned a place in The Guardian's ranking of the 60 most talented young footballers in the world. The inclusion marks recognition of Italian youth football on the global stage.\n\nJuventus is monitoring his development closely, incorporating him into the club's strategic planning for the coming years. The move reflects the club's confidence in his prospects.\n\n(Draft from headline only: verify details with the original source.)",
+    "_fromSource": false
+  }
 }
