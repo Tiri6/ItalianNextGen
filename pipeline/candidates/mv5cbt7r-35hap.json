@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 5,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Martinelli nella top 11 dei talenti italiani all'estero secondo Transfermarkt",
+    "titleEn": "Martinelli Named Among Top 11 Italian Talents Abroad by Transfermarkt",
+    "excerpt": "La Fiorentina vede riconosciuto il valore di Tommaso Martinelli, inserito dalla piattaforma specializzata nella lista dei migliori prospetti italiani che operano fuori dalla Serie A.",
+    "excerptEn": "Fiorentina's young prospect Tommaso Martinelli has been recognised by Transfermarkt, which placed him among the top 11 Italian talents playing outside Serie A.",
+    "bodyIt": "Transfermarkt ha inserito Tommaso Martinelli della Fiorentina nella graduatoria dei talenti italiani più interessanti che militano al di fuori della Serie A. Il riconoscimento della piattaforma specializzata rappresenta una validazione del percorso dello sviluppo tecnico del calciatore nei ranghi viola.\n\nL'inclusione tra i migliori undici prospetti italiani fuori dalla massima serie italiana conferma l'attenzione che l'ambiente del calcio italiano ripone sui profili in ascesa, con particolare focus su chi sta costruendo il proprio bagaglio di esperienza in contesti diversi dalla Serie A.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Transfermarkt has included Tommaso Martinelli of Fiorentina in its ranking of the most promising Italian talents operating outside Serie A. The recognition from the specialised platform validates the development path of the young player within the Viola organisation.\n\nHis placement among the top eleven Italian prospects competing outside Italy's top flight underscores the attention the Italian football community places on rising talents, particularly those gaining experience in contexts beyond Serie A.\n\n(Draft from title only: verify details on the source.)",
+    "_fromSource": false
+  }
 }
