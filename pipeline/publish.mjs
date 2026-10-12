@@ -11,6 +11,7 @@ import { readFile, writeFile, readdir, rename, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { sourceClass } from './sources.mjs';
+import { editorialReject } from './agents/validator.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES = path.join(ROOT, 'pipeline', 'candidates');
@@ -122,6 +123,11 @@ const eligible = queue
     const cls = c.isDigest ? 'approved' : sourceClass(c.source);
     if (cls === 'blocked') return false;
     if (cls === 'confirm' && c.category === 'mercato') return false;
+    // Regole editoriali (solo calcio maschile, niente club spacciati per nazionale…)
+    if (!c.isDigest) {
+      const why = editorialReject(c.title, (c.players ?? []).length > 0);
+      if (why) { console.log(`  ⤫ fuori linea (${why}): ${String(c.title).slice(0, 60)}`); return false; }
+    }
     return ALL || d._fromSource || c.isDigest;
   })
   // Ordina per ROTAZIONE (giocatori meno coperti nella settimana prima),

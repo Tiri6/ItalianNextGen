@@ -14,19 +14,44 @@ const MERCATO_KW = /mercato|trasferim|cessione|rinnovo|clausola|offerta|prestito
 const FOOTBALL_CTX = /calcio|calciatore|gol|goal|assist|partita|match|gara|serie [abc]|primavera|under|nazionale|azzurr|mercato|trasferim|prestito|club|allenatore|mister|panchina|esordio|convocat|derby|campionato|coppa|stadio|attaccante|difensore|centrocampista|portiere|terzino|trequartista|squadra|next ?gen|youth|academy|figc|uefa|fifa/i;
 
 // Fuori tema palese: arte, cronaca, gossip, musica, ecc. Scarta a prescindere.
-const OFFTOPIC_KW = /galleria|mostra|museo|pittore|artist|cantante|musica|concerto|film|cinema|attore|attrice|moda|fashion|ricetta|cucina|meteo|oroscopo|politica|elezion|processo|tribunale|matrimonio|fidanzat|gossip|reality|tv show/i;
+const OFFTOPIC_KW = /galleria|mostra|museo|pittore|artist|cantante|musica|concerto|film|cinema|attore|attrice|moda|fashion|ricetta|cucina|meteo|oroscopo|politica|elezion|processo|tribunale|matrimonio|fidanzat|gossip|reality|tv show|architett|ingegner|convegno|\bsindac/i;
 
 // ALTRI SPORT: SOLO calcio. Questi termini fanno scartare la notizia a prescindere,
 // anche se contiene "azzurri" o "nazionale" (che valgono per pallavolo, basket, ecc.).
-const OTHER_SPORTS_KW = /volley|pallavolo|basket|pallacanestro|nba|tennis|atp|wta|rugby|nuoto|pallanuoto|atletica|ciclismo|ciclista|giro d'italia|motogp|moto ?gp|formula ?1|\bf1\b|gran premio|scherma|ginnastic|pugilato|\bboxe\b|golf|vela|canottaggio|\bsci\b|snowboard|hockey|softball|baseball|cricket|padel|beach volley|waterpolo|maratona/i;
+const OTHER_SPORTS_KW = /volley|pallavolo|basket|pallacanestro|nba|tennis|atp|wta|rugby|nuoto|pallanuoto|atletica|ciclismo|ciclista|giro d'italia|motogp|moto ?gp|formula ?1|\bf1\b|gran premio|scherma|ginnastic|pugilato|\bboxe\b|golf|vela|canottaggio|\bsci\b|snowboard|hockey|softball|baseball|cricket|padel|beach volley|waterpolo|maratona|kick ?boxing|karate|judo|taekwondo|arti marziali|\bmma\b|\blotta\b|pesistica|sollevamento pesi|triathlon|equitazione|biliardo|bocce|tiro a volo|tiro con l'arco|canoa|pattinaggio|curling|bowling|e-?sport|futsal|calcio a 5|calcio a cinque|beach soccer/i;
 
 // NAZIONALI ITALIANE (maggiore + giovanili): riconosce che la notizia parla di
 // una selezione azzurra, anche se non cita un giocatore della watchlist.
-const NAZIONALE_CTX = /\bnazionale\b|azzurr|italia\s*(under|u)\s?\d{1,2}|\bitalia\s+u\d{1,2}|italian(a|e)?\s*(under|u\d{1,2})|ct azzurr|commissario tecnico|italia\s+(femminile|maggiore)/i;
+const NAZIONALE_CTX = /\bnazionale\b|\bazzurr|italia\s*(under|u)\s?\d{1,2}|\bitalia\s+u\d{1,2}|italian(a|e)?\s*(under|u\d{1,2})|ct azzurr|commissario tecnico|italia\s+(femminile|maggiore)/i;
 
 // FATTO CONCRETO: una vera notizia ha un evento (risultato, convocazione, esordio,
 // titolo, gol, sorteggio, amichevole…). Serve a scartare i "pezzi vuoti" senza
 // contenuto reale, tipo "I talenti Under-21 del progetto azzurro verso il 2030".
+// Il sito copre SOLO il calcio maschile (regola di Marco, 6 ott 2026)
+const WOMEN_KW = /femminil|calciatric|\bwomen|\bdonne\b|\bragazze\b|\bazzurre\b|\bgirls?\b/i;
+
+// "azzurri" è anche il soprannome del Napoli (e "nerazzurri", "giallazzurri"… di altri club):
+// se il titolo nomina un club e non ha un segnale forte di nazionale, NON è una notizia di nazionale.
+const CLUB_RE = /\b(napoli|inter|milan|juventus|juve|roma|lazio|atalanta|fiorentina|torino|bologna|genoa|sampdoria|frosinone|parma|como|cagliari|lecce|udinese|verona|hellas|empoli|monza|sassuolo|venezia|pisa|cremonese|palermo|bari|spezia|salernitana|catanzaro|cesena|modena|reggiana|sudtirol|südtirol|carrarese|mantova|padova|avellino|benevento|pescara|virtus entella|juve stabia)\b/i;
+const STRONG_NAZ = /\bnazionale\b|\bitalia\b|\bunder ?\d{2}\b|\bu\d{2}\b|\bct\b|commissario tecnico|\bfigc\b/i;
+
+/**
+ * Regole editoriali sul solo titolo, condivise da raccolta (validate) e pubblicazione.
+ * @returns {string|null} motivo dello scarto, oppure null se la notizia è in tema
+ */
+export function editorialReject(title, hasPlayers = false) {
+  // Il titolo di Google News finisce con " - Testata" (es. "- road tv italia"): non fa parte della notizia
+  const t = String(title ?? '').replace(/\s+[-–|]\s+[^-–|]{2,40}$/, '');
+  if (WOMEN_KW.test(t)) return 'calcio femminile';
+  if (OTHER_SPORTS_KW.test(t)) return 'altro sport';
+  if (OFFTOPIC_KW.test(t)) return 'fuori tema';
+  if (!hasPlayers) {
+    const naz = NAZIONALE_CTX.test(t) && FOOTBALL_CTX.test(t) && !(CLUB_RE.test(t) && !STRONG_NAZ.test(t));
+    if (!(naz && NEWS_HOOK.test(t))) return 'né talenti seguiti né nazionale';
+  }
+  return null;
+}
+
 const NEWS_HOOK = /\d\s*[-–]\s*\d|convoca|esordi|debutt|campion|vittori|sconfitt|paregg|finale|semifinal|quarti|qualificazion|amichevol|gol\b|goal|doppiett|triplett|raduno|sorteggi|eliminat|trionf|\bko\b|batte|supera|cede|rimonta|titolare|espuls|infortun|conferenza|ritiro|stage|nuovo ct|panchina/i;
 
 // Mappa parole chiave → id competizione (vedi data/competitions.json)
@@ -85,8 +110,9 @@ export function validate(items, players, seen) {
 
     // Scarta subito le notizie palesemente fuori tema (arte, cronaca, gossip, musica…)
     if (OFFTOPIC_KW.test(item.title)) continue;
-    // Scarta gli altri sport: qui si parla SOLO di calcio.
+    // Scarta gli altri sport: qui si parla SOLO di calcio (maschile).
     if (OTHER_SPORTS_KW.test(item.title)) continue;
+    if (WOMEN_KW.test(item.title)) continue;
 
     // Abbina i giocatori: il NOME COMPLETO conta di più; il solo cognome vale
     // solo se il titolo ha anche un contesto calcistico (evita omonimie tipo
@@ -106,7 +132,7 @@ export function validate(items, players, seen) {
     //      concreto (risultato, convocazione, titolo, esordio…).
     // Un pezzo generico senza né giocatori né un evento reale viene scartato:
     // così spariscono i "roundup" vuoti tipo "…progetto azzurro verso il 2030".
-    const isNazionale = NAZIONALE_CTX.test(item.title) && hasFootballCtx;
+    const isNazionale = NAZIONALE_CTX.test(item.title) && hasFootballCtx && !(CLUB_RE.test(item.title) && !STRONG_NAZ.test(item.title));
     const hasHook = NEWS_HOOK.test(item.title);
     if (matched.length === 0 && !(isNazionale && hasHook)) continue;
 
