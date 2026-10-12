@@ -13,6 +13,7 @@ import { readFile, writeFile, readdir, rename, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { isBlocked } from './sources.mjs';
+import { editorialReject } from './agents/validator.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES = path.join(ROOT, 'pipeline', 'candidates');
@@ -41,7 +42,8 @@ const pool = [];
 for (const f of files) {
   try {
     const c = JSON.parse(await readFile(path.join(CANDIDATES, f), 'utf8'));
-    if (!c.draft && !c.isDigest && !isBlocked(c.source)) pool.push({ f, c });
+    // Stesse regole editoriali della pubblicazione: niente calcio femminile, altri sport, fuori tema
+    if (!c.draft && !c.isDigest && !isBlocked(c.source) && !editorialReject(c.title, (c.players ?? []).length > 0)) pool.push({ f, c });
   } catch {}
 }
 if (pool.length < 2) {

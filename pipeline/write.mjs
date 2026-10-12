@@ -14,6 +14,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { writeDraft, lastSourceIssue } from './agents/writer.mjs';
 import { isBlocked } from './sources.mjs';
+import { editorialReject } from './agents/validator.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES = path.join(ROOT, 'pipeline', 'candidates');
@@ -57,6 +58,11 @@ for (const f of files) {
 }
 // Mai scrivere bozze da fonti bloccate (data/sources.json)
 for (let i = queue.length - 1; i >= 0; i--) if (isBlocked(queue[i].c.source)) queue.splice(i, 1);
+// …né da notizie fuori linea editoriale (calcio femminile, altri sport, club scambiati per nazionale)
+for (let i = queue.length - 1; i >= 0; i--) {
+  const { c } = queue[i];
+  if (!c.isDigest && editorialReject(c.title, (c.players ?? []).length > 0)) queue.splice(i, 1);
+}
 queue.sort((a, b) => b.c.score - a.c.score);
 
 // Una bozza scritta "dal solo titolo" (fonte non letta) viene ritentata UNA volta:

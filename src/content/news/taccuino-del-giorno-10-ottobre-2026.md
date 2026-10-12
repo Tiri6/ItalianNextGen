@@ -1,8 +1,8 @@
 ---
 title: "Taccuino del giorno · 10 ottobre 2026"
 titleEn: "Daily Notebook · October 10, 2026"
-excerpt: "Giorni intensi per le giovani selezioni azzurre: dai gioiellini partenopei alle semifinali mondiali, passando per i playoff continentali. Ecco cosa è successo nelle ultime 24 ore."
-excerptEn: "Intense days for the young Italian squads: from Neapolitan prospects to world semifinals, passing through continental playoffs. Here's what happened in the last 24 hours."
+excerpt: "Giorni intensi per le giovani selezioni azzurre: dai gioiellini partenopei alle semifinali mondiali. Ecco cosa è successo nelle ultime 24 ore."
+excerptEn: "Intense days for the young Italian squads: from Neapolitan prospects to world semifinals. Here's what happened in the last 24 hours."
 date: 2026-10-12
 publishedAt: 2026-10-12T12:00:00+02:00
 featured: true
@@ -17,21 +17,9 @@ sourceUrl: ""
 Tre talenti della cantera azzurra del Napoli sono stati convocati per il raduno della Nazionale Under 15. Un riconoscimento importante per i giovani azzurri.
 [fonte](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTkltZEt4YnU0d1BWbTdCbGY5T3FlazRHeDNjNkxzVVgwN0xMdHI4dXpoUTFud2lzdDBWUFN2SWpOMWk5TDlMYTdMX0NXZFg1WG52Yk5PVGZOU2xvSG1SWUduMXhBTTBIeHV1MmFPUC12eDMzMVdTN0l4ZlZHVkthX2ozdmkwcVNWbVRudVo2Y0dmbU90bXZWT1l2ZEdFaWFhS0MzY2U0Sjh5ZXFZSVZ6NUs3QlZnS1dD?oc=5)
 
-**Under 17 Femminile**
-L'Italia non parte nel migliore dei modi al Round 1 dell'Europeo: la sconfitta per 1-3 contro l'Austria complica subito il percorso.
-[fonte](https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFBOVEMtZXdwODdObkFuTTdvSnNydVJSZng2elFMM2lxbjBEc1hRbFh4TVAwa1ctTWxqTE5TZHNzT3RWU3F3eXNTY2c0SG1wb093MjVuVGQ4NjMwLWZmV2pzZUZqQnBUck9JSzJnT1lDNmVabF93aGw2U09xQk0temNGY0hvdDRnVzViUlQ1dXYwcDI0OVZLV2FwQmRHOWl4em1McDBpeUs4VUNlbmVWUmhtZVBzY0YwV3RKeTQ0SlZsNm9MMUcxVzZOUQ?oc=5)
-
 **Under 19**
 L'Italia Under 19 si qualifica per le semifinali della WSG Asuncion 2026, entrando tra le migliori quattro squadre al mondo. Domani il match decisivo contro il Portogallo.
 [fonte](https://news.google.com/rss/articles/CBMihwJBVV95cUxNR3QwbDJ4MVg1Wll0bzhfdkFOb2lnVmlmbTdzSHFja2QtQnlkTHdFa3hZajdHV3paOEpTUXE4WWNETmJNb0FHN1lkdnBkckJLSDVBcEczclZXMGY2SmFVWUN3MS10Y2F0REFjWXhOWGVwNzBBdXNCMEhoWDFpVm5zTThQZEdScE9QS3NTYTNkd2tHM1VqWWhDLXhpYmkwRjVNQURmMlo0RTY0ejY1dWNxV1pndVpzZzZYU0JrNTZWNm1UY2dqVFl2T040ZTB4dGdrdVFRS0kwZVBKYXhZLXFVUjJ2Q3cxdXE5SlJkN1dod25yRG1XWGJLN2JocUxyWXNoeUNTSmRIYw?oc=5)
-
-**Under 19 Femminile**
-Fatica a concretizzare nei playoff mondiali: l'Italia domina il primo tempo ma non va oltre lo 0-0 con la Bielorussia.
-[fonte](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTVljUG5NS0h2aWM0c1FtbFdweGNkX1g2eXlpWEJNRlRvbVdWd3o4aTFKTXJudlBrUTR4UVJoVTAwR3AwWld1TzR2alRKd2RxOS1adTctLXRKRjR5LU03U1JJVEtXNDlHb3RBb1Y4Rk90d2xITUx4M24tTERFUlBUN2lIZmVDeWRwQ2Qzc1hKSVFJS040T0xQZ1hpTEJ3dXl2MTJuVXE5V0NDbU03Y0xsbjRQZUNBODNTdW5rbTBXY3dRREFyUklhV3RkN0lVMmJRMzQzTGZWcUJTYko0VFFXZXNQNkthNmvSAesBQVVfeXFMTThjdUUxVUVxcmtaYXNLQjZScXp5WW5McGdnd2NRQklUbGN6ZVRGN1BUcjhLTnEycWFOeUJkTklwd003NFYwM2hlWFpVUFdtd3RCSTlPUkZLUjZrOFJHZ3BCZWdnVC0ySk5XQ2sxd0VVRHNXNUM5WUZRUS1laTR1cmlmZjdEbzlGVFhSVDk5NWYtNUxTMlp0MUVFd0gtR2stcXZHOWZFUFpTOUw2TXpsTzJpN0tUb2d5cFEyRUZPaHUxa3RyU0plM3p4N3NRWXd5enNQMzJueHpSQnNCd1dEYlpucmhFaDgxYUpfSQ?oc=5)
-
-**Under 17 Femminile**
-Bene la risposta dell'Italia contro la Bielorussia: vincendo 2-0 nei playoff mondiali, le azzurre si avvicinano all'obiettivo e hanno il ritorno in programma martedì.
-[fonte](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSVV5d0pvbmRCMS1wOXBfQndOZjhJX1hsWDl2SW9BN3g3dTg1SXF4ZEZocnhYV0pQUDZZNjRqNW4yNExrU2t3LWFGSEpmWkFhZlRGbDhpcnFrejlKUXlBdGRmVkJCZGg0TmozbHNkRWdUYm9jSkk5MzhMcUZGQi1wTDFwdFd4N3hNcC1pUmw0ZWlGbE9BdTVyLUJaNDFjMmtuLS1rRkhsN3plMWdXTkVULXdvYnQ1ZXY5QTk0elhFVE9GOUpHUWlmMFJNNXh3dmZ2WGxkYTJ5YzJlVHJFby1oUDVQVk9iNFkxR01NQ3BhMWpaQjVHVWxn0gH7AUFVX3lxTE1LcjVkblZXZ1dGVnAyVFQ0T0VGenJxMlRCd0VxLXh0RjRMa29lVGRRNGxOZHF4d0pKMGFLQ0UyeUhsc19feUo0cW54OWNwVjZtU3dSY3FnWkJ2a2N4VWlvWkoxV1Rwb1ZrQ1RIQU83T1NMTXpzNHNVeXprdFFJRnBsaEs1ZGxSMkE5bTlQNV80LUZybnRGOC1hQkFvVnp3dTB2WmxwUWFPRVliLU1RblNkYWM5Ty1hVGRPQ0kyWGJ2SFBlWlFKbmcwbnplR2hZWl9ULW9XeU1GNlVhUFh5Y2JqLXc5TmNEc3ZOeVUxX3VNSlNjUHhiRmU5dF9r?oc=5)
 
 Una giornata che mescola speranze e difficoltà, tra promesse confermabili e percorsi ancora da scrivere.
 
@@ -41,20 +29,8 @@ Una giornata che mescola speranze e difficoltà, tra promesse confermabili e per
 Three young talents from Napoli's academy have been called up for the Italian Under 15 national team. An important recognition for the Neapolitan prospects.
 [source](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTkltZEt4YnU0d1BWbTdCbGY5T3FlazRHeDNjNkxzVVgwN0xMdHI4dXpoUTFud2lzdDBWUFN2SWpOMWk5TDlMYTdMX0NXZFg1WG52Yk5PVGZOU2xvSG1SWUduMXhBTTBIeHV1MmFPUC12eDMzMVdTN0l4ZlZHVkthX2ozdmkwcVNWbVRudVo2Y0dmbU90bXZWT1l2ZEdFaWFhS0MzY2U0Sjh5ZXFZSVZ6NUs3QlZnS1dD?oc=5)
 
-**Under 17 Women**
-Italy gets off to a difficult start in the European Championship Round 1: the 1-3 defeat to Austria complicates the path early on.
-[source](https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFBOVEMtZXdwODdObkFuTTdvSnNydVJSZng2elFMM2lxbjBEc1hRbFh4TVAwa1ctTWxqTE5TZHNzT3RWU3F3eXNTY2c0SG1wb093MjVuVGQ4NjMwLWZmV2pzZUZqQnBUck9JSzJnT1lDNmVabF93aGw2U09xQk0temNGY0hvdDRnVzViUlQ1dXYwcDI0OVZLV2FwQmRHOWl4em1McDBpeUs4VUNlbmVWUmhtZVBzY0YwV3RKeTQ0SlZsNm9MMUcxVzZOUQ?oc=5)
-
 **Under 19**
 Italy Under 19 qualifies for the semifinals of the WSG Asuncion 2026, reaching the world's top four teams. Tomorrow brings the decisive clash against Portugal.
 [source](https://news.google.com/rss/articles/CBMihwJBVV95cUxNR3QwbDJ4MVg1Wll0bzhfdkFOb2lnVmlmbTdzSHFja2QtQnlkTHdFa3hZajdHV3paOEpTUXE4WWNETmJNb0FHN1lkdnBkckJLSDVBcEczclZXMGY2SmFVWUN3MS10Y2F0REFjWXhOWGVwNzBBdXNCMEhoWDFpVm5zTThQZEdScE9QS3NTYTNkd2tHM1VqWWhDLXhpYmkwRjVNQURmMlo0RTY0ejY1dWNxV1pndVpzZzZYU0JrNTZWNm1UY2dqVFl2T040ZTB4dGdrdVFRS0kwZVBKYXhZLXFVUjJ2Q3cxdXE5SlJkN1dod25yRG1XWGJLN2JocUxyWXNoeUNTSmRIYw?oc=5)
-
-**Under 19 Women**
-Struggles to convert in the World Cup playoffs: Italy dominates the first half but can't break the deadlock against Belarus, finishing 0-0.
-[source](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTVljUG5NS0h2aWM0c1FtbFdweGNkX1g2eXlpWEJNRlRvbVdWd3o4aTFKTXJudlBrUTR4UVJoVTAwR3AwWld1TzR2alRKd2RxOS1adTctLXRKRjR5LU03U1JJVEtXNDlHb3RBb1Y4Rk90d2xITUx4M24tTERFUlBUN2lIZmVDeWRwQ2Qzc1hKSVFJS040T0xQZ1hpTEJ3dXl2MTJuVXE5V0NDbU03Y0xsbjRQZUNBODNTdW5rbTBXY3dRREFyUklhV3RkN0lVMmJRMzQzTGZWcUJTYko0VFFXZXNQNkthNmvSAesBQVVfeXFMTThjdUUxVUVxcmtaYXNLQjZScXp5WW5McGdnd2NRQklUbGN6ZVRGN1BUcjhLTnEycWFOeUJkTklwd003NFYwM2hlWFpVUFdtd3RCSTlPUkZLUjZrOFJHZ3BCZWdnVC0ySk5XQ2sxd0VVRHNXNUM5WUZRUS1laTR1cmlmZjdEbzlGVFhSVDk5NWYtNUxTMlp0MUVFd0gtR2stcXZHOWZFUFpTOUw2TXpsTzJpN0tUb2d5cFEyRUZPaHUxa3RyU0plM3p4N3NRWXd5enNQMzJueHpSQnNCd1dEYlpucmhFaDgxYUpfSQ?oc=5)
-
-**Under 17 Women**
-A strong response from Italy against Belarus: winning 2-0 in the World Cup playoffs puts the Azzurre within reach of their goal, with the return fixture scheduled for Tuesday.
-[source](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSVV5d0pvbmRCMS1wOXBfQndOZjhJX1hsWDl2SW9BN3g3dTg1SXF4ZEZocnhYV0pQUDZZNjRqNW4yNExrU2t3LWFGSEpmWkFhZlRGbDhpcnFrejlKUXlBdGRmVkJCZGg0TmozbHNkRWdUYm9jSkk5MzhMcUZGQi1wTDFwdFd4N3hNcC1pUmw0ZWlGbE9BdTVyLUJaNDFjMmtuLS1rRkhsN3plMWdXTkVULXdvYnQ1ZXY5QTk0elhFVE9GOUpHUWlmMFJNNXh3dmZ2WGxkYTJ5YzJlVHJFby1oUDVQVk9iNFkxR01NQ3BhMWpaQjVHVWxn0gH7AUFVX3lxTE1LcjVkblZXZ1dGVnAyVFQ0T0VGenJxMlRCd0VxLXh0RjRMa29lVGRRNGxOZHF4d0pKMGFLQ0UyeUhsc19feUo0cW54OWNwVjZtU3dSY3FnWkJ2a2N4VWlvWkoxV1Rwb1ZrQ1RIQU83T1NMTXpzNHNVeXprdFFJRnBsaEs1ZGxSMkE5bTlQNV80LUZybnRGOC1hQkFvVnp3dTB2WmxwUWFPRVliLU1RblNkYWM5Ty1hVGRPQ0kyWGJ2SFBlWlFKbmcwbnplR2hZWl9ULW9XeU1GNlVhUFh5Y2JqLXc5TmNEc3ZOeVUxX3VNSlNjUHhiRmU5dF9r?oc=5)
 
 A day that mixes hope and difficulty, between promises to be confirmed and paths still to be written.

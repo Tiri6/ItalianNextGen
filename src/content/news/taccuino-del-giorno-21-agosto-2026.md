@@ -7,7 +7,7 @@ date: 2026-08-25
 publishedAt: 2026-08-25T12:00:00+02:00
 featured: true
 category: taccuino
-players: ["Niccolò Pisilli", "Jeff Ekhator", "Emanuele Rao", "Giovanni Daffara", "Stefano Di Mario", "Giovanni Fabbian", "Tommaso Martinelli", "Christian Dottori"]
+players: ["Niccolò Pisilli", "Jeff Ekhator", "Emanuele Rao", "Giovanni Daffara", "Stefano Di Mario", "Giovanni Fabbian", "Tommaso Martinelli"]
 competitions: ["road-to-2030"]
 source: "Taccuino da 5 fonti"
 sourceUrl: ""
@@ -21,8 +21,6 @@ sourceUrl: ""
 
 **Tommaso Martinelli** – All'Inter i riflettori rimangono accesi anche su Martinelli, con gli esperti di mercato che analizzano i possibili scenari legati ai giovani talenti in orbita nerazzurra. [fonte](https://news.google.com/rss/articles/CBMif0FVX3lxTFBqaWpPc3JzS3VSU1JiTGwyVGltUWc4b3hhemkzQmpoaXRnTTIwaWJzU2hmZ25VMThtZHd2NGtadE1oc0UxdjdtS2ZLZXBMZkRGMWxuSENQdUIzVUo4RGNFc1ViM2NXczNxbUlYMlBKcGpyWDUzQTMwa2sxWmN6LVU?oc=5)
 
-**Christian Dottori** – Nel settore femminile, la giovane azzurra sogna in grande con l'azzurro: il percorso che la porta dai campi locali verso i palcoscenici internazionali Under 18. [fonte](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDZjYldwWk10LWFUVXBJZHRSdjN5OTF5bEFNUXlUSkRrRFlIUlR0c21XcWxEMkJYbDM4Z1BHTGRwc2JucmRWVTJYMC1VNGJHWDZiUUJLMmFWRlZ2Q0J5SzVjeC1UbklvVkcySWxFSWUyeElxa3pBRFU3QVdFSmxrYnF0VGc?oc=5)
-
 Una giornata che conferma come il palcoscenico italiano continui a mettere in luce la prossima generazione di talenti azzurri.
 
 <!--EN-->
@@ -34,7 +32,5 @@ Una giornata che conferma come il palcoscenico italiano continui a mettere in lu
 **Giovanni Fabbian** – The former Bologna player continues to move in the market with strong attention from Spain as well, confirming his value among young talents monitored by major European clubs. [source](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdzB2NE1BbEtIRXUzSlpBRmZmX3Z0TmFWRFg0Q1ZaT3B0RjVkQVZUQmJTbEN2NU56MEhqblhoNmx4VkpwU0xoN3p3TVB4c29BZUhZOEFwNVpkYlBSZ0N0V0pLczZ3MHNvU3NmdkRvTzlKeGwwZDA2a1JONUoyLTdab2V6VTYwR3lYUFV0dW1mdHJRSlZDaXdRSnFzcFFqTjczb1dCRUpvc1B3WUVmWnhmdkN5RXBGVnJUN1ltZkYzRzVKWEloajdqRlEzaHlvbS12UDNwUNIB2gFBVV95cUxOdkRKM19EdkN5WHpSb2dqS2RyRlA5UW9FdUFpVTFfOURFbGVrekpoeEUtNVp0blZRVHJKRy1qSmdkc0tMckVaMlBDNjB3Rk5HVTZZU0FRVXlOZ1NCOUtxZVcxMkdmZExfUUJhY251X3lSYlpDcnl1RzNQOTllTXIyX014c1pCRUpXMEtIX25vdkRwTEJIUmJBMjJJdUk0RnJJWU5fVmVLSklwVV9MVkY1MUNTa1ZwUG9reGduMDJpUVVENUlDZ1dkdkZQY2xFd2d0R2ZJbFV4ZWZjUQ?oc=5)
 
 **Tommaso Martinelli** – At Inter, spotlights remain on Martinelli as market experts analyze possible scenarios involving young talents in the Nerazzurri orbit. [source](https://news.google.com/rss/articles/CBMif0FVX3lxTFBqaWpPc3JzS3VSU1JiTGwyVGltUWc4b3hhemkzQmpoaXRnTTIwaWJzU2hmZ25VMThtZHd2NGtadE1oc0UxdjdtS2ZLZXBMZkRGMWxuSENQdUIzVUo4RGNFc1ViM2NXczNxbUlYMlBKcGpyWDUzQTMwa2sxWmN6LVU?oc=5)
-
-**Christian Dottori** – In the women's sector, the young Italian talent dreams big wearing the blue: a journey from local pitches toward international Under 18 stages. [source](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDZjYldwWk10LWFUVXBJZHRSdjN5OTF5bEFNUXlUSkRrRFlIUlR0c21XcWxEMkJYbDM4Z1BHTGRwc2JucmRWVTJYMC1VNGJHWDZiUUJLMmFWRlZ2Q0J5SzVjeC1UbklvVkcySWxFSWUyeElxa3pBRFU3QVdFSmxrYnF0VGc?oc=5)
 
 A day that confirms how the Italian stage continues to showcase the next generation of rising Italian talent.
