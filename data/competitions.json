@@ -109,7 +109,7 @@
       "id": "nations-league-2026-27",
       "teamId": "a",
       "team": "Nazionale A",
-      "phase": "futura",
+      "phase": "in-corso",
       "period": "Set 2026 – giu 2027",
       "periodEn": "Sep 2026 – Jun 2027",
       "short": "Nations League",
@@ -158,11 +158,51 @@
       ],
       "matches": [
         {
-          "date": "2026-09-04",
-          "stage": "Lega A · Gruppo 1 (finestra di settembre, calendario ufficiale su uefa.com)",
-          "stageEn": "League A · Group 1 (September window)",
+          "date": "2026-09-25",
+          "stage": "Lega A · Gruppo 1 · 1ª giornata · Roma",
+          "stageEn": "League A · Group 1 · MD1 · Rome",
           "home": "Italia",
-          "away": "Da definire",
+          "away": "Belgio",
+          "result": "0-2"
+        },
+        {
+          "date": "2026-09-28",
+          "stage": "Lega A · Gruppo 1 · 2ª giornata · Bursa",
+          "stageEn": "League A · Group 1 · MD2 · Bursa",
+          "home": "Turchia",
+          "away": "Italia",
+          "result": "1-4"
+        },
+        {
+          "date": "2026-10-02",
+          "stage": "Lega A · Gruppo 1 · 3ª giornata · Saint-Denis",
+          "stageEn": "League A · Group 1 · MD3 · Saint-Denis",
+          "home": "Francia",
+          "away": "Italia",
+          "result": "1-1"
+        },
+        {
+          "date": "2026-10-05",
+          "stage": "Lega A · Gruppo 1 · 4ª giornata · Bologna",
+          "stageEn": "League A · Group 1 · MD4 · Bologna",
+          "home": "Italia",
+          "away": "Turchia",
+          "result": "3-1"
+        },
+        {
+          "date": "2026-11-12",
+          "stage": "Lega A · Gruppo 1 · 5ª giornata · Milano (San Siro)",
+          "stageEn": "League A · Group 1 · MD5 · Milan (San Siro)",
+          "home": "Italia",
+          "away": "Francia",
+          "result": ""
+        },
+        {
+          "date": "2026-11-15",
+          "stage": "Lega A · Gruppo 1 · 6ª giornata · Bruxelles",
+          "stageEn": "League A · Group 1 · MD6 · Brussels",
+          "home": "Belgio",
+          "away": "Italia",
           "result": ""
         }
       ],
@@ -365,7 +405,7 @@
           "stageEn": "Qualifiers · Group E",
           "home": "Armenia",
           "away": "Italia",
-          "result": ""
+          "result": "0-1"
         },
         {
           "date": "2026-10-05",
@@ -373,7 +413,7 @@
           "stageEn": "Qualifiers · Group E · final matchday",
           "home": "Italia",
           "away": "Polonia",
-          "result": ""
+          "result": "6-2"
         }
       ],
       "events": [
