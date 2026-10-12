@@ -12,12 +12,13 @@
   "score": 8,
   "status": "pending",
   "draft": {
-    "title": "Napoli travolge il Frosinone: gli azzurri ritrovano il successo",
-    "titleEn": "Napoli crushes Frosinone: Partenopeans return to winning ways",
-    "excerpt": "Netta vittoria della squadra partenopea sul campo di casa. Decisive le reti messe a segno nel corso della partita.",
-    "excerptEn": "Convincing home victory for the Neapolitan side. Goals prove decisive throughout the match.",
-    "bodyIt": "Il Napoli torna al successo con una prestazione convincente tra le mura amiche contro il Frosinone. La squadra ha saputo trovare il gol in più occasioni durante il confronto, dominando gran parte della gara.\n\nUna vittoria che consente ai partenopei di riprendere il percorso positivo dopo il periodo precedente. I dettagli tecnici della partita e le prestazioni individuali meritano approfondimenti sulla fonte originaria.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
-    "bodyEn": "Naples returns to winning form with a convincing display at home against Frosinone. The Partenopean side managed to find the net on multiple occasions, dominating much of the encounter.\n\nA victory that allows Naples to get back on track after the preceding period. The technical details of the match and individual performances warrant further investigation on the original source.\n\n(Draft from title only: please verify details on the source.)",
-    "_fromSource": false
+    "title": "Napoli-Frosinone 3-0: gli azzurri ritrovano la vittoria al Maradona",
+    "titleEn": "Napoli thrash Frosinone 3-0 and return to winning ways",
+    "excerpt": "Il Napoli batte il Frosinone 3-0 in casa e conquista tre punti dopo il periodo di flessione. De Bruyne sigla due gol, Lang chiude il match nel primo tempo.",
+    "excerptEn": "Napoli cruise past Frosinone with a commanding 3-0 home victory. De Bruyne nets twice and Lang extends the lead, sealing an important return to winning form.",
+    "bodyIt": "Il Napoli ritorna al successo superando il Frosinone con un netto 3-0 allo stadio Maradona. La squadra di Allegri rompe il momento di stasi precedente alla pausa con una prestazione caratterizzata da efficienza offensiva e solidità. Due reti di De Bruyne, la prima su rigore in seguito a errore del portiere avversario, e il gol di Noa Lang nel primo tempo definiscono i contorni della partita già nei primi 45 minuti.\n\nIl match prosegue con il Napoli capace di amministrare il vantaggio maturato, pur senza strafare. La squadra ciociana, decimata dagli infortuni e reduce da prestazioni positive, non riesce a incidere in attacco, mentre la retroguardia azzurra mantiene concentrazione lungo tutta la gara. Nella fase conclusiva, con i cambi effettuati da entrambe le panchine, il controllo della partita non viene mai abbandonato.\n\nDe Bruyne cala il tris al 94' con una scivolata vincente dopo il passaggio di Giovane, chiudendo definitivamente i conti. La vittoria consente al Napoli di affrontare con rinnovate certezze il prossimo ciclo di impegni in calendario.",
+    "bodyEn": "Napoli returned to winning ways with a commanding 3-0 victory over Frosinone at the Maradona stadium. Allegri's side broke through a period of inconsistency with a display marked by clinical finishing and defensive solidity. Two goals from De Bruyne—the first from the penalty spot after an error by the opposition keeper—and Noa Lang's strike in the opening half established the outcome early.\n\nThe match proceeded with Napoli comfortably managing their advantage without excessive risk-taking. The visiting Ciociari, weakened by injury absences and coming off respectable performances, failed to trouble the home side's attack, while the Partenopean defence remained sharp throughout. As substitutions multiplied in the closing stages from both benches, Napoli's control of proceedings never wavered.\n\nDe Bruyne completed the rout in the 94th minute with a sliding finish from Giovane's pass, putting the result beyond doubt. The triumph allows Napoli to approach their forthcoming fixture congestion with renewed confidence.",
+    "_fromSource": true,
+    "_retried": true
   }
 }

@@ -12,12 +12,13 @@
   "score": 7,
   "status": "pending",
   "draft": {
-    "title": "Nazionale femminile, spareggio contro la Bielorussia",
-    "titleEn": "Women's national team faces Belarus in playoff",
-    "excerpt": "La selezione italiana si prepara allo scontro valido per il primo turno eliminatorio. L'incontro sarà trasmesso in diretta su RaiPlay.",
-    "excerptEn": "Italy's women's team gears up for the first-round playoff encounter. The match will be broadcast live on RaiPlay.",
-    "bodyIt": "La nazionale femminile italiana si appresta a disputare uno spareggio di primo turno contro la Bielorussia. L'appuntamento rappresenta un banco di prova significativo nel percorso della selezione azzurra.\n\nL'incontro sarà visibile in diretta sulla piattaforma RaiPlay, offrendo ai tifosi la possibilità di seguire il match in tempo reale. Ulteriori dettagli relativi a luogo, orario e formazioni verranno definiti nei giorni precedenti la gara.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
-    "bodyEn": "Italy's women's national team will face Belarus in a first-round playoff match. The encounter represents a significant test for the Azzurri's competitive standing.\n\nThe match will be broadcast live on RaiPlay, allowing supporters to follow proceedings in real time. Additional information regarding venue, kick-off time, and team selections will be confirmed in the days leading up to the fixture.\n\n(Draft from title only: verify details on source.)",
-    "_fromSource": false
+    "title": "Italia femminile agli spareggi Mondiali: prima sfida in Bielorussia",
+    "titleEn": "Italy women face Belarus in World Cup playoff opener",
+    "excerpt": "La nazionale italiana scende in campo il 13 ottobre per l'andata del primo turno di qualificazione ai Mondiali femminili. L'appuntamento è trasmesso su Rai Sport.",
+    "excerptEn": "Italy's national team takes the field on October 13 for the first leg of the opening round of the women's World Cup qualifiers. The match airs on Rai Sport.",
+    "bodyIt": "La squadra azzurra è attesa dalla sfida playoff in terra bielorussa, partita cruciale nel percorso di qualificazione ai Mondiali femminili. L'incontro è in programma il 13 ottobre alle 16:30 e sarà trasmesso in diretta su Rai Sport, con l'opportunità di seguire l'evento anche sulla piattaforma RaiPlay.\n\nUn doppio confronto che metterà subito alla prova le ragazze del nostro calcio nazionale, con l'andata che rappresenta il primo, decisivo step della competizione. Il risultato di questa partita sarà fondamentale in ottica della qualificazione al turno successivo.",
+    "bodyEn": "The Italian national team faces a playoff tie in Belarus as part of the women's World Cup qualifying pathway. The match is scheduled for October 13 at 4:30 PM and will be broadcast live on Rai Sport, with streaming also available on RaiPlay.\n\nA two-legged tie awaits the Italian squad, with this opening leg representing a crucial early test. The outcome of this first encounter will carry significant weight in the team's qualification hopes, with the return fixture still to come.",
+    "_fromSource": true,
+    "_retried": true
   }
 }

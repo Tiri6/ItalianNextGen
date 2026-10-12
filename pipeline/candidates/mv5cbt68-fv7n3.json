@@ -12,12 +12,13 @@
   "score": 6,
   "status": "pending",
   "draft": {
-    "title": "Inter domina a San Siro contro il Parma",
-    "titleEn": "Inter dominates Parma at San Siro",
-    "excerpt": "I nerazzurri hanno travolto gli ospiti con un netto 3-0 nella sfida di San Siro. Una prestazione di controllo totale del match.",
-    "excerptEn": "Inter overwhelmed their visitors with a clear 3-0 victory at home. A performance marked by total match control.",
-    "bodyIt": "L'Inter ha imposto il proprio gioco nel confronto casalingo contro il Parma, chiudendo il match con il risultato di 3-0. I nerazzurri hanno dominato sulla scena di San Siro, controllando il possesso e le dinamiche della partita.\n\nUna prestazione convincente quella della squadra milanese, che ha saputo gestire il vantaggio nel corso dei novanta minuti. Il Parma ha dovuto arrendersi di fronte alla superiorità tecnica e tattica degli avversari, senza riuscire a creare occasioni significative per riaprire il discorso.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
-    "bodyEn": "Inter imposed their style of play in the home fixture against Parma, concluding the match with a 3-0 scoreline. The Nerazzurri dominated proceedings at San Siro, controlling possession and the match dynamics throughout.\n\nIt was a convincing performance from the Milan-based side, which managed the advantage effectively over the course of ninety minutes. Parma found themselves unable to match their opponents' technical and tactical superiority, failing to create meaningful opportunities to alter the outcome.\n\n(Draft from title only: verify details on source.)",
-    "_fromSource": false
+    "title": "Inter travolgente a San Siro: Parma battuto 3-0 nella sesta giornata",
+    "titleEn": "Inter crushes Parma 3-0 at San Siro in Serie A sixth round",
+    "excerpt": "I nerazzurri di Chivu controllano il match e si portano in solitaria vetta con 16 punti. Decisivi i gol di Sucic, Calhanoglu e Thuram nel primo tempo.",
+    "excerptEn": "Chivu's side controls the match and takes sole leadership with 16 points. Goals from Sucic, Calhanoglu and Thuram seal a dominant first-half performance.",
+    "bodyIt": "L'Inter domina a San Siro e regola il Parma con una prestazione netta nella sesta giornata di campionato. La squadra di Cristian Chivu chiude il match nei primi 45 minuti: Sucic sblocca il risultato al 13' approfittando di una corta respinta del portiere, Calhanoglu raddoppia dal dischetto al 18' per un fallo su Pio Esposito, e Thuram sigla il tris al 31' con un preciso destro nell'angolo basso.\n\nCon questa vittoria i nerazzurri raggiungono la vetta della classifica in solitaria con 16 punti, in attesa del completamento della sesta giornata con gli impegni di Roma e Lazio. Il Parma, al debutto con Alberto Gilardino in panchina, rimane fermo a 4 punti.",
+    "bodyEn": "Inter dominate at San Siro and dispatch Parma with a clinical display in the sixth round of Serie A. Cristian Chivu's side decides the contest in the first half: Sucic opens the scoring at the 13th minute after capitalizing on a poor goalkeeper clearance, Calhanoglu doubles from the penalty spot at the 18th following a foul on Pio Esposito, and Thuram seals it at the 31st with a precise finish into the bottom corner.\n\nWith this victory the Nerazzurri sit alone at the top of the table on 16 points, pending completion of the round's fixtures involving Roma and Lazio. Parma, in Alberto Gilardino's debut on the bench, remain on 4 points.",
+    "_fromSource": true,
+    "_retried": true
   }
 }

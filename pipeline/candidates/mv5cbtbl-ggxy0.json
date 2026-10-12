@@ -14,12 +14,13 @@
   "score": 7,
   "status": "pending",
   "draft": {
-    "title": "Argentina beffa l'Italia Under 19 nel finale a Asunción",
-    "titleEn": "Argentina snatches late victory over Italy U19 in Asunción",
-    "excerpt": "Gli azzurrini lottano alla pari per tutto l'incontro, ma cedono nel finale al WSG Asuncion 2026. Una gara equilibrata decisa negli ultimi istanti.",
-    "excerptEn": "The Italian youngsters match their opponents throughout, but fall to a late goal in Asunción. An evenly-contested match decided in the final moments.",
-    "bodyIt": "Gara dal respiro equilibrato quella andata in scena a Asunción tra la rappresentativa italiana Under 19 e l'Argentina. Per la maggior parte della partita le due compagini hanno proceduto alla pari, senza che una prevalesse nettamente sull'altra.\n\nIl copione cambia negli ultimi istanti dell'incontro, quando gli avversari trovano il vantaggio decisivo e completano il sorpasso sulla squadra tricolore. Una conclusione amara per gli azzurrini, che escono dal campo consapevoli di aver disputato una buona prestazione.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
-    "bodyEn": "A balanced encounter unfolded in Asunción between Italy's Under 19 side and Argentina. For most of the match, the two teams remained evenly matched, neither able to gain a decisive edge.\n\nThe dynamics shifted in the final moments of the game, when the opposition moved ahead and completed their comeback against the Italian outfit. A bitter ending for the Azzurrini, who leave the pitch aware of having produced a solid performance.\n\n(Draft from title only: verify details on source.)",
-    "_fromSource": false
+    "title": "L'Italia Under 19 cede all'Argentina nel finale a Asunción",
+    "titleEn": "Italy Under 19 falls to Argentina late in Asunción",
+    "excerpt": "La nazionale giovanile italiana ha disputato una partita equilibrata contro l'Argentina, ma ha subito il sorpasso nel finale della gara in Paraguay.",
+    "excerptEn": "Italy's youth national team played a closely contested match against Argentina but conceded a late turnaround in Paraguay.",
+    "bodyIt": "La formazione italiana Under 19 ha affrontato l'Argentina in una sfida che si è rivelata combattuta fino al termine. La gara, disputata ad Asunción, ha visto le due squadre giocare alla pari per gran parte dell'incontro.\n\nNel finale della partita, tuttavia, l'Argentina ha trovato il modo di sorpassare gli azzurrini, conquistando il risultato. Un epilogo che penalizza la compagine tricolore nonostante la complessiva solidità della prova offerta in campo.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Italy's Under 19 national team took on Argentina in a closely fought encounter. The match, played in Asunción, saw both squads compete on level terms for much of the game.\n\nIn the closing stages, however, Argentina managed to overtake the Italian youngsters and secure the victory. A late turnaround that proves costly for the Azzurrini despite their overall solid showing on the pitch.\n\n(Draft from title only: verify details from source.)",
+    "_fromSource": false,
+    "_retried": true
   }
 }
