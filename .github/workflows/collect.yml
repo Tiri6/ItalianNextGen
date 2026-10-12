@@ -15,7 +15,30 @@ permissions:
   contents: write
 
 jobs:
+  # Il lancio programmato di GitHub arriva spesso con ore di ritardo: ogni mattina
+  # un'attività nel cloud lancia la redazione a mano verso le 7:40. Se la redazione
+  # di oggi è già stata fatta, il lancio programmato (di riserva) non la ripete.
+  controllo:
+    runs-on: ubuntu-latest
+    outputs:
+      salta: ${{ steps.check.outputs.salta }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - id: check
+        run: |
+          OGGI=$(TZ=Europe/Rome date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && git log -50 --format=%s | grep -q "candidate e bozze del $OGGI"; then
+            echo "Redazione del $OGGI già fatta: salto il lancio programmato."
+            echo "salta=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "salta=false" >> "$GITHUB_OUTPUT"
+          fi
+
   redazione:
+    needs: controllo
+    if: needs.controllo.outputs.salta != 'true'
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
