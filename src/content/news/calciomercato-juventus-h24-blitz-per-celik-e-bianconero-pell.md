@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Juventus h24 - Blitz per Celik: è bianconero! Pellegrino, c'è l'offerta. Assalto per Lucumì. Scambio Comuzzo-Joao Mario? Spunta Richarlison. Ekhator via in prestito? - Tutto Juve"
+title: "Calciomercato Juventus h24 - Blitz per Celik: è bianconero! Pellegrino, c'è l'offerta. Assalto per Lucumì. Scambio Comuzzo-Joao Mario? Spunta Richarlison. Ekhator via in prestito?"
 titleEn: "Juventus in the Market: Comuzzo Trade Scenario Emerges"
 excerpt: "La Juventus continua a muoversi sul mercato con diverse trattative in corso. Tra le ipotesi circolate figura uno scambio che vedrebbe protagonista Pietro Comuzzo, difensore seguito dalla redazione di Italian Next Gen."
 excerptEn: "Juventus remains active in the transfer market with multiple negotiations underway. Among the scenarios being discussed is a potential swap involving Pietro Comuzzo, a defender monitored by our editorial team."

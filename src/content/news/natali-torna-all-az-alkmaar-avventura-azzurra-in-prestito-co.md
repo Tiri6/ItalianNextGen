@@ -6,7 +6,7 @@ excerptEn: "Young midfielder Andrea Natali leaves Napoli and returns permanently
 date: 2026-07-27
 publishedAt: 2026-07-27T16:20:00+02:00
 category: news
-players: ["Seydou Fini", "Andrea Natali"]
+players: ["Andrea Natali"]
 competitions: []
 source: "Calcio Napoli 1926"
 sourceUrl: "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVTJqWkx5OFJDblBQZE94R3RBZjFPczhtNy0zZjY1Zkg1SkV6aEw2QzFxaUY1ZHlNX3RDNnF6RnZiSm9lYkYzVGR4NlZXMnlBenUxYkk3RlhSRE13OTZOQ1Z4VEJMQkF1S3VtbjJmOS1QQjE3ek94UkxZalJOc3J0OHBGSHhkUGtLMFlCOEkwSmJhTlNqNnpvZTRjV1JkOGtlRzFhVkpJa2dxXy16Qm12cm9pVnM4a2R2N2ZqNVVkakJ1N0dRMEQ2VjNrU3dQdjRwUGVkTVFWMllYQdIB2gFBVV95cUxOVTJqWkx5OFJDblBQZE94R3RBZjFPczhtNy0zZjY1Zkg1SkV6aEw2QzFxaUY1ZHlNX3RDNnF6RnZiSm9lYkYzVGR4NlZXMnlBenUxYkk3RlhSRE13OTZOQ1Z4VEJMQkF1S3VtbjJmOS1QQjE3ek94UkxZalJOc3J0OHBGSHhkUGtLMFlCOEkwSmJhTlNqNnpvZTRjV1JkOGtlRzFhVkpJa2dxXy16Qm12cm9pVnM4a2R2N2ZqNVVkakJ1N0dRMEQ2VjNrU3dQdjRwUGVkTVFWMllYQQ?oc=5"

@@ -6,7 +6,7 @@ excerptEn: "Torino intensifies their interest in the young Lazio defender. The P
 date: 2026-07-28
 publishedAt: 2026-07-28T13:00:00+02:00
 category: mercato
-players: ["Pietro Comuzzo", "Diego Sia"]
+players: ["Pietro Comuzzo"]
 competitions: []
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQk5mMng4b2lOUXhVS2lCb2RMZVlpRXFKMG1udWpUc2FJRzRqLWt1TDhaYjk1anVLV3IzNjBqeVI4Z3ZCTkJuV1ZBTHlwRnd4bFNxN0RtLVQ4dTJxR2M2R2lVRnJuMWFsNGNyc2tjUW8yRzlIblA3VUl5cVlyNm1CQkU0LWFlYTJGdWRyQ1JpeUtKVGNsMnN6UnFkT19PZUYtOUxwNkl3?oc=5"

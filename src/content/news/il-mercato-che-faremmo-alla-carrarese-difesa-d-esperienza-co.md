@@ -1,5 +1,5 @@
 ---
-title: "🔎 Il mercato che faremmo... alla Carrarese! Difesa d'esperienza, COLPO dal Como e Pafundi - Pianeta Serie B"
+title: "Il mercato che faremmo... alla Carrarese! Difesa d'esperienza, COLPO dal Como e Pafundi"
 titleEn: "The Carrarese We'd Build: Experience in Defence, Como Talent and Pafundi in Focus"
 excerpt: "Pianeta Serie B immagina il mercato ideale per la Carrarese, con un'attenzione particolare ai giovani talenti come Simone Pafundi e a una possibile operazione dal Como per rinforzare la difesa."
 excerptEn: "Pianeta Serie B imagines the ideal transfer window for Carrarese, focusing on young prospects like Simone Pafundi and a potential move from Como to strengthen the defence."

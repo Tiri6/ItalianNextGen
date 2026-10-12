@@ -1,5 +1,5 @@
 ---
-title: "Genoa, doppio record: Ekhator supera Fini, è il più giovane rossoblù a debuttare in Nazionale - TUTTOmercatoWEB"
+title: "Genoa, doppio record: Ekhator supera Fini, è il più giovane rossoblù a debuttare in Nazionale"
 titleEn: "Ekhator Makes History: Genoa's Youngest Debutant for Italy"
 excerpt: "Jeff Ekhator entra nella storia del Genoa: a soli 17 anni diventa il più giovane rossoblù a esordire in Nazionale, superando il precedente record di Seydou Fini."
 excerptEn: "Jeff Ekhator enters Genoa's history books: at just 17 years old, he becomes the club's youngest player ever to debut for the Italian national team, breaking the previous record held by Seydou Fini."

@@ -1,5 +1,5 @@
 ---
-title: "🧤 Calciomercato Avellino - Iannarilli PROMOSSO titolare? Aiello e Nesta non lo escludono - Pianeta Serie B"
+title: "Calciomercato Avellino - Iannarilli PROMOSSO titolare? Aiello e Nesta non lo escludono"
 titleEn: "Iannarilli Eyes Starting Role at Avellino as Nesta and Aiello Keep Door Open"
 excerpt: "In casa Avellino emerge la possibilità di una promozione tra i pali per Iannarilli, con lo staff tecnico che non esclude questa soluzione per il ruolo di portiere titolare."
 excerptEn: "At Avellino, the possibility emerges of a promotion between the posts for Iannarilli, with the technical staff not ruling out this solution for the starting goalkeeper position."

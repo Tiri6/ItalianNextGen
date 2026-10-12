@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Toro: la difesa da rifare con la “linea green” e Milito suggerisce Dellavalle e Carrascosa - Torino Granata"
+title: "Calciomercato Toro: la difesa da rifare con la “linea green” e Milito suggerisce Dellavalle e Carrascosa"
 titleEn: "Torino's Defense Overhaul: Milito Backs Young Talents Dellavalle and Carrascosa"
 excerpt: "Il Torino pianifica una rivoluzione difensiva con una strategia orientata ai giovani. Milito sostiene l'ingaggio di Dellavalle e Carrascosa per rinforzare il reparto arretrato."
 excerptEn: "Torino is planning a defensive revamp with a youth-focused strategy. Milito backs the signings of Dellavalle and Carrascosa to strengthen the backline."

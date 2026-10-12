@@ -1,12 +1,12 @@
 ---
-title: "SportMediaset: Mosconi: \"Mi ispiro a Pio Esposito, punto a restare in prima squadra\" Video - Mediaset Infinity"
+title: "SportMediaset: Mosconi: \"Mi ispiro a Pio Esposito, punto a restare in prima squadra\" Video"
 titleEn: "Mosconi Sets Sights on First Team: Inspired by Pio Esposito"
 excerpt: "Mattia Mosconi guarda a Francesco Pio Esposito come punto di riferimento nel suo percorso di crescita. L'esterno italiano punta a conquistare uno spazio stabile in prima squadra."
 excerptEn: "Mattia Mosconi looks to Francesco Pio Esposito as inspiration for his development path. The Italian winger aims to establish himself as a regular in the senior squad."
 date: 2026-07-21
 publishedAt: 2026-07-21T17:00:00+02:00
 category: news
-players: ["Francesco Pio Esposito", "Seydou Fini", "Mattia Mosconi"]
+players: ["Francesco Pio Esposito", "Mattia Mosconi"]
 competitions: []
 source: "Mediaset Infinity"
 sourceUrl: "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTElQQmVQTWNNSmxrN3lHaGw0YzU5MFhWTThUZE5XUVlRYURTODBKam1WZEdzR1hScXJMMEJEZl9lQXlfYWhtd0loa0ZfUGJIQjF6QWN6dS16Ql9HTVNFYmJSTTJXcmxWZkZkZjR4VV9hOEhRclZ0OUdJQzBOUHBSWTc5ZDZRU3ByMWRTWlZBYUlFZ3MwZWI3VnZhc2JiUGhiRFVWWTMwUThsMEhROV9fb0o2Z3pyTGhxVERrbWVWYk4yRHlWTklxNVJ6YVQyN3lEbWhpb3pB?oc=5"

@@ -1,5 +1,5 @@
 ---
-title: "Parma, occhi in casa Milan: idea Camarda e Comotto in prestito - DirettaCalcioMercato"
+title: "Parma, occhi in casa Milan: idea Camarda e Comotto in prestito"
 titleEn: "Parma Eyes Milan Youngsters: Camarda and Comotto Loan Targets"
 excerpt: "Il Parma guarda in casa Milan per rinforzare la rosa in prestito. Nel mirino dei ducali figurano Francesco Camarda e Christian Comotto."
 excerptEn: "Parma targets Milan's young talent pool for loan reinforcements. The Emilia club has set sights on Francesco Camarda and Christian Comotto."

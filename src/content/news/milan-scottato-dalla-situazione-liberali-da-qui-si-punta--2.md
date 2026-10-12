@@ -1,5 +1,5 @@
 ---
-title: "Milan scottato dalla situazione Liberali. Da qui si punta a blindare Camarda e Comotto - TUTTOmercatoWEB"
+title: "Milan scottato dalla situazione Liberali. Da qui si punta a blindare Camarda e Comotto"
 titleEn: "Milan Tightens Grip on Young Talents After Liberali Concerns"
 excerpt: "Il Milan accelera sulla blindatura dei propri gioielli del vivaio. Dopo la situazione legata a Liberali, il club rossonero punta a consolidare il futuro di Camarda e Comotto."
 excerptEn: "Milan moves to secure its academy talents. Following concerns over Liberali's status, the Rossoneri aim to lock down Camarda and Comotto's futures."

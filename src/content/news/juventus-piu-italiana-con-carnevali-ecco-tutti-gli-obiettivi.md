@@ -1,5 +1,5 @@
 ---
-title: "Juventus più italiana con Carnevali, ecco tutti gli obiettivi sul mercato da Leoni a Ndour - Calciomercato"
+title: "Juventus più italiana con Carnevali, ecco tutti gli obiettivi sul mercato da Leoni a Ndour"
 titleEn: "Juventus Turns Italian: Carnevali Leads Market Strategy with Young Talents"
 excerpt: "La Juventus intensifica la ricerca di talenti italiani per il progetto futuro. Nel mirino bianconero figurano Giovanni Leoni e Cher Ndour, tra gli obiettivi di mercato della dirigenza torinese."
 excerptEn: "Juventus strengthens its focus on Italian prospects for future development. Young talents Giovanni Leoni and Cher Ndour are among the club's market targets."

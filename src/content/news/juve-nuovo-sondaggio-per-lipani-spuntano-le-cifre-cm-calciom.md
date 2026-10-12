@@ -1,5 +1,5 @@
 ---
-title: "Juve, nuovo sondaggio per Lipani: spuntano le cifre | CM - Calciomercato.it"
+title: "Juve, nuovo sondaggio per Lipani: spuntano le cifre | CM"
 titleEn: "Juventus renews interest in Lipani: transfer figures emerge"
 excerpt: "La Juventus torna alla carica per Luca Lipani con un nuovo sondaggio. Emergono le cifre dell'operazione per il giovane talento italiano."
 excerptEn: "Juventus makes fresh enquiry for Luca Lipani. Transfer figures for the Italian prospect come to light."

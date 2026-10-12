@@ -6,7 +6,7 @@ excerptEn: "Emanuele Rao moves on loan from Napoli to Pisa. The transfer offers 
 date: 2026-08-16
 publishedAt: 2026-08-16T12:00:00+02:00
 category: mercato
-players: ["Emanuele Rao", "Diego Sia"]
+players: ["Emanuele Rao"]
 competitions: []
 source: "Il Pisa Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWDhCM1hZYW1HRFJvVFZQZ1R3SlliU0k4Nzk5bWJvRG1ZSnFzZWg4aFdoTUxlRE05VWRmQU9uZWtrOWxjYUZaTFo4dzlxRHh4TW5FWWNHZWJfRW9KZDVEaGI5cFhvMDRhbGllcnluTldnSFhheWttWGxWUUI2NzNJREs4WTNsakZZQ1cwaHJzLWdaOEk?oc=5"

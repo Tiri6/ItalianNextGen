@@ -1,5 +1,5 @@
 ---
-title: "Cutolo costruisce il nuovo Arezzo. Okoro e Rao sono in cima alla lista - Quotidiano Sportivo"
+title: "Cutolo costruisce il nuovo Arezzo. Okoro e Rao sono in cima alla lista"
 titleEn: "Cutolo's Arezzo Project: Okoro and Rao Among Top Targets"
 excerpt: "Il nuovo Arezzo di Cutolo punta su giovani talenti della Serie C. Okoro e Rao figurano tra i principali obiettivi del progetto tecnico amaranto."
 excerptEn: "Cutolo's new Arezzo project targets young talents from Serie C. Okoro and Rao are among the main objectives of the Tuscan club's technical plan."

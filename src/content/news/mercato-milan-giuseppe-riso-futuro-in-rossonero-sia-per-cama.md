@@ -1,12 +1,12 @@
 ---
-title: "Mercato Milan, Giuseppe Riso: «Futuro in rossonero sia per Camarda sia per Comotto» - Milan News 24"
+title: "Mercato Milan, Giuseppe Riso: «Futuro in rossonero sia per Camarda sia per Comotto»"
 titleEn: "Milan Confirms Long-Term Future for Camarda and Comotto"
 excerpt: "Giuseppe Riso, dirigente rossonero, ha assicurato la continuità progettuale al Milan per Francesco Camarda e Christian Comotto, due dei talenti più promettenti della nuova generazione italiana."
 excerptEn: "Giuseppe Riso, Milan executive, confirms the Rossoneri's commitment to Francesco Camarda and Christian Comotto, two of Italy's most promising young talents."
 date: 2026-07-14
 publishedAt: 2026-07-14T09:00:00+02:00
 category: mercato
-players: ["Francesco Camarda", "Christian Comotto", "Diego Sia"]
+players: ["Francesco Camarda", "Christian Comotto"]
 competitions: []
 source: "Milan News 24"
 sourceUrl: "https://news.google.com/rss/articles/CBMifEFVX3lxTE16dFN1VHNIRlJGQXBwb3BBT0k0VllBN1NzVVQ0U3YxR2VFY0lPVE5PeWFVZ0s4VU50VnJPc2FVZzBQTTJMR0RrQTUyQjR5dWw5eFBSNWt2b0ZhaDNwVzNoY2J4ZEprUHZINXYxcElFVW5aRXF1VzdPODk1Qkw?oc=5"

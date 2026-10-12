@@ -1,5 +1,5 @@
 ---
-title: "Milan, Amorim può sorridere: Cissè è tornato da allenarsi in gruppo, la scelta su Idrissi - Calciomercato"
+title: "Milan, Amorim può sorridere: Cissè è tornato da allenarsi in gruppo, la scelta su Idrissi"
 titleEn: "Milan, Amorim's Relief: Cissè Returns to Group Training, Decision Pending on Idrissi"
 excerpt: "Buone notizie in casa Milan: Alphadjo Cissè ha ripreso gli allenamenti in gruppo sotto la guida di Amorim. Ancora da definire la situazione di Riyad Idrissi."
 excerptEn: "Good news at Milan: Alphadjo Cissè has returned to training with the squad under Amorim's guidance. The situation regarding Riyad Idrissi remains to be clarified."

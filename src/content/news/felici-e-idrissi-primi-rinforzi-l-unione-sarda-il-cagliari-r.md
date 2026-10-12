@@ -1,5 +1,5 @@
 ---
-title: "Felici e Idrissi primi rinforzi. L'Unione Sarda: \"Il Cagliari rimette la freccia a sinistra\" - Tutto Cagliari"
+title: "Felici e Idrissi primi rinforzi. L'Unione Sarda: \"Il Cagliari rimette la freccia a sinistra\""
 titleEn: "Cagliari Bolsters Left Flank with Felici and Idrissi Signings"
 excerpt: "Il Cagliari ufficializza i primi due rinforzi della sessione di mercato: gli arrivi di Felici e Idrissi rafforzano significativamente la corsia sinistra rossoblu."
 excerptEn: "Cagliari confirms its first two signings of the transfer window: the arrivals of Felici and Idrissi strengthen the left-side options for the Sardinian club."

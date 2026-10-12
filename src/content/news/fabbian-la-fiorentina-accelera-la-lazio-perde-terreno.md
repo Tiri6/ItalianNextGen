@@ -6,7 +6,7 @@ excerptEn: "The 2003-born midfielder catches Fiorentina's attention as the Tusca
 date: 2026-07-30
 publishedAt: 2026-07-30T10:00:00+02:00
 category: mercato
-players: ["Giovanni Fabbian", "Diego Sia"]
+players: ["Giovanni Fabbian"]
 competitions: []
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV09xS21rOVpiZHJaTEx5bjZWc2psaVN4Sk12WFA4R3NqVXZZNndiTVkyWlRzTXBQLVBSdC1yMXUtYkJJZFBmc0MySUxrbmpRLW9QbUVaVk55N0lmRnlDWHVBQlJlYmd6d2Exd0hpdHFFeHpLV0QyYlNpYTBhb2xJb3NNZEVzMGU1bGV4SUhOZkNMLVpXT0RzTnlUaUtkMTFFbHF6UGtqblY0Zw?oc=5"

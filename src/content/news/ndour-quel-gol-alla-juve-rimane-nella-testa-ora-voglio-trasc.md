@@ -6,7 +6,7 @@ excerptEn: "The Fiorentina forward cannot forget the goal scored against Juventu
 date: 2026-07-28
 publishedAt: 2026-07-28T15:00:00+02:00
 category: performance
-players: ["Cher Ndour", "Diego Sia"]
+players: ["Cher Ndour"]
 competitions: []
 source: "FiorentinaNews.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQVJ6RmxMQ0Fxci0yZWxDRmJzcHpFdm10ajZYcjIwUUVxRTgxMlJieW5VaXl2QV9veXJCWVFkY2tpcGduWUxOaGs3LUJnbGE5ZlUtbUVkWW9zTzlnZkR1Tndvb3c1cVRHbW5VbUszNFNvLURNeUZ6TXVGWXFtUnh0SDVsRUk5bGFfeDJUNHNDRFFJOUpwVHhkZmhjWU5Jb0V1VzNvWGdoS19waUlURU1mbGdHOHdfcFpkamZadVgzTVdsWEZSSGdwNFdBY0pocHlxTEFfUVliYkJDNGZxV3NTSzRUa0NqTzJmS1JhcjFZMEM0dGk4SHpTNWo0Wlg0TFl3?oc=5"

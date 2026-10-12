@@ -1,5 +1,5 @@
 ---
-title: "🔎 Undici TOP, ma quasi tutto sul mercato. Calabrese titolare? Come giocherebbe il Verona - Pianeta Serie B"
+title: "Undici TOP, ma quasi tutto sul mercato. Calabrese titolare? Come giocherebbe il Verona"
 titleEn: "Verona's Starting XI Takes Shape: Calabrese in Focus Amid Market Upheaval"
 excerpt: "Il Verona delinea il suo undici titolare con Nicolò Calabrese protagonista, mentre il mercato continua a muovere buona parte della rosa scaligera."
 excerptEn: "Verona outlines its starting eleven with Nicolò Calabrese in a key role, as the transfer market continues to reshape much of the squad."

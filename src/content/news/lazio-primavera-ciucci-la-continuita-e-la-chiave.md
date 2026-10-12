@@ -6,7 +6,7 @@ excerptEn: "The Biancocelesti midfielder stresses the importance of stability in
 date: 2026-09-17
 publishedAt: 2026-09-17T14:00:00+02:00
 category: news
-players: ["Diego Sia", "Federico Ciucci"]
+players: ["Federico Ciucci"]
 competitions: []
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JEdnVfdHlEYjg0Rk96b2tSaTJJZFBkQV82MzhJeEYtcEdpeEk4MW5xcWczVGs2OUdxRGxZVl82SzBvaG1lalRTOWNIUjYtRmVvUXNkY3ZLem85a25iNmFzUWRlRDFrZ2ZRV28wa044OGxybHJvZllWZ0ZzQ1pYU29KZGpZanl6cUZyODhhWlNTdDc1TDdNWVZtRHo4R3VwcDZqZjRfd3ZUSDZIQ21NdnQ5Zw?oc=5"

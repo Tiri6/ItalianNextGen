@@ -1,5 +1,5 @@
 ---
-title: "Faticanti e Daffara, la Juve li riscatta e li manda in prestito: il portiere in Serie A - Tuttosport"
+title: "Faticanti e Daffara, la Juve li riscatta e li manda in prestito: il portiere in Serie A"
 titleEn: "Juventus Secures Faticanti and Daffara, Then Loans Them Out: Goalkeeper Heads to Serie A"
 excerpt: "La Juventus ha esercitato il diritto di riscatto su Giacomo Faticanti e Giovanni Daffara, inserendoli successivamente nel mercato dei prestiti. Il portiere trova una nuova destinazione in Serie A."
 excerptEn: "Juventus has exercised the redemption option on Giacomo Faticanti and Giovanni Daffara, then sent them out on loan. The goalkeeper finds a new destination in Serie A."

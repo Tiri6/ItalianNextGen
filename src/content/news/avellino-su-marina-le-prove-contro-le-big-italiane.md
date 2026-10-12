@@ -6,7 +6,7 @@ excerptEn: "Avellino increases interest in the young prospect. His performances 
 date: 2026-09-24
 publishedAt: 2026-09-24T12:40:00+02:00
 category: mercato
-players: ["Renato Marin"]
+players: []
 competitions: []
 source: "SportAvellino.it"
 sourceUrl: "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcldsZHktamY1di1jVEJ6V3h6N0sxbHZYejg0YVVTc0VmVjY5U2JXTDJSVms0SzZIOFNvdFJMRXhJUkNXSXNGQ1lYQnVzNWo3TEVGbjV5dzg1UWJRcXB1bkE1cFpGOHhVS05EYVpaMVdWRHVWZVR1Q0lsOHI4TE9Tbk1aOHlNXzRFWXFTenp6c2dnWG13QVhyN0J2eGxldDRNSGlYNTFKcXV5Y3dnRzdYZHp4T25kZw?oc=5"

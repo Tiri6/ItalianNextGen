@@ -1,5 +1,5 @@
 ---
-title: "Atalanta, non solo Palestra: anche Ahanor verso la Premier? Altra plusvalenza in arrivo - MondoPrimavera"
+title: "Atalanta, non solo Palestra: anche Ahanor verso la Premier? Altra plusvalenza in arrivo"
 titleEn: "Atalanta's Young Talents in the Spotlight: Palestra and Ahanor Attracting Premier League Interest"
 excerpt: "Dopo Marco Palestra, anche Honest Ahanor potrebbe lasciare Bergamo direzione Premier League. L'Atalanta prepara un'altra importante plusvalenza dal proprio settore giovanile."
 excerptEn: "After Marco Palestra, Honest Ahanor could also be heading to the Premier League from Atalanta. The Bergamo club prepares another significant profit from its youth academy."

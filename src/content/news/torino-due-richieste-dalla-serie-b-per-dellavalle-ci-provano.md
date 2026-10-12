@@ -1,5 +1,5 @@
 ---
-title: "Torino, due richieste dalla Serie B per Dellavalle: ci provano Padova e Pisa - TUTTOmercatoWEB"
+title: "Torino, due richieste dalla Serie B per Dellavalle: ci provano Padova e Pisa"
 titleEn: "Dellavalle in Demand: Padova and Pisa Chase Torino Prospect"
 excerpt: "Due club di Serie B muovono passi concreti per Alessandro Dellavalle, giovane talento granata. Il centrocampista è nel mirino di Padova e Pisa."
 excerptEn: "Two Serie B clubs are actively pursuing Alessandro Dellavalle, a promising Torino prospect. Both Padova and Pisa have submitted formal requests for the midfielder."

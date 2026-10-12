@@ -1,12 +1,12 @@
 ---
-title: "Calciomercato Lazio | Comuzzo, c'è concorrenza: il Milan lo tiene d'occhio - La Lazio Siamo Noi"
+title: "Calciomercato Lazio | Comuzzo, c'è concorrenza: il Milan lo tiene d'occhio"
 titleEn: "Comuzzo in demand: Milan join Lazio in race for young defender"
 excerpt: "Pietro Comuzzo continua a essere al centro dell'attenzione del mercato italiano. Sulla giovane promessa della difesa si registra l'interesse del Milan, che si aggiunge alla già nota corte della Lazio."
 excerptEn: "Pietro Comuzzo remains one of the most closely watched talents in Italian football. The defensive prospect has attracted attention from multiple Serie A clubs, with Milan now monitoring the situation alongside Lazio."
 date: 2026-07-22
 publishedAt: 2026-07-22T10:20:00+02:00
 category: mercato
-players: ["Pietro Comuzzo", "Diego Sia"]
+players: ["Pietro Comuzzo"]
 competitions: []
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT19JYlgzbF83NnE3VnhrMjZCVGgtMEhCNjBwSjVuMlpodXUzUlRwSW5hYnFtaHdmY29SMDgzOEcxT1doZnljSHBPdV9veGlldWpDc1N0ZU9fNTI2VmV1dl9ac3pubkFqVFd5SlZnckJ1M2RMckdNNzJrZW0wSVd3SHZvanhWVnBWWWxLVncyUmpuUUQtXzZZaXZpRlFDclFZNTdn?oc=5"

@@ -12,7 +12,7 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { writeDraft } from './agents/writer.mjs';
+import { writeDraft, lastSourceIssue } from './agents/writer.mjs';
 import { isBlocked } from './sources.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -59,7 +59,10 @@ for (const f of files) {
 for (let i = queue.length - 1; i >= 0; i--) if (isBlocked(queue[i].c.source)) queue.splice(i, 1);
 queue.sort((a, b) => b.c.score - a.c.score);
 
-const pending = queue.filter((q) => !q.c.draft).length;
+// Una bozza scritta "dal solo titolo" (fonte non letta) viene ritentata UNA volta:
+// publish non la pubblicherebbe mai, quindi conviene riprovare a leggere la fonte.
+const needsDraft = (c) => !c.draft || (!c.isDigest && !c.draft._fromSource && !c.draft._retried);
+const pending = queue.filter((q) => needsDraft(q.c)).length;
 // Non scrivere mai le ultime RESERVE candidate: sono la dispensa del Taccuino
 const budget = Math.min(MAX, Math.max(0, pending - RESERVE));
 console.log(`🖋  Agente redattore — ${pending} candidate senza bozza (ne scrivo ${budget}; riservo ${Math.min(RESERVE, pending)} al Taccuino)`);
@@ -73,15 +76,17 @@ let done = 0, skipped = 0, failed = 0;
 for (const { f, c } of queue) {
   if (done >= budget) break;
   const file = path.join(CANDIDATES, f);
-  if (c.draft) { skipped++; continue; }
+  if (!needsDraft(c)) { skipped++; continue; }
+  const retry = Boolean(c.draft);
 
   process.stdout.write(`  ✍️  ${c.title.slice(0, 70)}... `);
   try {
     const draft = await writeDraft(c, apiKey);
     if (draft) {
+      if (retry) draft._retried = true;
       c.draft = draft;
       await writeFile(file, JSON.stringify(c, null, 2));
-      console.log(draft._fromSource ? 'ok (dalla fonte)' : 'ok (solo titolo — verifica!)');
+      console.log(draft._fromSource ? 'ok (dalla fonte)' : `ok (solo titolo — verifica!) · ${lastSourceIssue || 'fonte non letta'}`);
       done++;
     } else {
       console.log('bozza non valida, salto');

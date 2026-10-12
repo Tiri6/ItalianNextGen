@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato, il Genoa saluta Ekhator e sceglie la linea verde in mediana: ecco Meichtry e Wiafe - La Voce di Genova.it"
+title: "Calciomercato, il Genoa saluta Ekhator e sceglie la linea verde in mediana: ecco Meichtry e Wiafe"
 titleEn: "Genoa Bids Farewell to Ekhator, Turns to Youth in Midfield with Meichtry and Wiafe"
 excerpt: "Il Genoa chiude il capitolo Ekhator e accelera il processo di ringiovanimento del centrocampo con l'arrivo di due profili promettenti come Meichtry e Wiafe."
 excerptEn: "Genoa closes the Ekhator chapter and accelerates the midfield rejuvenation process with the arrival of two promising prospects like Meichtry and Wiafe."

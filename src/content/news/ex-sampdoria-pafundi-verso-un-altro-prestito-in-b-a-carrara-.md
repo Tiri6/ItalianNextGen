@@ -5,7 +5,7 @@ excerpt: "Simone Pafundi, reduce dall'esperienza in Serie A con la Sampdoria, po
 excerptEn: "Simone Pafundi, following his spell with Sampdoria in Serie A, could be heading out on loan again in Serie B. Carrara emerges as the likely destination, where he would reunite with coach Cioffi."
 date: 2026-07-06
 category: mercato
-players: ["Simone Pafundi", "Guido Della Rovere"]
+players: ["Simone Pafundi"]
 competitions: []
 source: "sampdorianews.net"
 sourceUrl: "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbC03ZWRxZmJzRzFPdklIU0F1cXIwMV9hQkpuT2NmdGp2S1FQLVJhTjA0OHg4MVFDVm55ckg5NHVqc3Q4WDdMZVJnbGgtSk1pTUZDc3V6NmFlaHUzZFVjMUVyeUJ3VVJ6SFNGVWZPSDg5Zmh4eE0wdzlvbWNYdzgtQzlpSWpXbk4xWmZPZVdFeVZ1V2dPdWEyRkw4VmJNQlpvNnc?oc=5"

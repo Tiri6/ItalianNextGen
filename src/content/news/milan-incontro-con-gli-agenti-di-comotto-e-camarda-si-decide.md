@@ -1,5 +1,5 @@
 ---
-title: "Milan, incontro con gli agenti di Comotto e Camarda: si decide il futuro, cosa filtra - Calciomercato"
+title: "Milan, incontro con gli agenti di Comotto e Camarda: si decide il futuro, cosa filtra"
 titleEn: "Milan Meets with Camarda and Comotto Agents: Future Decisions Pending"
 excerpt: "Il Milan ha avviato colloqui con i rappresentanti di Francesco Camarda e Christian Comotto per definire le rispettive carriere. Un momento decisivo per i due giovani talenti rossoneri."
 excerptEn: "AC Milan has held meetings with the agents of Francesco Camarda and Christian Comotto to determine their future paths. A crucial juncture for the two Rossoneri prospects."

@@ -1,5 +1,5 @@
 ---
-title: "Buongiorno ko: chi prende il Napoli? Quanto costano Gatti, Solet, Tiago Gabriel e la carta Natali per il futuro - Calciomercato"
+title: "Buongiorno ko: chi prende il Napoli? Quanto costano Gatti, Solet, Tiago Gabriel e la carta Natali per il futuro"
 titleEn: "Napoli's Defensive Puzzle: Gatti, Solet, Tiago Gabriel – and the Natali Factor"
 excerpt: "Con l'addio di Buongiorno, il Napoli cerca rinforzi in difesa. Sul tavolo i nomi di Gatti, Solet e Tiago Gabriel, mentre Andrea Natali rappresenta un'opzione per il futuro."
 excerptEn: "Following Buongiorno's departure, Napoli explores defensive reinforcements. Gatti, Solet, and Tiago Gabriel are under consideration, while Andrea Natali emerges as a prospect for tomorrow."

@@ -1,5 +1,5 @@
 ---
-title: "L'asta in Premier complica i piani dell'Inter per Palestra: 50 milioni non bastano, Cocchi non convince - TUTTOmercatoWEB"
+title: "L'asta in Premier complica i piani dell'Inter per Palestra: 50 milioni non bastano, Cocchi non convince"
 titleEn: "Premier League auction complicates Inter's Palestra pursuit"
 excerpt: "La corsa dell'Inter per Marco Palestra si complica: la concorrenza della Premier League spinge le valutazioni oltre i 50 milioni, mentre Matteo Cocchi non rappresenta un'alternativa convincente per i nerazzurri."
 excerptEn: "Inter's chase for Marco Palestra becomes tougher: Premier League interest drives valuations above €50m, while Matteo Cocchi fails to emerge as a convincing alternative for the Nerazzurri."

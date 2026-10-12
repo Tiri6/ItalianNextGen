@@ -1,5 +1,5 @@
 ---
-title: "La Juve nel Destiny: fuori Ekhator, riecco Elimoghale ad allenarsi in prima squadra - TUTTOmercatoWEB"
+title: "La Juve nel Destiny: fuori Ekhator, riecco Elimoghale ad allenarsi in prima squadra"
 titleEn: "Juventus Academy: Elimoghale Returns to First Team Training as Ekhator Departs"
 excerpt: "Movimenti nella cantera bianconera. Destiny Elimoghale torna a lavorare con la prima squadra della Juventus, mentre Jeff Ekhator esce dalla rosa dell'Under."
 excerptEn: "Changes in Juventus youth setup. Destiny Elimoghale is back training with the Bianconeri's senior group, as Jeff Ekhator steps away from the youth ranks."

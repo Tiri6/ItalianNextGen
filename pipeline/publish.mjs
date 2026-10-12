@@ -11,6 +11,7 @@ import { readFile, writeFile, readdir, rename, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { sourceClass } from './sources.mjs';
+import { editorialReject } from './agents/validator.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES = path.join(ROOT, 'pipeline', 'candidates');
@@ -20,6 +21,21 @@ const NEWS = path.join(ROOT, 'src', 'content', 'news');
 const maxArg = process.argv.find((a) => a.startsWith('--max='));
 const MAX = Math.max(1, Number(maxArg?.split('=')[1]) || 100);
 const ALL = process.argv.includes('--all');
+
+// --- FRESCHEZZA: si pubblicano solo notizie uscite OGGI o IERI (ora italiana) ---
+// Uso: npm run publish -- --giorni=2   per allargare la finestra (default 1 = oggi+ieri)
+const giorniArg = process.argv.find((a) => a.startsWith('--giorni='));
+const MAX_AGE_DAYS = Math.max(0, Number(giorniArg?.split('=')[1] ?? 1));
+const romeDay = (d) => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Rome' }).format(d); // YYYY-MM-DD
+const OLDEST_OK = romeDay(new Date(Date.now() - MAX_AGE_DAYS * 86400000));
+// Data della notizia alla fonte (giorno italiano). Il taccuino nasce oggi: sempre fresco.
+function newsDay(c) {
+  if (c.isDigest) return romeDay(new Date());
+  const raw = c.pubDate || c.isoDate || c.date;
+  const d = raw ? new Date(raw) : null;
+  return d && !isNaN(d) ? romeDay(d) : null;
+}
+const isFresh = (c) => { const g = newsDay(c); return !!g && g >= OLDEST_OK; };
 
 function slugify(s) {
   return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
@@ -50,6 +66,7 @@ const recentPrints = [];
 const usedToday = new Set();
 const weekCount = {};
 const today = new Date().toISOString().slice(0, 10);
+const publishedUrls = new Set(); // link alla fonte già usati da un articolo pubblicato
 try {
   const now = Date.now();
   for (const nf of (await readdir(NEWS)).filter((x) => x.endsWith('.md'))) {
@@ -60,6 +77,8 @@ try {
     const title = fm.match(/^title:\s*"(.*)"/m)?.[1] ?? '';
     const exc = fm.match(/^excerpt:\s*"(.*)"/m)?.[1] ?? '';
     const cat = fm.match(/^category:\s*["']?(\w+)/m)?.[1] ?? 'news';
+    const su = fm.match(/^sourceUrl:\s*"(.*)"/m)?.[1];
+    if (su) publishedUrls.add(su);
     const pls = [...(fm.match(/^players:\s*\[(.*)\]/m)?.[1] ?? '').matchAll(/"([^"]+)"/g)].map((m) => m[1]);
     if (ageDays <= 4) recentPrints.push({ w: sigWords(title + ' ' + exc), cat, players: new Set(pls) });
     if (cat !== 'taccuino' && ageDays <= 7) for (const p of pls) weekCount[p] = (weekCount[p] ?? 0) + 1;
@@ -83,14 +102,32 @@ for (const f of files) {
   try { queue.push({ f, c: JSON.parse(await readFile(path.join(CANDIDATES, f), 'utf8')) }); } catch {}
 }
 
+// Le candidate più vecchie di ieri escono dalla coda (in pipeline/rejected/, recuperabili dalla storia git)
+const REJECTED = path.join(ROOT, 'pipeline', 'rejected');
+let expired = 0;
+await mkdir(REJECTED, { recursive: true });
+for (const { f, c } of queue) {
+  if (!isFresh(c) && newsDay(c)) {
+    await rename(path.join(CANDIDATES, f), path.join(REJECTED, f));
+    expired++;
+  }
+}
+if (expired) console.log(`  ⌛ ${expired} candidate più vecchie di ${MAX_AGE_DAYS ? 'ieri' : 'oggi'} tolte dalla coda`);
+
 const eligible = queue
   .filter(({ c }) => {
+    if (!isFresh(c)) return false; // solo notizie di oggi o di ieri
     const d = c.draft;
     if (!d || !d.bodyIt || d.bodyIt.trim().length < 40) return false; // mai senza testo
     // Regole fonti (data/sources.json): bloccate = mai; 'confirm' = niente voci di mercato in automatico
     const cls = c.isDigest ? 'approved' : sourceClass(c.source);
     if (cls === 'blocked') return false;
     if (cls === 'confirm' && c.category === 'mercato') return false;
+    // Regole editoriali (solo calcio maschile, niente club spacciati per nazionale…)
+    if (!c.isDigest) {
+      const why = editorialReject(c.title, (c.players ?? []).length > 0);
+      if (why) { console.log(`  ⤫ fuori linea (${why}): ${String(c.title).slice(0, 60)}`); return false; }
+    }
     return ALL || d._fromSource || c.isDigest;
   })
   // Ordina per ROTAZIONE (giocatori meno coperti nella settimana prima),
@@ -99,7 +136,7 @@ const eligible = queue
   .slice(0, MAX);
 
 if (!eligible.length) {
-  console.log('Nessuna bozza pubblicabile in coda.');
+  console.log(`Nessuna bozza pubblicabile in coda (solo notizie dal ${OLDEST_OK} in poi).`);
   console.log('Flusso: npm run collect → npm run write → npm run publish');
   console.log('(il filtro qualità pubblica solo bozze scritte dalla fonte; --all per forzare)');
   process.exit(0);
@@ -117,6 +154,14 @@ for (const { f, c } of eligible) {
   const d = c.draft;
   // Titolo pulito scritto dal redattore; il titolo grezzo della fonte è solo un ripiego
   const cleanTitle = (d.title && d.title.trim().length > 5) ? d.title.trim() : c.title;
+
+  // --- REGOLA 0: stesso link alla fonte già pubblicato = doppione certo ---
+  if (c.link && publishedUrls.has(c.link)) {
+    await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
+    skippedDup++;
+    console.log(`  ⤫ fonte già pubblicata: ${cleanTitle.slice(0, 55)}`);
+    continue;
+  }
 
   if (c.category !== 'taccuino') {
     const w = sigWords(cleanTitle + ' ' + (d.excerpt ?? ''));
@@ -172,6 +217,7 @@ ${d.bodyIt.trim()}
 ${(d.bodyEn || d.bodyIt).trim()}
 `;
   await writeFile(path.join(NEWS, `${slug}.md`), md);
+  if (c.link) publishedUrls.add(c.link);
   await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
   done++;
 }

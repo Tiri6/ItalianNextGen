@@ -1,5 +1,5 @@
 ---
-title: "Napoli, Rrahmani fa il punto dal ritiro: \"Allegri ci trasmette positività. Marianucci e Marin? Giovani e forti\" - DirettaCalcioMercato"
+title: "Napoli, Rrahmani fa il punto dal ritiro: \"Allegri ci trasmette positività. Marianucci e Marin? Giovani e forti\""
 titleEn: "Rrahmani praises young talents Marianucci and Marin at Napoli retreat"
 excerpt: "Dal ritiro del Napoli, il difensore albanese elogia i giovani azzurri e sottolinea l'apporto positivo di Allegri nel gruppo squadra."
 excerptEn: "From Napoli's training camp, the Albanian defender praises the young Italian talents and highlights Allegri's positive influence on the squad."

@@ -1,5 +1,5 @@
 ---
-title: "Cocchi in prestito al Padova: il vivaio nerazzurro continua a sfornare talenti - Barzacom"
+title: "Cocchi in prestito al Padova: il vivaio nerazzurro continua a sfornare talenti"
 titleEn: "Cocchi joins Padova on loan: Inter's academy continues to produce talent"
 excerpt: "Matteo Cocchi lascia l'Inter in prestito per giocare al Padova. Il vivaio nerazzurro dimostra ancora una volta la sua capacità di sviluppare giovani promesse."
 excerptEn: "Matteo Cocchi leaves Inter on loan to join Padova. The Nerazzurri academy continues to showcase its ability to nurture promising young talent."

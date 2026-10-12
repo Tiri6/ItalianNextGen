@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Sampdoria, non solo Martinelli anche Simone Pafundi in direzione Avellino. La trattativa - Club Doria 46"
+title: "Calciomercato Sampdoria, non solo Martinelli anche Simone Pafundi in direzione Avellino. La trattativa"
 titleEn: "Sampdoria's Young Talents Head to Avellino: Martinelli and Pafundi on the Move"
 excerpt: "La Sampdoria cede due prospetti interessanti in direzione Avellino. Sia Tommaso Martinelli che Simone Pafundi sono protagonisti di questa operazione di mercato che coinvolge i blucerchiati."
 excerptEn: "Sampdoria parts with two promising prospects heading to Avellino. Both Tommaso Martinelli and Simone Pafundi are involved in this transfer operation involving the Genoa-based club."

@@ -1,5 +1,5 @@
 ---
-title: "Torino, per Ciammaglichella esordio con l’Italia Under 21 - Toro.it"
+title: "Torino, per Ciammaglichella esordio con l’Italia Under 21"
 titleEn: "Ciammaglichella Makes Italy U21 Debut with Torino"
 excerpt: "Aaron Ciammaglichella ha debuttato con la Nazionale Under 21 italiana. Il giovane talento granata continua il suo percorso di crescita nel vivaio azzurro."
 excerptEn: "Aaron Ciammaglichella made his debut with the Italian U21 national team. The young Torino prospect continues his development path within the Azzurri system."

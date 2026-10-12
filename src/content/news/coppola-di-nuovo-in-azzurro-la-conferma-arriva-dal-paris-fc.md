@@ -1,0 +1,23 @@
+---
+title: "Coppola di nuovo in azzurro: la conferma arriva dal Paris FC"
+titleEn: "Coppola Recalled to Italy: Paris FC Form Earns Second Cap"
+excerpt: "Diego Coppola torna a vestire la maglia azzurra in occasione della seconda convocazione in nazionale. Intanto prosegue il suo percorso in Francia."
+excerptEn: "Diego Coppola returns to the Italy squad for his second appearance. The defender continues his development at Paris FC."
+date: 2026-10-06
+publishedAt: 2026-10-06T14:20:00+02:00
+category: performance
+players: ["Francesco Coppola", "Diego Coppola"]
+competitions: []
+source: "Goal.com"
+sourceUrl: "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNei0wQTdCUzRkSjVITk5CUVdWY3hpbFJiODkwY3E3amRMVjVBQ3kyYXZCd05YTy14UUpHbmRyYTFzbWRYOTBVLUwwMl9hZ1FvX19PVks5MDQ5Yzhmc09ydDI3LWR5TGpNRGhoLW1DTlpka2FCbDJMdXVzc2lDem5yamJGbGc4SFlqa0lQVnNmWkIxYngwc0VwaUdBUTZad0d4V1h1ZWJsN2lDQWd2cjBLR2d0cWp2Q1liYlAxa0o4T3FTVlk2UVRkQ2VZV2dNelFLXzlMQUlaTFhVMDFKOVhhM0JFY1Q4cWVNeEtNRERwZWo?oc=5"
+---
+
+Diego Coppola è stato nuovamente selezionato per la nazionale italiana. Si tratta della seconda volta per il difensore, che aveva già indossato la maglia azzurra in una precedente occasione in Norvegia.
+
+Mentre si prepara agli impegni con l'Italia, Coppola continua la sua esperienza al Paris FC, club dove sta proseguendo il suo sviluppo calcistico. La nuova convocazione rappresenta un riconoscimento del lavoro svolto dal giocatore nel campionato francese.
+
+<!--EN-->
+
+Diego Coppola has received a fresh call-up to the Italian national team. This marks his second appearance in an azzurro jersey, following a previous cap earned during a match in Norway.
+
+While balancing his international duties, Coppola remains focused on his campaign with Paris FC, where he continues to build his footballing experience. The latest selection underscores the progress made by the defender in French football.

@@ -1,5 +1,5 @@
 ---
-title: "Tuttosport - Avellino, fatta per Moruzzi e Faticanti. Modena, vicino il ritorno di Ambrosino. Mantova: Chinetti c'è, Spinaccè quasi, piace Deli. La Juve Stabia punta Vavassori - TuttoB.com"
+title: "Tuttosport - Avellino, fatta per Moruzzi e Faticanti. Modena, vicino il ritorno di Ambrosino. Mantova: Chinetti c'è, Spinaccè quasi, piace Deli. La Juve Stabia punta Vavassori"
 titleEn: "Serie B moves: Faticanti heads to Avellino, Ambrosino eyes Modena return"
 excerpt: "Movimenti importanti in Serie B con protagonisti alcuni dei giovani seguiti da Italian Next Gen. Faticanti completa il trasferimento ad Avellino, mentre Ambrosino è sempre più vicino al Modena."
 excerptEn: "Key moves in Serie B involving several prospects tracked by Italian Next Gen. Faticanti completes his move to Avellino, while Ambrosino draws closer to a Modena return."

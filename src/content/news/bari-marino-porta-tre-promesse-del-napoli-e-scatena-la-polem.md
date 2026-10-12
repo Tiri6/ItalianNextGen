@@ -1,5 +1,5 @@
 ---
-title: "Bari, Marino porta tre promesse del Napoli e scatena la polemica: “Siamo la Next Gen di De Laurentiis” - Virgilio Sport"
+title: "Bari, Marino porta tre promesse del Napoli e scatena la polemica: “Siamo la Next Gen di De Laurentiis”"
 titleEn: "Bari's Marino Recruits Three Napoli Prospects, Sparks Debate Over De Laurentiis' Development Strategy"
 excerpt: "Il tecnico del Bari attira tre giovani talenti dalla cantera partenopea, generando discussioni sulla gestione dei prospetti azzurri. Tra i nomi seguiti da Italian Next Gen figurano Diego Sia e Renato Marin."
 excerptEn: "Bari's manager brings three prospects from Napoli's academy, triggering debate over the Partenopei's talent development approach. Among the players tracked by Italian Next Gen are Diego Sia and Renato Marin."

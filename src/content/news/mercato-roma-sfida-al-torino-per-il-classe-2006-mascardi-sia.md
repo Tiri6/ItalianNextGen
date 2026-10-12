@@ -1,11 +1,11 @@
 ---
-title: "Mercato Roma, sfida al Torino per il classe 2006 Mascardi - Siamo la Roma"
+title: "Mercato Roma, sfida al Torino per il classe 2006 Mascardi"
 titleEn: "Roma and Torino battle for promising youngster Mascardi"
 excerpt: "La Roma intensifica la caccia al talento classe 2006 Diego Mascardi, ma dovrà vedersela con la concorrenza del Torino. Un giovane profilo nel mirino dei giallorossi in ottica futura."
 excerptEn: "Roma intensifies pursuit of talented 2006-born prospect Diego Mascardi, facing competition from Torino. A promising profile in the Giallorossi's sights for future development."
 date: 2026-07-06
 category: mercato
-players: ["Diego Mascardi", "Diego Sia"]
+players: ["Diego Mascardi"]
 competitions: []
 source: "Siamo la Roma"
 sourceUrl: "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkc5QWU3TTgyQ1FURDBnNE5JNGVQZ2N4N0p4LTVLbXltN05YQXBGNEg1RFpqei16VGFKWDJ4VXEtZXhTNzBBUUVtX0Z1N29ONWk3bEtrOUJoVUMtZDMxRm82SjJZOEU1ejZOV3B4eFoxd3dJZGY1dDRzUGtJeDNraWJvRUpzVm9hbU1QNkZjTThFZlB6SHBuMm1iOA?oc=5"

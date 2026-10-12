@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Napoli, possibile novità sul futuro di Marianucci: le ultime - Tutto Napoli"
+title: "Calciomercato Napoli, possibile novità sul futuro di Marianucci: le ultime"
 titleEn: "Napoli eyeing changes to Marianucci's future"
 excerpt: "Il Napoli valuta sviluppi significativi riguardo al percorso di Luca Marianucci. Novità attese nel mercato partenopeo su questo giovane talento."
 excerptEn: "Napoli is considering important developments regarding Luca Marianucci's path forward. Market updates expected at the Partenopean club concerning this young talent."

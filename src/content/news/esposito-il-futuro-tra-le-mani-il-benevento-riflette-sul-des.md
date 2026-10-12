@@ -1,5 +1,5 @@
 ---
-title: "Esposito, il futuro tra le mani: il Benevento riflette sul destino del suo portiere gioiellino, erede di Nunziante - NTR24 Sport"
+title: "Esposito, il futuro tra le mani: il Benevento riflette sul destino del suo portiere gioiellino, erede di Nunziante"
 titleEn: "Esposito's Future in Focus: Benevento Weighs Options for Young Goalkeeper"
 excerpt: "Il Benevento si trova di fronte a una decisione cruciale riguardante Francesco Pio Esposito, giovane portiere destinato a raccogliere l'eredità di Alessandro Nunziante. Un momento delicato per il futuro del classe nuovo della Serie B."
 excerptEn: "Benevento faces a critical decision regarding Francesco Pio Esposito, the young goalkeeper set to inherit from Alessandro Nunziante. A decisive moment for the future of this emerging Serie B talent."

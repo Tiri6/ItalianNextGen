@@ -1,5 +1,5 @@
 ---
-title: "🔎Il mercato che faremmo... al Mantova! SUGGESTIONE Rao, rinascita Dellavalle, riserva Benaissa - Pianeta Serie B"
+title: "Il mercato che faremmo... al Mantova! SUGGESTIONE Rao, rinascita Dellavalle, riserva Benaissa"
 titleEn: "The Mantova We'd Build: Rao's Potential, Dellavalle's Comeback, Benaissa's Role"
 excerpt: "Pianeta Serie B immagina il mercato ideale per il Mantova con tre giovani protagonisti: Emanuele Rao come suggestione offensiva, Alessandro Dellavalle in una possibile rinascita e Benaissa come soluzione di riserva."
 excerptEn: "Pianeta Serie B outlines a hypothetical transfer window for Mantova featuring Emanuele Rao as an intriguing offensive option, Alessandro Dellavalle's potential resurgence, and Benaissa as a backup alternative."

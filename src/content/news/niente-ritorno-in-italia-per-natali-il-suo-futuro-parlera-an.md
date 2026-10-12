@@ -1,5 +1,5 @@
 ---
-title: "Niente ritorno in Italia per Natali: il suo futuro parlerà ancora olandese - DirettaCalcioMercato"
+title: "Niente ritorno in Italia per Natali: il suo futuro parlerà ancora olandese"
 titleEn: "Natali's Future Remains in the Netherlands: Italian Return Off the Table"
 excerpt: "Andrea Natali non farà ritorno in Italia. Il giovane talento proseguirà la sua carriera all'estero, mantenendo la destinazione olandese come suo prossimo progetto professionale."
 excerptEn: "Andrea Natali will not return to Italy. The young talent will continue his career abroad, with the Netherlands remaining his next professional destination."

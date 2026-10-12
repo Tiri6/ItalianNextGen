@@ -1,5 +1,5 @@
 ---
-title: "Cocchi va in prestito in Serie B: si decide la prossima - Passione Inter"
+title: "Cocchi va in prestito in Serie B: si decide la prossima"
 titleEn: "Cocchi Heads to Serie B on Loan: Next Move Will Be Decisive"
 excerpt: "Matteo Cocchi si trasferisce in Serie B in prestito. La prossima stagione sarà cruciale per il giovane talento interista nel percorso verso il 2030."
 excerptEn: "Matteo Cocchi moves to Serie B on loan. Next season will be crucial for the young Nerazzurri prospect on the path toward 2030."

@@ -1,0 +1,23 @@
+---
+title: "Under 19, Natali e Arena nella lista per la Croazia"
+titleEn: "U19 squad for Croatia: Natali and Arena included"
+excerpt: "La Federazione ha diramato i convocati per il torneo in Croazia. Presenti i due talenti seguiti da Italian Next Gen, assente invece il settore giovanile rossonero."
+excerptEn: "The Federation has announced the squad for the Croatia tournament. The two prospects followed by Italian Next Gen are included, while Milan's youth academy is absent."
+date: 2026-09-28
+publishedAt: 2026-09-28T11:20:00+02:00
+category: mercato
+players: ["Antonio Arena", "Andrea Natali"]
+competitions: ["euro-u19-2026"]
+source: "Calciomercato"
+sourceUrl: "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkl0YnpHdEJmMmo2NGpBNEtnMDNhamxTRnMxQmRYU213R0RfenQzbFA3R1lqVGNaUFFlWGVMelVNb19lTmphSUdXNENlcUR1MmNZWS1YVXdOU1hWUmFZclhXQlBfdkEyVjlHLWM5dm5MTlhnc3BPZ1FsXzBWLUtJcUc0NWY0a2tEUWV0bmdyemc3Y1h2X1AtSTB2V3lfQmdxbzU0VW5tX2VrMnV1RE93SUY4UURFb3BqV0x0YzAtWmV1S3dGOGNrWXphNDJETmlZT3hiQmNHc0ZsNmhoSlBUR093TW9xM1didDJPbzBB?oc=5"
+---
+
+Andrea Natali e Antonio Arena figurano nella lista dei convocati dell'Italia Under 19 per il prossimo impegno internazionale in Croazia. Una conferma della fiducia nei confronti di due prospetti monitorati con continuità dal nostro redazionale.
+
+Nota invece l'assenza del Milan tra i club rappresentati nella selezione azzurra. Una situazione che rispecchia l'attuale momento del settore giovanile rossonero nel contesto competitivo italiano.
+
+<!--EN-->
+
+Andrea Natali and Antonio Arena are included in the Italy U19 squad for the upcoming international tournament in Croatia. A confirmation of the trust placed in two prospects continuously monitored by our editorial team.
+
+Notable, however, is the absence of Milan from the clubs represented in the Azzurri selection. A situation reflecting the current state of the Rossoneri's youth academy within the Italian competitive landscape.

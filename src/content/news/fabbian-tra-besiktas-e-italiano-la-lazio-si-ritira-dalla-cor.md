@@ -6,7 +6,7 @@ excerptEn: "Giovanni Fabbian remains in the sights of the Turkish club and coach
 date: 2026-08-16
 publishedAt: 2026-08-16T10:20:00+02:00
 category: mercato
-players: ["Giovanni Fabbian", "Diego Sia"]
+players: ["Giovanni Fabbian"]
 competitions: []
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVlTUEZhUzJ3alJZbUl2NTdzQ0lScG5VZVlYUmZRTDduakJEMlNfOEk3ano0YW9OR1pkdWZJVmRYc1BJTFNjUklGZEhnM0J2M1JmRUJnWWc5b1h3NGlQbUJqWERHSHU4dVBTcnJSM29HVlI1UU5yOGdPd1JNN3BYYVdfeTJiM051UWgtbEdYckJmc1VpR3k2a1BCeHZZSjd4VE9rUkl5YmdKcEx5OUE5WDA4cjQ?oc=5"

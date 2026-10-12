@@ -1,5 +1,5 @@
 ---
-title: "Ndour: \"No alla Juventus a 13 anni? Non mi pento, l'ho battuta in semifinale di Youth League e le ho segnato allo Stadium, la gioia più grande\" - Calciomercato"
+title: "Ndour: \"No alla Juventus a 13 anni? Non mi pento, l'ho battuta in semifinale di Youth League e le ho segnato allo Stadium, la gioia più grande\""
 titleEn: "Ndour: Rejecting Juventus at 13 Was No Mistake, I Beat Them in Youth League Semis"
 excerpt: "Cher Ndour ripercorre la scelta di non seguire la Juventus nell'adolescenza: il talento italiano ha poi affrontato i bianconeri in semifinale di Youth League, superandoli e segnando allo Stadium."
 excerptEn: "Cher Ndour reflects on his decision to turn down Juventus as a teenager: the Italian prospect later faced the bianconeri in a Youth League semifinal, eliminating them and scoring at the Stadium."

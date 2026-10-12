@@ -1,5 +1,5 @@
 ---
-title: "No allo Stoccarda per Iddrissou: per l'Inter può essere il 'nuovo Pio Esposito' - TUTTOmercatoWEB"
+title: "No allo Stoccarda per Iddrissou: per l'Inter può essere il 'nuovo Pio Esposito'"
 titleEn: "Iddrissou Turns Down Stuttgart: Inter's Potential 'New Pio Esposito'"
 excerpt: "Il giovane talento rifiuta la destinazione tedesca. L'Inter ripone fiducia nel classe 2006 come erede della linea di prospetti offensivi."
 excerptEn: "The young prospect declines the German move. Inter places trust in the 2006-born player as heir to the offensive talent pipeline."

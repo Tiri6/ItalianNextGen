@@ -1,11 +1,11 @@
 ---
-title: "Oristanio ritrova Casadei: dall'Inter al Torino, a caccia della definitiva maturazione - Toro News"
+title: "Oristanio ritrova Casadei: dall'Inter al Torino, a caccia della definitiva maturazione"
 titleEn: "Casadei Reunites with Oristanio at Torino: Inter Prospect Seeks Maturity in Serie A"
 excerpt: "Cesare Casadei lascia l'Inter per trasferirsi al Torino, dove ritroverà Oristanio. Un passaggio cruciale nella crescita del giovane centrocampista in vista dei progetti azzurri di medio termine."
 excerptEn: "Cesare Casadei leaves Inter to join Torino, reuniting with Oristanio. A crucial step in the midfielder's development as he pursues consolidation in Serie A."
 date: 2026-07-06
 category: news
-players: ["Cesare Casadei", "Seydou Fini"]
+players: ["Cesare Casadei"]
 competitions: []
 source: "Toro News"
 sourceUrl: "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSktQMFpyeUhUWjd4ZlNJNVg4c284d3MwOFp6VC1Wa1R6VlkydjBPWXpJY1JHc3lodTRQRGEzbmNzVjEzdmxiVjczYTBHNHhKV05NY0tRNXVIY1FDc0QzZFJxNmVrbEtmOHZDbWwtTlRCVzhIc3JHblpTUXF4VVMwSVUwcUJzZDNUeGotVWV5ZHUzZkFtRHRyR1pNLWd1b3dDZndkR3RxYUdsUGFHRG1kcUc1ZG0xa2dwQ1hYQUZhRENCaTN6Z0hFS2130gHPAUFVX3lxTFBTQ2VmUlg0YVgtVEExemtQTHBvUDJRSFQ5WDRRR0VYQ3dDcEhEaWVJODRLSnJiMzZOYVdDdC1aVkxGeGRTYWlWbFV1ak93ci13UHlCVjVuSllFa2xwa0dHMUh5S3NWY3B3NjktS2wtRnZzV0xOakV6UkZHVDZwdVFfX25zbWZaaG96dS1QVFIxRmEyTGZSazdvRThOSGlfb0I0cURCWG5aNzZ5THY1azNGcXlPRy15LXhIOFVDejVhYW5ITlBzeFNHWndfVHZ0cw?oc=5"

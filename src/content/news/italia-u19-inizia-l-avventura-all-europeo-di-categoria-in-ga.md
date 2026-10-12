@@ -1,5 +1,5 @@
 ---
-title: "Italia U19, inizia l'avventura all'Europeo di categoria in Galles. I 20 convocati del ct Bollini - TUTTOmercatoWEB"
+title: "Italia U19, inizia l'avventura all'Europeo di categoria in Galles. I 20 convocati del ct Bollini"
 titleEn: "Italy U19 begins European Championship campaign in Wales under Bollini"
 excerpt: "La nazionale italiana Under 19 ha ufficialmente avviato il suo percorso all'Europeo di categoria in Galles. Il commissario tecnico Bollini ha diramato i 20 convocati per l'importante competizione giovanile."
 excerptEn: "Italy's U19 national team has officially started its journey at the European Championship in Wales. Coach Bollini has announced the 20 players selected for the youth competition."

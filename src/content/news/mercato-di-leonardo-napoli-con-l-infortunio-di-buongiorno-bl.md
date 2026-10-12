@@ -1,5 +1,5 @@
 ---
-title: "MERCATO - Di Leonardo: \"Napoli, con l'infortunio di Buongiorno bloccato l'addio di Olivera, le alternative sono Rafa Marin e Marianucci\" - Napoli Magazine"
+title: "MERCATO - Di Leonardo: \"Napoli, con l'infortunio di Buongiorno bloccato l'addio di Olivera, le alternative sono Rafa Marin e Marianucci\""
 titleEn: "Napoli's Defensive Plans: Marianucci and Marin in the spotlight after Buongiorno injury"
 excerpt: "L'infortunio di Buongiorno blocca la partenza di Olivera dal Napoli. Due giovani talenti italiani, Marianucci e Rafa Marin, emergono come alternative difensive per gli azzurri."
 excerptEn: "Buongiorno's injury halts Olivera's departure from Napoli. Two young Italian talents, Marianucci and Rafa Marin, emerge as defensive alternatives for the Partenopeans."

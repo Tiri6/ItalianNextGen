@@ -6,7 +6,7 @@ excerptEn: "Calabrian side faces anxious days over Antonini's fitness while Pafu
 date: 2026-09-19
 publishedAt: 2026-09-19T10:00:00+02:00
 category: news
-players: ["Simone Pafundi", "Diego Sia"]
+players: ["Simone Pafundi"]
 competitions: []
 source: "Pianeta Serie B"
 sourceUrl: "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RNc0JMUHVmNkZ5ZVpYVmVTWGVfczlBRl9aNF81bHczLTZjUllyVGV5YXpKaFBlM0gzLTVkNVY2WTZEWjdYZkVaVjFVRFZDT1p2OTBuZGhEYkdTTUtCUVdfUnhRRk9nVVprQlp1X0kzTE5CcWthQ25JR21Ca3BrbUEtbWhnYThDMVVrc1NwREFlaUtvTnVNUA?oc=5"

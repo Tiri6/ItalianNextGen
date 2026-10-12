@@ -1,5 +1,5 @@
 ---
-title: "Fiorentina, il club campano su Martinelli e Kouadio: i due talenti viola al centro del mercato - OneFootball"
+title: "Fiorentina, il club campano su Martinelli e Kouadio: i due talenti viola al centro del mercato"
 titleEn: "Fiorentina Talents Martinelli and Kouadio in the Market Spotlight"
 excerpt: "Due giovani viola finiscono nel mirino del mercato. Martinelli e Kouadio rappresentano il presente e il futuro del settore giovanile della Fiorentina."
 excerptEn: "Two Fiorentina prospects attract market attention. Martinelli and Kouadio embody the club's youth development project with their growth potential."

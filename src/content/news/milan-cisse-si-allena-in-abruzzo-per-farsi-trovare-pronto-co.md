@@ -1,5 +1,5 @@
 ---
-title: "Milan, Cissè si allena in Abruzzo per farsi trovare pronto con Amorim: cosa filtra sul futuro - Calciomercato"
+title: "Milan, Cissè si allena in Abruzzo per farsi trovare pronto con Amorim: cosa filtra sul futuro"
 titleEn: "Cissè Trains in Abruzzo to Impress Amorim at Milan"
 excerpt: "Alphadjo Cissè prosegue la preparazione in Abruzzo in vista dell'arrivo di Sergio Amorim sulla panchina rossonera. Il giovane talento italiano lavora per essere nelle migliori condizioni fisiche."
 excerptEn: "Alphadjo Cissè continues his training in Abruzzo ahead of Sergio Amorim's arrival at Milan. The young Italian prospect is working to be in top physical condition."

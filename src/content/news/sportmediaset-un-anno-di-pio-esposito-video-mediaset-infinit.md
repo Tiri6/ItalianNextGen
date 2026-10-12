@@ -1,11 +1,11 @@
 ---
-title: "SportMediaset: Un anno di Pio Esposito Video - Mediaset Infinity"
+title: "SportMediaset: Un anno di Pio Esposito Video"
 titleEn: "Pio Esposito's Year in Review: A Season of Growth for Italy's Young Talent"
 excerpt: "Mediaset Infinity ripercorre dodici mesi cruciali di Francesco Pio Esposito, giovane promessa del calcio italiano. Un bilancio che testimonia la progressione di uno dei prospetti più interessanti in ottica 2030."
 excerptEn: "Mediaset Infinity retraces a crucial twelve months for Francesco Pio Esposito, one of Italian football's brightest young prospects. A season review that showcases the development of a talent firmly in the conversation for 2030."
 date: 2026-07-06
 category: news
-players: ["Francesco Pio Esposito", "Seydou Fini"]
+players: ["Francesco Pio Esposito"]
 competitions: []
 source: "Mediaset Infinity"
 sourceUrl: "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGZBaEtVMXZfZ0taU3duMmU2OE1Yb3p1THRNTjFjWHJXXzBOVzFUYVRxVnVEeTZNSUNkSGhtVnd3bzJoY3pCSHMxRVRXTjdzRVFsZHJsX2ZVaTlVNGRlQk1OSDlVdEZtaG13anN2ZG9ZbHBVVnNpSTJFS28yVHl0RGdMMjJVVEFsa0RKSU5iOGdtWnNoWGp1dGF0OFowUQ?oc=5"

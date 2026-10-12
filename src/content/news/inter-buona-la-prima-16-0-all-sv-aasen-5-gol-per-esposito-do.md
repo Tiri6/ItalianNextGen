@@ -1,5 +1,5 @@
 ---
-title: "Inter, buona la prima: 16-0 all'SV Aasen, 5 gol per Esposito! Doppiette di Frattesi, Diouf, Iddrissou - Tuttosport"
+title: "Inter, buona la prima: 16-0 all'SV Aasen, 5 gol per Esposito! Doppiette di Frattesi, Diouf, Iddrissou"
 titleEn: "Inter's Preseason Statement: Esposito Shines in 16-0 Rout"
 excerpt: "L'Inter inizia la preparazione con un rotondo 16-0 contro l'SV Aasen. Francesco Pio Esposito protagonista con 5 reti, mentre Frattesi, Diouf e Iddrissou firmano ciascuno una doppietta."
 excerptEn: "Inter begin preseason with a commanding 16-0 victory over SV Aasen. Francesco Pio Esposito leads the way with five goals, while Frattesi, Diouf and Iddrissou each score twice."

@@ -1,5 +1,5 @@
 ---
-title: "Milan Futuro, Navarro al debutto: Balentien e Zeroli nomi caldi di mercato - TUTTOmercatoWEB"
+title: "Milan Futuro, Navarro al debutto: Balentien e Zeroli nomi caldi di mercato"
 titleEn: "Milan Futuro, Navarro Makes Debut: Balentien and Zeroli in the Spotlight"
 excerpt: "Il Milan Futuro accoglie Navarro nel suo progetto di sviluppo dei giovani talenti. Nel frattempo, Balentien e Zeroli continuano ad attirare l'attenzione del mercato."
 excerptEn: "Milan Futuro welcomes Navarro into its youth development project. Meanwhile, Balentien and Zeroli continue to attract market interest."

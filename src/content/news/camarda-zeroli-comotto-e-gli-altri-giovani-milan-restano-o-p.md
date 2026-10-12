@@ -1,5 +1,5 @@
 ---
-title: "Camarda, Zeroli, Comotto e gli altri giovani Milan: restano o partono? Anche loro sono nel limbo - La Gazzetta dello Sport"
+title: "Camarda, Zeroli, Comotto e gli altri giovani Milan: restano o partono? Anche loro sono nel limbo"
 titleEn: "Milan's Young Talents at a Crossroads: Camarda, Zeroli and Comotto Face Uncertain Futures"
 excerpt: "Il Milan deve fare i conti con il futuro dei suoi giovani talenti. Camarda, Zeroli e Comotto rimangono in bilico tra permanenza e partenza, in attesa di decisioni che potrebbero definire le loro carriere."
 excerptEn: "AC Milan must reckon with the future of its young talents. Camarda, Zeroli and Comotto remain caught between staying and leaving, awaiting decisions that could shape their careers."

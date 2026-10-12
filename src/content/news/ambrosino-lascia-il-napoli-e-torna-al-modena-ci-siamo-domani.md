@@ -1,12 +1,12 @@
 ---
-title: "Ambrosino lascia il Napoli e torna al Modena, ci siamo. Domani le visite mediche - TUTTOmercatoWEB"
+title: "Ambrosino lascia il Napoli e torna al Modena, ci siamo. Domani le visite mediche"
 titleEn: "Ambrosino Departs Naples, Returns to Modena"
 excerpt: "Giuseppe Ambrosino lascia il Napoli e torna al Modena in prestito. Le visite mediche sono previste per domani, confermando la chiusura dell'operazione."
 excerptEn: "Giuseppe Ambrosino leaves Napoli and returns to Modena on loan. Medical examinations scheduled for tomorrow will finalize the transfer."
 date: 2026-07-24
 publishedAt: 2026-07-24T12:40:00+02:00
 category: mercato
-players: ["Diego Sia", "Giuseppe Ambrosino"]
+players: ["Giuseppe Ambrosino"]
 competitions: []
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjR3UWhPUG5qOVVTQ2NNV0QwUmw3VVNWQlBPc0RZTDhWclltV294aTdEWEVDUTBYOVBOV2dIR0Z0V2lrWk5SRVdtTm84cl9tUG9qMVlwZGtJUkVSMGxBWGJXWXdnS2NRQ2k5bE1HdW0yWWVKM25RbTczVHlFZDdqNkRTcjNFWXJCOWZ3aThnYVhuQ1NxRTVCbk9jMlVFOGF2dmtYbkM5NExhelJ6SDhJcEtn?oc=5"

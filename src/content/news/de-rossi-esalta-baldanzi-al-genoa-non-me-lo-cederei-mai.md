@@ -6,7 +6,7 @@ excerptEn: "The Genoa coach praises the young talent's qualities and takes a jab
 date: 2026-09-24
 publishedAt: 2026-09-24T14:20:00+02:00
 category: mercato
-players: ["Tommaso Baldanzi", "Emanuele Rao"]
+players: ["Tommaso Baldanzi"]
 competitions: []
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGcxOG9PY05aamd5S3lfTlJ0eG1oTTNfRnhkUGZiMGJBeDRmRFpWUTFhMmJISDJLS3c3eW1Yb0JnMUl6czRFemVySTE2VHBROHhSdXB6SlBlN1Axd0h5WHFOYkgtTEVqa1ZiMW4yVXpGbXRjSmxXQ1dfX19uTURnSjRTMHNhTnBBYlRmX0psUkhnVER4WDFKYW55YkNTdjdxVU45S2NR?oc=5"

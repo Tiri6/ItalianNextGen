@@ -1,5 +1,5 @@
 ---
-title: "Juventus, Spalletti “scopre” Elimoghale: aggregato ai grandi dopo l’infortunio di Ekhator - MondoPrimavera"
+title: "Juventus, Spalletti “scopre” Elimoghale: aggregato ai grandi dopo l’infortunio di Ekhator"
 titleEn: "Juventus, Spalletti Gives Elimoghale His Chance After Ekhator's Injury"
 excerpt: "Destiny Elimoghale è stato aggregato alla prima squadra bianconera dopo l'infortunio di Jeff Ekhator. Un'opportunità importante per il giovane talento nella corsia difensiva."
 excerptEn: "Destiny Elimoghale has been promoted to Juventus's senior squad following Jeff Ekhator's injury. A significant opportunity for the young talent on the defensive flank."

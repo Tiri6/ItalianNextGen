@@ -1,5 +1,5 @@
 ---
-title: "Cagliari, un difensore in arrivo: Natali, Mané e Kofler in corsa - Tutto Cagliari"
+title: "Cagliari, un difensore in arrivo: Natali, Mané e Kofler in corsa"
 titleEn: "Cagliari Eyes Young Defensive Reinforcement: Natali, Mané and Kofler in the Frame"
 excerpt: "Il Cagliari è alla ricerca di un difensore e ha messo nel mirino tre profili della next gen italiana. Tra i candidati figurano Andrea Natali, Filippo Mané e Raphael Kofler."
 excerptEn: "Cagliari are hunting for defensive reinforcements and have identified three young Italian prospects as potential targets. The trio includes Andrea Natali, Filippo Mané and Raphael Kofler."

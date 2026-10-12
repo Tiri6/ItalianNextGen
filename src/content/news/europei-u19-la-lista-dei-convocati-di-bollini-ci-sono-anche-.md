@@ -1,5 +1,5 @@
 ---
-title: "Europei U19, la lista dei convocati di Bollini. Ci sono anche Arena ed Elimoghale - Gianluca Di Marzio"
+title: "Europei U19, la lista dei convocati di Bollini. Ci sono anche Arena ed Elimoghale"
 titleEn: "Bollini names Italy U19 squad for Euros: Arena and Elimoghale included"
 excerpt: "Il commissario tecnico Bollini ha ufficializzato la lista dei convocati per gli Europei Under 19. Tra i selezionati figurano anche Antonio Arena e Destiny Elimoghale."
 excerptEn: "Coach Bollini has announced his squad selection for the U19 European Championship. The call-ups include Antonio Arena and Destiny Elimoghale among others."

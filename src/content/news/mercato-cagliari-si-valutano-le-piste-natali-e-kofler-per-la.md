@@ -1,5 +1,5 @@
 ---
-title: "Mercato Cagliari, si valutano le piste Natali e Kofler per la difesa: il punto - Cagliari News 24"
+title: "Mercato Cagliari, si valutano le piste Natali e Kofler per la difesa: il punto"
 titleEn: "Cagliari Eyes Natali and Kofler for Defensive Reinforcements"
 excerpt: "Il Cagliari sta valutando due profili per rinforzare la difesa: Andrea Natali e Raphael Kofler sono le piste principali monitorate dalla società sarda in questa sessione di mercato."
 excerptEn: "Cagliari is evaluating two defensive options: Andrea Natali and Raphael Kofler are the main targets under consideration by the Sardinian club during this transfer window."

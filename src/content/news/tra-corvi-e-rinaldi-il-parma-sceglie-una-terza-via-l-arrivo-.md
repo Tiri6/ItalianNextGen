@@ -1,5 +1,5 @@
 ---
-title: "Tra Corvi e Rinaldi, il Parma sceglie una ‘terza via’: l’arrivo di Daffara alza il sipario sul mercato, ma anche i dubbi sul futuro titolare. Una domanda: perché non puntare sul duo parmigiano? - Parma Live"
+title: "Tra Corvi e Rinaldi, il Parma sceglie una ‘terza via’: l’arrivo di Daffara alza il sipario sul mercato, ma anche i dubbi sul futuro titolare. Una domanda: perché non puntare sul duo parmigiano?"
 titleEn: "Parma's Goalkeeper Puzzle: Daffara Arrives as Club Seeks Third Option Beyond Corvi and Rinaldi"
 excerpt: "Il Parma accelera sul mercato con l'arrivo di Giovanni Daffara, aprendo un'incognita sulla gerarchia tra i pali. La scelta di una terza soluzione riapre il dibattito sulla valorizzazione dei talenti locali."
 excerptEn: "Parma moves decisively in the transfer market with Giovanni Daffara's signing, creating uncertainty over the goalkeeping hierarchy. The club's choice of a third option reignites debate on nurturing homegrown talent."

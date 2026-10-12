@@ -1,5 +1,5 @@
 ---
-title: "Matteo Moretto: \"Il Milan vuole blindare Camarda e Comotto ed evitare altri casi Liberali\" - Milanisti Channel"
+title: "Matteo Moretto: \"Il Milan vuole blindare Camarda e Comotto ed evitare altri casi Liberali\""
 titleEn: "Milan Determined to Secure Camarda and Comotto's Futures, Learning from Liberali Departure"
 excerpt: "Il Milan intende blindare Francesco Camarda e Christian Comotto, evitando di ripetere l'esperienza negativa con Mattia Liberali. Una strategia difensiva per trattenere i giovani talenti rossoneri."
 excerptEn: "Milan aims to secure Francesco Camarda and Christian Comotto's futures, determined not to repeat what happened with Mattia Liberali. A defensive strategy to retain their young talents."

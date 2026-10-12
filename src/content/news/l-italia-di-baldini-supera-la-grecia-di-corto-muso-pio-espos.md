@@ -1,5 +1,5 @@
 ---
-title: "L'Italia di Baldini supera la Grecia di corto muso: Pio Esposito ancora decisivo. Espulso Reggiani - Tuttosport"
+title: "L'Italia di Baldini supera la Grecia di corto muso: Pio Esposito ancora decisivo. Espulso Reggiani"
 titleEn: "Italy's U21 Edge Past Greece Behind Esposito's Impact; Reggiani Sees Red"
 excerpt: "L'Italia Under 21 di Baldini coglie una vittoria di misura contro la Grecia grazie al contributo decisivo di Pio Esposito. Brutta notizia l'espulsione di Reggiani durante la gara."
 excerptEn: "Baldini's Italy U21 secure a narrow victory over Greece, with Pio Esposito proving instrumental in the outcome. A disciplinary setback comes with Reggiani's red card."

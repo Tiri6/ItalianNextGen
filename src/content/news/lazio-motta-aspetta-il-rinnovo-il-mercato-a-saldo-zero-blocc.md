@@ -1,11 +1,11 @@
 ---
-title: "Lazio, Motta aspetta il rinnovo: il mercato a saldo zero blocca tutto - La Lazio Siamo Noi"
+title: "Lazio, Motta aspetta il rinnovo: il mercato a saldo zero blocca tutto"
 titleEn: "Lazio, Motta's renewal on hold: zero-budget market freezes negotiations"
 excerpt: "Il centrocampista della Lazio Edoardo Motta rimane in attesa di un rinnovo contrattuale mentre i vincoli di bilancio della società rallentano le operazioni di mercato."
 excerptEn: "Lazio midfielder Edoardo Motta awaits contract renewal as the club's budget constraints slow down market activity."
 date: 2026-07-06
 category: mercato
-players: ["Diego Sia", "Edoardo Motta"]
+players: ["Edoardo Motta"]
 competitions: []
 source: "La Lazio Siamo Noi"
 sourceUrl: "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamtjM19IWmltVXBWWTRjOFdJS19oZzVpZ05YQWtQMGFjTTZFRWdXYU5WM2g0NWp0dXRnY2VjOWdJVWxRSk9lSHl5WkFQUDdNUlF2YURVTDZoWEg4V1BrX3VVQkREWDNXa2NZTGlEWVBrZzlSU0F5LUVFR012TDA2cUk5RDlwdnNlLUJ0Y1JXa3VIdWVwNFRyeTZ6NGFUZzlMYXhyYVBn?oc=5"

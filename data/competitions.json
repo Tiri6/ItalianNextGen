@@ -405,7 +405,8 @@
           "stageEn": "Qualifiers · Group E",
           "home": "Armenia",
           "away": "Italia",
-          "result": "0-1"
+          "result": "0-1",
+          "_autoResult": true
         },
         {
           "date": "2026-10-05",
@@ -413,7 +414,8 @@
           "stageEn": "Qualifiers · Group E · final matchday",
           "home": "Italia",
           "away": "Polonia",
-          "result": "6-2"
+          "result": "6-2",
+          "_autoResult": true
         }
       ],
       "events": [

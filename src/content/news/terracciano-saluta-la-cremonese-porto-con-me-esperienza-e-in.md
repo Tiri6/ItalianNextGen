@@ -1,5 +1,5 @@
 ---
-title: "Terracciano saluta la Cremonese: “Porto con me esperienza e insegnamenti” - Calcio Cremonese"
+title: "Terracciano saluta la Cremonese: “Porto con me esperienza e insegnamenti”"
 titleEn: "Terracciano Departs Cremonese with Gratitude for Growth"
 excerpt: "Filippo Terracciano chiude il capitolo cremasco portando con sé un bagaglio di esperienze formative. Il giovane difensore saluta la Cremonese dopo una stagione di importante sviluppo calcistico."
 excerptEn: "Filippo Terracciano closes his Cremonese chapter carrying valuable experience forward. The young defender bids farewell to the Grigione after a season of significant footballing growth."

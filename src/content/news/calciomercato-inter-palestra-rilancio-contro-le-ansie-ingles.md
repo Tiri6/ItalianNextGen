@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Inter-Palestra: rilancio contro le ansie inglesi. Solet e un fantasista: sorpresa nel summit con l'Udinese. Bastoni e Pio Esposito... - Le indiscrezioni - Il Giornale d'Italia"
+title: "Calciomercato Inter-Palestra: rilancio contro le ansie inglesi. Solet e un fantasista: sorpresa nel summit con l'Udinese. Bastoni e Pio Esposito... - Le indiscrezioni"
 titleEn: "Inter Target Young Talent: Esposito and Palestra in Focus Amid Market Activity"
 excerpt: "L'Inter accelera sul mercato dei giovani con attenzione particolare verso Francesco Pio Esposito e Marco Palestra. Trattative in corso anche con l'Udinese per profili offensivi di prospettiva."
 excerptEn: "Inter step up their pursuit of young Italian prospects with Francesco Pio Esposito and Marco Palestra under close observation. Negotiations ongoing with Udinese for creative attacking profiles."

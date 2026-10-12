@@ -1,5 +1,5 @@
 ---
-title: "Estupinan all'Aston Villa, poi un colpo sulla fascia: la strategia del Milan sugli esterni, dalla posizione di Saelemaekers e Bartesaghi ai possibili obiettivi di mercato - Goal.com"
+title: "Estupinan all'Aston Villa, poi un colpo sulla fascia: la strategia del Milan sugli esterni, dalla posizione di Saelemaekers e Bartesaghi ai possibili obiettivi di mercato"
 titleEn: "Milan's Flanks Strategy: Bartesaghi and Saelemaekers Under Scrutiny as Rossoneri Plan Summer Moves"
 excerpt: "Il Milan riflette sulla gestione delle corsie esterne con Bartesaghi e Saelemaekers protagonisti di un'analisi tattica. Il club rossonero studia possibili rinforzi di mercato sulla fascia."
 excerptEn: "Milan evaluates its wing strategy with Bartesaghi and Saelemaekers at the centre of tactical discussions. The Rossoneri are considering potential market reinforcements on the flanks."

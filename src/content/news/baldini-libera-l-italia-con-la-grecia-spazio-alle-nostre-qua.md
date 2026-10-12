@@ -1,5 +1,5 @@
 ---
-title: "Baldini libera l’Italia: “Con la Grecia spazio alle nostre qualità”. Chance per Ekhator e Ahanor - Il Secolo XIX"
+title: "Baldini libera l’Italia: “Con la Grecia spazio alle nostre qualità”. Chance per Ekhator e Ahanor"
 titleEn: "Baldini Opens Door for Italy's Young Talents: Ekhator and Ahanor Get Their Chance Against Greece"
 excerpt: "Il commissario tecnico della Nazionale Under 21 ha annunciato scelte orientate a valorizzare le qualità dell'Italia in vista della sfida con la Grecia. Due delle giovani promesse seguite, Ekhator e Ahanor, potrebbero trovare spazi significativi."
 excerptEn: "The Italian U21 coach has signaled a tactical approach designed to unleash the team's strengths in the upcoming Greece match. Two promising prospects, Ekhator and Ahanor, could earn valuable minutes."

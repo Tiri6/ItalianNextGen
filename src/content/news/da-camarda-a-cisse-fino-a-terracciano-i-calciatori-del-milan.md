@@ -1,5 +1,5 @@
 ---
-title: "🔥 Da Camarda a Cisse fino a Terracciano: i calciatori del Milan che fanno gola in Serie B - Pianeta Serie B"
+title: "Da Camarda a Cisse fino a Terracciano: i calciatori del Milan che fanno gola in Serie B"
 titleEn: "Milan's Young Talents Target Serie B: Camarda and Terracciano in the Spotlight"
 excerpt: "Il Milan piazza diversi giovani talenti in prestito in Serie B, tra cui Francesco Camarda e Filippo Terracciano. Una scelta strategica per accelerare la crescita dei prospetti rossoneri in vista del progetto nazionale verso il 2030."
 excerptEn: "AC Milan sends several young prospects on loan to Serie B, including Francesco Camarda and Filippo Terracciano. A strategic move to accelerate the development of Rossoneri talents as part of Italy's long-term project toward 2030."

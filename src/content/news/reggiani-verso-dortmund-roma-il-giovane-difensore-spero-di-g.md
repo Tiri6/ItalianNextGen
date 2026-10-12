@@ -6,7 +6,7 @@ excerptEn: "Luca Reggiani prepares for the Ferragosto clash between Dortmund and
 date: 2026-09-01
 publishedAt: 2026-09-01T14:00:00+02:00
 category: mercato
-players: ["Luca Reggiani", "Diego Sia"]
+players: ["Luca Reggiani"]
 competitions: []
 source: "TUTTOmercatoWEB"
 sourceUrl: "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXBtYy1pWHVjX00zSVkwS2pSc2VuWEQ4NnVhR1d6dC1HTlN0QnhTN0FhalFzT2xoWlhJa08tU1gzdktYRUw5Nmlxa2ZOTzRUZ2QzUTJmdHo4UWNaODI1ZlVISjRFME1VR1hyVzU3UDNNYmxzYzJzQy1hWmVZNXBlR3JCbVpGQjNYZG1ZRFBQWDc0R3hrZk5RbE1yWGtiTzlDYlhDLU5KcHZLYm5Oc0pjOW1QUlZ4cktpRXJkMlQ3UQ?oc=5"

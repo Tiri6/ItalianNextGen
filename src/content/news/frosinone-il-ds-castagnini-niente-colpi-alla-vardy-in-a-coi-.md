@@ -1,5 +1,5 @@
 ---
-title: "Frosinone, il ds Castagnini: \"Niente colpi alla Vardy, in A coi giovani: Palmisani e Cichella prontissimi\" - Sportmediaset"
+title: "Frosinone, il ds Castagnini: \"Niente colpi alla Vardy, in A coi giovani: Palmisani e Cichella prontissimi\""
 titleEn: "Frosinone Betting on Youth: Cichella and Palmisani Ready for Serie A Challenge"
 excerpt: "Il direttore sportivo del Frosinone Castagnini annuncia una strategia incentrata sui giovani talenti per la prossima stagione in Serie A, con Matteo Cichella e Palmisani in prima linea."
 excerptEn: "Frosinone's sporting director Castagnini announces a youth-focused strategy for the upcoming Serie A season, with Matteo Cichella and Palmisani leading the charge."

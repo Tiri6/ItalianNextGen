@@ -1,5 +1,5 @@
 ---
-title: "Lasciare Bologna o restare come secondo portiere? Per Pessina il futuro sarà deciso in ritiro - TUTTOmercatoWEB"
+title: "Lasciare Bologna o restare come secondo portiere? Per Pessina il futuro sarà deciso in ritiro"
 titleEn: "Pessina's Future at Bologna: Decision Coming in Pre-Season"
 excerpt: "Il portiere Massimo Pessina si trova a un bivio cruciale: proseguire il progetto al Bologna oppure cercare spazio altrove. La risposta arriverà durante il ritiro estivo."
 excerptEn: "Goalkeeper Massimo Pessina faces a critical decision: continue at Bologna or seek opportunities elsewhere. The answer will come during summer preparations."

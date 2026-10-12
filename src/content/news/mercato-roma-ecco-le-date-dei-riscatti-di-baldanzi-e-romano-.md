@@ -1,5 +1,5 @@
 ---
-title: "Mercato Roma, ecco le date dei riscatti di Baldanzi e Romano - Siamo la Roma"
+title: "Mercato Roma, ecco le date dei riscatti di Baldanzi e Romano"
 titleEn: "Roma's Baldanzi and Romano: Buyout Clauses Activated"
 excerpt: "La Roma ha fissato le scadenze per i riscatti di Tommaso Baldanzi e Diego Sia. Due giovani talenti al centro dei piani giallorossi in vista del futuro."
 excerptEn: "Roma has set the deadlines for the buyout clauses of Tommaso Baldanzi and Diego Sia. Two young talents at the center of the Giallorossi's plans for the future."

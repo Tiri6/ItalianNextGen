@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Juventus h24 - Il borsino dei ds. Un club di A su Joao Mario. Difficile ricucire con Vlahovic. Occhi su Muharemovic e Lipani. Torna di moda Frattesi. Lobotka via dal Napoli? Thuram verso la Premier - Tutto Juve"
+title: "Calciomercato Juventus h24 - Il borsino dei ds. Un club di A su Joao Mario. Difficile ricucire con Vlahovic. Occhi su Muharemovic e Lipani. Torna di moda Frattesi. Lobotka via dal Napoli? Thuram verso la Premier"
 titleEn: "Juventus Mercato Watch: Young Talents in Focus for 2030 Project"
 excerpt: "La Juventus continua a scandagliare il mercato dei giovani talenti italiani. Nel mirino restano profili come Muharemovic e Lipani, mentre si valutano movimenti sui nomi più affermati della rosa."
 excerptEn: "Juventus keeps scouting Italian young talents for their long-term vision. Muharemovic and Lipani remain on the radar, while the club assesses potential moves involving established squad members."

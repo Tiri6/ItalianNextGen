@@ -1,5 +1,5 @@
 ---
-title: "Pergolettese, vicino il colpo Pavesi: arriva in prestito dalla Cremonese - MondoPrimavera"
+title: "Pergolettese, vicino il colpo Pavesi: arriva in prestito dalla Cremonese"
 titleEn: "Pavesi to Pergolettese on loan from Cremonese"
 excerpt: "Davide Pavesi si trasferisce in prestito dalla Cremonese alla Pergolettese. Un movimento che coinvolge un giovane talento nel giro delle formazioni primavera italiane."
 excerptEn: "Davide Pavesi moves to Pergolettese on loan from Cremonese. A transfer involving a young talent within Italian youth development circuits."

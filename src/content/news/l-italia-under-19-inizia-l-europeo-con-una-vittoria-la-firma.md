@@ -1,5 +1,5 @@
 ---
-title: "L'Italia Under 19 inizia l'europeo con una vittoria: la firma in apertura la mette un obiettivo viola - FiorentinaNews.com"
+title: "L'Italia Under 19 inizia l'europeo con una vittoria: la firma in apertura la mette un obiettivo viola"
 titleEn: "Italy U19 starts Euro campaign with victory, Fiorentina prospect breaks the ice"
 excerpt: "L'Italia Under 19 inizia l'europeo con una vittoria. Un giovane della Fiorentina firma il gol dell'apertura nella competizione continentale."
 excerptEn: "Italy U19 kicks off the European championship with a win. A Fiorentina prospect scores the opening goal of the continental tournament."

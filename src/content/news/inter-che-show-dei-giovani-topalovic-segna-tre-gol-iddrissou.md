@@ -1,5 +1,5 @@
 ---
-title: "Inter, che show dei giovani: Topalovic segna tre gol, Iddrissou e Mosconi brillano - MondoPrimavera"
+title: "Inter, che show dei giovani: Topalovic segna tre gol, Iddrissou e Mosconi brillano"
 titleEn: "Inter's Young Talents Shine: Topalovic's Hat-Trick Stars in Primavera Victory"
 excerpt: "Prestazione straordinaria dei giovani nerazzurri in Primavera: Topalovic firma una tripletta, mentre Iddrissou e Mosconi si distinguono nel corso della partita."
 excerptEn: "Outstanding display by Inter's youth squad: Topalovic delivers a hat-trick, while Iddrissou and Mosconi stand out in the match."

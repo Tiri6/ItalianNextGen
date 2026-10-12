@@ -1,5 +1,5 @@
 ---
-title: "UFFICIALE: Rubino di nuovo in Serie B. Per il giovane viola un’altra stagione in prestito - FiorentinaNews.com"
+title: "UFFICIALE: Rubino di nuovo in Serie B. Per il giovane viola un’altra stagione in prestito"
 titleEn: "Rubino stays in Serie B: Fiorentina's prospect heads out on loan again"
 excerpt: "Tommaso Rubino continuerà il suo percorso di crescita in Serie B. Il giovane viola proseguirà la sua formazione lontano da Firenze con un nuovo prestito."
 excerptEn: "Tommaso Rubino will continue his development journey in Serie B. The young Fiorentina prospect heads out on loan once more to gain competitive experience."

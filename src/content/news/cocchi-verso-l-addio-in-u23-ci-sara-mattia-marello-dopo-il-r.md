@@ -1,5 +1,5 @@
 ---
-title: "Cocchi verso l'addio, in U23 ci sarà Mattia Marello dopo il riscatto dall'Udinese - L'Interista"
+title: "Cocchi verso l'addio, in U23 ci sarà Mattia Marello dopo il riscatto dall'Udinese"
 titleEn: "Marello set to arrive in Inter U23 after Udinese buyout as Cocchi prepares exit"
 excerpt: "Mattia Marello arriverà nell'Inter Primavera dopo il riscatto dall'Udinese. Nel frattempo, Matteo Cocchi sembra orientato verso una partenza dal club nerazzurro."
 excerptEn: "Mattia Marello will join Inter's U23 squad following his buyout from Udinese. Meanwhile, Matteo Cocchi appears headed for the exit at the Nerazzurri."

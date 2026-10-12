@@ -1,5 +1,5 @@
 ---
-title: "Europei Under 19, i convocati dell'Italia: Liberali la stella, assenti Inacio e Reggiani - Goal.com"
+title: "Europei Under 19, i convocati dell'Italia: Liberali la stella, assenti Inacio e Reggiani"
 titleEn: "Italy U19 Euros Squad Announced: Liberali Shines, Inacio and Reggiani Miss Out"
 excerpt: "La Nazionale Under 19 italiana ha diramato i convocati per gli Europei: Mattia Liberali emerge come grande protagonista atteso, mentre restano fuori Samuele Inacio e Luca Reggiani."
 excerptEn: "Italy's U19 national team has announced its squad for the Euros: Mattia Liberali stands out as the standout prospect, while Samuele Inacio and Luca Reggiani are absent from the roster."

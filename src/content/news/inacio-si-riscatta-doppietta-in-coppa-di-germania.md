@@ -6,7 +6,7 @@ excerptEn: "Following a disciplinary incident with Borussia Dortmund, the Italia
 date: 2026-09-08
 publishedAt: 2026-09-08T11:40:00+02:00
 category: mercato
-players: ["Samuele Inacio", "Diego Sia"]
+players: ["Samuele Inacio"]
 competitions: []
 source: "Calciomercato"
 sourceUrl: "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNWhtQ25WSUYtT01CUW5adjVPRUVfa1pNaGhCNkdwR3VURGRYbWoxckg4TVdBMWMxTkZRelcwV0pqOEFWbHJlV2d4UC1KRTN4RnMtSExjWVAxSzlqOTd4Mm9tcEk1aGN6eEMwaHdFLWo4eGkwNFBWWWJSdHQ0RkRiV0J3WkRpWlRKQUZzZkNkYjFCODMzNXQzZWJHbzlhdVpJN3o3Wmc3NmxtZ1NfWjl4UkJaQUY5NTgtV01wT0poc0dpaE1rdUhXNE5FdzBweWtQMDhQQWFrRC1GOWQzdi1BbmluME9mVXpMOUlCMVFINkdoREFCanhSRVAyWWtNU0dEa3ZSV2RTa0I0b1ZMTmhLUXdLdENjOV9LalZKeWl6bFNFUEE3?oc=5"

@@ -1,12 +1,12 @@
 ---
-title: "Inter, la prima amichevole finisce 16-0: 5 goal di Pio Esposito, brillano Topalovic e Diouf da esterno - Calciomercato"
+title: "Inter, la prima amichevole finisce 16-0: 5 goal di Pio Esposito, brillano Topalovic e Diouf da esterno"
 titleEn: "Inter's Runaway Friendly: Esposito's Five-Goal Haul Signals Promise for Young Talents"
 excerpt: "L'Inter demolisce l'avversario 16-0 in amichevole. Francesco Pio Esposito firma una cinquina, mentre Topalovic e Diouf brillano sulla fascia esterna."
 excerptEn: "Inter thrashes opponents 16-0 in friendly. Francesco Pio Esposito scores five, while Topalovic and Diouf shine on the wing."
 date: 2026-07-24
 publishedAt: 2026-07-24T16:20:00+02:00
 category: mercato
-players: ["Francesco Pio Esposito", "Seydou Fini"]
+players: ["Francesco Pio Esposito"]
 competitions: []
 source: "Calciomercato"
 sourceUrl: "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcFlHT1dZVV8xNFBXNTFNWHZodzlPVzJhSkFmeTlCYURXQ0ZjbzgxSXFaYTVrb3pMLXQ2Y1ZWdEIzTTQwekdrMzlpME5JOVhQWm9BYjZzTzhMcFRvN1JzdF9wWTE5SFNEWWw2WDVJTnQxekJZNUxNUmhVbFhzdmtiRFAwUTlNY0dPTWZiYWZuTER1SUdJV2R4TDRSRTdiMUx4RHRaX1AyQ3REcnFySFZseVpzZmRjY05yWmFKc0d0bU9ucEw1VDQxcE5NdkQ1VTNQLWtHM1ZxbWUweHllNy1xZUx3Z1NoRzNaX0RZ?oc=5"

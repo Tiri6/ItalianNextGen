@@ -1,5 +1,5 @@
 ---
-title: "Baldanzi pronto a diventare tutto del Genoa. Con Venturino che può rimanere a Roma - TUTTOmercatoWEB"
+title: "Baldanzi pronto a diventare tutto del Genoa. Con Venturino che può rimanere a Roma"
 titleEn: "Baldanzi Set to Become Genoa's Property, Venturino May Stay at Roma"
 excerpt: "Tommaso Baldanzi è vicino a diventare un giocatore a titolo definitivo del Genoa. Nel frattempo, Lorenzo Venturino potrebbe proseguire la sua esperienza in giallorosso."
 excerptEn: "Tommaso Baldanzi is close to becoming Genoa's permanent property. Meanwhile, Lorenzo Venturino could continue his experience with Roma."

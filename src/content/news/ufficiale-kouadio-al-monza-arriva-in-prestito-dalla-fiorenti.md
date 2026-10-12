@@ -1,5 +1,5 @@
 ---
-title: "Ufficiale, Kouadio al Monza: arriva in prestito dalla Fiorentina - MondoPrimavera"
+title: "Ufficiale, Kouadio al Monza: arriva in prestito dalla Fiorentina"
 titleEn: "Kouadio Moves to Monza on Loan from Fiorentina"
 excerpt: "Eddy Kouadio si trasferisce al Monza in prestito dalla Fiorentina. Un'opportunità importante per il giovane talento italiano di maturare in Serie A."
 excerptEn: "Eddy Kouadio joins Monza on loan from Fiorentina. A significant opportunity for the young Italian prospect to gain Serie A experience."

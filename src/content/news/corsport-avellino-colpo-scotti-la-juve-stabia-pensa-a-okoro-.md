@@ -1,5 +1,5 @@
 ---
-title: "CorSport - Avellino, colpo Scotti. La Juve Stabia pensa a Okoro e tratta la cessione di Carissoni al Padova, che sogna Cheddira. L'Arezzo sfoltisce. Catanzaro, in arrivo i giovani Reita e Garnica. Tris di cadette su Cocchi dell'Inter - TuttoB.com"
+title: "CorSport - Avellino, colpo Scotti. La Juve Stabia pensa a Okoro e tratta la cessione di Carissoni al Padova, che sogna Cheddira. L'Arezzo sfoltisce. Catanzaro, in arrivo i giovani Reita e Garnica. Tris di cadette su Cocchi dell'Inter"
 titleEn: "Serie B on Alert: Cocchi Attracts Three Suitors, Okoro in Stabia's Sights"
 excerpt: "Il giovane talento dell'Inter Matteo Cocchi continua a richiamare l'attenzione di tre club di Serie B. Nel frattempo, la Juve Stabia monitora la situazione di Alvin Okoro mentre si intensificano le trattative di mercato nelle categorie minori."
 excerptEn: "Inter's prospect Matteo Cocchi draws interest from three Serie B clubs in an increasingly crowded pursuit. Meanwhile, Juve Stabia keeps tabs on Alvin Okoro as activity picks up across Italy's second tier."

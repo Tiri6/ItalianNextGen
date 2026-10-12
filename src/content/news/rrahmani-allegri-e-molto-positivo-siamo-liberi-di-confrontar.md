@@ -1,12 +1,12 @@
 ---
-title: "Rrahmani: \"Allegri è molto positivo, siamo liberi di confrontarci! Rafa Marin e Marianucci sono di grande qualità, vogliamo essere competitivi su tre fronti\" - CalcioNapoli24"
+title: "Rrahmani: \"Allegri è molto positivo, siamo liberi di confrontarci! Rafa Marin e Marianucci sono di grande qualità, vogliamo essere competitivi su tre fronti\""
 titleEn: "Rrahmani on Allegri's Project: 'We're Free to Speak Our Minds'"
 excerpt: "Il difensore del Napoli esalta l'approccio del nuovo tecnico e la qualità della rosa, con particolare stima per i giovani azzurri Marin e Marianucci. L'obiettivo è competere su tutti i fronti."
 excerptEn: "The Napoli defender praises the new coach's approach and squad quality, with special regard for young Azzurri talents Marin and Marianucci. The goal is to compete on all fronts."
 date: 2026-07-24
 publishedAt: 2026-07-24T20:20:00+02:00
 category: news
-players: ["Luca Marianucci", "Diego Sia", "Renato Marin"]
+players: ["Luca Marianucci", "Renato Marin"]
 competitions: []
 source: "CalcioNapoli24"
 sourceUrl: "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVhOaWF6dUdwOWFaZEdnSVF5OTRaV3NrSDF2VEctamZaaUdvNWxSbk5RUVZVUFRNS1VPcnlJTUlubEhQbXRnbHlXdWNvbFBraHBkZGdfa2w1UUZWMXpUVDRiTmR4SVBMZWFsRXNsaDdhY25NTS1LQk9ybmdBeUgtdndtM0FZOE1pSm1JYUF5N2FJRm9ZX0pDUmtOZEl3OWdCSktRSjg1UlFPdmI0TlhaRW4wamxNN3JCa3Z6YVFnbUdUVTNSeldKWXhB?oc=5"

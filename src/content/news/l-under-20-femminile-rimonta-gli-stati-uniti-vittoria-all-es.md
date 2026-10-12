@@ -6,7 +6,7 @@ excerptEn: "Italy's U-20 women impress in their World Cup debut with a 2-1 comeb
 date: 2026-09-17
 publishedAt: 2026-09-17T13:40:00+02:00
 category: performance
-players: ["Emanuele Rao"]
+players: []
 competitions: ["mondiale-u20-2027", "road-to-2030"]
 source: "calciopress.net"
 sourceUrl: "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVFKSWJrWmhya3N6SkcwdFJRenVjVG5HT21GdkZDaGo4MHJmWU9Ma3dLQ3lNeGNoQ2tYZFdYU2UyY0FrRUlxWnI2QlN0bno5aFhsVVBWMGpRRXB5c2twRHVaRmxrNjVnejlSdEFPX29ocGRrM3FER0RnRnZ4UnlERXlzMlV6T09sZHJyNVMtMUNNWTlkcklQQUh1S2VhYzFIb1ZTbDVEVnpSdEhyXzQ2bEhqcHR5dmdIeGFFbG1VOThrTDBiSEZpQWpDNUJpdWFtUWQxZk92ZXk0QkpNZ0UtRnVHMTdaZUFaUWc?oc=5"

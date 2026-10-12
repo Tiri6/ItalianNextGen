@@ -1,5 +1,5 @@
 ---
-title: "PRESTITO. Il Napoli pronto a far partire Ambrosino per Modena - Azzurrissimo"
+title: "PRESTITO. Il Napoli pronto a far partire Ambrosino per Modena"
 titleEn: "Napoli Set to Loan Ambrosino to Modena"
 excerpt: "Il Napoli prepara la cessione in prestito di Giuseppe Ambrosino verso il Modena. Un'opportunità per il giovane attaccante di accumulare minuti in Serie B."
 excerptEn: "Napoli readies Giuseppe Ambrosino for a loan spell at Modena. A chance for the young striker to gain crucial playing time in Serie B."

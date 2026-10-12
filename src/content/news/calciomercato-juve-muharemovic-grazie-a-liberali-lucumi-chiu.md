@@ -1,5 +1,5 @@
 ---
-title: "Calciomercato Juve, Muharemovic grazie a… Liberali. Lucumi chiuso, c’è l’accordo per Joao Mario - Tuttosport"
+title: "Calciomercato Juve, Muharemovic grazie a… Liberali. Lucumi chiuso, c’è l’accordo per Joao Mario"
 titleEn: "Juventus Mercato: Muharemovic Deal Advances Through Liberali Connection"
 excerpt: "La Juventus accelera per Muharemovic, con Mattia Liberali che gioca un ruolo cruciale nella trattativa. Intanto, Lucumi è definitivamente fuori dai piani bianconeri: è stato trovato l'accordo per Joao Mario."
 excerptEn: "Juventus moves forward in Muharemovic pursuit, with Mattia Liberali playing a key role in negotiations. Meanwhile, Lucumi is off the table: an agreement has been reached for Joao Mario."

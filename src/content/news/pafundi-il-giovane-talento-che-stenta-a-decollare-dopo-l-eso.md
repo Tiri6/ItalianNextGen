@@ -6,7 +6,7 @@ excerptEn: "Simone Pafundi made headlines in 2022 when Mancini gave him an Italy
 date: 2026-07-30
 publishedAt: 2026-07-30T12:40:00+02:00
 category: performance
-players: ["Simone Pafundi", "Seydou Fini"]
+players: ["Simone Pafundi"]
 competitions: []
 source: "Goal.com"
 sourceUrl: "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUFOUHZSQTBaeW1wS25mdXZHblVDN3h1MHpzYXRaeVNTVmVUcTFocXVwVTlOOUozejc0eTN5YllaWHFiTkF1ZHJRZDJoVWdnRmFya05kNF9LeC03VDVPbGFBWVZaS19tdUFPNTZKbVlUaG8zOTJkS2FueWxhWFlyZWRlSi1rRVM0Q0RzT1JlbHIyWGZLc19tRWJtU01XZzc3cXp2MXZqMW0wT2otYnNtZEtaZXFVSXVyS19kQmVKODlLaFJxNHVVLTZ1aE5OUEto?oc=5"

@@ -1,5 +1,5 @@
 ---
-title: "Roma, assalto a Venturino: prestito dal Genoa e nodo Baldanzi - Tuttocampo"
+title: "Roma, assalto a Venturino: prestito dal Genoa e nodo Baldanzi"
 titleEn: "Roma Pursues Venturino: Genoa Loan Deal and Baldanzi Question"
 excerpt: "La Roma accelera per Lorenzo Venturino, giovane talento del Genoa: sul tavolo un'operazione in prestito. Nel frattempo rimane da risolvere la situazione legata a Tommaso Baldanzi."
 excerptEn: "AS Roma intensifies pursuit of Genoa's Lorenzo Venturino with loan deal under discussion. The situation surrounding Tommaso Baldanzi remains a separate matter to clarify."

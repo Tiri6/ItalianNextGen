@@ -1,5 +1,5 @@
 ---
-title: "Amichevole in famiglia tra Milan e Milan Futuro: Kostic e Camarda vanno subito in gol - TUTTOmercatoWEB"
+title: "Amichevole in famiglia tra Milan e Milan Futuro: Kostic e Camarda vanno subito in gol"
 titleEn: "Camarda Strikes in Milan Family Friendly"
 excerpt: "Francesco Camarda ha trovato subito la via del gol nell'amichevole tra il Milan e il Milan Futuro. Un segnale positivo per il giovane talento rossonero in ottica futura."
 excerptEn: "Francesco Camarda found the back of the net quickly in the friendly between Milan and Milan Futuro. A positive sign for the young Rossoneri talent looking ahead."
