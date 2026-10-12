@@ -1,0 +1,40 @@
+---
+title: "Taccuino del giorno · 12 ottobre 2026"
+titleEn: "Daily Notebook · October 12, 2026"
+excerpt: "Cinque giovani talenti azzurri tra favole provinciali, gol internazionali e prime delusioni. Ecco cosa è accaduto nel panorama dei Next Gen italiani."
+excerptEn: "Five young Italian talents between provincial fairy tales, international goals and early disappointments. Here's what happened in the Next Gen Italian landscape."
+date: 2026-10-12
+publishedAt: 2026-10-12T18:00:00+02:00
+featured: true
+category: taccuino
+players: ["Antonio Vergara", "Mohamed Alì Zoma", "Luigi Cherubini"]
+competitions: []
+source: "Taccuino da 5 fonti"
+sourceUrl: ""
+---
+
+**Mohamed Alì Zoma** continua la sua striscia vincente in Germania: l'esterno azzurro ha messo a segno il settimo gol consecutivo con la maglia del Norimberga, confermando il suo momento d'oro in Bundesliga. [fonte](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFFsQ25vRzVXME1BeUxNcHc4UXlfTldBc0QyZTF5VWhDeVFFVVbirlAtQzc0eEJyc3czX1ZmVHhNeUU3Tmc4SVNFemdqTnNuRzNwblNNUHFvZ0ZOTG9OcEswU1BQTE1RY1NnUlR4Y3Z2VlVZTy1DUjViZW1EZ0Ruc08waG0xWmJwclMxM0EwcUc2WFJkYUhuRQ?oc=5)
+
+**Luigi Cherubini** dimostra personalità tra i professionisti: il giovane ha segnato due volte in cinque giorni tra gli impegni con la Nazionale e la Serie B, dopo l'esordio avuto già con Mourinho alla Roma. [fonte](https://news.google.com/rss/articles/CBMilgJBVV95cUxPU2NwZGdxMFV4MjRNNHJaU3RDZmN2M2RhaXBncEhfUk5jbzZMZldzNEpDTFVZU2NlWGxJUXpGSC01SWRJb1FJUGlLZXZMbThfYXhsdEZEUjRnMHl3WjdpOFphaE1qQlBtNDd5a05hSUFzeUdhWURfU2R6UXZhSlVtaUZ3YzdoU2IwUFR6TEk5aTJDcUFaSG9yamVRS0lPZzNQR1JSak4yd1o4Nm5zM3QtZTRENU9mRkVZaHJMLTJRbU1GZUwwV29aUHljcFZQUm9OekF3N0VqOFlPVUw4TG1nb2x5Q29pcXZkUnF6R0FaUHoxY3pqU1FzQjRBQmszZzFtSmo2eGZVWjFpT094cGhTd21VM3VfQQ?oc=5)
+
+**Antonio Vergara** continua a scrivere la sua storia dal piccolo centro campano: Frattamaggiore continua a essere il palcoscenico di una favola azzurra che cattura l'attenzione dei media locali e nazionali. [fonte](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWVQdnl3aHNNSUtZOFhUdTY1ZDFick1CY2V5bFBRVWdrZVFUVEg0T3RKT1lhZVJnZUxKSkNUVDJkMmphdUVBRXNoTnRFek5VNmtkQk1xQ0xRUzRaOU9rT2E4YVZZOEJRMTBLcTBRdUVCNGZrNGFPdktNT0pneENxZHFNakFZeC1rYV9aT09LMHNHeW5UWlI3T2RNMU5LTy1nbG80?oc=5)
+
+**Matteo Palmisani** e il Frosinone subiscono un ko pesante al Maradona: la squadra giallazzurra cade 3-0 contro il Napoli, con uno spettacolo di calcio che ha visto anche l'espulsione di Lang e un rigore che ha fatto discutere. [fonte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNV9LLXJ1WnRBeUwzRERySk5fVlNnS3VwOVpUbVZBeERVWkdTNENBWVk5b3VQVm1Gd2RGT3VVUGhLNkt4Vl92aU9YVjlxdnRJTHdjaDlGTExQcV8zOWpDUW8ydlJ0Wk9fanRuTWZQR0xDZXp3bWRxeGktZ1hVSEVDSVZUdlhIWTRKS2x2SG9SU2lMekJzOU4yV0hldE5kSnZXdlhpM2l1cUc3TVduaUgyeWxlQTVYWXlkY2l5RUhlb0VQRFlPMHRsMQ?oc=5)
+
+**Luigi Cherubini** brilla anche con la maglia della Benevento: in occasione della gara contro il Cesena, il centrocampista ha messo in mostra una prestazione di livello nazionale, distinguendosi per qualità e temperamento. [fonte](https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWVZMjBTN21YT2xtU1Nfc2lYbU83a0pfdWc3SnZXbmVPNjdZVnNHU3ppQ3VxM3EwMFM2NDBSZzYtd3IybXZnRGU2cVN2M3U4cHpRU2ZrSjh5MmdWTTlMcWpqV2pKZ0E0aGc1Z1dyUnNneGZuWG5aSzg0dXFVVUgxd0VRSHZaMzdDWjV4dGh5SmxTUjliUGFGY0NScmxmdEFoeHp5TnZXeXc3LVhPRElYRFdoUHZOeGI4bzlHZXRSd0pNTDFLaGJmY0FMWUo?oc=5)
+
+Una giornata all'insegna della continuità per chi sta bene e delle opportunità per chi cerca il riscatto.
+
+<!--EN-->
+
+**Mohamed Alì Zoma** continues his winning streak in Germany: the Italian winger has scored his seventh consecutive goal in Nuremberg's shirt, confirming his great moment in the Bundesliga. [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFFsQ25vRzVXME1BeUxNcHc4UXlfTldBc0QyZTF5VWhDeVFFVVbirlAtQzc0eEJyc3czX1ZmVHhNeUU3Tmc4SVNFemdqTnNuRzNwblNNUHFvZ0ZOTG9OcEswU1BQTE1RY1NnUlR4Y3Z2VlVZTy1DUjViZW1EZ0Ruc08waG0xWmJwclMxM0EwcUc2WFJkYUhuRQ?oc=5)
+
+**Luigi Cherubini** shows personality among the professionals: the young talent has scored twice in five days between his outings with the National team and Serie B, following his debut given by Mourinho at Roma. [source](https://news.google.com/rss/articles/CBMilgJBVV95cUxPU2NwZGdxMFV4MjRNNHJaU3RDZmN2M2RhaXBncEhfUk5jbzZMZldzNEpDTFVZU2NlWGxJUXpGSC01SWRJb1FJUGlLZXZMbThfYXhsdEZEUjRnMHl3WjdpOFphaE1qQlBtNDd5a05hSUFzeUdhWURfU2R6UXZhSlVtaUZ3YzdoU2IwUFR6TEk5aTJDcUFaSG9yamVRS0lPZzNQR1JSak4yd1o4Nm5zM3QtZTRENU9mRkVZaHJMLTJRbU1GZUwwV29aUHljcFZQUm9OekF3N0VqOFlPVUw4TG1nb2x5Q29pcXZkUnF6R0FaUHoxY3pqU1FzQjRBQmszZzFtSmo2eGZVWjFpT094cGhTd21VM3VfQQ?oc=5)
+
+**Antonio Vergara** continues to write his story from the small Campanian town: Frattamaggiore remains the stage for an Italian fairy tale that captures the attention of local and national media. [source](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWVQdnl3aHNNSUtZOFhUdTY1ZDFick1CY2V5bFBRVWdrZVFUVEg0T3RKT1lhZVJnZUxKSkNUVDJkMmphdUVBRXNoTnRFek5VNmtkQk1xQ0xRUzRaOU9rT2E4YVZZOEJRMTBLcTBRdUVCNGZrNGFPdktNT0pneENxZHFNakFZeC1rYV9aT09LMHNHeW5UWlI3T2RNMU5LTy1nbG80?oc=5)
+
+**Matteo Palmisani** and Frosinone suffer a heavy defeat at the Maradona: the yellow-blue squad fell 3-0 to Napoli, with a display of football that also saw Lang's expulsion and a penalty that sparked controversy. [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNV9LLXJ1WnRBeUwzRERySk5fVlNnS3VwOVpUbVZBeERVWkdTNENBWVk5b3VQVm1Gd2RGT3VVUGhLNkt4Vl92aU9YVjlxdnRJTHdjaDlGTExQcV8zOWpDUW8ydlJ0Wk9fanRuTWZQR0xDZXp3bWRxeGktZ1hVSEVDSVZUdlhIWTRKS2x2SG9SU2lMekJzOU4yV0hldE5kSnZXdlhpM2l1cUc3TVduaUgyeWxlQTVYWXlkY2l5RUhlb0VQRFlPMHRsMQ?oc=5)
+
+**Luigi Cherubini** shines in Benevento's shirt too: in the match against Cesena, the midfielder displayed a performance of national level, standing out for his quality and character. [source](https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWVZMjBTN21YT2xtU1Nfc2lYbU83a0pfdWc3SnZXbmVPNjdZVnNHU3ppQ3VxM3EwMFM2NDBSZzYtd3IybXZnRGU2cVN2M3U4cHpRU2ZrSjh5MmdWTTlMcWpqV2pKZ0E0aGc1Z1dyUnNneGZuWG5aSzg0dXFVVUgxd0VRSHZaMzdDWjV4dGh5SmxTUjliUGFGY0NScmxmdEFoeHp5TnZXeXc3LVhPRElYRFdoUHZOeGI4bzlHZXRSd0pNTDFLaGJmY0FMWUo?oc=5)
+
+A day marked by continuity for those performing well and opportunities for those seeking redemption.
