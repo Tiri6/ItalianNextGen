@@ -1,0 +1,27 @@
+---
+title: "Raimondo entra nella top 100 italiana: 7 milioni di valutazione"
+titleEn: "Raimondo breaks into Italy's top 100: valued at 7 million euros"
+excerpt: "L'attaccante del Frosinone si piazza al 91° posto nella graduatoria dei calciatori azzurri più preziosi. Quattro gol in sei partite di Serie A confermano il salto di qualità dell'ex prestato."
+excerptEn: "Frosinone's striker ranks 91st among Italy's most valuable players. Four goals in six Serie A matches confirm the quality leap of the former loanee."
+date: 2026-10-13
+publishedAt: 2026-10-13T18:40:00+02:00
+category: news
+players: ["Antonio Raimondo"]
+competitions: []
+source: "TuttoFrosinone.com"
+sourceUrl: "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUFjSFpNeDRQcjNqRWc3bU93cUQ0cjg3cmJUN2owcUhUVW1LQm1TM2lMcE5QZHJJYmhTZUJoYjFaSzF3ek1VRjRFcTZ4MG5jUnVaZkV5Q0JQd0hKb1hnRmo1WVdENzUwakJXOGdPWDBtNDh3NHhjSjNPUDhqRTdVSDY0V1lNd3M?oc=5"
+---
+
+Antonio Raimondo raggiunge un traguardo significativo: entra ufficialmente nella lista dei cento calciatori italiani con il più alto valore di mercato. L'attaccante giallazzurro occupa la 91ª posizione con una valutazione di 7 milioni di euro secondo Transfermarkt, un riconoscimento che testimonia la traiettoria ascendente del giocatore in questa stagione.
+
+I numeri parlano chiaro: quattro reti nelle prime sei gare di campionato. Un rendimento che non sorprende chi ha seguito da vicino il percorso di Raimondo, caratterizzato da anni difficili tra i prestiti a Salernitana e Venezia, quando sembrava faticasse a trovare quella continuità di impiego e quella freddezza sottoporta necessaria per imporsi. Oggi la musica è completamente cambiata, e il merito è anche del lavoro di Massimiliano Alvini, capace di creare un ambiente dove i giovani italiani possono esprimere pienamente le loro potenzialità.
+
+Frattanto, al vertice della graduatoria resta Sandro Tonali con 90 milioni di euro, seguito da Calafiori e Bastoni a quota 65. Sul mercato, i 7 milioni di Raimondo rappresentano comunque una soglia competitiva in una classifica dove anche i nomi d'esperienza come Berardi, Cristante e Zortea si collocano nelle posizioni finali.
+
+<!--EN-->
+
+Antonio Raimondo has reached a significant milestone: his name now appears on the list of Italy's one hundred most valuable players. The Frosinone striker holds 91st place with a market valuation of 7 million euros according to Transfermarkt, a recognition that reflects his upward trajectory during this campaign.
+
+The numbers tell a compelling story: four goals in six league matches. A return that comes as no surprise to those who have closely followed Raimondo's journey, characterized by difficult years spent on loan at Salernitana and Venezia, when he struggled to secure consistent playing time and the clinical finishing needed to break through. Today the narrative has completely shifted, also thanks to Massimiliano Alvini's work in creating an environment where young Italian talents can fully express their potential.
+
+Meanwhile, Sandro Tonali holds the summit with 90 million euros, trailed by Calafiori and Bastoni at 65 million each. In this competitive ranking, Raimondo's 7 million represents a meaningful threshold, with experienced players like Berardi, Cristante and Zortea occupying the final positions.

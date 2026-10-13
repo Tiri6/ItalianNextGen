@@ -1,0 +1,31 @@
+---
+title: "Doumbia, la rinascita azzurra del centrocampista ritrovato"
+titleEn: "Doumbia finds his way: the midfielder Italy had overlooked"
+excerpt: "Dalla Serie C al palcoscenico internazionale in due anni. Il centrocampista impressiona nella Nations League e giustifica l'investimento dello Sporting Lisbona, che aveva visto più lungo di tutti."
+excerptEn: "From Serie C to international stage in two years. The midfielder impresses in Nations League and justifies Sporting Lisbon's investment, which had foreseen what others missed."
+date: 2026-10-13
+publishedAt: 2026-10-13T18:00:00+02:00
+category: news
+players: ["Issa Doumbia"]
+competitions: []
+source: "Sportellate"
+sourceUrl: "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUbGNzY3VZM01jb3A4VUxYTHZ2UEhhMFpubmdrQ1pNRWM3dEFLaDFSR1JfbmllU0p5VmRGM1g4ZzZlZVA3Z1BDX2lTODdsRXAzNUNXVmxtWWYwdEdyT240OFh0SmlOczBwOE94Y0JraUxPZlk?oc=5"
+---
+
+Issa Doumbia ha esordito da titolare in Nazionale contro la Turchia mostrando il meglio della sua versatilità: fisicità imponente unita a qualità tattica, con l'intensità che lo contraddistingue in ogni azione. L'episodio decisivo arriva all'87', quando il suo recupero di palla e la successiva progressione portano al gol di Pio Esposito e dimostrano come il ragazzo classe 2003 possieda le credenziali per competere a livello europeo.
+
+La sua ascesa racconta di una scoperta tardiva. Nei circuiti professionistici italiani in pochi ne riconoscevano il valore quando il Venezia lo prelevò dall'Albinoleffe con un investimento di un milione di euro nell'estate 2024. Prima, in Serie C, aveva accumulato presenze importanti: 37 partite nel 2022-23 con un gol e quattro assist, quindi 33 match l'anno successivo con due reti e un assist. Lo strapotere atletico era evidente, come pure la capacità di inserirsi in zona di gol e la solidità nel duello fisico. Caratteristiche che avevano attirato l'attenzione del direttore sportivo Antonelli, il quale costruisce il suo progetto proprio su talenti giovani da sviluppare.
+
+Nella stagione in Serie A con il Venezia, Doumbia colleziona 24 presenze in una squadra destinata alla retrocessione. L'anno successivo, in cadetteria, la trasformazione diventa concreta: il centrocampista mette a referto 10 gol e 6 assist in 38 gare ufficiali, prendendosi la scena nella rimonta della promozione, in particolare nel match decisivo contro il Frosinone. Proprio questa visibilità ha spinto lo Sporting Lisbona a investire 20 milioni di euro più bonus per assicurarsi il suo cartellino.
+
+Al di là dei numeri, c'è un aspetto su cui ancora deve crescere: la continuità di concentrazione. Spesso in Serie B è sembrato proteggere il pallone con leggerezza, convinto di poter surclassare gli avversari. In una piazza europea, questo difetto può risultare decisivo. L'esperienza internazionale sarà cruciale per levigare questi spigoli.
+
+<!--EN-->
+
+Issa Doumbia made his senior debut as a starter against Turkey in the Nations League, displaying the full range of his abilities: imposing physicality combined with tactical awareness, all wrapped in the intensity that defines every action he takes. The decisive moment came at the 87th minute when his ball recovery and forward run led to Pio Esposito's goal, proving that the 2003-born midfielder possesses the credentials to compete at European level.
+
+His rise tells a story of belated recognition. Few in Italian football circles saw his potential when Venezia signed him from Albinoleffe for one million euros in summer 2024. Before that, playing in third division, he had accumulated significant minutes: 37 matches in 2022-23 with one goal and four assists, followed by 33 games the next year with two goals and an assist. His athletic power was evident, as was his ability to make attacking runs and his physical dominance in midfield duels. These qualities caught the attention of sporting director Antonelli, whose project is built on developing young talent.
+
+During his Serie A season with Venezia, Doumbia made 24 appearances for a team heading toward relegation. The following year, competing in the second division, his transformation became tangible: the midfielder scored 10 goals and provided 6 assists across 38 official games, becoming the focal point of the promotion push, particularly in the decisive match at Frosinone. This visibility prompted Sporting Lisbon to invest 20 million euros plus bonuses to secure him.
+
+Beyond statistics, there remains one area requiring development: consistency of focus. Often in Serie B he appeared to shield the ball with excessive nonchalance, convinced he could outclass opponents. At a European club, this weakness can prove costly. International football will be essential in refining these rough edges.
