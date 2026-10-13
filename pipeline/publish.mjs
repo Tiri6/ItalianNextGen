@@ -37,6 +37,21 @@ function newsDay(c) {
 }
 const isFresh = (c) => { const g = newsDay(c); return !!g && g >= OLDEST_OK; };
 
+// NOTIZIE PRE-PARTITA (convocati del club, probabili formazioni, vigilia…): valgono solo
+// fino al fischio d'inizio. Si pubblicano SOLO se uscite alla fonte OGGI; quelle di ieri
+// riguardano una partita ormai giocata. (Le convocazioni in NAZIONALE restano valide.)
+const PREMATCH_RE = /\b(i|tra i|nei|lista dei) convocati\b|convocati (di|del|della|per|contro)\b|probabil[ie] formazion|formazion[ei] ufficial|\bvigilia\b|pre-?partita|prepartita|\bdomani\b|\bstasera\b|in vista (di|del|della|dello)\b|tornano disponibili|recuperat[oi] per\b|squad (list|news)|line-?ups?\b|\bahead of\b|\bclash\b/i;
+const todayRome = romeDay(new Date());
+function isStalePrematch(c) {
+  if (c.isDigest) return false;
+  const d = c.draft ?? {};
+  const text = [c.title, d.title, d.excerpt, d.titleEn, d.excerptEn].filter(Boolean).join(' ');
+  if (!PREMATCH_RE.test(text)) return false;
+  if (/\bnazional|\bitalia\b|\bunder ?\d{2}\b|\bu\d{2}\b/i.test(c.title) && /convoca/i.test(c.title)) return false; // chiamata in nazionale
+  const g = newsDay(c);
+  return !g || g < todayRome;
+}
+
 function slugify(s) {
   return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
@@ -117,6 +132,7 @@ if (expired) console.log(`  ⌛ ${expired} candidate più vecchie di ${MAX_AGE_D
 const eligible = queue
   .filter(({ c }) => {
     if (!isFresh(c)) return false; // solo notizie di oggi o di ieri
+    if (isStalePrematch(c)) { console.log(`  ⤫ pre-partita di ieri (partita già giocata): ${String(c.title).slice(0, 60)}`); return false; }
     const d = c.draft;
     if (!d || !d.bodyIt || d.bodyIt.trim().length < 40) return false; // mai senza testo
     // Regole fonti (data/sources.json): bloccate = mai; 'confirm' = niente voci di mercato in automatico

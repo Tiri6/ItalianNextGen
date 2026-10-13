@@ -185,6 +185,7 @@ REGOLE FERREE:
 - Allenatori, club e ruoli dei giocatori: solo se presenti nella fonte, mai a memoria.
 - 2-3 paragrafi brevi per lingua, separati da riga vuota.
 - NON menzionare i "Mondiali 2030", "obiettivo 2030" o simili proiezioni al futuro: sarebbe ripetitivo e stucchevole. Resta sul fatto di cronaca. (Un riferimento al 2030 è ammesso SOLO nel raro caso in cui la fonte stessa parli esplicitamente della corsa alla nazionale o al Mondiale.)
+- TEMPO: l'articolo sarà pubblicato ore o un giorno dopo la fonte. NON usare riferimenti relativi come "oggi", "domani", "ieri", "stasera", "questo pomeriggio": scrivi il giorno della settimana o la data SOLO se presenti nella fonte, altrimenti formula la frase senza riferimento temporale.
 - VARIA ogni articolo: cambia l'attacco (a volte il fatto, a volte una statistica, a volte una dichiarazione), la struttura e il ritmo. Evita formule ricorrenti e frasi-cliché ("classe 20xx", "predestinato", "gioiello", "obiettivo 2030", "nel giro della nazionale"). Ogni pezzo deve leggersi diverso dagli altri.
 
 Rispondi SOLO con JSON valido:
