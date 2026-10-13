@@ -1,40 +1,36 @@
 ---
 title: "Taccuino del giorno · 12 ottobre 2026"
 titleEn: "Daily Notebook · October 12, 2026"
-excerpt: "Cinque giovani talenti azzurri tra favole provinciali, gol internazionali e prime delusioni. Ecco cosa è accaduto nel panorama dei Next Gen italiani."
-excerptEn: "Five young Italian talents between provincial fairy tales, international goals and early disappointments. Here's what happened in the Next Gen Italian landscape."
-date: 2026-10-12
-publishedAt: 2026-10-12T18:00:00+02:00
+excerpt: "Vittorie azzurre nelle giovanili e riconoscimenti per i talenti del vivaio italiano. Una giornata che celebra il lavoro nel settore giovanile tricolore."
+excerptEn: "Italian youth teams secure victories and young talents receive recognition. A day that celebrates the work of the Italian youth system."
+date: 2026-10-13
+publishedAt: 2026-10-13T09:40:00+02:00
 featured: true
 category: taccuino
-players: ["Antonio Vergara", "Mohamed Alì Zoma", "Luigi Cherubini"]
-competitions: []
+players: ["Simone Pafundi", "Issa Doumbia", "Tommaso Martinelli", "Giorgio Scalvini"]
+competitions: ["mondiale-u20-2027"]
 source: "Taccuino da 5 fonti"
 sourceUrl: ""
 ---
 
-**Mohamed Alì Zoma** continua la sua striscia vincente in Germania: l'esterno azzurro ha messo a segno il settimo gol consecutivo con la maglia del Norimberga, confermando il suo momento d'oro in Bundesliga. [fonte](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFFsQ25vRzVXME1BeUxNcHc4UXlfTldBc0QyZTF5VWhDeVFFVVbirlAtQzc0eEJyc3czX1ZmVHhNeUU3Tmc4SVNFemdqTnNuRzNwblNNUHFvZ0ZOTG9OcEswU1BQTE1RY1NnUlR4Y3Z2VlVZTy1DUjViZW1EZ0Ruc08waG0xWmJwclMxM0EwcUc2WFJkYUhuRQ?oc=5)
+**Italia Under 20** - Gli azzurrini continuano a impressionare battendo nettamente la Francia per 3-0, confermando il buon momento della categoria. Pafundi torna in campo e si rivede in campo con una buona prestazione nella vittoria. [fonte](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSmVucjFjRXVBemxFYnpBV201bUpDcWRqcEtoYTcwTURwVmRiU2FfQVNSZk5KUEFnb09mY3YzWW1BR2s4RmszNG5jdTdRcjhuV2ZNUWt3RzN0NnZ2bWJZSUZwN1NNZ1BZNURib0FwRWJ1Wzh5ZHhmdFVWeFd0YmlhOVdGRDhkYU9QYzVFdlhlRGFLUGtlcUh1ZERSZ3UxS1Z6eHZhaHpRcmpCSWxZcEluYkpxWlV3RlR6X19BQXFGTFQzSmRKZ3lTdHhZUWExcER6RkRCd1paV0tCdw?oc=5)
 
-**Luigi Cherubini** dimostra personalità tra i professionisti: il giovane ha segnato due volte in cinque giorni tra gli impegni con la Nazionale e la Serie B, dopo l'esordio avuto già con Mourinho alla Roma. [fonte](https://news.google.com/rss/articles/CBMilgJBVV95cUxPU2NwZGdxMFV4MjRNNHJaU3RDZmN2M2RhaXBncEhfUk5jbzZMZldzNEpDTFVZU2NlWGxJUXpGSC01SWRJb1FJUGlLZXZMbThfYXhsdEZEUjRnMHl3WjdpOFphaE1qQlBtNDd5a05hSUFzeUdhWURfU2R6UXZhSlVtaUZ3YzdoU2IwUFR6TEk5aTJDcUFaSG9yamVRS0lPZzNQR1JSak4yd1o4Nm5zM3QtZTRENU9mRkVZaHJMLTJRbU1GZUwwV29aUHljcFZQUm9OekF3N0VqOFlPVUw4TG1nb2x5Q29pcXZkUnF6R0FaUHoxY3pqU1FzQjRBQmszZzFtSmo2eGZVWjFpT094cGhTd21VM3VfQQ?oc=5)
+**Tommaso Martinelli** - La Fiorentina può contare su un gioiello riconosciuto a livello internazionale: Transfermarkt ha incluso il difensore nella top 11 dei migliori talenti italiani fuori dalla Serie A. Un riconoscimento che testimonia il valore del giovane classe 2005. [fonte](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzFrbU56dmZHbWJ4X2pZbXZmQWVqS1lYVUlHYzMxd2FpU2hFWlk3ckw3aFFET0U4YTFWamNZbTN0NzZoc1BjSU81dEVoT1lsWjF0LTJLSlNTRkJzN0wweUxxUW5nRmZHR19WUFVPTXZHMHVvd095aXhQaThlSFhST3R1YUFwTjdNZ0FVQ3J0N3ZYNmx2Z2I1QkRWUnVtbC1uQ1F5dTZXcUdUSFJwOWxUcnZmYUlNYkxMZTRvTF9iRERDM3ZERVYzdXlNWll4VzA?oc=5)
 
-**Antonio Vergara** continua a scrivere la sua storia dal piccolo centro campano: Frattamaggiore continua a essere il palcoscenico di una favola azzurra che cattura l'attenzione dei media locali e nazionali. [fonte](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWVQdnl3aHNNSUtZOFhUdTY1ZDFick1CY2V5bFBRVWdrZVFUVEg0T3RKT1lhZVJnZUxKSkNUVDJkMmphdUVBRXNoTnRFek5VNmtkQk1xQ0xRUzRaOU9rT2E4YVZZOEJRMTBLcTBRdUVCNGZrNGFPdktNT0pneENxZHFNakFZeC1rYV9aT09LMHNHeW5UWlI3T2RNMU5LTy1nbG80?oc=5)
+**Issa Doumbia** - Il prospetto continua a restare ai margini dei radar dei grandi club italiani, nonostante le qualità evidenti. Una situazione che sottolinea come talenti promettenti rischiano di essere dimenticati dal sistema calcistico nazionale. [fonte](https://news.google.com/rss/articles/CBMic0FVX3lxTFBUbGNzY3VZM01jb3A4VUxYTHZ2UEhhMFpubmdrQ1pNRWM3dEFLaDFSR1JfbmllU0p5VmRGM1g4ZzZlZVA3Z1BDX2lTODdsRXAzNUNXVmxtWWYwdEdyT240OFh0SmlOczBwOE94Y0JraUxPZlk?oc=5)
 
-**Matteo Palmisani** e il Frosinone subiscono un ko pesante al Maradona: la squadra giallazzurra cade 3-0 contro il Napoli, con uno spettacolo di calcio che ha visto anche l'espulsione di Lang e un rigore che ha fatto discutere. [fonte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNV9LLXJ1WnRBeUwzRERySk5fVlNnS3VwOVpUbVZBeERVWkdTNENBWVk5b3VQVm1Gd2RGT3VVUGhLNkt4Vl92aU9YVjlxdnRJTHdjaDlGTExQcV8zOWpDUW8ydlJ0Wk9fanRuTWZQR0xDZXp3bWRxeGktZ1hVSEVDSVZUdlhIWTRKS2x2SG9SU2lMekJzOU4yV0hldE5kSnZXdlhpM2l1cUc3TVduaUgyeWxlQTVYWXlkY2l5RUhlb0VQRFlPMHRsMQ?oc=5)
+**Giorgio Scalvini** - Arriva la designazione per Fabbri che tornerà dopo le contestazioni recenti, con la memoria ancora fresca su un gol controverso di Scalvini in una sfida precedente. L'arbitro avrà occasione di tornare sotto i riflettori nel calcio di vertice. [fonte](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR2R2STN5cHBDOXFNVXczT1IwRHhweVc1a3d6UXVINExDQklVOXNaT3BQN1QxYl8zOHRDUjYxZk9YeVFrTzZoME1DUU4zVUVWVVMxNXpILWZyMV9jdjhzMDd5SUl3SXJGa0laTWkyQzRvRUlnZml0R1l4NUVxci04ZFdTNXp4aXJua3ZkZkVHczBKUjh0cTIxOFFEd19TdGlZNURrN2lwX3NTNjZjaVNIb19LeUoxdDNGVmtXZUJHanlPY1Z0c1N5YjlwZzk5ekdVRURWUkIwemg?oc=5)
 
-**Luigi Cherubini** brilla anche con la maglia della Benevento: in occasione della gara contro il Cesena, il centrocampista ha messo in mostra una prestazione di livello nazionale, distinguendosi per qualità e temperamento. [fonte](https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWVZMjBTN21YT2xtU1Nfc2lYbU83a0pfdWc3SnZXbmVPNjdZVnNHU3ppQ3VxM3EwMFM2NDBSZzYtd3IybXZnRGU2cVN2M3U4cHpRU2ZrSjh5MmdWTTlMcWpqV2pKZ0E0aGc1Z1dyUnNneGZuWG5aSzg0dXFVVUgxd0VRSHZaMzdDWjV4dGh5SmxTUjliUGFGY0NScmxmdEFoeHp5TnZXeXc3LVhPRElYRFdoUHZOeGI4bzlHZXRSd0pNTDFLaGJmY0FMWUo?oc=5)
-
-Una giornata all'insegna della continuità per chi sta bene e delle opportunità per chi cerca il riscatto.
+Una panoramica ricca che spazia tra gioventù e consacrazione nel professionismo.
 
 <!--EN-->
 
-**Mohamed Alì Zoma** continues his winning streak in Germany: the Italian winger has scored his seventh consecutive goal in Nuremberg's shirt, confirming his great moment in the Bundesliga. [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFFsQ25vRzVXME1BeUxNcHc4UXlfTldBc0QyZTF5VWhDeVFFVVbirlAtQzc0eEJyc3czX1ZmVHhNeUU3Tmc4SVNFemdqTnNuRzNwblNNUHFvZ0ZOTG9OcEswU1BQTE1RY1NnUlR4Y3Z2VlVZTy1DUjViZW1EZ0Ruc08waG0xWmJwclMxM0EwcUc2WFJkYUhuRQ?oc=5)
+**Italy Under 20** - The young Azzurri continue to impress with a convincing 3-0 victory over France, confirming the category's positive momentum. Pafundi returns to the pitch and delivers a solid performance in the win. [source](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSmVucjFjRXVBemxFYnpBV201bUpDcWRqcEtoYTcwTURwVmRiU2FfQVNSZk5KUEFnb09mY3YzWW1BR2s4RmszNG5jdTdRcjhuV2ZNUWt3RzN0NnZ2bWJZSUZwN1NNZ1BZNURib0FwRWJ1Vzh5ZHhmdFVWeFd0YmlhOVdGRDhkYU9QYzVFdlhlRGFLUGtlcUh1ZERSZ3UxS1Z6eHZhaHpRcmpCSWxZcEluYkpxWlV3RlR6X19BQXFGTFQzSmRKZ3lTdHhZUWExcER6RkRCd1paV0tCdw?oc=5)
 
-**Luigi Cherubini** shows personality among the professionals: the young talent has scored twice in five days between his outings with the National team and Serie B, following his debut given by Mourinho at Roma. [source](https://news.google.com/rss/articles/CBMilgJBVV95cUxPU2NwZGdxMFV4MjRNNHJaU3RDZmN2M2RhaXBncEhfUk5jbzZMZldzNEpDTFVZU2NlWGxJUXpGSC01SWRJb1FJUGlLZXZMbThfYXhsdEZEUjRnMHl3WjdpOFphaE1qQlBtNDd5a05hSUFzeUdhWURfU2R6UXZhSlVtaUZ3YzdoU2IwUFR6TEk5aTJDcUFaSG9yamVRS0lPZzNQR1JSak4yd1o4Nm5zM3QtZTRENU9mRkVZaHJMLTJRbU1GZUwwV29aUHljcFZQUm9OekF3N0VqOFlPVUw4TG1nb2x5Q29pcXZkUnF6R0FaUHoxY3pqU1FzQjRBQmszZzFtSmo2eGZVWjFpT094cGhTd21VM3VfQQ?oc=5)
+**Tommaso Martinelli** - Fiorentina can rely on a jewel recognized internationally: Transfermarkt has included the defender in the top 11 of the best Italian talents outside Serie A. A recognition that testifies to the young player's class. [source](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzFrbU56dmZHbWJ4X2pZbXZmQWVqS1lYVUlHYzMxd2FpU2hFWlk3ckw3aFFET0U4YTFWamNZbTN0NzZoc1BjSU81dEVoT1lsWjF0LTJLSlNTRkJzN0wweUxxUW5nRmZHR19WUFVPTXZHMHVvd095aXhQaThlSFhST3R1YUFwTjdNZ0FVQ3J0N3ZYNmx2Z2I1QkRWUnVtbC1uQ1F5dTZXcUdUSFJwOWxUcnZmYUlNYkxMZTRvTF9iRERDM3ZERVYzdXlNWll4VzA?oc=5)
 
-**Antonio Vergara** continues to write his story from the small Campanian town: Frattamaggiore remains the stage for an Italian fairy tale that captures the attention of local and national media. [source](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWVQdnl3aHNNSUtZOFhUdTY1ZDFick1CY2V5bFBRVWdrZVFUVEg0T3RKT1lhZVJnZUxKSkNUVDJkMmphdUVBRXNoTnRFek5VNmtkQk1xQ0xRUzRaOU9rT2E4YVZZOEJRMTBLcTBRdUVCNGZrNGFPdktNT0pneENxZHFNakFZeC1rYV9aT09LMHNHeW5UWlI3T2RNMU5LTy1nbG80?oc=5)
+**Issa Doumbia** - The prospect continues to remain on the periphery of major Italian clubs' radar, despite evident quality. A situation highlighting how promising young talents risk being overlooked by the national football system. [source](https://news.google.com/rss/articles/CBMic0FVX3lxTFBUbGNzY3VZM01jb3A4VUxYTHZ2UEhhMFpubmdrQ1pNRWM3dEFLaDFSR1JfbmllU0p5VmRGM1g4ZzZlZVA3Z1BDX2lTODdsRXAzNUNXVmxtWWYwdEdyT240OFh0SmlOczBwOE94Y0JraUxPZlk?oc=5)
 
-**Matteo Palmisani** and Frosinone suffer a heavy defeat at the Maradona: the yellow-blue squad fell 3-0 to Napoli, with a display of football that also saw Lang's expulsion and a penalty that sparked controversy. [source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNV9LLXJ1WnRBeUwzRERySk5fVlNnS3VwOVpUbVZBeERVWkdTNENBWVk5b3VQVm1Gd2RGT3VVUGhLNkt4Vl92aU9YVjlxdnRJTHdjaDlGTExQcV8zOWpDUW8ydlJ0Wk9fanRuTWZQR0xDZXp3bWRxeGktZ1hVSEVDSVZUdlhIWTRKS2x2SG9SU2lMekJzOU4yV0hldE5kSnZXdlhpM2l1cUc3TVduaUgyeWxlQTVYWXlkY2l5RUhlb0VQRFlPMHRsMQ?oc=5)
+**Giorgio Scalvini** - Fabbri gets the appointment after recent controversies, with memories fresh of a disputed Scalvini goal in a previous clash. The referee will have an opportunity to return to the spotlight in top-flight football. [source](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR2R2STN5cHBDOXFNVXczT1IwRHhweVc1a3d6UXVINExDQklVOXNaT3BQN1QxYl8zOHRDUjYxZk9YeVFrTzZoME1DUU4zVUVWVVMxNXpILWZyMV9jdjhzMDd5SUl3SXJGa0laTWkyQzRvRUlnZml0R1l4NUVxci04ZFdTNXp4aXJua3ZkZkVHczBKUjh0cTIxOFFEd19TdGlZNURrN2lwX3NTNjZjaVNIb19LeUoxdDNGVmtXZUJHanlPY1Z0c1N5YjlwZzk5ekdVRURWUkIwemg?oc=5)
 
-**Luigi Cherubini** shines in Benevento's shirt too: in the match against Cesena, the midfielder displayed a performance of national level, standing out for his quality and character. [source](https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWVZMjBTN21YT2xtU1Nfc2lYbU83a0pfdWc3SnZXbmVPNjdZVnNHU3ppQ3VxM3EwMFM2NDBSZzYtd3IybXZnRGU2cVN2M3U4cHpRU2ZrSjh5MmdWTTlMcWpqV2pKZ0E0aGc1Z1dyUnNneGZuWG5aSzg0dXFVVUgxd0VRSHZaMzdDWjV4dGh5SmxTUjliUGFGY0NScmxmdEFoeHp5TnZXeXc3LVhPRElYRFdoUHZOeGI4bzlHZXRSd0pNTDFLaGJmY0FMWUo?oc=5)
-
-A day marked by continuity for those performing well and opportunities for those seeking redemption.
+A rich overview spanning youth development and professional advancement.
