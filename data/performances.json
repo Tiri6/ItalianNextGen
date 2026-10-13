@@ -2,6 +2,19 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-13",
+      "player": "Mattia Liberali",
+      "club": "Como",
+      "opponent": "Udinese",
+      "competition": "Serie A",
+      "result": "",
+      "minutes": 0,
+      "note": "Esordio nella prima giornata",
+      "noteEn": "Esordio nella prima giornata",
+      "source": "Goal.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbG1laWI3dzdwRHpXWVlDMHFTTWRUeVJvNXdjUXJCUU96SHZMNzFCNjdsVzBUbFN6Vm1aOGJiM1ZZeUJ5WEFHN21nTXcyaUY5bkg5RURxTXF6RnB2M2RwWmNWVlduWmtyZklGWlR0NUZHRWVGWFBRQ3FoZXlsTGRMRVl4NUg0b3FwczlXNW4tTXVsMzBUUjBVRE9QcWJja0dQS1NpMlEwVlc2dHc3eUY5V0hEaWNVb0x2Y1h5UDFXVGNBMHROd2hrU2Nid2FKWXd0Slp1ZkozX0lIdURaRjY3QS0xNy1KQUZ1QzNPVGJwMHF4QQ?oc=5"
+    },
+    {
       "date": "2026-10-07",
       "player": "Cher Ndour",
       "club": "",
@@ -234,18 +247,6 @@
       "noteEn": "Scored a beautiful goal with precision, extending the home team's advantage",
       "source": "Mediaset Infinity",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYUhiUW5Od1dIYW1xeXdLVkw1NXBWUXhqNkVaX2p3MjBXZE9MUzk5bGpkbXhybkVxLWZVY3l6b1RRTi1PY0RqSWZXcG82RU1lMG1UeVlia0ZEWDNFTXJvX3d3NG4ySDQybUpFVjNGaEMtQVdRd25SOXREbTJoS3hVS2l0ZHcxcGZna1NERHViUWlaRkxHby1jZTNjU0FoSzBfQ05nMjlrNF9SX0E5RkMxZUZMRWw0VHVVcVFNTExzNzdjZ0FVdk1sSEZadkxOckxIYmhBclp0QWs5QQ?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "player": "Tommaso Baldanzi",
-      "club": "",
-      "opponent": "Marassi",
-      "competition": "",
-      "result": "",
-      "note": "Ha confermato di saper gestire il ritmo della gara con lucidità e personalità.",
-      "noteEn": "Confirmed ability to manage the pace of the match with lucidity and personality.",
-      "source": "Calcio Genoa",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGZjNXQ1ekdETUdpUy01eUFUaHdWYk1aX2lzZnRJYk03V1lyWFJmalpDSkw2TnFuTF9KNnNnNEQ4clh5Wkh6VG83S3pZZFN5MkItWVBNTFN0TGtaT0ZuUDlIczNkdlpxTTVkSXJZcjB3MHJmcTZpdUhZT3AtQWM2b2lLQ0NwMHdQamVKMEl3Y2g1R1FqTWFSYXduTFJoYnRJcjFHY1dkZTktYkgtOWhTNWlaS21TUQ?oc=5"
     }
   ]
 }

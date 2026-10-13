@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Lulli nel mirino del PSG: la corsa europea per il difensore della Roma",
+    "titleEn": "Lulli in PSG's sights: European race for Roma defender",
+    "excerpt": "Non solo i club inglesi seguono con attenzione Emanuele Lulli. Anche il Paris Saint-Germain ha messo gli occhi sul difensore giallorosso, secondo le notizie provenienti dalla Turchia.",
+    "excerptEn": "It's not just English clubs keeping watch on Emanuele Lulli. Paris Saint-Germain has also set its sights on the Roma defender, according to reports from Turkey.",
+    "bodyIt": "La situazione attorno a Emanuele Lulli si arricchisce di un nuovo capitolo. Dopo l'interesse manifestato dai principali club della Premier League, il difensore della Roma ha catturato l'attenzione anche del PSG, stando alle indiscrezioni che emergono dalla Turchia.\n\nL'interesse dei parigini rappresenta un ulteriore segnale dell'apprezzamento che il giocatore riscuote a livello continentale. La competizione tra i grandi club europei per assicurarsi le prestazioni del centrale giallorosso si intensifica, confermando il valore crescente del profilo nel panorama calcistico europeo.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "The situation surrounding Emanuele Lulli gains a new dimension. Following interest from leading Premier League clubs, the Roma defender has now caught the attention of PSG, according to reports emerging from Turkey.\n\nThe Parisian club's interest represents a further sign of the appreciation the player enjoys at continental level. Competition among Europe's biggest clubs to secure the services of the Giallorossi centre-back intensifies, confirming his growing value in the European football landscape.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }
