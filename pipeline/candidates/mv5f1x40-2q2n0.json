@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Rea e il Cesena, tra Lumezzane e le ambizioni di Berti",
+    "titleEn": "Rea discusses Cesena's path forward amid Berti's prospects",
+    "excerpt": "L'ex giocatore della storica trasferta di Lumezzane, oggi nei ranghi della RS Management, interviene sul momento dei bianconeri e sui giovani talenti in orbita.",
+    "excerptEn": "Former player from the historic Lumezzane expedition, now with RS Management, speaks on Cesena's current situation and emerging young talents.",
+    "bodyIt": "Il Cesena affronta una fase delicata dopo la prima sconfitta stagionale sul campo del Benevento. Le scelte iniziali non hanno pagato, con Diamanti costretto a rivedere gli assetti già nel primo tempo, a partire dalla posizione di Dalla Vecchia e dalle difficoltà di Bohinen nel gestire il centrocampo bianconero. La squadra è ora chiamata a reagire in casa contro l'Avellino, prima di una trasferta impegnativa a Modena.\n\nNel mezzo di questa riflessione, spazio alle valutazioni sul presente e sul futuro dei giovani italiani nel calcio professionistico. Angelo Rea, che conosce bene l'ambiente cesenate per aver partecipato alla spedizione di Lumezzane e oggi socio della RS Management di Tommaso Berti, ha condiviso la propria prospettiva sul tema del lancio dei migliori prospetti della Primavera verso il palcoscenico della Serie B, ritenendo necessario che i più promettenti trovino continuità agonistica anche tra i professionisti.",
+    "bodyEn": "Cesena is navigating difficult waters following their first season defeat at Benevento. The initial tactical setup failed to convince, forcing Diamanti to make adjustments in the first half, particularly regarding Dalla Vecchia's placement and Bohinen's struggles in midfield control. The side must now recover at home against Avellino before tackling an demanding trip to Modena.\n\nAgainst this backdrop, attention turns to the evaluation of Italy's emerging talents in professional football. Angelo Rea, a familiar figure in Cesena circles from his involvement in the Lumezzane expedition and now a partner at RS Management alongside Tommaso Berti, has offered his perspective on transitioning the most promising Primavera prospects to Serie B, emphasizing the need for the most talented young players to gain competitive experience at professional level.",
+    "_fromSource": true
+  }
 }
