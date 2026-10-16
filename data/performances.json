@@ -2,6 +2,32 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-15",
+      "player": "Luigi Cherubini",
+      "club": "Benevento",
+      "opponent": "Cesena",
+      "competition": "Serie B",
+      "result": "",
+      "goals": 1,
+      "note": "Ha realizzato una rete al Vigorito confermando la tendenza di segnare in casa",
+      "noteEn": "Ha realizzato una rete al Vigorito confermando la tendenza di segnare in casa",
+      "source": "Calcio Benevento",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMGFhN1puUGJEemY1X1VXMnFlZHJ3SFZ6WjBBZlBmUDhjaFZxWEVLeWtDODBMNDNfejFNUnJFMGJxaEVGZ29PTUZoR2lTMGk5UFFvV2F0d0V6U2lRYmw2ZjN0UTNDUUxNaWw5ZlZxQ1NkcDhmM242UjhTYzgzLUV0Mk9ubW14dEFTR1VZYUVkbFQ1aTZwU0NUakxUcEZHUUIxTXQ3OUg2T0FPMV9ja284WW05aXE4ckJTMUZaS2lmajl5MWRqd21MYXQ0OExLbEZjQ3lodVRKMXhhaS1VRm1ZNy1Ob1dDSzJDcmo0?oc=5"
+    },
+    {
+      "date": "2026-10-15",
+      "player": "Mattia Mosconi",
+      "club": "Inter Under 23",
+      "opponent": "Giugliano",
+      "competition": "Campionato Under 23",
+      "result": "4-0",
+      "goals": 1,
+      "note": "Ha sbloccato il match e aperto le marcature della goleada nerazzurra",
+      "noteEn": "Unlocked the match and opened the scoring in the Nerazzurri's goalfest",
+      "source": "SondrioToday",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0dXSWx2dENDOWdGckpPNHhzdXVRVUoyeUJfdWFha2FLR0xCTXk3MWR0STNmSEs3N01ZTFF5a0JNN2RiMFJFdzg3aHdoRTJqME5FenQzZkFxRjBMOUx3a21FZ3pOcGdGb1lyWVJtOW95a2lQUGNoMC1mWXh3X2ptalZLRTdtSnRJekp3LW1Uel82UTlXNGVTaUllMFduWUxGQ2NlbTJyMXYzZEh4eTRtTW9WeTFaRUJOVDNYWHN6UzdmWTM4cHc?oc=5"
+    },
+    {
       "date": "2026-10-13",
       "player": "Mattia Liberali",
       "club": "Como",
@@ -222,31 +248,6 @@
       "noteEn": "La prestazione del difensore granata si è distinta nella partita",
       "source": "Torino Granata",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmpRU19Qc0p4QzRKNDdoT3RVUWY3emllMmtQelMzTXplYnJCUVBPWGNQVFE2SUgzaVlkR2dKOHhBRzhrVE5ORkNWaHNwX2lyVTBTR1FEX3FLcVB2M1pObDhyajNoTno4WkdwUkd1di1vWWozX05mT2FxSVMyYTloVmJVUUZCTUo4X0xrUVlFYm5HVVFKSFl3cDRPc0I1MXZ5VHEzYTJtdlF5a1hPbmRVbE9kbTdkUHRGcUhzU19YLW9xUDFLNk90ZHFYWGJadzVUUkZKYW9hR1AwQzRmczY1dTF3?oc=5"
-    },
-    {
-      "date": "2026-08-25",
-      "player": "Marco Palestra",
-      "club": "Chelsea",
-      "opponent": "Tottenham",
-      "competition": "Premier League",
-      "result": "",
-      "note": "Ha disputato una partita di alto livello dimostrando di poter adattarsi rapidamente al calcio inglese",
-      "noteEn": "Played a high-level match demonstrating ability to quickly adapt to English football",
-      "source": "Tribuna.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmVvcV9RdDVnbmVMSV9wbnNUdDZaN2VDY3Vid0RSRWNDZWtaNmZWQVRuYTZaOFh6RnloNnhyY09WeTRkWjVMT0lfQmFMTkNQWEVTYXhIQ2loNnR0bUtZZktDMVRwMVZnNmF5NnZlTkpZSUYtaHByMHk3QU5BNGNKRWw5dHk4XzNreC1Yd05QSzA1M1Nv0gGaAUFVX3lxTE1HOGYzOGFqdXd2VGRyOHA0WjlHV19XVENlem9mWURmakJoeU9scUZJTGtRODhwOFpReUtib0haeGdDd09CaVZCdzF5QXRpUkZrV050VVRmVUZwTG5vd1ZKa1Vla29aNVZaVkpPWlNtaE9kTVYzMVNvUnBOS1dycTNTMmQ4RFduSDFPVUtPT0dLNkp3SlV1eHRtb2c?oc=5"
-    },
-    {
-      "date": "2026-08-19",
-      "player": "Matteo Cichella",
-      "club": "Frosinone",
-      "opponent": "Juve Stabia",
-      "competition": "Coppa Italia",
-      "result": "",
-      "goals": 1,
-      "note": "Ha segnato un gol di grande bellezza con precisione, dilatando il vantaggio della squadra di casa",
-      "noteEn": "Scored a beautiful goal with precision, extending the home team's advantage",
-      "source": "Mediaset Infinity",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYUhiUW5Od1dIYW1xeXdLVkw1NXBWUXhqNkVaX2p3MjBXZE9MUzk5bGpkbXhybkVxLWZVY3l6b1RRTi1PY0RqSWZXcG82RU1lMG1UeVlia0ZEWDNFTXJvX3d3NG4ySDQybUpFVjNGaEMtQVdRd25SOXREbTJoS3hVS2l0ZHcxcGZna1NERHViUWlaRkxHby1jZTNjU0FoSzBfQ05nMjlrNF9SX0E5RkMxZUZMRWw0VHVVcVFNTExzNzdjZ0FVdk1sSEZadkxOckxIYmhBclp0QWs5QQ?oc=5"
     }
   ]
 }
