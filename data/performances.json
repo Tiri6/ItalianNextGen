@@ -2,6 +2,55 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-16",
+      "player": "Samuele Inacio",
+      "club": "Borussia Dortmund",
+      "opponent": "Bodo/Glimt",
+      "competition": "Champions League",
+      "result": "0-1",
+      "note": "Non ha lasciato tracce significative della sua presenza nella sconfitta.",
+      "noteEn": "He did not leave significant traces of his presence in the defeat.",
+      "source": "Virgilio Sport",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTktSM3hFYlN1aXFKOXNNUGptWG1wTlZVV045Z04wVmRnUEZMNndhWnJ2ZWdJeDJRMEhJeTJISWQ3UnF5bEROdzJRUWZXQ2pVX1l4UEJnV29MLUtkRnBWekFsMkRnN011QUczSkpseUtUamxkcTN1M3dVcDFTbnFyc1NVbzVpcm5FX3N6R0Z6WHBDUXM0czNQY1JFT2sxeFpmSVpSbUtuS3pITnNDSFRQaFdvcTYwLXpwekxWQTFwYkhZb2I4TF9ra0pYT1dpV0FxREp6R3pFQ2E2WHN1RDBGZtIB5wFBVV95cUxNUS1ZVHJYVllZRW1IRkhnUTdpYnZqMWJxZEdVT2hJLWc1Z0p6ZXV5U1JaR1lwWnRDME93WHFEalVCUFBiZWptYkVMUDBocmxiVDVGOWZzS1lQcVdtUWVYdTdlWHFFd2JKZlNObzZpRlhJVWluQlFLeG80dXBNYVhUN2k0NXBCWEtuRFFkM29va19RN1htTXgzMlBKRDZRTVUyTk8zQl9tVG10cldXakZLT3FGalFIdko1eWoyZnM4X2VLODh0aVFqaGJpbzhXSG9yYTFTZjA2VG95dnI0c0doOHZzM0hqNW8?oc=5"
+    },
+    {
+      "date": "2026-10-16",
+      "player": "Alphadjo Cissè",
+      "club": "Milan",
+      "opponent": "Salisburgo",
+      "competition": "europea",
+      "result": "4-0",
+      "goals": 3,
+      "note": "Ha realizzato una tripletta con inserimenti precisi e senso della posizione, primo gol al quindicesimo minuto su cross dalla fascia.",
+      "noteEn": "Scored a hat-trick with precise movements and positional awareness, first goal at the fifteenth minute from a cross.",
+      "source": "Triveneto Goal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkF3Qm1SaThnSER1eDByeGlFNlBibm5LTFNzNkZJWjZWZHpaTnlFdzVSc3lYR29fU0pWQVphOWR3eEFYYV82c1Z6RHlSYnVhNFZvTE1hVEx6WFVnMEJtWDlvemh6cUplbTlpVjItQktmMXh1V1dIZ1R0MHQ5LS1nWGMyMmVoOVQ5ZEZoXzZoY1FGUm9yakUxUy14a25WLTZHNUszLWF3cFRqV21jY2VDRzcwWUlCbFlGa2xmNmNqLUJaUUE1LUEyRjZtTFZmajBMMGZTZ3Nmb1dnSFQzcVNValc0OGNNUkRhV0FxNjZ4LVE?oc=5"
+    },
+    {
+      "date": "2026-10-16",
+      "player": "Francesco Camarda",
+      "club": "Milan",
+      "opponent": "Salisburgo",
+      "competition": "europea",
+      "result": "4-0",
+      "note": "Centravanti schierato dal primo minuto, momento formativo cruciale nel suo percorso di crescita.",
+      "noteEn": "Striker fielded from the start, a crucial formative moment in his development path.",
+      "source": "Triveneto Goal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkF3Qm1SaThnSER1eDByeGlFNlBibm5LTFNzNkZJWjZWZHpaTnlFdzVSc3lYR29fU0pWQVphOWR3eEFYYV82c1Z6RHlSYnVhNFZvTE1hVEx6WFVnMEJtWDlvemh6cUplbTlpVjItQktmMXh1V1dIZ1R0MHQ5LS1nWGMyMmVoOVQ5ZEZoXzZoY1FGUm9yakUxUy14a25WLTZHNUszLWF3cFRqV21jY2VDRzcwWUlCbFlGa2xmNmNqLUJaUUE1LUEyRjZtTFZmajBMMGZTZ3Nmb1dnSFQzcVNValc0OGNNUkRhV0FxNjZ4LVE?oc=5"
+    },
+    {
+      "date": "2026-10-16",
+      "player": "Davide Bartesaghi",
+      "club": "Milan",
+      "opponent": "Salisburgo",
+      "competition": "europea",
+      "result": "4-0",
+      "note": "Impiegato sulla fascia dal primo minuto, accumula esperienza contro avversari di respiro europeo.",
+      "noteEn": "Deployed on the flank from the start, gaining experience against European-level opponents.",
+      "source": "Triveneto Goal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkF3Qm1SaThnSER1eDByeGlFNlBibm5LTFNzNkZJWjZWZHpaTnlFdzVSc3lYR29fU0pWQVphOWR3eEFYYV82c1Z6RHlSYnVhNFZvTE1hVEx6WFVnMEJtWDlvemh6cUplbTlpVjItQktmMXh1V1dIZ1R0MHQ5LS1nWGMyMmVoOVQ5ZEZoXzZoY1FGUm9yakUxUy14a25WLTZHNUszLWF3cFRqV21jY2VDRzcwWUlCbFlGa2xmNmNqLUJaUUE1LUEyRjZtTFZmajBMMGZTZ3Nmb1dnSFQzcVNValc0OGNNUkRhV0FxNjZ4LVE?oc=5"
+    },
+    {
       "date": "2026-10-15",
       "player": "Luigi Cherubini",
       "club": "Benevento",
@@ -199,55 +248,6 @@
       "noteEn": "Scored but delivered a fragmented performance with imprecisions",
       "source": "Torino Granata",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVFPMlVTZGpKS1RxWkVKSmRpR2t2Uy1sZkpTUDZ3b1ZPbHRYZGtQVDFIZXZTRm1qc0FFVzhuSUQ3aWFSX0JXMVdBa1FCeEVJRkhBT2pTbTFTWGJNN3plTHliTjVvSWw3TjVLOGZZOURGbUpCZm0ydS1MNmlhd2dGaGFlVTM4MEFTekhlOWhlX09JQlJZNi04N09DUTAtdVZUbkFEeGtVRllGTmJhVHBlYUliZ21RbVVZd1JBSFlZWFozZTdsRDJvclNrVXh0eHNWaDdtc3Q2dGRLZ3hvYko0djNR?oc=5"
-    },
-    {
-      "date": "2026-09-17",
-      "player": "Alessio Cacciamani",
-      "club": "Torino",
-      "opponent": "Sassuolo",
-      "competition": "",
-      "result": "",
-      "assists": 1,
-      "note": "Ha mostrato crescita evidente nel corso della gara con assist decisivo",
-      "noteEn": "Showed evident growth during the match with a decisive assist",
-      "source": "Torino Granata",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVFPMlVTZGpKS1RxWkVKSmRpR2t2Uy1sZkpTUDZ3b1ZPbHRYZGtQVDFIZXZTRm1qc0FFVzhuSUQ3aWFSX0JXMVdBa1FCeEVJRkhBT2pTbTFTWGJNN3plTHliTjVvSWw3TjVLOGZZOURGbUpCZm0ydS1MNmlhd2dGaGFlVTM4MEFTekhlOWhlX09JQlJZNi04N09DUTAtdVZUbkFEeGtVRllGTmJhVHBlYUliZ21RbVVZd1JBSFlZWFozZTdsRDJvclNrVXh0eHNWaDdtc3Q2dGRLZ3hvYko0djNR?oc=5"
-    },
-    {
-      "date": "2026-09-02",
-      "player": "Tommaso Baldanzi",
-      "club": "Genoa",
-      "opponent": "Ascoli",
-      "competition": "Coppa Italia",
-      "result": "",
-      "note": "ha dimostrato di saper incidere quando chiamato in causa",
-      "noteEn": "showed the ability to make an impact when called upon",
-      "source": "SOS Fanta",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUxpeS1HdnRwRWxOaXFwM05UUnhyTlFQYkpGQ3JfLWlwNEM0MzlMYUJVZjdEVEh3Q2gzTEdpVC1PWG4tbHV6UnRBVks0TkE1aXhyNlhvWFFYeUtQVmM3N1huenVEUlkzcVc1dTZYY0FYMkNaYUZaUDFpTklrRElhdjFZYlZkb3EyQjNuODJVR1VHQWZDcVRmOGM4Q0ROU2lkM3pScG1ZVjhac0t3RVRPcHpiVHhWcDAtR04wNlp5cVbSAcYBQVVfeXFMT0VydVNqcmJyZkxWSnVoV3l4N3NTclhTU0wyRWlOMExvLTJJaHJlYXdsQy12czhiYUE0NHlQSWZ2SWxXYXVDc3NVSC1rRTRQc292VXNTVGlTQXQzdUJZdElBX25rcHA5c0RBVGlaZWdzZnJQTVBNYTJOb3pQbGhuYTNwOXl5M2c0WEV6WnFBSWhjVjdnVWQwNVlzQ1JEc3RnblM1V3N2YTVXRG1ta0dQMm85R1lzYmNTWkJBMnBHY3Yzb2ctNHB3?oc=5"
-    },
-    {
-      "date": "2026-09-02",
-      "player": "Leonardo Colombo",
-      "club": "Genoa",
-      "opponent": "Ascoli",
-      "competition": "Coppa Italia",
-      "result": "",
-      "note": "ha dimostrato di saper incidere quando chiamato in causa",
-      "noteEn": "showed the ability to make an impact when called upon",
-      "source": "SOS Fanta",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUxpeS1HdnRwRWxOaXFwM05UUnhyTlFQYkpGQ3JfLWlwNEM0MzlMYUJVZjdEVEh3Q2gzTEdpVC1PWG4tbHV6UnRBVks0TkE1aXhyNlhvWFFYeUtQVmM3N1huenVEUlkzcVc1dTZYY0FYMkNaYUZaUDFpTklrRElhdjFZYlZkb3EyQjNuODJVR1VHQWZDcVRmOGM4Q0ROU2lkM3pScG1ZVjhac0t3RVRPcHpiVHhWcDAtR04wNlp5cVbSAcYBQVVfeXFMT0VydVNqcmJyZkxWSnVoV3l4N3NTclhTU0wyRWlOMExvLTJJaHJlYXdsQy12czhiYUE0NHlQSWZ2SWxXYXVDc3NVSC1rRTRQc292VXNTVGlTQXQzdUJZdElBX25rcHA5c0RBVGlaZWdzZnJQTVBNYTJOb3pQbGhuYTNwOXl5M2c0WEV6WnFBSWhjVjdnVWQwNVlzQ1JEc3RnblM1V3N2YTVXRG1ta0dQMm85R1lzYmNTWkJBMnBHY3Yzb2ctNHB3?oc=5"
-    },
-    {
-      "date": "2026-08-28",
-      "player": "Diego Mascardi",
-      "club": "Torino",
-      "opponent": "Milan",
-      "competition": "",
-      "result": "1-2",
-      "note": "La prestazione del difensore granata si è distinta nella partita",
-      "noteEn": "La prestazione del difensore granata si è distinta nella partita",
-      "source": "Torino Granata",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmpRU19Qc0p4QzRKNDdoT3RVUWY3emllMmtQelMzTXplYnJCUVBPWGNQVFE2SUgzaVlkR2dKOHhBRzhrVE5ORkNWaHNwX2lyVTBTR1FEX3FLcVB2M1pObDhyajNoTno4WkdwUkd1di1vWWozX05mT2FxSVMyYTloVmJVUUZCTUo4X0xrUVlFYm5HVVFKSFl3cDRPc0I1MXZ5VHEzYTJtdlF5a1hPbmRVbE9kbTdkUHRGcUhzU19YLW9xUDFLNk90ZHFYWGJadzVUUkZKYW9hR1AwQzRmczY1dTF3?oc=5"
     }
   ]
 }
