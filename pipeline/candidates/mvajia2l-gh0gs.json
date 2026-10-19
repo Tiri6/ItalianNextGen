@@ -12,5 +12,14 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Martinelli tra i portieri del domani, il CNB suggerisce investimenti nel centrocampo",
+    "titleEn": "Martinelli among goalkeepers of tomorrow, CNB suggests midfield investments",
+    "excerpt": "Il Consiglio Nazionale dei Broker riconosce le qualità di Tommaso Martinelli tra i prospetti tra i pali. Parallelamente, l'organismo consiglia di destinare risorse economiche al rafforzamento del reparto mediano.",
+    "excerptEn": "The National Council of Brokers recognizes Tommaso Martinelli's qualities among goalkeeper prospects. At the same time, the body recommends allocating financial resources to strengthen the midfield.",
+    "bodyIt": "Le riflessioni del Consiglio Nazionale dei Broker mettono in luce Tommaso Martinelli come una risorsa promettente nel ruolo di portiere. Un riconoscimento che conferma l'attenzione verso chi opera fra i pali nel panorama calcistico giovanile italiano.\n\nAccanto alla valutazione positiva sul portiere, il CNB propone una visione strategica più ampia: secondo l'organismo, conviene concentrare gli investimenti finanziari sul centrocampo, ritenuto settore prioritario per lo sviluppo del movimento. Una scelta che riflette le esigenze tattiche e strutturali che emergono dall'analisi del calcio italiano contemporaneo.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "The reflections of the National Council of Brokers highlight Tommaso Martinelli as a promising resource in the goalkeeper role. A recognition that confirms attention towards those operating between the posts in the Italian youth football landscape.\n\nAlongside the positive assessment of the goalkeeper, the CNB proposes a broader strategic vision: according to the body, it is worth concentrating financial investments on midfield, considered a priority sector for the development of the movement. A choice that reflects the tactical and structural needs emerging from analysis of contemporary Italian football.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Ambrosino, il nodo del mercato azzurro: la cessione era necessaria?",
+    "titleEn": "Ambrosino and Naples' market puzzle: was the sale really needed?",
+    "excerpt": "Il trasferimento di Giuseppe Ambrosino accende il dibattito sulla gestione dei giovani talenti in casa Napoli. Una scelta che divide gli addetti ai lavori.",
+    "excerptEn": "Giuseppe Ambrosino's departure reignites debate over how Naples manages its young talents. A decision that splits observers.",
+    "bodyIt": "La partenza di Giuseppe Ambrosino dal Napoli continua a generare interrogativi sulla strategia di mercato del club partenopeo. La decisione di lasciar andare il giovane attaccante rappresenta uno dei nodi più discussi della finestra di trasferimenti, con opinioni contrastanti su opportunità e rischi di un'operazione che rimane sotto la lente d'ingrandimento.\n\nTra chi sostiene la necessità della mossa e chi la contesta, emerge un quadro complesso sulla valorizzazione dei propri giovani. Il dibattito riflette le tensioni tipiche di un mercato dove le valutazioni tecniche non sempre coincidono con le esigenze economiche o di gestione rosa.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Giuseppe Ambrosino's departure from Naples continues to fuel questions about the Partenopean club's transfer strategy. The decision to let the young striker leave stands as one of the most debated moves in this window, with divergent assessments of both its rationale and consequences.\n\nAmong those backing the sale and those questioning it, a complex picture emerges about how the club develops its own talents. The discussion reflects broader tensions in a market where technical evaluations do not always align with financial or squad-management priorities.\n\n(Draft from title only: verify details on source.)",
+    "_fromSource": false
+  }
 }

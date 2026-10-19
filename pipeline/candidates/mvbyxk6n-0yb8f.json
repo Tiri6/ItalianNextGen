@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Scalvini fermo due settimane: l'Atalanta perde il difensore",
+    "titleEn": "Scalvini sidelined for two weeks: Atalanta loses key defender",
+    "excerpt": "Il centrale nerazzurro alle prese con una distrazione muscolare alla gamba sinistra. Sarri dovrà fare a meno di uno dei suoi uomini migliori per le prossime cinque partite.",
+    "excerptEn": "The Bergamo centre-back dealing with a muscle strain in his left leg. Sarri will have to manage without one of his best players for the next five matches.",
+    "bodyIt": "Tegola per l'Atalanta nella settimana che precede la sfida di Conference League contro il Pafos. Giorgio Scalvini dovrà stare ai box a causa di una distrazione di basso grado ai muscoli flessori della gamba sinistra. L'assenza del difensore centrale classe 2003 si protrarrà per almeno due settimane, un periodo che costringerà Maurizio Sarri a rivedere i suoi piani difensivi.\n\nL'infortunio avrà ricadute significative sul calendario della Dea: Scalvini salterà infatti cinque impegni fra serie A e coppa. Una perdita rilevante per un reparto che vede in lui uno dei elementi di maggior affidabilità, sia dal punto di vista tattico che della continuità. Per il tecnico dei nerazzurri si tratta di una complicazione che arriva in un momento delicato della stagione.",
+    "bodyEn": "Atalanta face a setback during the week ahead of their Conference League clash against Pafos. Giorgio Scalvini will remain sidelined due to a low-grade strain to the flexor muscles in his left leg. The absence of the 2003-born centre-back is expected to last at least two weeks, a period that will force Maurizio Sarri to rethink his defensive setup.\n\nThe injury will have significant consequences on Bergamo's fixture list: Scalvini will miss five matches across Serie A and cup competition. A notable loss for a defence that relies on him as one of its most dependable players, both tactically and in terms of consistency. For the Nerazzurri coach, this represents a complication arriving at a delicate moment of the season.",
+    "_fromSource": true
+  }
 }

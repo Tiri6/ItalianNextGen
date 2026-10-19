@@ -12,5 +12,14 @@
   ],
   "category": "mercato",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Scalvini out due settimane, l'Atalanta non rischia",
+    "titleEn": "Scalvini sidelined for two weeks, Atalanta takes no chances",
+    "excerpt": "Il difensore bergamasco dovrà fermarsi per una distrazione muscolare alla gamba sinistra. Lo staff medico della Dea proverà ad accorciare i tempi, ma la prudenza rimane prioritaria.",
+    "excerptEn": "The Bergamo defender will be out due to a muscle strain on his left leg. The medical staff will attempt to shorten recovery time, but caution remains paramount.",
+    "bodyIt": "Giorgio Scalvini dovrà stare fermo circa due settimane a causa di una distrazione di basso grado ai muscoli flessori della gamba sinistra. La dirigenza dell'Atalanta ha scelto di non forzare i tempi di recupero e procederà con estrema cautela durante la riabilitazione, pur cercando di limitare al massimo l'assenza del giocatore.\n\nIntanto, per quanto riguarda Kessie, le sue condizioni non destano particolare apprensione. Il centrocampista ha accusato un sovraccarico al polpaccio destro, ma le indicazioni da Zingonia suggeriscono che si sia trattato piuttosto di un riposo preventivo. Nelle prossime ore la situazione sarà più definita, tuttavia tutto lascia intendere che sia a disposizione per la trasferta di Milano contro il Milan.",
+    "bodyEn": "Giorgio Scalvini will be sidelined for approximately two weeks due to a low-grade strain of the flexor muscles in his left leg. Atalanta's management has decided not to rush his recovery and will proceed with utmost caution during rehabilitation, while attempting to minimize the player's absence.\n\nAs for Kessie, his condition does not raise particular concern. The midfielder experienced some right calf overload, but indications from the club suggest it was primarily a precautionary rest. Further clarity should emerge in the coming hours, though all signs point to him being available for the away trip to Milan against AC Milan.",
+    "_fromSource": true
+  }
 }
