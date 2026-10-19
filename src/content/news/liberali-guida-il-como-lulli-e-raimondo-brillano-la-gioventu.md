@@ -1,0 +1,27 @@
+---
+title: "Liberali guida il Como, Lulli e Raimondo brillano: la gioventù azzurra fa spettacolo"
+titleEn: "Liberali leads Como, Lulli and Raimondo shine: Italian youth delivers"
+excerpt: "Nel fine settimana il calcio italiano ha potuto ammirare quattro protagonisti under in stato di grazia. Liberali apre le marcature nella vittoria comasca, mentre Lulli e Raimondo trovano il gol nei rispettivi campionati."
+excerptEn: "Over the weekend Italian football showcased four young talents in stellar form. Liberali opens the scoring in Como's victory, while Lulli and Raimondo find the net in their respective leagues."
+date: 2026-10-19
+publishedAt: 2026-10-19T10:20:00+02:00
+category: performance
+players: ["Mattia Liberali", "Emanuele Lulli", "Antonio Raimondo"]
+competitions: []
+source: "Triveneto Goal"
+sourceUrl: "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVEyQ041VUFMdXNvTm0wMThuSy14ajV1aS1UeVh6RXNCWlZGOWh5ZG1SUmgtZ2VkTXI0cG9SUzRkN0VJUGRURGxlUE8wXy1KOU0tTUpvcDZzNFp0TW9SN1k1bHZMc25xTEhLVGxvcjNIanF4R1dwWmc5U1ZSNW00SF9QSkE1T3k5aFk1VHUwSnhaQkljMXBweGw1bEhpMXhrZ2xnbE9PMlVyUXlTT1pnU24za3pMc3BKdF81a1lQN2VDNjFuV3VBeXp5YjdfUWc?oc=5"
+---
+
+Mattia Liberali ha sbloccato il risultato nella vittoria esterna del Como contro la Fiorentina, terminata 3-1. Il giovane attaccante lombardo ha dimostrato di saper incidere in contesti di rilievo, confermando che lo spazio per i talenti italiani esiste anche nelle squadre ambiziose, purché si disponga della qualità per conquistarlo.
+
+Nello stesso weekend, Emanuele Lulli ha contribuito con una rete al positivo andamento di una generazione in cerca di occasioni. Parallelo a questo, Antonio Raimondo ha firmato una prestazione memorabile in attacco, mettendo a segno una tripletta che gli consente di stare ai vertici della classifica marcatori. La concretezza del centravanti, la sua capacità di trovarsi negli spazi decisivi e di materializzare le occasioni rappresentano le qualità che distinguono chi è chiamato a responsabilità crescenti.
+
+Quattro nomi, quattro contributi realizzativi in un fine settimana che restituisce un quadro incoraggiante del movimento giovanile italiano. Continuità e fiducia saranno decisive nei prossimi mesi: il talento da solo non basta senza opportunità concrete e minutaggio nelle rispettive squadre.
+
+<!--EN-->
+
+Mattia Liberali opened the scoring in Como's away victory against Fiorentina, which ended 3-1. The young Lombard forward demonstrated he can make an impact in high-profile contexts, confirming that there is room for Italian talent in ambitious clubs, provided the quality is there to earn it.
+
+During the same weekend, Emanuele Lulli contributed with a goal to the positive trend of a generation seeking opportunities. In parallel, Antonio Raimondo delivered a memorable attacking performance, scoring a hat-trick that places him among the league's leading scorers. The striker's finishing, his ability to find decisive spaces, and his capacity to convert chances represent the qualities that mark those destined for increased responsibility.
+
+Four names, four goal contributions in a weekend that paints an encouraging picture of Italian youth football. Consistency and confidence will be decisive in the coming months: talent alone is not enough without concrete opportunities and playing time at their respective clubs.

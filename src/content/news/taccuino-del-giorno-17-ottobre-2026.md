@@ -1,0 +1,54 @@
+---
+title: "Taccuino del giorno · 17 ottobre 2026"
+titleEn: "Daily Notebook · October 17, 2026"
+excerpt: "Tra infortuni e scelte tattiche, la giornata dei giovani azzurri continua a tenere banco sui campi europei e nelle convocazioni nazionali."
+excerptEn: "Between injuries and tactical choices, the day of young Italian talents continues to make headlines on European fields and in national team selections."
+date: 2026-10-19
+publishedAt: 2026-10-19T09:00:00+02:00
+featured: true
+category: taccuino
+players: ["Mohamed Alì Zoma", "Emanuele Rao", "Tommaso Berti", "Luigi Cherubini"]
+competitions: []
+source: "Taccuino da 5 fonti"
+sourceUrl: ""
+---
+
+Venerdì movimentato per i nostri talenti in cerca di continuità.
+
+**Mohamed Alì Zoma**
+Tegola per il Norimberga: il giovane esterno esce in barella durante il pareggio col Cottbus, un'assenza che peserà nelle prossime gare dei tedeschi. [fonte](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGpNT3hRaFhXa2JUMzFuWW9HaDQyWXRneGFlTjNVTzZwN3ZrdklDemg4bmJtN2FrQ0MzSmpHdVZyQkRnSC1XcWVfSU1LV3dLWjBQZ0pkNlptZjh5QWZ5VEhVaHlPVGVkOFpKSW5ZRzNvZ0d6amZOMzd3QWlwYXREVUR0Qk93RjRhNF9ZdXFETjBhdmZOYmRJ?oc=5)
+
+**Emanuele Rao e Tommaso Berti**
+In casa Pisa-Cremonese tiene banco la formazione iniziale: ancora incerto l'impiego di Berti mentre Rao rimane nel novero delle opzioni tattiche per il tecnico. [fonte](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQU1JY0kzYkQ1WDU1WDlXSndMUmdmRHdyM0ZLdEE1cE1hbHpvdGdzWGF4YUxxSjRtdVVDT2gyMTlFWnBRUkpHUGJWR09waVVYcnJvMnB0YjFyMTZSWHBGYmg2NDd3QmdPc3lWbldGM3k5TVNHTU9vaFBIQ01qWDdQNjJjRERzeEFHd0NlTXZEYUVSNC1ob0t5aTlxOGpHMEdZ?oc=5)
+
+**Luigi Cherubini**
+Good news dalla Roma in prestito: Cherubini affonda il pallone in rete, confermando di saper incidere quando chiamato in causa. [fonte](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsUlFhckZqa1cyZkdRT2thSVkweGh3Q2VXZW1nak9nWTNMNktETDJEcTd5UlZteGZWTkZ6SWlZNUZhd08zcTRPb1ByS1hYbWp2VW55MkZuZ3p4el9aSFktZlZqamFzZ3Y5WFk1YllXcnl3TDF5VlNqOEdaWXNMM3c?oc=5)
+
+**Mancini e le scelte in Under 21**
+Caressa accende i riflettori sulla mancata convocazione di Cisse: il nodo rimane sulla lettura tattica del commissario tecnico e sulle gerarchie in fase di costruzione. [fonte](https://news.google.com/rss/articles/CBMimwFBVV95cUxOREh2eHlsVG5tQ3BYQjF5RDJ6aFFuMERVSlNiMnF1Tk5heGhCS2prRkJkcF83ZTNuRUVkVjZHUmpxMUNXR2EzR3pwVUx3eUFGeEpzSjhkSzdIUDB2ODBuTEFvRzk2RWMxd3JTLTNnejVqSEFQRXdMQm4tQ093NTQyZS1QM1pfYzRlZUJrbEl3UndXRXdYZ0Iyc0lFYw?oc=5)
+
+**Under 20 nazionale**
+Vagnini ottiene la convocazione per la Nazionale Under 20, frutto della crescita maturata nei vivai di Futura, fucina riconosciuta di giovani talenti. [fonte](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXdoQURWbEpDcDB0U3BIcHo3ZHROdlBCaENfUGNlM2xDTVkxelNEcXp1cWVFLUF1Mk1xVmozSEhFQ0lWRHVxLWlhREIzR01Ua1ZQOV9DclNJdmtCOHExUlc5dG1kRERvYVl4NzdZb0hSMGV5VV9NTHZlNFVtc2V1MktENndyZzFpalNlZzNTWXdPR0tmUUdVN29relQ?oc=5)
+
+Altri giorni, altre sortite per i nostri giovani in rampa di lancio.
+
+<!--EN-->
+
+A busy Friday for our talents seeking consistent playing time.
+
+**Mohamed Alì Zoma**
+Bad news for Nuremberg: the young winger leaves the pitch on a stretcher during the draw with Cottbus, an absence that will weigh on the German side's next matches. [source](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGpNT3hRaFhXa2JUMzFuWW9HaDQyWXRneGFlTjNVTzZwN3ZrdklDemg4bmJtN2FrQ0MzSmpHdVZyQkRnSC1XcWVfSU1LV3dLWjBQZ0pkNlptZjh5QWZ5VEhVaHlPVGVkOFpKSW5ZRzNvZ0d6amZOMzd3QWlwYXREVUR0Qk93RjRhNF9ZdXFETjBhdmZOYmRJ?oc=5)
+
+**Emanuele Rao and Tommaso Berti**
+Pisa-Cremonese raises questions about the starting lineup: Berti's deployment remains uncertain while Rao stays in the tactical mix for the coach. [source](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQU1JY0kzYkQ1WDU1WDlXSndMUmdmRHdyM0ZLdEE1cE1hbHpvdGdzWGF4YUxxSjRtdVVDT2gyMTlFWnBRUkpHUGJWR09waVVYcnJvMnB0YjFyMTZSWHBGYmg2NDd3QmdPc3lWbldGM3k5TVNHTU9vaFBIQ01qWDdQNjJjRERzeEFHd0NlTXZEYUVSNC1ob0t5aTlxOGpHMEdZ?oc=5)
+
+**Luigi Cherubini**
+Good news from Roma on loan: Cherubini finds the back of the net, proving he can make an impact when called upon. [source](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsUlFhckZqa1cyZkdRT2thSVkweGh3Q2VXZW1nak9nWTNMNktETDJEcTd5UlZteGZWTkZ6SWlZNUZhd08zcTRPb1ByS1hYbWp2VW55MkZuZ3p4el9aSFktZlZqamFzZ3Y5WFk1YllXcnl3TDF5VlNqOEdaWXNMM3c?oc=5)
+
+**Mancini and Under 21 selections**
+Caressa shines a spotlight on Cisse's omission from the squad: the debate centers on the coach's tactical reading and the emerging hierarchy in player development. [source](https://news.google.com/rss/articles/CBMimwFBVV95cUxOREh2eHlsVG5tQ3BYQjF5RDJ6aFFuMERVSlNiMnF1Tk5heGhCS2prRkJkcF83ZTNuRUVkVjZHUmpxMUNXR2EzR3pwVUx3eUFGeEpzSjhkSzdIUDB2ODBuTEFvRzk2RWMxd3JTLTNnejVqSEFQRXdMQm4tQ093NTQyZS1QM1pfYzRlZUJrbEl3UndXRXdYZ0Iyc0lFYw?oc=5)
+
+**Under 20 national team**
+Vagnini earns his call-up to the Under 20 national side, the result of growth nurtured in Futura's youth academy, a recognized talent factory. [source](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXdoQURWbEpDcDB0U3BIcHo3ZHROdlBCaENfUGNlM2xDTVkxelNEcXp1cWVFLUF1Mk1xVmozSEhFQ0lWRHVxLWlhREIzR01Ua1ZQOV9DclNJdmtCOHExUlc5dG1kRERvYVl4NzdZb0hSMGV5VV9NTHZlNFVtc2V1MktENndyZzFpalNlZzNTWXdPR0tmUUdVN29relQ?oc=5)
+
+Other days ahead, other outings for our rising young talents.

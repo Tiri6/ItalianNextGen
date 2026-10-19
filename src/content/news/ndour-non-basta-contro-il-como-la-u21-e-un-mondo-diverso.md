@@ -1,0 +1,23 @@
+---
+title: "Ndour non basta contro il Como: la U21 è un mondo diverso"
+titleEn: "Ndour struggles beyond U21 level as Como proves too much"
+excerpt: "Il centrocampista viola delude nella sconfitta della Fiorentina, incapace di garantire quella sostanza e interdizione attese quando il ritmo degli avversari aumenta."
+excerptEn: "The Fiorentina midfielder underwhelms in the defeat, unable to provide the defensive substance and pressing needed when Como's tempo rises."
+date: 2026-10-19
+publishedAt: 2026-10-19T10:40:00+02:00
+category: performance
+players: ["Cher Ndour"]
+competitions: ["euro-u21-2027"]
+source: "FiorentinaNews.com"
+sourceUrl: "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUjF2Qkh1ekY3aVJTWFp2ejlXcTlyUjhNS2ZfM0dXZFVxTDI0ek1KNTd4S2RlX1MxNmxDY0llYWMyY215UFBqT2s0bnFlQUhBQmZSeUZaSlU5YWY4LUdyMUlfQkg0Sll6c2RNYzZQQktDQ1ZhNkliZVdYY2NQVTNUWk9Hc1VWSEl1TkNqUktBWmZLelpxT2xiR24yNE43OHNJeDlqcGNwREN4LUpuU25mTDJvbzA0ZGR4dUIwc296emVsRzNQT3pTQ0txSlNzTXR1TERQcHBGVFVKS2ItMmhnT0hBV2NUTks2bVNBWDJzaURxX2ZYRVB4WTFXQ1hFRTJT?oc=5"
+---
+
+Cher Ndour ha iniziato bene, servendo un pallone interessante a Pedro Gonçalves che però ha trovato solo l'incespicare prima del tiro. Il problema emerge quando la partita si alza di tono. Davanti c'è già un'altra categoria rispetto alla Polonia U21, e il semplice sgambettare non basta più. Quello che dovrebbe essere il suo contributo principale—peso, sostanza, capacità di interdizione—si dissolve insieme ai compagni nei momenti in cui il Como accelera. La prestazione si chiude con un errore tecnico piuttosto grave, un liscio che fotografa bene la difficoltà del centrocampista nel reggere il confronto a questo livello.
+
+La vicenda di Ndour racchiude una verità comune ai giovani talenti: le buone prestazioni nelle nazionali giovanili non sono garanzia automatica di continuità quando il valore assoluto degli avversari sale in modo significativo. Le qualità atletiche e la vivacità tecnica rimangono, ma servono maggiore consapevolezza tattica e una concentrazione che qui è mancata. Per un progetto di sviluppo calcistico serio, questi passaggi rimangono fondamentali: il 2026 calcistico è ancora lontano, ma le basi si costruiscono adesso.
+
+<!--EN-->
+
+Cher Ndour began well, threading an intriguing pass to Pedro Gonçalves who could only stumble before shooting. The issue emerged when the match intensified. Facing a different caliber than Poland's U21, mere leg-breaker football no longer suffices. What should be his primary contribution—physical presence, tactical substance, defensive positioning—crumbles alongside his teammates when Como's rhythm accelerates. The display closes with a glaring technical mistake, a mishit that neatly captures the midfielder's struggle to meet this level of competition.
+
+Ndour's outing reveals a common truth among young talents: solid performances in youth national sides don't automatically guarantee continuity when opponents' absolute quality rises significantly. Athletic ability and technical flair remain intact, but tactical awareness and concentration were missing here. For serious player development, such transitions remain essential: the 2026 season still lies ahead, but the foundations are being laid now.
