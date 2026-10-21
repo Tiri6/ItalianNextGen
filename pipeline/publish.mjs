@@ -132,6 +132,12 @@ if (expired) console.log(`  ⌛ ${expired} candidate più vecchie di ${MAX_AGE_D
 const eligible = queue
   .filter(({ c }) => {
     if (!isFresh(c)) return false; // solo notizie di oggi o di ieri
+    // Data dichiarata dalla pagina della fonte: se più vecchia di 2 giorni, è una notizia riciclata
+    // (es. partita di due settimane fa ripubblicata dal feed). Se la data non si legge, decide il filtro sopra.
+    if (!c.isDigest && c.draft?._sourceDate) {
+      const ageDays = (Date.now() - Date.parse(c.draft._sourceDate)) / 86400000;
+      if (ageDays > 2) { console.log(`  ⤫ fonte di ${Math.round(ageDays)} giorni fa: ${String(c.title).slice(0, 60)}`); return false; }
+    }
     if (isStalePrematch(c)) { console.log(`  ⤫ pre-partita di ieri (partita già giocata): ${String(c.title).slice(0, 60)}`); return false; }
     const d = c.draft;
     if (!d || !d.bodyIt || d.bodyIt.trim().length < 40) return false; // mai senza testo

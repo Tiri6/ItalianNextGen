@@ -133,14 +133,32 @@ export async function resolveGoogleNews(url) {
 
 // Motivo dell'ultima lettura fallita (finisce nel log del job, utile per capire i problemi)
 export let lastSourceIssue = '';
+// Data di pubblicazione dichiarata dalla pagina della fonte (ISO), se leggibile.
+// Serve a bloccare le notizie vecchie che il feed ripresenta come nuove (es. partite di due settimane fa).
+export let lastSourceDate = '';
+export function extractPageDate(html = '') {
+  const patterns = [
+    /<meta[^>]+(?:property|name)=["'](?:article:published_time|og:published_time|pubdate|publish-date|date)["'][^>]*content=["']([^"']+)["']/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:article:published_time|og:published_time|pubdate|publish-date|date)["']/i,
+    /"datePublished"\s*:\s*"([^"]+)"/i,
+    /<time[^>]+datetime=["']([^"']+)["']/i,
+  ];
+  for (const re of patterns) {
+    const v = html.match(re)?.[1];
+    if (v && !Number.isNaN(Date.parse(v))) return new Date(Date.parse(v)).toISOString();
+  }
+  return '';
+}
 
 async function fetchSource(url, candidate = {}) {
   lastSourceIssue = '';
+  lastSourceDate = '';
   try {
     const real = await resolveGoogleNews(url);
     if (!real) { lastSourceIssue = 'link Google News non decodificato'; return null; }
     const page = await fetchUrl(real);
     if (!page) { lastSourceIssue = `pagina editore non raggiungibile (${new URL(real).hostname})`; return null; }
+    lastSourceDate = extractPageDate(page.html);
 
     // Preferisci il corpo dell'articolo (<article> o i paragrafi <p>) ai menu del sito
     const art = page.html.match(/<article[\s\S]*?<\/article>/i)?.[0];
@@ -164,6 +182,7 @@ async function fetchSource(url, candidate = {}) {
  */
 export async function writeDraft(candidate, apiKey) {
   const sourceText = await fetchSource(candidate.link, candidate);
+  const sourceDate = lastSourceDate;
 
   const context = sourceText
     ? `TESTO DELLA FONTE (usa SOLO i fatti presenti qui):\n${sourceText}`
@@ -218,6 +237,7 @@ Rispondi SOLO con JSON valido:
   try {
     const draft = JSON.parse(jsonMatch[0]);
     draft._fromSource = Boolean(sourceText);
+    draft._sourceDate = sourceDate || null;
     return draft;
   } catch {
     return null;
