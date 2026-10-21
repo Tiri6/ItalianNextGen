@@ -1,5 +1,6 @@
 // PULIZIA FONTI — applica data/sources.json a ciò che è già nel repository.
 //   • articoli pubblicati con fonte BLOCCATA → pipeline/removed-sources/ (recuperabili) + immagine social
+//   • articoli di ALTRO SPORT (titolo: enduro, short-track, sci…) → come sopra, qualunque sia la fonte
 //   • candidate in coda con fonte bloccata   → pipeline/rejected/
 // Uso: node pipeline/pulisci-fonti.mjs [--dry]   (--dry = solo elenco, non sposta nulla)
 // Gira anche nei workflow "Redazione del mattino" e "Pubblica", quindi resta pulito da solo.
@@ -7,6 +8,7 @@ import { readdir, readFile, rename, mkdir, access } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { sourceClass } from './sources.mjs';
+import { isOtherSport } from './agents/validator.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const NEWS = path.join(ROOT, 'src', 'content', 'news');
@@ -30,8 +32,11 @@ const bySource = {};
 for (const f of (await readdir(NEWS).catch(() => [])).filter((x) => x.endsWith('.md'))) {
   const fm = (await readFile(path.join(NEWS, f), 'utf8')).match(/^---\n([\s\S]*?)\n---/)?.[1] ?? '';
   const src = fm.match(/^source:\s*"?(.*?)"?\s*$/m)?.[1]?.trim();
-  if (!src || sourceClass(src) !== 'blocked') continue;
-  bySource[src] = (bySource[src] ?? 0) + 1;
+  // Argomento: anche gli articoli di altri sport (enduro, short-track…) vanno via, qualunque sia la fonte
+  const title = (fm.match(/^title:\s*"(.*)"/m)?.[1] ?? '').replace(/\\"/g, '"');
+  const otherSport = isOtherSport(title);
+  if (!otherSport && (!src || sourceClass(src) !== 'blocked')) continue;
+  bySource[otherSport ? `[altro sport] ${src ?? ''}` : src] = (bySource[otherSport ? `[altro sport] ${src ?? ''}` : src] ?? 0) + 1;
   if (DRY) { arts++; continue; }
   if (await move(path.join(NEWS, f), REMOVED)) {
     arts++;

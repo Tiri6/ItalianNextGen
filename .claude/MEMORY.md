@@ -41,6 +41,8 @@
 ## Stato attuale e in sospeso
 - Sito a regime (~500 articoli). GA4 attivo; AdSense configurato (verificare approvazione).
 - In corso: pubblicazione automatica Instagram via API Instagram di Meta con Instagram Login (senza Pagina Facebook). Make.com era l'alternativa, rimasta bloccata.
+- Da decidere: data dell'evento. Il filtro su "oggi/ieri" usa la data del feed Google News, che può riportare vecchie partite come nuove (caso Italia U21 - Polonia, 21 ott 2026). Serve estrarre la data della partita dalla fonte prima di pubblicare.
+- Da verificare: "Zenica non si dimentica. Ma l'obiettivo 2030 parte adesso" (nessun segnale calcistico nel titolo, nessun giocatore seguito): tenuto online, decide Marco.
 - Da fare: caps nazionali per i giocatori rimanenti; verificare albo d'oro competizioni minori (confidenza media).
 
 ## Come restare allineati (chat ↔ codice)
@@ -49,6 +51,7 @@
 - Mai lavorare su una copia locale vecchia: prima `git pull` (il sync del Mac in passato è rimasto indietro di settimane).
 
 ## Registro decisioni (più recenti in alto)
+- 2026-10-21 — Filtro di ARGOMENTO nel validatore (`pipeline/agents/validator.mjs`): altri sport esclusi anche da fonti approvate (enduro, short-track, mountain bike, sci, federazione ciclistica…); senza giocatori seguiti serve un segnale calcistico (`isCalcioText`). `pulisci-fonti.mjs` sposta anche gli articoli di altro sport già pubblicati. Rimossi short-track, enduro e Italia U21 (quest'ultima: partita di due settimane fa, ripubblicata come nuova; la data di pubblicazione è quella del feed, non quella dell'evento → da risolvere, vedi "In sospeso").
 - 2026-10-13 — Unica fonte di verità = questo file. Eliminata attività doppione; redazione del mattino passata a Sonnet; aggiunto controllo settimanale.
 - 2026-10-06 — Solo notizie di oggi/ieri; solo calcio maschile.
 - 2026-09-24 — Repo rinominato in ItalianNextGen; classificazione fonti approvata.

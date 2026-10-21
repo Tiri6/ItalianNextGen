@@ -18,7 +18,15 @@ const OFFTOPIC_KW = /galleria|mostra|museo|pittore|artist|cantante|musica|concer
 
 // ALTRI SPORT: SOLO calcio. Questi termini fanno scartare la notizia a prescindere,
 // anche se contiene "azzurri" o "nazionale" (che valgono per pallavolo, basket, ecc.).
-const OTHER_SPORTS_KW = /volley|pallavolo|basket|pallacanestro|nba|tennis|atp|wta|rugby|nuoto|pallanuoto|atletica|ciclismo|ciclista|giro d'italia|motogp|moto ?gp|formula ?1|\bf1\b|gran premio|scherma|ginnastic|pugilato|\bboxe\b|golf|vela|canottaggio|\bsci\b|snowboard|hockey|softball|baseball|cricket|padel|beach volley|waterpolo|maratona|kick ?boxing|karate|judo|taekwondo|arti marziali|\bmma\b|\blotta\b|pesistica|sollevamento pesi|triathlon|equitazione|biliardo|bocce|tiro a volo|tiro con l'arco|canoa|pattinaggio|curling|bowling|e-?sport|futsal|calcio a 5|calcio a cinque|beach soccer/i;
+const OTHER_SPORTS_KW = /volley|pallavolo|basket|pallacanestro|nba|tennis|atp|wta|rugby|nuoto|pallanuoto|atletica|ciclismo|ciclista|giro d'italia|motogp|moto ?gp|formula ?1|\bf1\b|gran premio|scherma|ginnastic|pugilato|\bboxe\b|golf|\bvela\b|canottaggio|\bsci\b|snowboard|hockey|softball|baseball|cricket|padel|beach volley|waterpolo|maratona|kick ?boxing|karate|judo|taekwondo|arti marziali|\bmma\b|\blotta\b|pesistica|sollevamento pesi|triathlon|equitazione|biliardo|bocce|tiro a volo|tiro con l'arco|canoa|pattinaggio|curling|bowling|e-?sport|futsal|calcio a 5|calcio a cinque|beach soccer|enduro|mountain ?bike|\bmtb\b|short[- ]?track|speed ?skating|pattinaggio di velocit|sci alpino|sci di fondo|biathlon|slittino|skeleton|salto con gli sci|federazione ciclistica|federazione (italiana )?(sci|sport invernali|atletica|nuoto|ginnastica|scherma|tiro|motociclismo|canottaggio|pesi)|mondiali di (sci|ciclismo|atletica|nuoto|canottaggio|enduro|motociclismo)|motocross|supercross|rally\b|\bwrc\b/i;
+
+// CALCIO: una notizia senza giocatori della watchlist deve contenere almeno un segnale
+// esplicitamente calcistico. Senza, sono sport non calcistici o pezzi generici.
+const CALCIO_SIGNAL = /calcio|calciator|calcistic|serie [abc]\b|under ?\d{2}|\bu\d{2}\b|primavera|figc|nazionale di calcio|portier|difensor|centrocampist|attaccant|trequartist|terzin|allenator|\bmister\b|coppa italia|champions|europa league|conference league|euro ?20\d\d|scudetto|\bgol\b|\bgoal\b|rigore|derby|campionato|stadio|club|squadra|\bazzurrin|next ?gen|serie a\b|\bbomber\b|\bcapocannoniere\b|segna|tripletta|doppietta|dilaga|pareggi|amichevol|convoca|esordi|sorteggi|qualificazion|mondiali? u\d{2}|europeo|\bitalia\b|figc|\bct\b|mancini|maldini|\bpareggio\b|\bvittoria\b|\bsconfitta\b/i;
+const CLUB_SIGNAL = /\b(napoli|inter|milan|juventus|juve|roma|lazio|atalanta|fiorentina|torino|bologna|genoa|sampdoria|frosinone|parma|como|cagliari|lecce|udinese|verona|hellas|empoli|monza|sassuolo|venezia|pisa|cremonese|palermo|bari|spezia|salernitana|catanzaro|cesena|modena|reggiana|sudtirol|südtirol|carrarese|mantova|padova|avellino|benevento|pescara|virtus entella|juve stabia|arezzo|salisburgo|benfica|psg|barcellona|real madrid|manchester|liverpool|chelsea|arsenal|bayern|borussia)\b/i;
+// Vero se il titolo ha un segnale di calcio (parole o club di Serie A/B/C e top europee).
+export const isOtherSport = (t) => OTHER_SPORTS_KW.test(t);
+export const isCalcioText = (t) => CALCIO_SIGNAL.test(t) || CLUB_SIGNAL.test(t);
 
 // NAZIONALI ITALIANE (maggiore + giovanili): riconosce che la notizia parla di
 // una selezione azzurra, anche se non cita un giocatore della watchlist.
@@ -45,6 +53,7 @@ export function editorialReject(title, hasPlayers = false) {
   if (WOMEN_KW.test(t)) return 'calcio femminile';
   if (OTHER_SPORTS_KW.test(t)) return 'altro sport';
   if (OFFTOPIC_KW.test(t)) return 'fuori tema';
+  if (!hasPlayers && !isCalcioText(t)) return 'non calcio';
   if (!hasPlayers) {
     const naz = NAZIONALE_CTX.test(t) && FOOTBALL_CTX.test(t) && !(CLUB_RE.test(t) && !STRONG_NAZ.test(t));
     if (!(naz && NEWS_HOOK.test(t))) return 'né talenti seguiti né nazionale';
