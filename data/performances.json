@@ -2,6 +2,34 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-20",
+      "player": "Francesco Pio Esposito",
+      "club": "",
+      "opponent": "Bologna",
+      "competition": "",
+      "result": "",
+      "minutes": 58,
+      "rating": 6,
+      "note": "Sostituito al 58°, ha faticato a incidere sulla gara mantenendo una prestazione mediocre senza lampi particolari",
+      "noteEn": "Substituted at 58', struggled to impact the match maintaining a mediocre performance without particular flashes",
+      "source": "Goal.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcGIzdlBlWmxqY0FFdU1udTByTjFzZ01xeWQ3Szg0VnFMWTFFTmF0YWNva1FEUnVXcmM2TU9uclE0TFpfcWdoWXhJazNLMGpac2hGeE1pTHUyWlIxM1lzYjFjUnAyVmJ3WG0tYUVzM1Q5TmZ4NlF4UFpsNktlRFczTzZTUkFBVS1KLUJyM0s0Y3NDTjBkZHZkRUtNNlNDb1I1WXBmZVBfNnNZNXJyOEl3MFM3eHhoLTBWNWctU25NbGd4RDFWNUQ0RzFDNjA1ZUNiQUtPMzhVQlFTcnl1Q2RwRg?oc=5"
+    },
+    {
+      "date": "2026-10-20",
+      "player": "Christian Dottori",
+      "club": "Perugia",
+      "opponent": "Campobasso",
+      "competition": "campionato",
+      "result": "",
+      "minutes": 81,
+      "goals": 1,
+      "note": "Ha segnato entrando a gara inoltrata, intercettando lo spazio tra le linee avversarie nella vittoria dei biancorossi.",
+      "noteEn": "Scored coming on late in the game, intercepting space between the opposing lines in the biancorossi's victory.",
+      "source": "MondoPrimavera",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJxS3djWXhKWFpwYkJJSU1sdG4xeVpHZ1k0c3FVMlN3YlB6aTdOdnB4cUZBQXVFNGZGaGxoX3ltWGppd0ZIaVhTWHVTWUJidkdHY2tvQ0tlOWVzbzdTVUpCcTRsM2RobGROWjYtWGpGMGdWdEF6VWt0eXU5T3lDckJuaWtNV3d4NXRpUnVRTTIySktnOUFTSGN3?oc=5"
+    },
+    {
       "date": "2026-10-19",
       "player": "Mattia Liberali",
       "club": "Como",
@@ -223,31 +251,6 @@
       "noteEn": "Lanciato dal ct Mancini nel match contro il Belgio come parte del rinnovamento della nazionale.",
       "source": "Mowmag.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ3NHWEtPa201N1I5eWMzN0VxQlJFNU5Ua29ScEdrbjlNVUtzTkJzcFZTTEFya0NCY3VnaEwwZW5jeVF1aGVrNWFzV3o5Q2d5SlRzb3BabXFfakx4THMzV3dSOWJZQS03RklIZ3pEaGJOOU03cmg0T2lJMHVtZlRtNllXZ0M1NXhwcWxieFBYZDZjRWRfSU05U0YxSzRzTF9YX3VtZ080U002Q1VwRjZpSHhNVXhfNE5uV0ROVWJ5WTdGYXdXdzN6U0gxSUZhQ29id2hGUDZITzF4UUI2a2Z6TjZhM1RUX3BCWUxKemJyQWRkUTM1N2E3bWxxdHNQNklGakQyVkp0aFoxbkNMZmx1MlpnalpoQWRuWG5SMWE3ZnlXdWh1RWFnRnp3?oc=5"
-    },
-    {
-      "date": "2026-09-27",
-      "player": "Samuele Inacio",
-      "club": "",
-      "opponent": "Belgio",
-      "competition": "",
-      "result": "",
-      "note": "Lanciato dal ct Mancini nel match contro il Belgio come parte del rinnovamento della nazionale.",
-      "noteEn": "Lanciato dal ct Mancini nel match contro il Belgio come parte del rinnovamento della nazionale.",
-      "source": "Mowmag.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ3NHWEtPa201N1I5eWMzN0VxQlJFNU5Ua29ScEdrbjlNVUtzTkJzcFZTTEFya0NCY3VnaEwwZW5jeVF1aGVrNWFzV3o5Q2d5SlRzb3BabXFfakx4THMzV3dSOWJZQS03RklIZ3pEaGJOOU03cmg0T2lJMHVtZlRtNllXZ0M1NXhwcWxieFBYZDZjRWRfSU05U0YxSzRzTF9YX3VtZ080U002Q1VwRjZpSHhNVXhfNE5uV0ROVWJ5WTdGYXdXdzN6U0gxSUZhQ29id2hGUDZITzF4UUI2a2Z6TjZhM1RUX3BCWUxKemJyQWRkUTM1N2E3bWxxdHNQNklGakQyVkp0aFoxbkNMZmx1MlpnalpoQWRuWG5SMWE3ZnlXdWh1RWFnRnp3?oc=5"
-    },
-    {
-      "date": "2026-09-24",
-      "player": "Dominic Vavassori",
-      "club": "Palermo",
-      "opponent": "Padova",
-      "competition": "Serie B",
-      "result": "",
-      "goals": 2,
-      "note": "Autore di una doppietta decisiva che ha guidato la rimonta del Palermo",
-      "noteEn": "Scored a decisive brace that led Palermo's comeback",
-      "source": "L'Italiano - Quotidiano Nazionale Indipendente",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTFxTGNnbi1TN3YyZ2QtYnhwN2dZUmE0dWdJODVnUE9CcHdCUl9xMV9NSlFValpFQ0FJMkt4U3d1cEx0d2c1Z0YwSHEwVzI3Mkg1QWlzTTBIdm5WNWxhZnp0MWVVRUlBRW9rTjlzN0JCQTRFSzAzYmVxMGhfQWJ0b09Rdk9WaDYwS0JrUzBTRHhUNldXeXZMZkZmQ0lsdWJxNU56b0N0YlFpeWlZSVVYc2U3Q01GRzFqVjJJaFZWaTFET1pZSURXSjJtdlpOdw?oc=5"
     }
   ]
 }
