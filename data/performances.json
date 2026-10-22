@@ -2,6 +2,44 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-21",
+      "player": "Eddy Kouadio",
+      "club": "Monza",
+      "opponent": "Cagliari",
+      "competition": "Serie A",
+      "result": "4-0",
+      "goals": 1,
+      "note": "Ha sbloccato il match con una cavalcata convincente, sottolineando la crescita nel torneo.",
+      "noteEn": "Ha sbloccato il match con una cavalcata convincente, sottolineando la crescita nel torneo.",
+      "source": "LaViola.it",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
+    },
+    {
+      "date": "2026-10-21",
+      "player": "Tommaso Rubino",
+      "club": "Carrarese",
+      "opponent": "Modena",
+      "competition": "Serie B",
+      "result": "",
+      "goals": 1,
+      "note": "Ha ripetuto il gol della settimana precedente con una serpentina che ha significato il raddoppio.",
+      "noteEn": "Ha ripetuto il gol della settimana precedente con una serpentina che ha significato il raddoppio.",
+      "source": "LaViola.it",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
+    },
+    {
+      "date": "2026-10-21",
+      "player": "Tommaso Martinelli",
+      "club": "Avellino",
+      "opponent": "Cesena",
+      "competition": "Serie B",
+      "result": "1-1",
+      "note": "Si è distinto tra i pali sfoggiando parate decisive nonostante la pressione offensiva avversaria.",
+      "noteEn": "Si è distinto tra i pali sfoggiando parate decisive nonostante la pressione offensiva avversaria.",
+      "source": "LaViola.it",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
+    },
+    {
       "date": "2026-10-20",
       "player": "Francesco Pio Esposito",
       "club": "",
@@ -215,42 +253,6 @@
       "noteEn": "Stood out personally in the goal fest, confirming individual progress",
       "source": "Tutto Avellino",
       "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbldPcFlMSFQ4N1o5QzJkRmZIMDZtano1Nm5BXzlYOXVYbnRQMFBSMmFXelV1SDN1c0VwdnVSajVWc1k2b1Zqd191V2NmN2pKS3FGbTV0eFBqU0VRS3ZvS2lMcl9CQXZOU3l3UTdibW8xejU2dm5mY0ZOc3I0THZaN0V6Y2RaTGl4ZlVXX2hCWmV5NHpCSXZrQV9YYk82QQ?oc=5"
-    },
-    {
-      "date": "2026-10-01",
-      "player": "Leonardo Colombo",
-      "club": "Parma",
-      "opponent": "Turchia",
-      "competition": "Italia Under 17",
-      "result": "3-3",
-      "note": "Titolare, scelta del commissario tecnico, prova incoraggiante nel suo percorso di sviluppo.",
-      "noteEn": "Starter, chosen by the technical commissioner, encouraging performance in his development path.",
-      "source": "Parma Live",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlZlMFZsY0szLU5GTXZVeGp4aDBJWDJTNDBoUDZsbzdvSm5ZYjhFTUplaGY0eWRhM0cyR000QmQxTHZiRkFkV2ZTemw4UFFXTGRlcEg1WlNNTGVQNG5SemlWWTc0RGpjU2psNUxPYS1VYWI3MDNVMVB5c29KeGVOYzJHbjVKbVl4cTJoVFFQa21fTVcxV1l1Ty1OUmQteXFTUHl1QnkyZEJDWTZEZXpDUG53ZzMtS2wtSXhPRjVmTl9wUnM1?oc=5"
-    },
-    {
-      "date": "2026-09-27",
-      "player": "Issa Doumbia",
-      "club": "",
-      "opponent": "Belgio",
-      "competition": "",
-      "result": "",
-      "note": "Lanciato dal ct Mancini nel match contro il Belgio come parte del rinnovamento della nazionale.",
-      "noteEn": "Lanciato dal ct Mancini nel match contro il Belgio come parte del rinnovamento della nazionale.",
-      "source": "Mowmag.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ3NHWEtPa201N1I5eWMzN0VxQlJFNU5Ua29ScEdrbjlNVUtzTkJzcFZTTEFya0NCY3VnaEwwZW5jeVF1aGVrNWFzV3o5Q2d5SlRzb3BabXFfakx4THMzV3dSOWJZQS03RklIZ3pEaGJOOU03cmg0T2lJMHVtZlRtNllXZ0M1NXhwcWxieFBYZDZjRWRfSU05U0YxSzRzTF9YX3VtZ080U002Q1VwRjZpSHhNVXhfNE5uV0ROVWJ5WTdGYXdXdzN6U0gxSUZhQ29id2hGUDZITzF4UUI2a2Z6TjZhM1RUX3BCWUxKemJyQWRkUTM1N2E3bWxxdHNQNklGakQyVkp0aFoxbkNMZmx1MlpnalpoQWRuWG5SMWE3ZnlXdWh1RWFnRnp3?oc=5"
-    },
-    {
-      "date": "2026-09-27",
-      "player": "Mohamed Alì Zoma",
-      "club": "",
-      "opponent": "Belgio",
-      "competition": "",
-      "result": "",
-      "note": "Lanciato dal ct Mancini nel match contro il Belgio come parte del rinnovamento della nazionale.",
-      "noteEn": "Lanciato dal ct Mancini nel match contro il Belgio come parte del rinnovamento della nazionale.",
-      "source": "Mowmag.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ3NHWEtPa201N1I5eWMzN0VxQlJFNU5Ua29ScEdrbjlNVUtzTkJzcFZTTEFya0NCY3VnaEwwZW5jeVF1aGVrNWFzV3o5Q2d5SlRzb3BabXFfakx4THMzV3dSOWJZQS03RklIZ3pEaGJOOU03cmg0T2lJMHVtZlRtNllXZ0M1NXhwcWxieFBYZDZjRWRfSU05U0YxSzRzTF9YX3VtZ080U002Q1VwRjZpSHhNVXhfNE5uV0ROVWJ5WTdGYXdXdzN6U0gxSUZhQ29id2hGUDZITzF4UUI2a2Z6TjZhM1RUX3BCWUxKemJyQWRkUTM1N2E3bWxxdHNQNklGakQyVkp0aFoxbkNMZmx1MlpnalpoQWRuWG5SMWE3ZnlXdWh1RWFnRnp3?oc=5"
     }
   ]
 }

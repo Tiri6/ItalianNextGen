@@ -10,5 +10,15 @@
   "players": [],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Raduno azzurro al Passo dello Stelvio: convocati senior e under 23",
+    "titleEn": "Italian squad gathers at Passo dello Stelvio: senior and U23 selections",
+    "excerpt": "La nazionale italiana si riunisce sulle piste impegnative dello Stelvio dal 26 al 30 ottobre per affinare la preparazione in vista della Coppa del Mondo invernale.",
+    "excerptEn": "The Italian national team gathers on the demanding slopes of Passo dello Stelvio from October 26-30 to refine preparations ahead of the winter World Cup season.",
+    "bodyIt": "La federazione ha reso noti i convocati per il raduno che si svolgerà sulle piste del Passo dello Stelvio. L'appuntamento, fissato tra il 26 e il 30 ottobre, coinvolgerà sia i veterani della squadra senior che i giovani dell'under 23, con l'obiettivo di testare il livello atletico e tecnico in condizioni di gara impegnative. La scelta della location non è casuale: le prove sullo Stelvio rappresentano un banco di prova severo per preparare gli atleti alle sfide della stagione agonistica.\n\nIl direttore tecnico ha selezionato quindici elementi tra cui figurano Giulia Murada, Noemi Junod, Silvia Boscacci, Melissa Bertolina, Lisa Moraschini, Katia Mascherona, Michele Boscacci, Lorenzo Milesi, Matteo Sostizzo, Luca Tomasoni, Carlo Mazzoleni, Luca Curioni, Hermann Debertolis, Nicolò Canclini ed Erik Canovi. La formazione under 23 sarà diretta da Fabio Meraldi con il supporto dello staff composto da Damiano Lenzi, Mirko Bertolina e Alessio Camilli.\n\nIl raduno anticipa l'inizio della Coppa del Mondo, che prenderà il via il 9 e 10 gennaio a Bormio. In questa fase preparatoria, l'accento ricade sulla coesione tra atleti e allenatori, cruciale per affrontare una stagione ricca di competizioni e consolidare il posizionamento della squadra azzurra nel panorama internazionale.",
+    "bodyEn": "The federation has announced the selections for the gathering taking place on the slopes of Passo dello Stelvio. The appointment, scheduled between October 26-30, will involve both senior squad veterans and under-23 prospects, with the aim of testing athletic and technical levels under demanding race conditions. The choice of location is deliberate: Stelvio's terrain represents a rigorous proving ground for preparing athletes to face the challenges of the competitive season.\n\nThe technical director has selected fifteen athletes including Giulia Murada, Noemi Junod, Silvia Boscacci, Melissa Bertolina, Lisa Moraschini, Katia Mascherona, Michele Boscacci, Lorenzo Milesi, Matteo Sostizzo, Luca Tomasoni, Carlo Mazzoleni, Luca Curioni, Hermann Debertolis, Nicolò Canclini and Erik Canovi. The under-23 squad will be directed by Fabio Meraldi with support from a coaching staff comprising Damiano Lenzi, Mirko Bertolina and Alessio Camilli.\n\nThe gathering precedes the World Cup season opener, set for January 9-10 in Bormio. In this preparatory phase, focus falls on cohesion between athletes and coaches, which is crucial for facing a season rich in competitions and strengthening Italy's standing in the international arena.",
+    "_fromSource": true,
+    "_sourceDate": "2026-10-20T14:41:54.000Z"
+  }
 }
