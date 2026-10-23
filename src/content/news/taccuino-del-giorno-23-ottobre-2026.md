@@ -1,0 +1,50 @@
+---
+title: "Taccuino del giorno · 23 ottobre 2026"
+titleEn: "Daily Notebook · October 23, 2026"
+excerpt: "Giovani talenti al centro dell'attenzione tra mercato, campo e scelte tattiche. Ecco cosa succede oggi nel panorama dei nostri prospects."
+excerptEn: "Young talents in the spotlight between the transfer market, the pitch and tactical choices. Here's what's happening today in our prospects' landscape."
+date: 2026-10-23
+publishedAt: 2026-10-23T19:20:00+02:00
+featured: true
+category: taccuino
+players: ["Federico Steffanoni", "Alessandro Romano", "Antonio Vergara", "Gabriele Calvani"]
+competitions: []
+source: "Taccuino da 5 fonti"
+sourceUrl: ""
+---
+
+**Federico Steffanoni**
+L'Atalanta guarda alla propria U23 per possibili rinforzi in mediana: con Steffanoni e Levak, il centrocampo bergamasco potrebbe farsi ancora più competitivo nella seconda parte di stagione. [fonte](https://news.google.com/rss/articles/CBMitgFBVV95cUxBQ0F2TEpwdFNpWWdSbkhPa3R6eFpkRzJHMFRPYnN1U3JOck90TXFfRWNZMHNyQzQ5MTIzUHBrLVlMVFlORTR6QU11ck54V3FsUmY2SlZ1YlNsUjlpYWtTdlZWQ21UVHRQQUdfakZfWFV6NzZ5Z0pQa2RjLXQzdW90dk1DS3p4Zmk4WnBiWW1uRmtDN2p6UzNYc0VNdzY3dFJuQXRWMXplbDZweXlGZHNFQXNtQQ?oc=5)
+
+**Zona playoff Atalanta U23**
+Levak e Steffanoni rappresentano il fulcro del progetto della Dea Primavera: con questi due elementi, l'obiettivo playoff diventa concreto e alla portata. [fonte](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnBhR3BUcjJTNmdiTGRWMjl5WDg2QTNRQWlBM0hib2xZaDViS1dkd1VJYXdlYlFVWU5IeFU3XzNTS3RCM3dDdFNUZTFSR1dPOTlkU3JQWUpBX2Jsc0d3MVFaY1RHeUFuNVdhRjVXLWx3OEpJZ0tWNm5HSkdoVkhJLThJUUJrT2Y3TlUyeTJlMWU0cDRxMjVGaXkyMnJYbGwtZnhZaFlET01YVEZESEx4NVVPZHI?oc=5)
+
+**Alessandro Romano**
+Romano torna al confronto diretto con il Bologna, la squadra che l'aveva cercato durante l'estate: una sfida che avrà gusto particolare per il giovane difensore del Cagliari. [fonte](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUGhyOVItTUpveldaUkpLUVpLcWhWQmh6WDJsLVBTbVdNSThtTXh0ODU0clo1MThKVVFCdi1oMVlHLU9NQmlyXzdfR0Q4bFdOY1ZIUmt6LUs3ZWg3TDJXbm40Wk42SWl4TmlQdGMyajBRYnQxa1hXbmRRdmZfU3FDWk9xRmhMR2Zmc0dTTWZ2Y1VsVzk2QzBOSkhiRW5oZ3RsT0JEN3VqS3lsUmszR0NJaUJHRmpBNjJKQ0Rqay1SV3FYZk5ZZEgwY2VycDJIWVNOWEtIOERB0gHbAUFVX3lxTE5UTmpuNVZ1SG1scDY3Wkh1MEp2QWhXLWEtQmxWUWhjT1VSTlg5ODBTQ096dngwU0tWS1hWN2ZLRmluNnFfUE84d2dwQkpMdlprRUl4YTBMN0dZQVVWZUlFcjA2VHFFQUxETG42YVNiRlVyNWY4YlJuTUFrOWVZTnFLanpjd0N3NWdrUEQzbEVzQ0dZcFZYb0Jubk4xVUR0bG1pWDVjNWs4WEpqMy1WZ2s2RXRxZGI3Wkx0dmYtMGlzTW9hNmFIN3NSY0JYNTF6Y3pGTC13YlhXR2tNSQ?oc=5)
+
+**Antonio Vergara**
+Napoli-Roma vede Badiashile confermato in difesa: per Vergara si prospetta la panchina, almeno per il match di domani. [fonte](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlEzS2pxQzRHV0UxZVdlRmRVNGtwY3lPb2p3MWVraGFQMDJGUFpvVzNqVHJTQks0MGxDY3lRNlVld1hha2lqN2hYallsc3JlMHpFQkVwS1AyWFpDNEVuVzFhTnF4WEJtUjFaUkhiODV1YzFhRm9GRFMzc0k1QUoxVVYxZGVjeGRSRkRiSC1RUjlLUQ?oc=5)
+
+**Gabriele Calvani**
+Cambio di agente all'orizzonte per il centrale del Napoli: una mossa che potrebbe influenzare gli sviluppi della carriera del giovane difensore. [fonte](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0ZwclNUTWp6dmJlb2NYNllaUm1pZGZadDVLc2kxMUlxNnVMblI1U0p4ZG1KeDJnU1p5NjVXQ2pFYWFHZ3p2Wm5hSVZrRmpSUm1KMW0tcjlUN3lJVjEwa3k4bzZqZWhOMzRiUnA1dHpTNjhrR29oS0dpREwyUjM2YnBsX293OGxXTjZILVhUSlJWcUV1R1BWVDRscHB1dmNJcDhpMmV5d3ByQVJQalBXM0xDcE9sbmtNcTJzSWVHeXBuekFPODJ0N3U3ZF9xeUdlOEE?oc=5)
+
+Un giovedì ricco di movimenti, dal campo alle dinamiche di mercato: la Next Gen italiana continua a farsi notare.
+
+<!--EN-->
+
+**Federico Steffanoni**
+Atalanta is looking to its U23 squad for possible midfield reinforcements: with Steffanoni and Levak, the Bergamo midfield could become even more competitive in the second half of the season. [source](https://news.google.com/rss/articles/CBMitgFBVV95cUxBQ0F2TEpwdFNpWWdSbkhPa3R6eFpkRzJHMFRPYnN1U3JOck90TXFfRWNZMHNyQzQ5MTIzUHBrLVlMVFlORTR6QU11ck54V3FsUmY2SlZ1YlNsUjlpYWtTdlZWQ21UVHRQQUdfakZfWFV6NzZ5Z0pQa2RjLXQzdW90dk1DS3p4Zmk4WnBiWW1uRmtDN2p6UzNYc0VNdzY3dFJuQXRWMXplbDZweXlGZHNFQXNtQQ?oc=5)
+
+**Atalanta U23 playoff zone**
+Levak and Steffanoni are the backbone of Dea's youth project: with these two players, the playoff objective becomes concrete and achievable. [source](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnBhR3BUcjJTNmdiTGRWMjl5WDg2QTNRQWlBM0hib2xZaDViS1dkd1VJYXdlYlFVWU5IeFU3XzNTS3RCM3dDdFNUZTFSR1dPOTlkU3JQWUpBX2Jsc0d3MVFaY1RHeUFuNVdhRjVXLWx3OEpJZ0tWNm5HSkdoVkhJLThJUUJrT2Y3TlUyeTJlMWU0cDRxMjVGaXkyMnJYbGwtZnhZaFlET01YVEZESEx4NVVPZHI?oc=5)
+
+**Alessandro Romano**
+Romano faces Bologna in direct confrontation, the club that had pursued him during the summer: a clash with particular flavor for the young Cagliari defender. [source](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUGhyOVItTUpveldaUkpLUVpLcWhWQmh6WDJsLVBTbVdNSThtTXh0ODU0clo1MThKVVFCdi1oMVlHLU9NQmlyXzdfR0Q4bFdOY1ZIUmt6LUs3ZWg3TDJXbm40Wk42SWl4TmlQdGMyajBRYnQxa1hXbmRRdmZfU3FDWk9xRmhMR2Zmc0dTTWZ2Y1VsVzk2QzBOSkhiRW5oZ3RsT0JEN3VqS3lsUmszR0NJaUJHRmpBNjJKQ0Rqay1SV3FYZk5ZZEgwY2VycDJIWVNOWEtIOERB0gHbAUFVX3lxTE5UTmpuNVZ1SG1scDY3Wkh1MEp2QWhXLWEtQmxWUWhjT1VSTlg5ODBTQ096dngwU0tWS1hWN2ZLRmluNnFfUE84d2dwQkpMdlprRUl4YTBMN0dZQVVWZUlFcjA2VHFFQUxETG42YVNiRlVyNWY4YlJuTUFrOWVZTnFLanpjd0N3NWdrUEQzbEVzQ0dZcFZYb0Jubk4xVUR0bG1pWDVjNWs4WEpqMy1WZ2s2RXRxZGI3Wkx0dmYtMGlzTW9hNmFIN3NSY0JYNTF6Y3pGTC13YlhXR2tNSQ?oc=5)
+
+**Antonio Vergara**
+Napoli-Roma sees Badiashile confirmed in defense: for Vergara, the bench looms for tomorrow's match. [source](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlEzS2pxQzRHV0UxZVdlRmRVNGtwY3lPb2p3MWVraGFQMDJGUFpvVzNqVHJTQks0MGxDY3lRNlVld1hha2lqN2hYallsc3JlMHpFQkVwS1AyWFpDNEVuVzFhTnF4WEJtUjFaUkhiODV1YzFhRm9GRFMzc0k1QUoxVVYxZGVjeGRSRkRiSC1RUjlLUQ?oc=5)
+
+**Gabriele Calvani**
+Agent change on the horizon for Napoli's center-back: a move that could influence the trajectory of the young defender's career. [source](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0ZwclNUTWp6dmJlb2NYNllaUm1pZGZadDVLc2kxMUlxNnVMblI1U0p4ZG1KeDJnU1p5NjVXQ2pFYWFHZ3p2Wm5hSVZrRmpSUm1KMW0tcjlUN3lJVjEwa3k4bzZqZWhOMzRiUnA1dHpTNjhrR29oS0dpREwyUjM2YnBsX293OGxXTjZILVhUSlJWcUV1R1BWVDRscHB1dmNJcDhpMmV5d3ByQVJQalBXM0xDcE9sbmtNcTJzSWVHeXBuekFPODJ0N3U3ZF9xeUdlOEE?oc=5)
+
+A Thursday full of movements, from the pitch to market dynamics: Italian Next Gen continues to make itself noticed.
