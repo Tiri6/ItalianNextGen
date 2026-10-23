@@ -1,0 +1,27 @@
+# 🔑 Rinnovo del token Instagram (dura 60 giorni). Gira il 1° e il 20 di ogni mese.
+# Per salvare in automatico il token rinnovato serve il segreto GH_PAT_SECRETS
+# (token GitHub fine-grained con permesso "Secrets: read and write" su questo repo).
+# Senza GH_PAT_SECRETS il workflow fallisce volutamente: è il promemoria per rinnovarlo a mano.
+name: 🔑 Rinnovo token Instagram
+on:
+  schedule: [{ cron: '17 6 1,20 * *' }]
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  rinnova:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rinnova
+        env:
+          TOK: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT_SECRETS }}
+        run: |
+          [ -z "$TOK" ] && { echo "::error::IG_ACCESS_TOKEN non impostato"; exit 1; }
+          R=$(curl -fsS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=$TOK") || { echo "::error::Rinnovo rifiutato: il token potrebbe essere scaduto. Generane uno nuovo."; exit 1; }
+          NEW=$(echo "$R" | python3 -c 'import sys,json;print(json.load(sys.stdin)["access_token"])')
+          echo "::add-mask::$NEW"
+          DAYS=$(echo "$R" | python3 -c 'import sys,json;print(json.load(sys.stdin)["expires_in"]//86400)')
+          echo "Token rinnovato: valido altri $DAYS giorni"
+          [ -z "$GH_TOKEN" ] && { echo "::error::Token rinnovato ma NON salvato (manca GH_PAT_SECRETS): aggiornalo a mano oppure aggiungi GH_PAT_SECRETS."; exit 1; }
+          gh secret set IG_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" --body "$NEW"

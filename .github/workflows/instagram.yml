@@ -1,0 +1,69 @@
+# 📸 INSTAGRAM — i post del sito vanno anche su Instagram.
+#
+# SETTIMANA DI PROVA (impostazione predefinita): non pubblica nulla da solo.
+#   → Actions → "📸 Instagram" → Run workflow
+#       · modo "anteprima": mostra nel riepilogo i post che uscirebbero (testo + immagine)
+#       · modo "pubblica":  li pubblica davvero su Instagram
+#
+# PASSAGGIO IN AUTOMATICO: Settings → Secrets and variables → Actions → Variables
+#   → crea la variabile IG_MODE con valore  auto
+#   Da quel momento, dopo ogni deploy del sito esce al massimo 1 post "normale"
+#   (rispettando tetto giornaliero e distanza minima di data/instagram.json) più Taccuino/editoriali.
+#
+# Segreti richiesti: IG_USER_ID, IG_ACCESS_TOKEN.
+name: 📸 Instagram
+
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'anteprima = solo mostra · pubblica = pubblica ora su Instagram'
+        required: true
+        default: 'anteprima'
+        type: choice
+        options: [anteprima, pubblica]
+  workflow_run:
+    workflows: ["Deploy su GitHub Pages", "Rebuild ogni 20 minuti"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  instagram:
+    runs-on: ubuntu-latest
+    # Da workflow_run parte solo in modalità automatica; a mano parte sempre.
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' && vars.IG_MODE == 'auto')
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Instagram
+        run: |
+          MODO="${{ github.event.inputs.modo || 'auto' }}"
+          echo "### 📸 Instagram — modo: $MODO" >> "$GITHUB_STEP_SUMMARY"
+          node pipeline/instagram.mjs --mode="$MODO" 2>&1 | tee ig.log
+          { echo '```'; cat ig.log; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      - name: Salva lo stato dei post
+        if: always() && github.event.inputs.modo != 'anteprima'
+        run: |
+          git config user.name "ing-redazione"
+          git config user.email "redazione@italiannextgen"
+          git add pipeline/state/instagram.json || true
+          git diff --cached --quiet || git commit -m "instagram: stato post ($(date +%F))"
+          for i in 1 2 3; do
+            git push && break
+            [ "$i" = "3" ] && { echo "::error::push dello stato fallito"; exit 1; }
+            git pull --rebase origin main
+            sleep 5
+          done

@@ -23,6 +23,8 @@ const news = defineCollection({
     html: z.boolean().default(false),
     /** true = articolo rimane in primo piano fino al giorno dopo (sticky post). Usato per il taccuino mattutino. */
     featured: z.boolean().default(false),
+    /** false = questo articolo NON va su Instagram (vedi data/instagram.json). */
+    social: z.boolean().default(true),
   }),
 });
 

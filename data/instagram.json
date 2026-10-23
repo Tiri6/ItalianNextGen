@@ -1,0 +1,12 @@
+{
+  "_note": "Regole di pubblicazione su Instagram. Modificabile dal browser su GitHub. Il Taccuino e gli editoriali escono sempre; gli altri articoli rispettano tetto giornaliero e distanza minima.",
+  "maxPerDay": 4,
+  "minSpacingMinutes": 150,
+  "maxAgeHours": 30,
+  "windowStartHour": 9,
+  "windowEndHour": 21,
+  "alwaysPostCategories": ["taccuino", "editoriale"],
+  "categoryPriority": ["performance", "news", "mercato"],
+  "hashtags": ["#ItalianNextGen", "#calcioitaliano", "#giovanitalenti", "#Azzurri"],
+  "footer": "🔗 Articolo completo e fonte: link in bio · italiannextgen.it"
+}

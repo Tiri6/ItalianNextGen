@@ -29,6 +29,7 @@
 | Redazione del mattino (`collect.yml`) | 06:00 UTC + lancio da attività cloud 7:40 | raccolta, risultati, prestazioni, bozze, taccuino, commit |
 | 📣 Pubblica articoli (`publish.yml`) | **manuale** (Marco da telefono) | pubblica bozze di qualità + scaglionamento |
 | Deploy / Rebuild ogni 20 min | 7-19 UTC | build e deploy su Pages |
+| 📸 Instagram (`instagram.yml`) | manuale in prova; con `IG_MODE=auto` dopo ogni deploy | anteprima/pubblicazione dei post su Instagram |
 | 🧹 Rimuovi duplicati, ⚽ Prestazioni, 🌍 Ranking FIFA (il 2 del mese) | vari | manutenzione |
 - La pubblicazione resta **manuale**: Marco ha rifiutato l'automatismo completo.
 - Secret richiesto: `ANTHROPIC_API_KEY`.
@@ -40,7 +41,7 @@
 
 ## Stato attuale e in sospeso
 - Sito a regime (~500 articoli). GA4 attivo; AdSense configurato (verificare approvazione).
-- In corso: pubblicazione automatica Instagram via API Instagram di Meta con Instagram Login (senza Pagina Facebook). Make.com era l'alternativa, rimasta bloccata.
+- Instagram: costruito il 23 ott 2026 (`pipeline/instagram.mjs`, workflow `instagram.yml` e `instagram-token.yml`, regole in `data/instagram.json`, stato in `pipeline/state/instagram.json`). API Instagram con Instagram Login, nessuna Pagina Facebook. Caption = testo italiano dell'articolo (max 2200 car., taglio a fine frase) + fonte + footer + hashtag; immagine = card `/social/<slug>.jpg`. **Settimana di prova (dal 24 ott)**: variabile `IG_MODE` NON impostata → nessun post automatico; Marco lancia a mano "📸 Instagram" (anteprima / pubblica). Dopo la prova: `IG_MODE=auto`. Da fare da Marco: segreti `IG_USER_ID`, `IG_ACCESS_TOKEN` (long-lived 60 gg); opzionale `GH_PAT_SECRETS` per il rinnovo automatico. Mai provato contro l'API reale: verificare al primo post. Make.com abbandonato.
 - Data dell'evento: la pubblicazione si blocca se la data dichiarata dalla pagina della fonte è più vecchia di 2 giorni (`writer.mjs` legge la data, `publish.mjs` applica il filtro). Se la pagina non dichiara la data, resta valido il filtro su feed oggi/ieri.
 - Da verificare: "Zenica non si dimentica. Ma l'obiettivo 2030 parte adesso" (nessun segnale calcistico nel titolo, nessun giocatore seguito): tenuto online, decide Marco.
 - Da fare: caps nazionali per i giocatori rimanenti; verificare albo d'oro competizioni minori (confidenza media).
@@ -51,6 +52,7 @@
 - Mai lavorare su una copia locale vecchia: prima `git pull` (il sync del Mac in passato è rimasto indietro di settimane).
 
 ## Registro decisioni (più recenti in alto)
+- 2026-10-23 — Instagram: regola approvata da Marco = Taccuino + editoriali sempre, più al massimo 4 articoli al giorno (priorità performance > news > mercato, un giocatore al giorno, distanza minima 150 min, fascia 9-21). Prima settimana con approvazione manuale, poi automatico. `social: false` nel frontmatter esclude un articolo.
 - 2026-10-21 — Blocco notizie con fonte più vecchia di 2 giorni (data dichiarata dalla pagina).
 - 2026-10-21 — Filtro di ARGOMENTO nel validatore (`pipeline/agents/validator.mjs`): altri sport esclusi anche da fonti approvate (enduro, short-track, mountain bike, sci, federazione ciclistica…); senza giocatori seguiti serve un segnale calcistico (`isCalcioText`). `pulisci-fonti.mjs` sposta anche gli articoli di altro sport già pubblicati. Rimossi short-track, enduro e Italia U21 (quest'ultima: partita di due settimane fa, ripubblicata come nuova; la data di pubblicazione è quella del feed, non quella dell'evento → da risolvere, vedi "In sospeso").
 - 2026-10-13 — Unica fonte di verità = questo file. Eliminata attività doppione; redazione del mattino passata a Sonnet; aggiunto controllo settimanale.
