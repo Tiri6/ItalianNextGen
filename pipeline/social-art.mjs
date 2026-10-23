@@ -90,3 +90,87 @@ export function jerseySvg(club, { scale = 1, x = 0, y = 0, rot = 0 } = {}) {
   <path d="${body}" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="3"/>
 </g>`;
 }
+
+// ---------------------------------------------------------------------------
+// LAVAGNETTA DA ALLENATORE (Taccuino)
+const FORMATIONS = {
+  '4-3-3':   [[.07, .5], [.22, .15], [.22, .38], [.22, .62], [.22, .85], [.46, .25], [.46, .5], [.46, .75], [.74, .2], [.78, .5], [.74, .8]],
+  '4-2-3-1': [[.07, .5], [.22, .15], [.22, .38], [.22, .62], [.22, .85], [.42, .35], [.42, .65], [.6, .2], [.62, .5], [.6, .8], [.8, .5]],
+  '3-5-2':   [[.07, .5], [.22, .25], [.22, .5], [.22, .75], [.42, .1], [.45, .3], [.42, .5], [.45, .7], [.42, .9], [.76, .36], [.76, .64]],
+  '4-4-2':   [[.07, .5], [.22, .15], [.22, .38], [.22, .62], [.22, .85], [.47, .12], [.47, .37], [.47, .63], [.47, .88], [.76, .36], [.76, .64]],
+  '3-4-3':   [[.07, .5], [.22, .25], [.22, .5], [.22, .75], [.45, .15], [.45, .38], [.45, .62], [.45, .85], [.74, .2], [.78, .5], [.74, .8]],
+};
+export const formationNames = Object.keys(FORMATIONS);
+
+export function tacticsBoardSvg(formation = '4-3-3', { x = 0, y = 0, w = 900, h = 420 } = {}) {
+  const pts = FORMATIONS[formation] ?? FORMATIONS['4-3-3'];
+  const px = 40, py = 34, iw = w - 80, ih = h - 68;           // area di gioco interna
+  const P = (f) => [px + f[0] * iw, py + f[1] * ih];
+  const chalk = '#f4f7f2';
+  const lines = `<rect x="${px}" y="${py}" width="${iw}" height="${ih}" fill="none" stroke="${chalk}" stroke-width="3" opacity=".8"/>
+  <line x1="${px + iw / 2}" y1="${py}" x2="${px + iw / 2}" y2="${py + ih}" stroke="${chalk}" stroke-width="3" opacity=".8"/>
+  <circle cx="${px + iw / 2}" cy="${py + ih / 2}" r="${ih * 0.17}" fill="none" stroke="${chalk}" stroke-width="3" opacity=".8"/>
+  <rect x="${px}" y="${py + ih * 0.22}" width="${iw * 0.15}" height="${ih * 0.56}" fill="none" stroke="${chalk}" stroke-width="3" opacity=".8"/>
+  <rect x="${px + iw * 0.85}" y="${py + ih * 0.22}" width="${iw * 0.15}" height="${ih * 0.56}" fill="none" stroke="${chalk}" stroke-width="3" opacity=".8"/>
+  <rect x="${px}" y="${py + ih * 0.38}" width="${iw * 0.05}" height="${ih * 0.24}" fill="none" stroke="${chalk}" stroke-width="3" opacity=".8"/>
+  <rect x="${px + iw * 0.95}" y="${py + ih * 0.38}" width="${iw * 0.05}" height="${ih * 0.24}" fill="none" stroke="${chalk}" stroke-width="3" opacity=".8"/>`;
+  const dots = pts.map((f, i) => { const [cx, cy] = P(f); return i === 0
+    ? `<circle cx="${cx}" cy="${cy}" r="17" fill="#f0c94a" stroke="${chalk}" stroke-width="3"/>`
+    : `<circle cx="${cx}" cy="${cy}" r="17" fill="#0d2c50" stroke="${chalk}" stroke-width="4"/>`; }).join('');
+  // frecce di gioco (3 movimenti tratteggiati)
+  const arrow = (a, b, bend) => { const [x1, y1] = P(a), [x2, y2] = P(b); const mx = (x1 + x2) / 2, my = (y1 + y2) / 2 + bend;
+    return `<path d="M${x1 + 22},${y1} Q${mx},${my} ${x2 - 22},${y2}" fill="none" stroke="#f0c94a" stroke-width="4" stroke-dasharray="12 9" stroke-linecap="round" marker-end="url(#ah)"/>`; };
+  const n = pts.length;
+  const arrows = arrow(pts[n - 4] ?? pts[8], pts[n - 1], -50) + arrow(pts[5], pts[n - 3], 45) + arrow(pts[2], pts[6], -35);
+  return `<g transform="translate(${x},${y})">
+  <defs><marker id="ah" markerWidth="10" markerHeight="10" refX="6" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#f0c94a"/></marker>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#27704a"/><stop offset="1" stop-color="#1b5538"/></linearGradient></defs>
+  <rect x="6" y="14" width="${w}" height="${h}" rx="22" fill="#000" opacity=".3"/>
+  <rect width="${w}" height="${h}" rx="22" fill="#8a5a2c"/>
+  <rect x="10" y="10" width="${w - 20}" height="${h - 20}" rx="16" fill="#a8733a"/>
+  <rect x="22" y="22" width="${w - 44}" height="${h - 44}" rx="10" fill="url(#bd)"/>
+  <g transform="translate(-0,0)">${lines}${arrows}${dots}</g>
+  <text x="${w - 62}" y="${h - 44}" text-anchor="end" font-family="DejaVu Sans" font-size="64" font-weight="bold" fill="${chalk}" opacity=".92">${formation}</text>
+  <rect x="${w * 0.42}" y="${h - 18}" width="${w * 0.16}" height="16" rx="6" fill="#6f4520"/>
+</g>`;
+}
+
+// ---------------------------------------------------------------------------
+// COPPE STILIZZATE (Europei / Mondiali): ~300x520
+function sparkles(cx, cy, r, n = 6) {
+  const pos = [[-1.1, -.9, 1], [1.15, -.5, .8], [-1.0, .3, .7], [1.0, .6, 1], [-.5, 1.0, .6], [.4, -1.2, .7]].slice(0, n);
+  return pos.map(([dx, dy, k]) => { const x = cx + dx * r, y = cy + dy * r, s = 16 * k;
+    return `<path d="M${x},${y - s} L${x + s * .28},${y - s * .28} L${x + s},${y} L${x + s * .28},${y + s * .28} L${x},${y + s} L${x - s * .28},${y + s * .28} L${x - s},${y} L${x - s * .28},${y - s * .28} Z" fill="#fff6c9" opacity=".9"/>`; }).join('');
+}
+
+export function trophySvg(kind = 'europei', { scale = 1, x = 0, y = 0 } = {}) {
+  const id = uid('tr');
+  if (kind === 'mondiali') {
+    return `<g transform="translate(${x},${y}) scale(${scale})">
+  <defs><linearGradient id="${id}" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b8861f"/><stop offset=".35" stop-color="#ffe27a"/><stop offset=".6" stop-color="#e0aa2b"/><stop offset="1" stop-color="#9c6d12"/></linearGradient></defs>
+  ${sparkles(150, 230, 190)}
+  <ellipse cx="150" cy="500" rx="130" ry="14" fill="#000" opacity=".3"/>
+  <path d="M92,170 C60,250 112,290 108,360 L192,360 C188,290 240,250 208,170 Z" fill="url(#${id})"/>
+  <path d="M104,200 C118,240 112,300 120,350 M196,200 C182,240 188,300 180,350" stroke="#9c6d12" stroke-width="5" fill="none" opacity=".6"/>
+  <circle cx="150" cy="120" r="78" fill="url(#${id})"/>
+  <path d="M82,100 Q150,60 218,100 M76,140 Q150,176 224,140 M150,42 Q108,120 150,198 M150,42 Q192,120 150,198" stroke="#9c6d12" stroke-width="4" fill="none" opacity=".55"/>
+  <rect x="98" y="356" width="104" height="30" fill="url(#${id})"/>
+  <rect x="86" y="384" width="128" height="44" rx="6" fill="#1f8a4c"/><rect x="86" y="396" width="128" height="8" fill="#0d5a2c" opacity=".6"/>
+  <rect x="76" y="426" width="148" height="46" rx="8" fill="url(#${id})"/>
+</g>`;
+  }
+  // europei: coppa d'argento a due anse
+  return `<g transform="translate(${x},${y}) scale(${scale})">
+  <defs><linearGradient id="${id}" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8d9db0"/><stop offset=".35" stop-color="#f4f8fc"/><stop offset=".62" stop-color="#c3cfdc"/><stop offset="1" stop-color="#7a8ba0"/></linearGradient></defs>
+  ${sparkles(150, 230, 190)}
+  <ellipse cx="150" cy="500" rx="130" ry="14" fill="#000" opacity=".3"/>
+  <path d="M62,104 C26,100 18,170 74,196" stroke="url(#${id})" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M238,104 C274,100 282,170 226,196" stroke="url(#${id})" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M56,58 H244 C244,158 210,204 166,226 L166,330 H134 L134,226 C90,204 56,158 56,58 Z" fill="url(#${id})"/>
+  <ellipse cx="150" cy="58" rx="94" ry="16" fill="#e9eff6"/><ellipse cx="150" cy="60" rx="78" ry="10" fill="#6a7b90"/>
+  <rect x="104" y="326" width="92" height="26" fill="url(#${id})"/>
+  <rect x="84" y="350" width="132" height="46" rx="6" fill="#12437a"/>
+  ${[0, 1, 2, 3, 4].map((i) => `<path d="M${104 + i * 23},${365} l3,8 8,1 -6,6 2,8 -7,-4 -7,4 2,-8 -6,-6 8,-1 z" fill="#f0c94a"/>`).join('')}
+  <rect x="72" y="394" width="156" height="50" rx="8" fill="url(#${id})"/>
+</g>`;
+}

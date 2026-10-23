@@ -1,19 +1,386 @@
 {
-  "_note": "Colori e stadio dei club per le illustrazioni social. pattern: stripes | solid | halves. Solo colori e nomi: niente stemmi (marchi registrati).",
-  "Inter":      { "c1": "#0f4fa8", "c2": "#101828", "pattern": "stripes", "stadium": "San Siro" },
-  "Milan":      { "c1": "#d9202a", "c2": "#101010", "pattern": "stripes", "stadium": "San Siro" },
-  "Juventus":   { "c1": "#f2f2f2", "c2": "#101010", "pattern": "stripes", "stadium": "Allianz Stadium" },
-  "Napoli":     { "c1": "#1a9fd8", "c2": "#f2f6fa", "pattern": "solid",   "stadium": "Stadio Maradona" },
-  "Roma":       { "c1": "#8c1c3a", "c2": "#f0a92a", "pattern": "solid",   "stadium": "Stadio Olimpico" },
-  "Lazio":      { "c1": "#7ec8f0", "c2": "#f2f6fa", "pattern": "solid",   "stadium": "Stadio Olimpico" },
-  "Atalanta":   { "c1": "#1b4f9c", "c2": "#101010", "pattern": "stripes", "stadium": "Gewiss Stadium" },
-  "Torino":     { "c1": "#8b1d2c", "c2": "#f2f2f2", "pattern": "solid",   "stadium": "Olimpico Grande Torino" },
-  "Fiorentina": { "c1": "#6b2a9b", "c2": "#f2f2f2", "pattern": "solid",   "stadium": "Artemio Franchi" },
-  "Genoa":      { "c1": "#b3202e", "c2": "#14336e", "pattern": "halves",  "stadium": "Luigi Ferraris" },
-  "Bologna":    { "c1": "#b3202e", "c2": "#14336e", "pattern": "stripes", "stadium": "Renato Dall'Ara" },
-  "Como":       { "c1": "#1d5fb0", "c2": "#f2f6fa", "pattern": "solid",   "stadium": "Giuseppe Sinigaglia" },
-  "Sassuolo":   { "c1": "#14a05a", "c2": "#101010", "pattern": "stripes", "stadium": "Mapei Stadium" },
-  "Cagliari":   { "c1": "#b3202e", "c2": "#14336e", "pattern": "stripes", "stadium": "Unipol Domus" },
-  "Italia":     { "c1": "#1a5da5", "c2": "#f0c94a", "pattern": "solid",   "stadium": "" },
-  "_default":   { "c1": "#1a5da5", "c2": "#f0c94a", "pattern": "solid",   "stadium": "" }
+ "_note": "Colori e stadio dei club per le illustrazioni social (pipeline/social-art.mjs). pattern: stripes | solid | halves. 'alias' = altri nomi con cui il club compare nei titoli. Solo colori e nomi: niente stemmi (marchi registrati). Un club assente da qui usa la cover classica.",
+ "Inter": {
+  "c1": "#0f4fa8",
+  "c2": "#101828",
+  "pattern": "stripes",
+  "stadium": "San Siro",
+  "alias": [
+   "nerazzurri"
+  ]
+ },
+ "Milan": {
+  "c1": "#d9202a",
+  "c2": "#101010",
+  "pattern": "stripes",
+  "stadium": "San Siro",
+  "alias": [
+   "rossoneri"
+  ]
+ },
+ "Juventus": {
+  "c1": "#f2f2f2",
+  "c2": "#101010",
+  "pattern": "stripes",
+  "stadium": "Allianz Stadium",
+  "alias": [
+   "Juve",
+   "bianconeri"
+  ]
+ },
+ "Napoli": {
+  "c1": "#1a9fd8",
+  "c2": "#f2f6fa",
+  "pattern": "solid",
+  "stadium": "Stadio Maradona",
+  "alias": [
+   "azzurri del Napoli"
+  ]
+ },
+ "Roma": {
+  "c1": "#8c1c3a",
+  "c2": "#f0a92a",
+  "pattern": "solid",
+  "stadium": "Stadio Olimpico",
+  "alias": [
+   "giallorossi"
+  ]
+ },
+ "Lazio": {
+  "c1": "#7ec8f0",
+  "c2": "#f2f6fa",
+  "pattern": "solid",
+  "stadium": "Stadio Olimpico",
+  "alias": [
+   "biancocelesti"
+  ]
+ },
+ "Atalanta": {
+  "c1": "#1b4f9c",
+  "c2": "#101010",
+  "pattern": "stripes",
+  "stadium": "Gewiss Stadium",
+  "alias": [
+   "Dea",
+   "nerazzurri bergamaschi"
+  ]
+ },
+ "Torino": {
+  "c1": "#8b1d2c",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Olimpico Grande Torino",
+  "alias": [
+   "granata",
+   "Toro"
+  ]
+ },
+ "Fiorentina": {
+  "c1": "#6b2a9b",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Artemio Franchi",
+  "alias": [
+   "viola"
+  ]
+ },
+ "Genoa": {
+  "c1": "#b3202e",
+  "c2": "#14336e",
+  "pattern": "halves",
+  "stadium": "Luigi Ferraris",
+  "alias": [
+   "grifone"
+  ]
+ },
+ "Bologna": {
+  "c1": "#b3202e",
+  "c2": "#14336e",
+  "pattern": "stripes",
+  "stadium": "Renato Dall'Ara",
+  "alias": [
+   "rossoblù"
+  ]
+ },
+ "Como": {
+  "c1": "#1d5fb0",
+  "c2": "#f2f6fa",
+  "pattern": "solid",
+  "stadium": "Giuseppe Sinigaglia"
+ },
+ "Sassuolo": {
+  "c1": "#14a05a",
+  "c2": "#101010",
+  "pattern": "stripes",
+  "stadium": "Mapei Stadium",
+  "alias": [
+   "neroverdi"
+  ]
+ },
+ "Cagliari": {
+  "c1": "#b3202e",
+  "c2": "#14336e",
+  "pattern": "stripes",
+  "stadium": "Unipol Domus"
+ },
+ "Udinese": {
+  "c1": "#f2f2f2",
+  "c2": "#101010",
+  "pattern": "stripes",
+  "stadium": "Stadio Friuli"
+ },
+ "Hellas Verona": {
+  "c1": "#f0c522",
+  "c2": "#14336e",
+  "pattern": "solid",
+  "stadium": "Marcantonio Bentegodi",
+  "alias": [
+   "Verona",
+   "gialloblù"
+  ]
+ },
+ "Lecce": {
+  "c1": "#f0c522",
+  "c2": "#c4202c",
+  "pattern": "stripes",
+  "stadium": "Via del Mare"
+ },
+ "Parma": {
+  "c1": "#f2f2f2",
+  "c2": "#f0c522",
+  "pattern": "solid",
+  "stadium": "Ennio Tardini",
+  "alias": [
+   "crociati"
+  ]
+ },
+ "Monza": {
+  "c1": "#d9202a",
+  "c2": "#f2f2f2",
+  "pattern": "stripes",
+  "stadium": "U-Power Stadium"
+ },
+ "Venezia": {
+  "c1": "#111111",
+  "c2": "#e8742a",
+  "pattern": "solid",
+  "stadium": "Pier Luigi Penzo",
+  "alias": [
+   "lagunari"
+  ]
+ },
+ "Cremonese": {
+  "c1": "#9aa3ad",
+  "c2": "#c4202c",
+  "pattern": "stripes",
+  "stadium": "Giovanni Zini",
+  "alias": [
+   "grigiorossi"
+  ]
+ },
+ "Pisa": {
+  "c1": "#101010",
+  "c2": "#2a7fd0",
+  "pattern": "stripes",
+  "stadium": "Arena Garibaldi"
+ },
+ "Frosinone": {
+  "c1": "#f0c522",
+  "c2": "#1a4fa0",
+  "pattern": "solid",
+  "stadium": "Benito Stirpe",
+  "alias": [
+   "ciociari"
+  ]
+ },
+ "Empoli": {
+  "c1": "#1d6fd0",
+  "c2": "#f2f6fa",
+  "pattern": "solid",
+  "stadium": "Carlo Castellani"
+ },
+ "Palermo": {
+  "c1": "#f4a6c0",
+  "c2": "#101010",
+  "pattern": "solid",
+  "stadium": "Renzo Barbera",
+  "alias": [
+   "rosanero"
+  ]
+ },
+ "Catanzaro": {
+  "c1": "#f0c522",
+  "c2": "#c4202c",
+  "pattern": "stripes",
+  "stadium": "Nicola Ceravolo",
+  "alias": [
+   "giallorossi calabresi"
+  ]
+ },
+ "Avellino": {
+  "c1": "#1f8a4c",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Partenio-Lombardi"
+ },
+ "Benevento": {
+  "c1": "#f0c522",
+  "c2": "#c4202c",
+  "pattern": "stripes",
+  "stadium": "Ciro Vigorito"
+ },
+ "Perugia": {
+  "c1": "#c4202c",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Renato Curi"
+ },
+ "SPAL": {
+  "c1": "#7ec8f0",
+  "c2": "#f2f2f2",
+  "pattern": "stripes",
+  "stadium": "Paolo Mazza"
+ },
+ "Südtirol": {
+  "c1": "#f2f2f2",
+  "c2": "#c4202c",
+  "pattern": "solid",
+  "stadium": "Druso",
+  "alias": [
+   "Sudtirol"
+  ]
+ },
+ "Virtus Entella": {
+  "c1": "#7ec8f0",
+  "c2": "#14336e",
+  "pattern": "solid",
+  "stadium": ""
+ },
+ "Borussia Dortmund": {
+  "c1": "#f5d000",
+  "c2": "#101010",
+  "pattern": "solid",
+  "stadium": "Signal Iduna Park",
+  "alias": [
+   "Dortmund"
+  ]
+ },
+ "Borussia Mönchengladbach": {
+  "c1": "#f2f2f2",
+  "c2": "#12a05a",
+  "pattern": "solid",
+  "stadium": "Borussia-Park",
+  "alias": [
+   "Gladbach",
+   "Mönchengladbach"
+  ]
+ },
+ "Bayern Monaco": {
+  "c1": "#d9202a",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Allianz Arena",
+  "alias": [
+   "Bayern"
+  ]
+ },
+ "Bayer Leverkusen": {
+  "c1": "#d9202a",
+  "c2": "#101010",
+  "pattern": "solid",
+  "stadium": "BayArena",
+  "alias": [
+   "Leverkusen"
+  ]
+ },
+ "Stoccarda": {
+  "c1": "#f2f2f2",
+  "c2": "#d9202a",
+  "pattern": "solid",
+  "stadium": "MHPArena"
+ },
+ "Norimberga": {
+  "c1": "#a31d2b",
+  "c2": "#101010",
+  "pattern": "solid",
+  "stadium": "Max-Morlock-Stadion"
+ },
+ "Benfica": {
+  "c1": "#d9202a",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Estádio da Luz"
+ },
+ "Sporting CP": {
+  "c1": "#12864a",
+  "c2": "#f2f2f2",
+  "pattern": "halves",
+  "stadium": "Estádio José Alvalade",
+  "alias": [
+   "Sporting"
+  ]
+ },
+ "Chelsea": {
+  "c1": "#1a3f9c",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Stamford Bridge"
+ },
+ "Liverpool": {
+  "c1": "#c8102e",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Anfield"
+ },
+ "Brentford": {
+  "c1": "#d9202a",
+  "c2": "#f2f2f2",
+  "pattern": "stripes",
+  "stadium": "Gtech Community Stadium"
+ },
+ "Crystal Palace": {
+  "c1": "#1b4f9c",
+  "c2": "#d9202a",
+  "pattern": "stripes",
+  "stadium": "Selhurst Park"
+ },
+ "PSG": {
+  "c1": "#0b2a5c",
+  "c2": "#d9202a",
+  "pattern": "solid",
+  "stadium": "Parc des Princes",
+  "alias": [
+   "Paris Saint-Germain"
+  ]
+ },
+ "Paris FC": {
+  "c1": "#1b3f8c",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Stade Charléty"
+ },
+ "Grasshopper": {
+  "c1": "#2a6fd0",
+  "c2": "#f2f2f2",
+  "pattern": "solid",
+  "stadium": "Letzigrund"
+ },
+ "Italia": {
+  "c1": "#1f6fd0",
+  "c2": "#f2f6fa",
+  "pattern": "solid",
+  "stadium": "",
+  "alias": [
+   "Nazionale",
+   "azzurrini",
+   "azzurri",
+   "Under 21",
+   "Under 20",
+   "Under 19",
+   "Under 18",
+   "Under 17",
+   "Under 16",
+   "Under 15"
+  ]
+ }
 }
