@@ -1,0 +1,19 @@
+{
+  "_note": "Colori e stadio dei club per le illustrazioni social. pattern: stripes | solid | halves. Solo colori e nomi: niente stemmi (marchi registrati).",
+  "Inter":      { "c1": "#0f4fa8", "c2": "#101828", "pattern": "stripes", "stadium": "San Siro" },
+  "Milan":      { "c1": "#d9202a", "c2": "#101010", "pattern": "stripes", "stadium": "San Siro" },
+  "Juventus":   { "c1": "#f2f2f2", "c2": "#101010", "pattern": "stripes", "stadium": "Allianz Stadium" },
+  "Napoli":     { "c1": "#1a9fd8", "c2": "#f2f6fa", "pattern": "solid",   "stadium": "Stadio Maradona" },
+  "Roma":       { "c1": "#8c1c3a", "c2": "#f0a92a", "pattern": "solid",   "stadium": "Stadio Olimpico" },
+  "Lazio":      { "c1": "#7ec8f0", "c2": "#f2f6fa", "pattern": "solid",   "stadium": "Stadio Olimpico" },
+  "Atalanta":   { "c1": "#1b4f9c", "c2": "#101010", "pattern": "stripes", "stadium": "Gewiss Stadium" },
+  "Torino":     { "c1": "#8b1d2c", "c2": "#f2f2f2", "pattern": "solid",   "stadium": "Olimpico Grande Torino" },
+  "Fiorentina": { "c1": "#6b2a9b", "c2": "#f2f2f2", "pattern": "solid",   "stadium": "Artemio Franchi" },
+  "Genoa":      { "c1": "#b3202e", "c2": "#14336e", "pattern": "halves",  "stadium": "Luigi Ferraris" },
+  "Bologna":    { "c1": "#b3202e", "c2": "#14336e", "pattern": "stripes", "stadium": "Renato Dall'Ara" },
+  "Como":       { "c1": "#1d5fb0", "c2": "#f2f6fa", "pattern": "solid",   "stadium": "Giuseppe Sinigaglia" },
+  "Sassuolo":   { "c1": "#14a05a", "c2": "#101010", "pattern": "stripes", "stadium": "Mapei Stadium" },
+  "Cagliari":   { "c1": "#b3202e", "c2": "#14336e", "pattern": "stripes", "stadium": "Unipol Domus" },
+  "Italia":     { "c1": "#1a5da5", "c2": "#f0c94a", "pattern": "solid",   "stadium": "" },
+  "_default":   { "c1": "#1a5da5", "c2": "#f0c94a", "pattern": "solid",   "stadium": "" }
+}
