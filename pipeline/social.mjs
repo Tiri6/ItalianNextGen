@@ -45,7 +45,7 @@ function svgFor({ title, category, players }) {
   const titleSvg = lines
     .map((l, i) => `<text x="90" y="${startY + i * lineH}" font-family="DejaVu Sans, sans-serif" font-size="68" font-weight="bold" fill="#eef5fc">${esc(l)}</text>`)
     .join('\n');
-  const player = players?.[0] ? `<text x="90" y="960" font-family="DejaVu Sans, sans-serif" font-size="38" fill="#8fd2f7">⚽ ${esc(players[0])}</text>` : '';
+  const player = (players?.[0] && category !== 'taccuino') ? `<text x="90" y="960" font-family="DejaVu Sans, sans-serif" font-size="38" fill="#8fd2f7">⚽ ${esc(players[0])}</text>` : '';
 
   return `<svg width="1080" height="1080" xmlns="http://www.w3.org/2000/svg">
   <defs>

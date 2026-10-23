@@ -52,7 +52,24 @@ if (pool.length < 2) {
 }
 
 pool.sort((a, b) => b.c.score - a.c.score);
-const batch = pool.slice(0, MAX);
+
+// Anti-doppioni: una sola pillola per giocatore e niente notizie quasi uguali
+// (es. due articoli diversi sullo stesso tema, con lo stesso giocatore).
+const STOP = new Set(['il','lo','la','i','gli','le','un','uno','una','di','a','da','in','con','su','per','tra','fra','del','della','dei','delle','dello','al','alla','ai','alle','allo','e','ed','che','non','si','ha','hanno','più','dopo','ecco','cosa','come','anche','ma','nel','nella','sul','sulla']);
+const sig = (s) => new Set(String(s ?? '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+  .replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter((w) => w.length > 2 && !STOP.has(w)));
+const overlap = (a, b) => [...a].filter((w) => b.has(w)).length / (Math.min(a.size, b.size) || 1);
+const batch = [];
+const seenPlayers = new Set();
+for (const item of pool) {
+  if (batch.length >= MAX) break;
+  const pls = item.c.players ?? [];
+  const w = sig(item.c.title.replace(/\s[-–|]\s[^-–|]*$/, ''));
+  if (pls.some((p) => seenPlayers.has(p))) continue;                        // stesso giocatore già nel Taccuino
+  if (batch.some((b) => overlap(w, b.w) >= 0.45)) continue;                 // titolo quasi uguale
+  pls.forEach((p) => seenPlayers.add(p));
+  batch.push({ ...item, w });
+}
 console.log(`📓 Taccuino del giorno — impacchetto ${batch.length} notizie in un solo articolo...\n`);
 
 const list = batch
@@ -70,6 +87,7 @@ REGOLE FERREE:
 - Ogni pillola: 1-2 frasi CON PAROLE TUE basate SOLO sul titolo. VIETATO inventare dettagli (niente minuti, punteggi o nomi non presenti nei titoli).
 - Inizia ogni pillola con il nome in grassetto: **Nome Cognome** (o **il tema**, es. **Under 19**).
 - Chiudi ogni pillola con il link markdown alla fonte: [fonte](link).
+- Se due notizie sembrano parlare della stessa vicenda, fondile in UNA sola pillola: mai due pillole sullo stesso tema o sullo stesso giocatore.
 - Pillole separate da riga vuota. Apertura di 1 frase che introduce la giornata e chiusura di 1 frase, SENZA riferimenti ai "Mondiali 2030" o proiezioni al futuro (sarebbe ripetitivo): resta sui fatti del giorno.
 - Poi la versione inglese completa con le stesse regole.
 
