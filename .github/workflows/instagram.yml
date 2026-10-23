@@ -22,6 +22,10 @@ on:
         default: 'anteprima'
         type: choice
         options: [anteprima, pubblica]
+      quanti:
+        description: 'Massimo post da pubblicare in questa esecuzione (0 = tutti quelli selezionati)'
+        required: false
+        default: '0'
   workflow_run:
     workflows: ["Deploy su GitHub Pages", "Rebuild ogni 20 minuti"]
     types: [completed]
@@ -52,7 +56,7 @@ jobs:
         run: |
           MODO="${{ github.event.inputs.modo || 'auto' }}"
           echo "### 📸 Instagram — modo: $MODO" >> "$GITHUB_STEP_SUMMARY"
-          node pipeline/instagram.mjs --mode="$MODO" 2>&1 | tee ig.log
+          node pipeline/instagram.mjs --mode="$MODO" --max="${{ github.event.inputs.quanti || 0 }}" 2>&1 | tee ig.log
           { echo '```'; cat ig.log; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
       - name: Salva lo stato dei post
         if: always() && github.event.inputs.modo != 'anteprima'
