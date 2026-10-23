@@ -15,7 +15,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const NEWS = path.join(ROOT, 'src', 'content', 'news');
-const STATE_FILE = path.join(ROOT, 'pipeline', 'state', 'instagram.json');
+const STATE_FILE = path.join(ROOT, 'data', 'instagram-state.json');
 const CFG_FILE = path.join(ROOT, 'data', 'instagram.json');
 
 const SITE = (process.env.SITE_BASE || 'https://italiannextgen.it').replace(/\/$/, '');

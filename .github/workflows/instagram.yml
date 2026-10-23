@@ -54,6 +54,7 @@ jobs:
           node-version: 22
       - name: Instagram
         run: |
+          set -o pipefail
           MODO="${{ github.event.inputs.modo || 'auto' }}"
           echo "### 📸 Instagram — modo: $MODO" >> "$GITHUB_STEP_SUMMARY"
           node pipeline/instagram.mjs --mode="$MODO" --max="${{ github.event.inputs.quanti || 0 }}" 2>&1 | tee ig.log
@@ -63,7 +64,7 @@ jobs:
         run: |
           git config user.name "ing-redazione"
           git config user.email "redazione@italiannextgen"
-          git add pipeline/state/instagram.json || true
+          git add data/instagram-state.json || true
           git diff --cached --quiet || git commit -m "instagram: stato post ($(date +%F))"
           for i in 1 2 3; do
             git push && break
