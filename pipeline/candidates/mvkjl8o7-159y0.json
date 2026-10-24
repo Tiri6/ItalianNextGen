@@ -12,5 +12,15 @@
   "players": [],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Under 16, Costantino convoca 22 azzurrini per il torneo di Parigi",
+    "titleEn": "Under 16, Costantino calls up 22 Italy youngsters for Paris tournament",
+    "excerpt": "La selezione italiana parteciperà alla 27ª edizione del Val de Marne dal 27 al 31 ottobre in Île-de-France, affrontando Inghilterra, Francia e Giappone.",
+    "excerptEn": "Italy's selection will take part in the 27th edition of the Val de Marne tournament from October 27-31 in Île-de-France, facing England, France and Japan.",
+    "bodyIt": "La Nazionale Under 16 è stata convocata per un nuovo impegno internazionale di rilievo. Il commissario tecnico Giovanni Costantino ha selezionato 22 calciatori della classe 2011 per partecipare alla 27ª edizione del Torneo Internazionale Val de Marne, in programma nella regione francese dell'Île-de-France. Il gruppo si radunerà a Roma il 25 ottobre, per poi trasferirsi a Parigi il giorno successivo.\n\nLe tre sfide della competizione vedranno gli azzurrini affrontare prima l'Inghilterra (27 ottobre ore 14), poi la Francia (29 ottobre ore 16:30) e infine il Giappone (31 ottobre ore 14). Si tratta di un test di spessore internazionale, che arriva dopo una serie di amichevoli estive e autunnali contro le medesime avversarie europee. L'Italia aveva battuto l'Inghilterra 3-2 ad agosto, perso 2-1 nella ricerca, mentre a settembre aveva pareggiato 1-1 con la Spagna nella prima sfida e incassato una pesante sconfitta per 5-1 nel secondo confronto.\n\nIl gruppo azzurro vede la rappresentanza di diversi club di Serie A e B, dalle big come Juventus, Milan, Roma, Atalanta e Napoli fino a società come Parma, Torino, Como e Cesena. Uno staff competente supporterà Costantino nel monitoraggio dei talenti, con Ciro Immobile nel ruolo di capo delegazione.",
+    "bodyEn": "Italy's Under 16 squad has been called up for a significant international commitment. Coach Giovanni Costantino has selected 22 players born in 2011 to participate in the 27th edition of the Val de Marne International Tournament, scheduled in the Île-de-France region. The group will gather in Rome on October 25, then travel to Paris the following day.\n\nThe three matches will see the young Italians face England first (October 27, 2 p.m.), then France (October 29, 4:30 p.m.) and finally Japan (October 31, 2 p.m.). This represents a substantial international test, coming after a series of summer and autumn friendlies against the same European opponents. Italy had beaten England 3-2 in August before losing 2-1 in the return fixture, while in September they drew 1-1 with Spain in their opening game and suffered a heavy 5-1 defeat in the second encounter.\n\nThe squad features representation from several Serie A and B clubs, from heavyweights such as Juventus, Milan, Roma, Atalanta and Napoli to sides including Parma, Torino, Como and Cesena. A competent staff will support Costantino in monitoring the young talents, with Ciro Immobile serving as head of delegation.",
+    "_fromSource": true,
+    "_sourceDate": "2026-10-22T16:24:45.000Z"
+  }
 }

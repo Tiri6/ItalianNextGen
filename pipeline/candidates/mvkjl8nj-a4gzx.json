@@ -10,5 +10,15 @@
   "players": [],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Portuondo convocato dall'Under 16 per il torneo Val de Marne",
+    "titleEn": "Portuondo called up by Italy U16 for Val de Marne tournament",
+    "excerpt": "Il difensore del Torino entra nella selezione del tecnico Costantino per la manifestazione internazionale in Francia tra il 27 e il 31 ottobre.",
+    "excerptEn": "The Torino defender joins Costantino's squad for the international event in France from October 27 to 31.",
+    "bodyIt": "Gian Michael Portuondo è stato selezionato dal commissario tecnico dell'Italia Under 16 Giovanni Costantino per partecipare al Torneo Internazionale Val de Marne. La competizione, giunta alla sua ventisettesima edizione, si disputerà nella regione dell'Île-de-France dal 27 al 31 ottobre.\n\nIl difensore granata rappresenterà la selezione azzurra in una manifestazione di rilievo internazionale, confermando l'attenzione del progetto federale verso i giovani talenti in sviluppo. L'appuntamento francese offre ai convocati l'occasione di confrontarsi con coetanei provenienti da altre nazioni.",
+    "bodyEn": "Gian Michael Portuondo has been selected by Italy U16 coach Giovanni Costantino for the Val de Marne International Tournament. The competition, in its twenty-seventh edition, will take place in the Île-de-France region from October 27 to 31.\n\nThe Torino defender will represent the Italian squad at a prestigious international event, highlighting the national team project's focus on emerging talent. The French tournament will give the selected players a chance to compete against peers from other nations.",
+    "_fromSource": true,
+    "_sourceDate": "2026-10-23T20:45:00.000Z"
+  }
 }

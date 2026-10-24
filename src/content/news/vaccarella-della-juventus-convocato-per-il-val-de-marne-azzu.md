@@ -4,6 +4,7 @@ titleEn: "Juventus' Vaccarella called up for Val de Marne: Italy U16 heads to Fr
 excerpt: "L'Under 16 azzurra si prepara al torneo internazionale in Ile-de-France dal 27 al 31 ottobre. Tra i 22 convocati dal tecnico Costantino c'è il bianconero Marco Vaccarella."
 excerptEn: "Italy's U16 prepares for the international tournament in Ile-de-France from October 27-31. The 22 players selected by coach Costantino include Juventus midfielder Marco Vaccarella."
 date: 2026-10-23
+publishedAt: 2026-10-24T09:20:00+02:00
 category: news
 players: []
 competitions: ["under-15-16"]

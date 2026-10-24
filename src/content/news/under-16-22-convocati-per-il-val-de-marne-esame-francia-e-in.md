@@ -4,6 +4,7 @@ titleEn: "Italy U16, 22 players called up for Val de Marne tournament"
 excerpt: "La Nazionale Under 16 si prepara al torneo internazionale in Francia dal 27 al 31 ottobre. Giovanni Costantino ha selezionato i suoi ragazzi per affrontare Inghilterra, Francia e Giappone."
 excerptEn: "Italy's U16 squad gears up for the international tournament in France from October 27-31. Coach Giovanni Costantino has named his group to face England, France and Japan."
 date: 2026-10-23
+publishedAt: 2026-10-24T09:00:00+02:00
 category: news
 players: []
 competitions: ["under-15-16"]
