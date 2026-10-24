@@ -151,7 +151,8 @@
       },
       "capsSource": "Wikipedia, giu 2026",
       "queries": [
-        "Ahanor Atalanta"
+        "Honest Ahanor",
+        "Honest Ahanor Crystal Palace"
       ]
     },
     {
@@ -261,7 +262,8 @@
       },
       "capsSource": "Wikipedia, giu 2026",
       "queries": [
-        "Comuzzo Fiorentina"
+        "Pietro Comuzzo",
+        "Pietro Comuzzo Torino"
       ]
     },
     {
@@ -389,7 +391,8 @@
       "status": "serie-a",
       "value": 10,
       "queries": [
-        "Fortini Fiorentina"
+        "Niccolò Fortini",
+        "Niccolò Fortini Torino"
       ]
     },
     {
@@ -867,7 +870,8 @@
       "status": "serie-a",
       "value": 1.3,
       "queries": [
-        "Mascardi Spezia"
+        "Diego Mascardi",
+        "Diego Mascardi Torino"
       ]
     },
     {
@@ -1313,7 +1317,6 @@
       "born": 2003,
       "status": "estero",
       "queries": [
-        "Diego Coppola",
         "Diego Coppola"
       ]
     },
@@ -1335,7 +1338,6 @@
       "born": 2003,
       "status": "estero",
       "queries": [
-        "Issa Doumbia",
         "Issa Doumbia"
       ]
     },
@@ -1368,7 +1370,6 @@
       "born": 2002,
       "status": "serie-a",
       "queries": [
-        "Sebastiano Esposito",
         "Sebastiano Esposito"
       ]
     },
@@ -1412,7 +1413,6 @@
       "born": 2007,
       "status": "serie-a",
       "queries": [
-        "Emanuele Lulli",
         "Emanuele Lulli"
       ]
     },

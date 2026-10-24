@@ -10,6 +10,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { scout } from './agents/scout.mjs';
 import { validate } from './agents/validator.mjs';
+import { buildQueries } from './queries.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CANDIDATES_DIR = path.join(ROOT, 'pipeline', 'candidates');
@@ -36,8 +37,11 @@ async function main() {
   const seen = new Set(seenArr);
 
   // Costruisci le query: una per giocatore + query generali
+  // Le query dei giocatori sono sempre allineate al club attuale (vedi pipeline/queries.mjs)
+  const built = await buildQueries(players);
+  if (built.changes.length) console.log(`🔎 Query corrette automaticamente per ${built.changes.length} giocatori: ${built.changes.map((c) => c.name).join(', ')}`);
   const queries = [
-    ...players.flatMap((p) => p.queries ?? [p.name]),
+    ...built.queries,
     ...(extraQueries ?? []),
   ];
   console.log(`Agenti scout da lanciare: ${queries.length}`);
