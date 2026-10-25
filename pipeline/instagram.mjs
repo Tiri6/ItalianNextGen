@@ -54,6 +54,7 @@ function parseArticle(slug, raw) {
   return {
     slug, title: str('title') ?? slug, category: str('category') ?? 'news', source: str('source'),
     publishedAt: pub ? new Date(pub) : null, players,
+    sourceDate: str('sourceDate') ? new Date(str('sourceDate')) : null,
     html: str('html') === 'true', social: str('social') !== 'false',
     bodyIt: body.split('<!--EN-->')[0].trim(),
   };
@@ -100,6 +101,9 @@ async function loadCandidates(now) {
     const a = parseArticle(f.replace(/\.md$/, ''), await readFile(path.join(NEWS, f), 'utf8'));
     if (!a || !a.publishedAt || a.publishedAt > now) continue;                       // non ancora visibile / storico senza orario
     if ((now - a.publishedAt) / 36e5 > cfg.maxAgeHours) continue;                    // troppo vecchio: niente post stantii
+    // Freschezza vera: conta quando la fonte ha dato la notizia, non quando l'abbiamo messa online.
+    a.fresh = a.sourceDate && !isNaN(a.sourceDate) ? a.sourceDate : a.publishedAt;
+    if (!cfg.alwaysPostCategories.includes(a.category) && (now - a.fresh) / 36e5 > (cfg.maxSourceAgeHours ?? 24)) continue;
     if (!a.social || state.posted[a.slug] || (state.failures[a.slug] ?? 0) >= 3) continue;
     out.push(a);
   }
@@ -116,7 +120,7 @@ function select(cands, now) {
   const always = cands.filter((a) => cfg.alwaysPostCategories.includes(a.category)).sort((x, y) => x.publishedAt - y.publishedAt);
   const prio = (c) => { const i = cfg.categoryPriority.indexOf(c); return i < 0 ? 99 : i; };
   const normal = cands.filter((a) => !cfg.alwaysPostCategories.includes(a.category))
-    .sort((x, y) => prio(x.category) - prio(y.category) || y.publishedAt - x.publishedAt);
+    .sort((x, y) => prio(x.category) - prio(y.category) || y.fresh - x.fresh);
 
   const picked = [...always];
   for (const a of normal) {

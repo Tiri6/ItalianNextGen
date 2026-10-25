@@ -10,6 +10,7 @@ players: []
 competitions: []
 source: "FIGC"
 sourceUrl: "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeTNBM1pMa1phUWtqaUlxSWRjNGVSWUV5YnBtV1JNWmNCOFlIMThteXktakMzREZUM3ZFOXJpbVhWV0xaQVViYlRVZTN4MTNJWEhOZjU3NXhKWUpHX0lqejlFWVJlRVYzRUhQQjBVNjdhVGRzcDNyZ0NlSW1aY3BSR3NPdzYyVDUyV1NwR1g1alFGREt0T25pOFN4c1liZHdoVzExeGxqY0FrQzBuQWhvS0NIczFsdGNiVUIxQnhrQlFSNHVuZ1oyWA?oc=5"
+social: false
 ---
 
 Primo match convincente per la Nazionale Under 15 nel Gruppo L della competizione in corso a Baku. Gli Azzurrini si impongono 5-1 sul Turkmenistan al campo dell'Hovsan Complex, ribaltando uno svantaggio iniziale con una pronta reazione. Dopo il gol lampo ospite al primo minuto, l'Italia pareggia già al 2' grazie al capitano Alfredo Criscito (terzino del Genoa), che raddoppia sessanta secondi più tardi con un'azione in area. Il terzino, figlio del tecnico della Juventus giovanile rossoblù, continua a brillare anche nel resto della prima frazione, durante la quale la squadra di Battisti cala il tris con Eric Vian (difensore della Juventus) al 13'.

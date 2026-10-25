@@ -230,7 +230,7 @@ players: [${(c.players ?? []).map(y).join(', ')}]
 competitions: [${(c.competitions ?? []).map(y).join(', ')}]
 source: ${y(c.source || '')}
 sourceUrl: ${y(c.link || '')}
----
+${c.pubDate && !isNaN(new Date(c.pubDate)) ? `sourceDate: "${new Date(c.pubDate).toISOString()}"\n` : ''}---
 
 ${d.bodyIt.trim()}
 

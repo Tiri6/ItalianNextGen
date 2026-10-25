@@ -10,6 +10,7 @@ players: []
 competitions: ["under-15-16", "road-to-2030"]
 source: "Chiamarsi Bomber"
 sourceUrl: "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc081THA5Q05zQ05xUjZIaWZVa0lUSnQycGJYRTcwR080UE9rZ0dKeFlKRU9fX0N6RmNjUWlQZlFtTFBoclhxM09SUG5QeWg5bkR2aG1qUGhyZ0Z5WWR3VWw3MV84Z3l0THI3elptRjhfTzh1MUs3MWJIel8yakhmN2Jhbkp4dnpKU0FJb2luV2p4MjU1THBwYmNEVE1wUlZ4MmlvYmFLcVlzX2Vpb3NyREdiX1lidWJNVVNzeTNvX2tTSFZJeXN2cVd1X2xBeExyR1E?oc=5"
+social: false
 ---
 
 Alfredo Criscito ha regalato agli azzurrini un esordio indimenticabile nella FIFA U-15 World Cup & Festival, disputata a Baku. Il terzino sinistro della Primavera del Genoa ha firmato una doppietta nel netto successo per 5-1 contro il Turkmenistan, portando anche la fascia da capitano al braccio. Dopo il gol dello svantaggio incassato al primo minuto, il giovane calciatore ha subito pareggiato al 2' e completato il sorpasso al 5', cambiando radicalmente l'inerzia della partita. La squadra di Enrico Battisti ha poi gestito il vantaggio con le reti aggiuntive di Vian, Ferraro e Reguig.

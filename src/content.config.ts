@@ -17,6 +17,7 @@ const news = defineCollection({
     competitions: z.array(z.string()).default([]),
     source: z.string().optional(),
     sourceUrl: z.string().optional(),
+    sourceDate: z.string().optional(),
     /** URL o percorso (in /public) di una foto per l'articolo. Se assente, viene generata una copertina. */
     image: z.string().optional(),
     /** true = il corpo è HTML puro e viene mostrato così com'è (per editoriali con grafici ecc.) */

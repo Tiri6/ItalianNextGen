@@ -10,6 +10,7 @@ players: ["Luca Koleosho"]
 competitions: []
 source: "Cronachedi"
 sourceUrl: "https://cronachedi.it/paris-fc-luca-koleosho-ha-segnato-il-suo-primo-gol/"
+sourceDate: "2026-10-24T20:18:00.000Z"
 ---
 
 Serata speciale per Luca Koleosho: nei minuti di recupero del primo tempo, sul campo del Lens, l'esterno offensivo classe 2004 ha sbloccato la partita firmando il suo primo gol con la maglia del Paris FC.
