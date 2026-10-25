@@ -1,0 +1,44 @@
+---
+title: "Taccuino del giorno · 25 ottobre 2026"
+titleEn: "Daily Notebook · October 25, 2026"
+excerpt: "Tra Primavera e Serie B, i talenti azzurri continuano a raccogliere segnali positivi. Andiamo a scoprire le migliori prestazioni della giornata."
+excerptEn: "Between Primavera and Serie B, Italian talents continue to gather positive signals. Let's discover the best performances of the day."
+date: 2026-10-25
+publishedAt: 2026-10-25T12:20:00+01:00
+featured: true
+category: taccuino
+players: ["Eddy Kouadio", "Federico Croci", "Brando Moruzzi", "Antonio Raimondo"]
+competitions: []
+source: "Taccuino da 5 fonti"
+sourceUrl: ""
+---
+
+**Federico Croci**
+La tripletta dell'attaccante della Fiorentina trascina la Primavera alla vittoria contro il Milan: una prestazione personale decisiva che consolida il momento positivo dei viola. [fonte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMTdaT1NBR0hRaGZsSWFtdlBMRWZQT3BOWmNRTE9wOVljSFVCTTN5b01tRUxHYkh6Q1VDVmp0N1VlQ05BRnRPU2xXV1huSW1Ld3VTYjJsN2NmTEE3dEhNaEx5T1M3bjZIZTZkT1U0ZjVCdVhSSV9QQmF4bXlmZkRlb21ZeUdKeHZIMjRDei1EQkRramRIaUdOampLbWg2RnFBZTYxZko0d0VsMFhUM1h3LU9QaW1NVFVlb0VqYzFRQml5MnJiZWNWd3FvU2tsSzYwSDJLNjdIVFd3dHQzeEhqT0o4eFFFQQ?oc=5)
+
+**Monza e Torino**
+Partita equilibrata tra Monza e Torino che si conclude sull'1-1: Varela trova il pareggio per i brianzoli, consentendo a Raimondo e compagni di raggiungere i piemontesi nella classifica. [fonte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU0FNTk9Bdjc2NkQ4LUlweEp5OE4tam9ldmtxb3lqeFE5UnlnLXloZUZUWEhuVDVEYVNxVUhONlFKcGJidzU0cDZOaFY1WUc4VEowMTZWcnJrU1FSM1JPUTJHQy1CVXg4VjZPUUtOMWFodFR1T0hGeWZGemhJWThRV2owRHQ1ZUZEajUwSFowRncyenVWZjNiQUttaDdFbW5NSkRz?oc=5)
+
+**Brando Moruzzi**
+In Avellino-Padova il giovane talento ci prova, pur in una partita dove altri compagni risultano più incisivi: una prestazione che testimonia l'impegno continuo della mezzala. [fonte](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0FNTk9Bdjc2NkQ4LUlweEp5OE4tam9ldmtxb3lqeFE5UnlnLXloZUZUWEhuVDVEYVNxVUhONlFKcGJidzU0cDZOaFY1WUc4VEowMTZWcnJrU1FSM1JPUTJHQy1CVXg4VjZPUUtOMWFodFR1T0hGeWZGemhJWThRV2owRHQ1ZUZEajUwSFowRncyenVWZjNiQUttaDdFbW5NSkRz?oc=5)
+
+**Eddy Kouadio**
+Il centrocampista del Monza riconosce il buon gioco della sua squadra, ma lamenta i tempi della sconfitta subita contro il Torino: un'analisi consapevole di una gara dove l'episodio ha pesato. [fonte](https://news.google.com/rss/articles/CBMimAFBVV95cUxRMUpLSVA0U2s3dl9yMjNEdzV0N2FDUjdheWoxVDBvZ3RiTFRhLTRMUEVfdm1QZXVTMkQzZXFHM0pBdGswRGpwNGNmck1wX1oxTkhHQ1lBWE4zc3ZQN3cxTXhNSkxqOUJtdkdxS1B4azAxYWdIbE5vRnFuV1JXbmJsbllSMGJtdk0tRjdLbG5TZkRRQlAwaUF0Uw?oc=5)
+
+Le giovani leve del calcio italiano dimostrano continuità e crescita nelle rispettive categorie.
+
+<!--EN-->
+
+**Federico Croci**
+The Fiorentina striker's hat-trick leads the Primavera to victory over Milan: a decisive personal performance that strengthens the viola's positive momentum. [source](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMTdaT1NBR0hRaGZsSWFtdlBMRWZQT3BOWmNRTE9wOVljSFVCTTN5b01tRUxHYkh6Q1VDVmp0N1VlQ05BRnRPU2xXV1huSW1Ld3VTYjJsN2NmTEE3dEhNaEx5T1M3bjZIZTZkT1U0ZjVCdVhSSV9QQmF4bXlmZkRlb21ZeUdKeHZIMjRDei1EQkRramRIaUdOampLbWg2RnFBZTYxZko0d0VsMFhUM1h3LU9QaW1NVFVlb0VqYzFRQml5MnJiZWNWd3FvU2tsSzYwSDJLNjdIVFd3dHQzeEhqT0o4eFFFQQ?oc=5)
+
+**Monza and Torino**
+A balanced match between Monza and Torino ends 1-1: Varela finds the equalizer for the Brianzoli, allowing Raimondo and his teammates to catch up with the Piedmontese in the standings. [source](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXhhZEpwY3FSRzMzTXJUZGt4Y1VRTmxZQnNiNVVuNnh5bVdnaUV3QnphZ25iS0k2aWE5OHpNM1pfR0tPM1pLSEF0YXlOQ2swZjNvV3lWQjhqRVFJWnVCX0toTzBCZUp2VFhpdUg0VGJWeTNDZmxoVzFVM0RUdzBIdS1oZXpkcDVRSVNMZ0xZWXZSdE1HVEEyT1Z0Y0o0WUh5V0dXRm1lNkJMdkloM0E?oc=5)
+
+**Brando Moruzzi**
+In Avellino-Padova the young talent shows commitment, even in a match where other teammates prove more incisive: a performance that testifies to the midfielder's continuous effort. [source](https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0FNTk9Bdjc2NkQ4LUlweEp5OE4tam9ldmtxb3lqeFE5UnlnLXloZUZUWEhuVDVEYVNxVUhONlFKcGJidzU0cDZOaFY1WUc4VEowMTZWcnJrU1FSM1JPUTJHQy1CVXg4VjZPUUtOMWFodFR1T0hGeWZGemhJWThRV2owRHQ1ZUZEajUwSFowRncyenVWZjNiQUttaDdFbW5NSkRz?oc=5)
+
+**Eddy Kouadio**
+The Monza midfielder acknowledges his team's solid play but regrets the timing of the goal conceded against Torino: a lucid reading of a match where the moment proved crucial. [source](https://news.google.com/rss/articles/CBMimAFBVV95cUxRMUpLSVA0U2s3dl9yMjNEdzV0N2FDUjdheWoxVDBvZ3RiTFRhLTRMUEVfdm1QZXVTMkQzZXFHM0pBdGswRGpwNGNmck1wX1oxTkhHQ1lBWE4zc3ZQN3cxTXhNSkxqOUJtdkdxS1B4azAxYWdIbE5vRnFuV1JXbmJsbllSMGJtdk0tRjdLbG5TZkRRQlAwaUF0Uw?oc=5)
+
+Italian young talents continue to show consistency and growth across their respective categories.
