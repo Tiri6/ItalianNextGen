@@ -10,5 +10,15 @@
   "players": [],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Danza paralimpica, Peticchia e Ciccarelli convocati per gli Europei",
+    "titleEn": "Para Dance: Peticchia and Ciccarelli called up for European Championships",
+    "excerpt": "La coppia di Fiumicino rappresenterà l'Italia ad Oristano nella categoria Freestyle, dopo i successi nei campionati nazionali.",
+    "excerptEn": "The Fiumicino duo will represent Italy in Oristano in the Freestyle category, following their recent national championship victories.",
+    "bodyIt": "Aurora Peticchia ed Emanuel Ciccarelli sono stati selezionati per il Para Dance European Championship 2026, che si disputerà a Oristano dal 20 al 22 novembre. I due ballerini della World Dance Academy competeranno nella categoria Freestyle U DCE Combi, portando i colori della Nazionale italiana su un palcoscenico continentale.\n\nLa convocazione arriva al termine di un percorso competitivo solido: la coppia, allenata da Fabrizio Del Bono, ha già conquistato il titolo nei campionati regionali della Federazione Italiana Danza Sportiva e Sport Musicali e si è imposta negli Assoluti 2026. Elementi come coordinazione, espressività e sintonia rappresentano le fondamenta della loro disciplina.\n\nIl riconoscimento non è passato inosservato nel territorio: il consigliere comunale di Fiumicino Paolo Calicchio ha sottolineato il valore della convocazione, elogiando sia la preparazione tecnica della coppia che il contributo della scuola di formazione. Per i due atleti, la trasferta in Sardegna costituisce una nuova occasione per misurarsi con i migliori d'Europa.",
+    "bodyEn": "Aurora Peticchia and Emanuel Ciccarelli have been selected for the Para Dance European Championship 2026, taking place in Oristano from November 20-22. The two dancers from the World Dance Academy will compete in the Freestyle U DCE Combi category, representing the Italian National team at continental level.\n\nThe call-up marks the culmination of a solid competitive run: the couple, coached by Fabrizio Del Bono, has already claimed the title in regional championships organized by the Italian Federation of Sport Dance and Musical Sports, and triumphed at the 2026 National Championships. Elements such as coordination, expressiveness and harmony form the foundation of their discipline.\n\nThe achievement has resonated locally: Paolo Calicchio, municipal councillor for Fiumicino, highlighted the significance of the selection, praising both the technical preparation of the pair and the contribution of their training academy. For the two athletes, the trip to Sardinia represents a fresh opportunity to test themselves against Europe's best.",
+    "_fromSource": true,
+    "_sourceDate": null
+  }
 }
