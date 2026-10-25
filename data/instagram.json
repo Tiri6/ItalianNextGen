@@ -1,6 +1,6 @@
 {
-  "_note": "Regole di pubblicazione su Instagram. Modificabile dal browser su GitHub. Il Taccuino e gli editoriali escono sempre; gli altri articoli rispettano tetto giornaliero e distanza minima.",
-  "maxPerDay": 4,
+  "_note": "Regole di pubblicazione su Instagram. maxPerDay = tetto TOTALE giornaliero (Taccuino ed editoriali inclusi). Gli articoli non usciti in giornata vengono scartati.",
+  "maxPerDay": 5,
   "minSpacingMinutes": 90,
   "maxAgeHours": 30,
   "windowStartHour": 9,

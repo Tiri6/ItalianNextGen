@@ -104,6 +104,8 @@ async function loadCandidates(now) {
     // Freschezza vera: conta quando la fonte ha dato la notizia, non quando l'abbiamo messa online.
     a.fresh = a.sourceDate && !isNaN(a.sourceDate) ? a.sourceDate : a.publishedAt;
     if (!cfg.alwaysPostCategories.includes(a.category) && (now - a.fresh) / 36e5 > (cfg.maxSourceAgeHours ?? 24)) continue;
+    // Gli articoli non usciti in giornata si scartano: il giorno dopo contano solo quelli del giorno
+    if (!cfg.alwaysPostCategories.includes(a.category) && romeDay(a.publishedAt) !== romeDay(now)) continue;
     if (!a.social || state.posted[a.slug] || (state.failures[a.slug] ?? 0) >= 3) continue;
     out.push(a);
   }
@@ -114,8 +116,8 @@ function select(cands, now) {
   const today = romeDay(now);
   const postedToday = Object.values(state.posted).filter((p) => romeDay(new Date(p.at)) === today);
   const playersToday = new Set(postedToday.flatMap((p) => p.players ?? []));
-  const normalDone = postedToday.filter((p) => !cfg.alwaysPostCategories.includes(p.category)).length;
-  let normalLeft = Math.max(0, cfg.maxPerDay - normalDone);
+  // Tetto TOTALE giornaliero (Taccuino ed editoriali inclusi)
+  let normalLeft = Math.max(0, cfg.maxPerDay - postedToday.length);
 
   const always = cands.filter((a) => cfg.alwaysPostCategories.includes(a.category)).sort((x, y) => x.publishedAt - y.publishedAt);
   const prio = (c) => { const i = cfg.categoryPriority.indexOf(c); return i < 0 ? 99 : i; };
@@ -123,6 +125,7 @@ function select(cands, now) {
     .sort((x, y) => prio(x.category) - prio(y.category) || y.fresh - x.fresh);
 
   const picked = [...always];
+  normalLeft = Math.max(0, normalLeft - always.length);
   // Mattina: prima le prestazioni (partite del giorno prima); news e mercato solo dopo l'ora indicata
   const onlyPerf = romeHour(now) < (cfg.performanceOnlyUntilHour ?? 0) && normal.some((x) => x.category === 'performance');
   for (const a of normal) {
