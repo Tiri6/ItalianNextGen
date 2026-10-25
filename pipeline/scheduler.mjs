@@ -94,6 +94,8 @@ function parseArticles() {
   return out;
 }
 
+const catRank = (c) => { const i = ['performance', 'news', 'mercato'].indexOf(c); return i < 0 ? 3 : i; };
+
 function isRecent(dateStr, refDateStr) {
   if (!dateStr) return false;
   const d = new Date(dateStr + 'T00:00:00Z');
@@ -142,7 +144,8 @@ function main() {
   const taccuini = articles.filter((a) => a.category === 'taccuino');
   const others = articles
     .filter((a) => a.category !== 'taccuino')
-    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    // Prima le prestazioni (partite di ieri), poi news, poi mercato e il resto; a parità, le più recenti
+    .sort((a, b) => catRank(a.category) - catRank(b.category) || (b.date || '').localeCompare(a.date || ''));
   const queue = [...taccuini, ...others];
 
   console.log(`📅 Scheduler → ${targetDate} (${TZ})`);

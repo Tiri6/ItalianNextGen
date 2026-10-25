@@ -123,8 +123,11 @@ function select(cands, now) {
     .sort((x, y) => prio(x.category) - prio(y.category) || y.fresh - x.fresh);
 
   const picked = [...always];
+  // Mattina: prima le prestazioni (partite del giorno prima); news e mercato solo dopo l'ora indicata
+  const onlyPerf = romeHour(now) < (cfg.performanceOnlyUntilHour ?? 0) && normal.some((x) => x.category === 'performance');
   for (const a of normal) {
     if (normalLeft <= 0) break;
+    if (onlyPerf && a.category !== 'performance') continue;
     if (a.players.some((p) => playersToday.has(p))) continue;                         // un giocatore al giorno
     picked.push(a); a.players.forEach((p) => playersToday.add(p)); normalLeft--;
   }

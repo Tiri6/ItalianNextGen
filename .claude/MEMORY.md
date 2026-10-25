@@ -52,6 +52,7 @@
 - Mai lavorare su una copia locale vecchia: prima `git pull` (il sync del Mac in passato è rimasto indietro di settimane).
 
 ## Registro decisioni (più recenti in alto)
+- 2026-10-25 — Ordine di uscita: prima le PRESTAZIONI (partite del giorno prima), poi news, poi mercato. Sul sito lo applica `scheduler.mjs` (ordine degli slot dopo il Taccuino); su Instagram `instagram.mjs` prima delle 13:00 (`performanceOnlyUntilHour` in `data/instagram.json`) pubblica solo prestazioni, se ce ne sono.
 - 2026-10-25 — Instagram: distanza minima tra post normali 150 → 90 min. Freschezza vera: `publish.mjs` salva `sourceDate` (data della fonte) nel frontmatter; `instagram.mjs` scarta i post normali con fonte più vecchia di `maxSourceAgeHours` (24, in `data/instagram.json`) e ordina per data della fonte, non per orario di pubblicazione sul sito. Caso Italia U15-Turkmenistan: notizia dell'esordio rilanciata dopo altre due partite; ora `social: false` sugli altri articoli sullo stesso esordio. Articoli precedenti senza `sourceDate` usano `publishedAt` (limite 30 h).
 - 2026-10-25 — Aggiunto Mattia Zanotti (Lugano, difensore, 2003, estero) alla watchlist su richiesta di Marco; valore di mercato e caps da compilare con fonte.
 - 2026-10-25 — Taccuino: ammesse solo notizie con `pubDate` entro 36 ore (`digest.mjs`). Il Taccuino del 25 ott riportava Monza-Torino 1-1 da un titolo del 23 ott (partita diversa da quella finita 3-2): pillola rimossa dalla pagina.

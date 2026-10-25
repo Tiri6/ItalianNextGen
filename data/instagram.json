@@ -21,5 +21,6 @@
     "#Azzurri"
   ],
   "footer": "🔗 Articolo completo e fonte: link in bio · italiannextgen.it",
-  "maxSourceAgeHours": 24
+  "maxSourceAgeHours": 24,
+  "performanceOnlyUntilHour": 13
 }
