@@ -43,6 +43,9 @@ for (const f of files) {
   try {
     const c = JSON.parse(await readFile(path.join(CANDIDATES, f), 'utf8'));
     // Stesse regole editoriali della pubblicazione: niente calcio femminile, altri sport, fuori tema
+    // Solo notizie fresche: pubDate della fonte entro 36 ore (altrimenti risultati/punteggi di partite vecchie)
+    const age = c.pubDate ? Date.now() - new Date(c.pubDate).getTime() : 0;
+    if (age > 36 * 3600 * 1000) continue;
     if (!c.draft && !c.isDigest && !isBlocked(c.source) && !editorialReject(c.title, (c.players ?? []).length > 0)) pool.push({ f, c });
   } catch {}
 }
