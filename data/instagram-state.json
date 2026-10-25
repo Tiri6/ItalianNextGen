@@ -23,8 +23,18 @@
       "at": "2026-10-24T18:34:32.390Z",
       "category": "news",
       "players": []
+    },
+    "camarda-e-esposito-il-dibattito-sulla-crescita-dei-talenti-r": {
+      "id": "18118523506959246",
+      "at": "2026-10-25T10:41:07.615Z",
+      "category": "news",
+      "players": [
+        "Francesco Pio Esposito",
+        "Francesco Camarda",
+        "Sebastiano Esposito"
+      ]
     }
   },
   "failures": {},
-  "lastPostAt": "2026-10-24T18:34:32.390Z"
+  "lastPostAt": "2026-10-25T10:41:07.615Z"
 }
