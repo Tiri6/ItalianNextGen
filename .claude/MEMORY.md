@@ -52,6 +52,7 @@
 - Mai lavorare su una copia locale vecchia: prima `git pull` (il sync del Mac in passato è rimasto indietro di settimane).
 
 ## Registro decisioni (più recenti in alto)
+- 2026-10-25 — Aggiunto Mattia Zanotti (Lugano, difensore, 2003, estero) alla watchlist su richiesta di Marco; valore di mercato e caps da compilare con fonte.
 - 2026-10-25 — Taccuino: ammesse solo notizie con `pubDate` entro 36 ore (`digest.mjs`). Il Taccuino del 25 ott riportava Monza-Torino 1-1 da un titolo del 23 ott (partita diversa da quella finita 3-2): pillola rimossa dalla pagina.
 - 2026-10-24 — Query di ricerca sempre allineate al club attuale (`pipeline/queries.mjs`, usato da `run.mjs` a ogni raccolta): le query con un club diverso da quello in `players.json` vengono scartate e sostituite da nome completo e nome+club attuale (caso Koleosho; corretti Comuzzo, Fortini, Mascardi → Torino, Ahanor). Quando un giocatore cambia squadra basta aggiornare il campo `club`. Controllo a mano: `node pipeline/queries.mjs` (solo report), `--fix` riscrive il file.
 - 2026-10-24 — Koleosho: query di ricerca corrette (era "Koleosho Burnley", ora "Koleosho Paris FC" + "Luca Koleosho"). Su richiesta di Marco inserita a mano la candidata `koleosho-lens-20261024` (gol nel recupero del 1° tempo a Lens, Lens-Paris FC 2-1 finale) con bozza scritta solo da fatti verificati (fonte Cronachedi + risultato da dati sportivi); esclusi dati di mercato/contratto e il dettaglio Under 21 perché non verificati. Esce col normale "Pubblica articoli".

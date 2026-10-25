@@ -1459,6 +1459,17 @@
         "Raimondo Frosinone",
         "Antonio Raimondo"
       ]
+    },
+    {
+      "name": "Mattia Zanotti",
+      "club": "Lugano",
+      "role": "Difensore",
+      "born": 2003,
+      "status": "estero",
+      "queries": [
+        "Mattia Zanotti Lugano",
+        "Mattia Zanotti"
+      ]
     }
   ],
   "extraQueries": [
