@@ -21,7 +21,7 @@
 ## Architettura essenziale
 - Astro (v7), articoli in `src/content/news/*.md` con frontmatter bilingue, corpo IT poi `<!--EN-->` poi EN; `publishedAt` scaglionato.
 - Dati: `data/players.json` (watchlist ~113), `data/competitions.json`, `data/performances.json`, `data/ranking.json`, `data/sources.json`, `data/ads.json`, `data/analytics.json`, `data/support.json`.
-- Pipeline in `pipeline/`: run (raccolta Google News) → validator → write (bozze via API Anthropic, Haiku) → digest (taccuino) → publish → scheduler (slot ogni 20 min, 9-21) → social (card 1080x1080).
+- Pipeline in `pipeline/`: run (raccolta Google News) → validator → write (bozze via API Anthropic, Haiku) → digest (taccuino) → publish → scheduler (primo articolo subito, poi slot ogni 20 min, 9-21) → social (card 1080x1080).
 
 ## Workflow GitHub Actions
 | Workflow | Quando | Cosa fa |
@@ -52,6 +52,7 @@
 - Mai lavorare su una copia locale vecchia: prima `git pull` (il sync del Mac in passato è rimasto indietro di settimane).
 
 ## Registro decisioni (più recenti in alto)
+- 2026-10-26 — Pubblicazione a mano lanciata prima delle 9 (es. 7:47): il sito restava vuoto fino alle 9:00 perché lo scheduler metteva tutto sugli slot da 9:00 in poi e il Deploy delle 7:47 li escludeva. Ora `scheduler.mjs` mette il PRIMO articolo della coda (il Taccuino, se c'è) a "adesso" (-1 min) e gli altri sugli slot ogni 20 min; `--no-immediate` per tornare al vecchio comportamento. Il Deploy che parte a fine "Pubblica articoli" lo rende subito visibile. Nota: i rebuild programmati (cron) di GitHub sono best-effort e possono saltare: da controllare in Actions che girino davvero ogni 20 min.
 - 2026-10-26 — Su richiesta di Marco articolo scritto a mano su Camarda, Comotto e Cissé entrati nel finale di Udinese-Milan (0-2, risultato da dati sportivi; giudizio su voglia e personalità = osservazione di Marco). Già con `publishedAt` 26 ott 09:10, `sourceDate` fissata, cover pronta: esce da solo sul sito e, in quanto prestazione fresca, è il primo candidato Instagram della mattina.
 - 2026-10-25 — Instagram: tetto TOTALE di 5 post al giorno (Taccuino ed editoriali inclusi, `maxPerDay: 5`). Gli articoli non usciti nella giornata di pubblicazione vengono scartati (niente recuperi il giorno dopo): contano solo quelli pubblicati sul sito in giornata.
 - 2026-10-25 — Ordine di uscita: prima le PRESTAZIONI (partite del giorno prima), poi news, poi mercato. Sul sito lo applica `scheduler.mjs` (ordine degli slot dopo il Taccuino); su Instagram `instagram.mjs` prima delle 13:00 (`performanceOnlyUntilHour` in `data/instagram.json`) pubblica solo prestazioni, se ce ne sono.

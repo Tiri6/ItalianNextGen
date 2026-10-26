@@ -8,7 +8,10 @@
  * - Il Taccuino prende il PRIMO slot del giorno + featured: true (in evidenza tutto il giorno)
  * - Vengono schedulati solo articoli RECENTI (ultimi 3 giorni) senza publishedAt:
  *   gli articoli storici non vengono toccati (restano visibili)
- * - Solo slot FUTURI: se lanci alle 14:30, il primo articolo esce alle 14:40
+ * - Il PRIMO articolo della coda (il Taccuino, se c'è) esce SUBITO (orario = adesso, ora italiana),
+ *   così chi lancia la pubblicazione a mano vede subito qualcosa sul sito, anche se lancia prima
+ *   delle 9:00. Gli altri seguono sugli slot ogni 20 minuti. Per disattivare: --no-immediate
+ * - Solo slot FUTURI: se lanci alle 14:30, il secondo articolo esce alle 14:40
  * - Se non ci sono più slot oggi (dopo le 21:00), si passa a domani dalle 9:00
  *
  * USO:
@@ -42,6 +45,18 @@ function romeOffset(dateStr) {
   const s = new Intl.DateTimeFormat('en-US', { timeZone: TZ, timeZoneName: 'longOffset' }).format(d);
   const m = s.match(/GMT([+-]\d{2}:\d{2})/);
   return m ? m[1] : '+01:00';
+}
+
+/** orario italiano adesso (meno `minusMin` minuti) come ISO con offset, es. '2026-10-26T07:46:00+01:00' */
+function nowRomeIso(minusMin = 1) {
+  const t = new Date(Date.now() - minusMin * 60000);
+  const parts = Object.fromEntries(
+    new Intl.DateTimeFormat('en-GB', { timeZone: TZ, hour12: false, year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })
+      .formatToParts(t).map((p) => [p.type, p.value]),
+  );
+  const hh = parts.hour === '24' ? '00' : parts.hour;
+  const dateStr = `${parts.year}-${parts.month}-${parts.day}`;
+  return `${dateStr}T${hh}:${parts.minute}:00${romeOffset(dateStr)}`;
 }
 
 /** 'YYYY-MM-DD' del giorno dopo */
@@ -151,9 +166,23 @@ function main() {
   console.log(`📅 Scheduler → ${targetDate} (${TZ})`);
   console.log(`📍 Slot disponibili: ${slots.length} · Articoli da schedulare: ${queue.length}`);
 
-  // Un articolo ogni 20 minuti, slot consecutivi a partire dal primo disponibile.
-  const n = Math.min(queue.length, slots.length);
   let scheduled = 0;
+
+  // Primo articolo subito (solo se si schedula per oggi e prima dell'ultimo slot)
+  const immediate = !process.argv.includes('--no-immediate')
+    && targetDate === todayRome()
+    && queue.length > 0;
+  if (immediate) {
+    const article = queue.shift();
+    const iso = nowRomeIso(1);
+    const featured = article.category === 'taccuino';
+    stampArticle(article, iso, { featured });
+    console.log(`  ${iso.slice(11, 16)} → ${article.file}  ⚡ (subito)${featured ? '  📋 (taccuino, in evidenza)' : ''}`);
+    scheduled++;
+  }
+
+  // Gli altri: un articolo ogni 20 minuti, slot consecutivi a partire dal primo disponibile.
+  const n = Math.min(queue.length, slots.length);
   for (let i = 0; i < n; i++) {
     const article = queue[i];
     const slot = slots[i];
@@ -164,7 +193,7 @@ function main() {
     scheduled++;
   }
 
-  const leftover = queue.length - scheduled;
+  const leftover = queue.length - n;
   console.log(`\n✅ Schedulati ${scheduled} articoli.`);
   if (leftover > 0) {
     console.log(`⚠️  ${leftover} articoli restano senza orario (slot esauriti): rilancia domani.`);
