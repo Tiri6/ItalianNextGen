@@ -80,7 +80,7 @@ function svgClassic({ title, category, players }) {
 //   Europei / Mondiali    → coppa stilizzata
 //   Mercato               → solo lo stadio
 //   Un calciatore         → calciatore stilizzato + stadio sullo sfondo ("ibrida")
-//   Più giocatori / club  → maglia del club (se più club: uno a caso, sempre lo stesso per quell'articolo)
+//   Più giocatori / club  → maglia del club della maggioranza dei giocatori (a parità: club nel titolo, poi scelta fissa per articolo)
 //   Club non riconosciuto → cover classica
 // ============================================================================
 const CLUBS = JSON.parse(await readFile(path.join(ROOT, 'data', 'clubs.json'), 'utf8'));
@@ -139,7 +139,17 @@ function decideArt(a) {
     const c = playerClubs[0] ?? inTitle[0];
     return c && c !== 'Italia' ? { type: 'ibrida', club: c } : (c ? { type: 'maglia', club: c } : null);
   }
-  const pool = [...new Set([...playerClubs, ...inTitle])];
+  // Più giocatori: vince il club della MAGGIORANZA dei giocatori (es. 2 del Milan + 1 in prestito al Catanzaro → Milan).
+  // A parità, si preferiscono i club citati nel titolo; poi si sceglie in modo fisso per articolo.
+  const counts = new Map();
+  for (const pl of a.players) { const c = baseClub(CLUB_OF.get(pl)); if (c) counts.set(c, (counts.get(c) ?? 0) + 1); }
+  if (counts.size) {
+    const max = Math.max(...counts.values());
+    const top = [...counts].filter(([, n]) => n === max).map(([k]) => k);
+    const inT = top.filter((k) => inTitle.includes(k));
+    return { type: 'maglia', club: pickSeeded(inT.length ? inT : top, a.slug) };
+  }
+  const pool = [...new Set(inTitle)];
   return pool.length ? { type: 'maglia', club: pickSeeded(pool, a.slug) } : null;
 }
 
