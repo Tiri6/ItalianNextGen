@@ -2,6 +2,68 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-26",
+      "player": "Francesco Camarda",
+      "club": "Milan",
+      "opponent": "Udinese",
+      "competition": "Serie A",
+      "result": "2-0",
+      "note": "Entrato nei minuti finali, ha affrontato il finale con voglia e personalità senza sentirsi ospite.",
+      "noteEn": "Entered in the final minutes, faced the end of the match with desire and personality without feeling out of place.",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-26",
+      "player": "Christian Comotto",
+      "club": "Milan",
+      "opponent": "Udinese",
+      "competition": "Serie A",
+      "result": "2-0",
+      "note": "Entrato nei minuti finali, ha affrontato il finale con voglia e personalità senza sentirsi ospite.",
+      "noteEn": "Entered in the final minutes, faced the end of the match with desire and personality without feeling out of place.",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-26",
+      "player": "Alphadjo Cissè",
+      "club": "Milan",
+      "opponent": "Udinese",
+      "competition": "Serie A",
+      "result": "2-0",
+      "note": "Entrato nei minuti finali, ha affrontato il finale con voglia e personalità senza sentirsi ospite.",
+      "noteEn": "Entered in the final minutes, faced the end of the match with desire and personality without feeling out of place.",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-25",
+      "player": "Federico Croci",
+      "club": "Fiorentina Primavera",
+      "opponent": "Milan",
+      "competition": "Primavera",
+      "result": "4-2",
+      "goals": 3,
+      "note": "Ha segnato una tripletta trascinando la Fiorentina alla vittoria, ma è stato espulso per doppia ammonizione",
+      "noteEn": "Scored a hat-trick leading Fiorentina to victory, but was sent off for a second yellow card",
+      "source": "Labaro Viola",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjlZNE1nVl9FT1dEQ25SM3p0VmcteFV6b1BVazc5ZXJOamVtNm9vTzFNcTVsdmZ5cG8tMktoSDlCOXFrdmNld195bW1La0paQTFTc0xqbVpqVWthM3ZkaHdlN1NPN2RKT0xVMm1uMk1CZDRZVkdVXzB1MzBubWZrZGpiVUxNMFNQTGltVWZYM3ZHUGdBai1HcjdETWdSY1JaaXF0NDlFS3R3Qmp5UFc0Sy0taXFYZkU?oc=5"
+    },
+    {
+      "date": "2026-10-25",
+      "player": "Luca Koleosho",
+      "club": "Paris FC",
+      "opponent": "Lens",
+      "competition": "",
+      "result": "2-1",
+      "goals": 1,
+      "note": "Ha sbloccato la partita nei minuti di recupero del primo tempo firmando il suo primo gol con la maglia del Paris FC",
+      "noteEn": "Unlocked the match in the first half's recovery time by scoring his first goal with Paris FC",
+      "source": "Cronachedi",
+      "sourceUrl": "https://cronachedi.it/paris-fc-luca-koleosho-ha-segnato-il-suo-primo-gol/"
+    },
+    {
       "date": "2026-10-21",
       "player": "Eddy Kouadio",
       "club": "Monza",
@@ -193,68 +255,6 @@
       "noteEn": "Esordio nella prima giornata",
       "source": "Goal.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbG1laWI3dzdwRHpXWVlDMHFTTWRUeVJvNXdjUXJCUU96SHZMNzFCNjdsVzBUbFN6Vm1aOGJiM1ZZeUJ5WEFHN21nTXcyaUY5bkg5RURxTXF6RnB2M2RwWmNWVlduWmtyZklGWlR0NUZHRWVGWFBRQ3FoZXlsTGRMRVl4NUg0b3FwczlXNW4tTXVsMzBUUjBVRE9QcWJja0dQS1NpMlEwVlc2dHc3eUY5V0hEaWNVb0x2Y1h5UDFXVGNBMHROd2hrU2Nid2FKWXd0Slp1ZkozX0lIdURaRjY3QS0xNy1KQUZ1QzNPVGJwMHF4QQ?oc=5"
-    },
-    {
-      "date": "2026-10-07",
-      "player": "Cher Ndour",
-      "club": "",
-      "opponent": "Polonia",
-      "competition": "Italia Under 21",
-      "result": "6-2",
-      "goals": 1,
-      "note": "Ha segnato una rete di straordinaria fattura da circa 70 metri",
-      "noteEn": "Scored a goal of extraordinary quality from approximately 70 meters",
-      "source": "Goal.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOa3VPSFhlVFJteHNydC1GSUo4YU00UHZfa1BxeTVIeFk0ZUdvdDh5T2tKcEtONTdhbXJJQ3hsaFBXZ09xaDVzSzNUMkZybEdBdzZjejNkemg5VzZfUllScFY1MmFDZ1BIUlZ5OVU2R0JXa21JNjBqX2hFQU5wcFhRNHB6NG5YWE5XNDVILTZpeE9xX0VxVGNmSVRXYUJvQlFZYlVFRkZPc3ZHYWpTeVdTQWFJN181M0cxS1g0NlFVTlV2YW5jbTJzMmlvZkFXQWpNWHZfcVNRbkZFZ18xeHlHeEpZWFB0NVJpRUR0Uzdnazl2c2dPaVdCUWhyczQzWUpNSExlZ1dlSGRRWjNyM0lJ?oc=5"
-    },
-    {
-      "date": "2026-10-06",
-      "player": "Mattia Mosconi",
-      "club": "Primavera nerazzurra",
-      "opponent": "Francia",
-      "competition": "Italia U20",
-      "result": "3-0",
-      "goals": 1,
-      "note": "Ha segnato una marcatura nella vittoria azzurrina, contribuendo al successo della squadra.",
-      "noteEn": "Scored a goal in the Italian team's victory, contributing to the team's success.",
-      "source": "Tutto C",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0s5WC11MkxKM1U5UjhRdUVVcEdDeDJMMXIwMFZacHlaR25faS1PTDZZUGZ1bWw5dU9hRWtrSkd0SlVYY3plY0RNRTFHbEh3ZHl2ZFdseEhXYmVVNExvbG5NTmoyaXIzQUNRU0hXdHFEZ2I0LU56MDd5Y3Y5aGN5NmFpT2hEZlljX19lZWVibmx0OXJ2elNj?oc=5"
-    },
-    {
-      "date": "2026-10-06",
-      "player": "Simone Pafundi",
-      "club": "Catanzaro",
-      "opponent": "Germania",
-      "competition": "Italia under 20",
-      "result": "",
-      "note": "Schierato dal primo minuto in una gara amichevole di prestigio internazionale.",
-      "noteEn": "Started from the first minute in a prestigious friendly international match.",
-      "source": "calciocatanzaro.it",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0NVOGZVUmJrT2RiMGJVM0pLekNkd1o2YzdLbjlsbVdfYnpBTG9JYjV4aXFJNmtVV0N5eDI2WE80ejNmUndoaWd6amRsQXRqX3h0LXR2c21RcTZFQU45OTlQOFRLeG9YdUlobnhLYnJ1VnpoQmRobkkzOGFVaW1wc0VKdGRVazZRVzFxalFRdUplbEpya2N1Qk13MkdWT29wZjNMajQ4bUN5aGVyNndQYzFpM1ZwVG1WWGc?oc=5"
-    },
-    {
-      "date": "2026-10-04",
-      "player": "Luigi Cherubini",
-      "club": "Benevento",
-      "opponent": "Empoli Primavera",
-      "competition": "Italia Under 21",
-      "result": "",
-      "note": "Sceso in campo da titolare, dimostrando fiducia nelle sue qualità tecniche e nella capacità di interpretare il gioco in mezzo al campo.",
-      "noteEn": "Started as a starter, demonstrating confidence in his technical qualities and ability to interpret the game in midfield.",
-      "source": "Calcio Benevento",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXZKRzZtdUpCa0pKOVJtUkZEMll3T2VCVDB5aUx1SWVXemhzUWtzVk82c2dTUS05T2dUVkpaS0FaN3VLeVljUllXVFJDM1VtOHpZY29CRVZicUdlMThuQ0xJLWtsaUdrbl82d3p1VTZfX1dIMURld3Q1ZWRzUDkyNnR1cEQ1NndlODluYkhmYkxxeHFEUEpsb3JxZFlHMHl0V0xzX1FZYURfOG9WRllSTUdWQjJXY2RjUnVYeHM5MlFNeWs2?oc=5"
-    },
-    {
-      "date": "2026-10-04",
-      "player": "Giacomo Faticanti",
-      "club": "Avellino",
-      "opponent": "Spezia",
-      "competition": "Under 21",
-      "result": "10-0",
-      "note": "Si è messo in luce personalmente nella goleada, confermando i progressi individuali",
-      "noteEn": "Stood out personally in the goal fest, confirming individual progress",
-      "source": "Tutto Avellino",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbldPcFlMSFQ4N1o5QzJkRmZIMDZtano1Nm5BXzlYOXVYbnRQMFBSMmFXelV1SDN1c0VwdnVSajVWc1k2b1Zqd191V2NmN2pKS3FGbTV0eFBqU0VRS3ZvS2lMcl9CQXZOU3l3UTdibW8xejU2dm5mY0ZOc3I0THZaN0V6Y2RaTGl4ZlVXX2hCWmV5NHpCSXZrQV9YYk82QQ?oc=5"
     }
   ]
 }
