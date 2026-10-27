@@ -90,8 +90,25 @@
       "at": "2026-10-26T10:13:45.950Z",
       "category": "performance",
       "players": []
+    },
+    "taccuino-del-giorno-27-ottobre-2026": {
+      "id": "17924169084444861",
+      "at": "2026-10-27T08:18:46.053Z",
+      "category": "taccuino",
+      "players": [
+        "Pietro Comuzzo",
+        "Alessandro Longoni"
+      ]
+    },
+    "rubino-accende-la-carrarese-tre-gol-in-tre-partite-con-pagli": {
+      "id": "17990060139096691",
+      "at": "2026-10-27T08:18:51.878Z",
+      "category": "performance",
+      "players": [
+        "Tommaso Rubino"
+      ]
     }
   },
   "failures": {},
-  "lastPostAt": "2026-10-26T10:13:45.950Z"
+  "lastPostAt": "2026-10-27T08:18:51.878Z"
 }
