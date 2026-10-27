@@ -7,7 +7,7 @@
   "updatedLabelEn": "October 2026",
   "italy": {
     "rank": 15,
-    "points": 1704.73,
+    "points": 1713.04,
     "trend": 0,
     "note": "Posizione invariata nell’ultimo aggiornamento.",
     "noteEn": "Unchanged in the latest update."
@@ -17,40 +17,40 @@
       "rank": 1,
       "team": "Spagna",
       "teamEn": "Spain",
-      "points": 1995.98
+      "points": 2011.57
     },
     {
       "rank": 2,
       "team": "Argentina",
       "teamEn": "Argentina",
-      "points": 1970.37
+      "points": 1972.8
     }
   ],
   "around": [
     {
       "rank": 13,
-      "team": "Croazia",
-      "teamEn": "Croatia",
-      "points": 1723.05
+      "team": "Germania",
+      "teamEn": "Germany",
+      "points": 1717.52
     },
     {
       "rank": 14,
-      "team": "Svizzera",
-      "teamEn": "Switzerland",
-      "points": 1710.88
+      "team": "Croazia",
+      "teamEn": "Croatia",
+      "points": 1714.74
     },
     {
       "rank": 15,
       "team": "Italia",
       "teamEn": "Italy",
-      "points": 1704.73,
+      "points": 1713.04,
       "italy": true
     },
     {
       "rank": 16,
       "team": "Stati Uniti",
       "teamEn": "United States",
-      "points": 1690.33
+      "points": 1705.47
     }
   ]
 }
