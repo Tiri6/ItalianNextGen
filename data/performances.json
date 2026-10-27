@@ -2,6 +2,19 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-27",
+      "player": "Tommaso Rubino",
+      "club": "Carrarese",
+      "opponent": "Palermo",
+      "competition": "",
+      "result": "",
+      "goals": 3,
+      "note": "Ha segnato in tutte e tre le partite sotto la nuova gestione, con i primi due gol fondamentali per conquistare sei dei sette punti del periodo",
+      "noteEn": "Scored in all three matches under the new management, with the first two goals crucial for earning six of the seven points in the period",
+      "source": "Labaro Viola",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGw5d2RxXzZ3a1hUc0JFWUtRV25hMG5BanZVN0oxRWhPXzM0eGdrOXpqZDhXVi1rbHJYN2dZbUlMTGZPQ0JIbEZnYWlrVkFjTDJsajczUnl3bWppeTBkRVdWWm1oRFdvT0FNSWtwNy1Ra3lrN041NXN0TzBNTHdkbFZuai1ReEoyZ1BDWnJIUHRvU2FJbG9uaFBOS3FGaW9fTGc3NW1CekNkeWNtdVNSbDIzWHFmQnNRUVo1N2xMbVVNVVdXcURTQUVB?oc=5"
+    },
+    {
       "date": "2026-10-26",
       "player": "Francesco Camarda",
       "club": "Milan",
@@ -242,19 +255,6 @@
       "noteEn": "Unlocked the match and opened the scoring in the Nerazzurri's goalfest",
       "source": "SondrioToday",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0dXSWx2dENDOWdGckpPNHhzdXVRVUoyeUJfdWFha2FLR0xCTXk3MWR0STNmSEs3N01ZTFF5a0JNN2RiMFJFdzg3aHdoRTJqME5FenQzZkFxRjBMOUx3a21FZ3pOcGdGb1lyWVJtOW95a2lQUGNoMC1mWXh3X2ptalZLRTdtSnRJekp3LW1Uel82UTlXNGVTaUllMFduWUxGQ2NlbTJyMXYzZEh4eTRtTW9WeTFaRUJOVDNYWHN6UzdmWTM4cHc?oc=5"
-    },
-    {
-      "date": "2026-10-13",
-      "player": "Mattia Liberali",
-      "club": "Como",
-      "opponent": "Udinese",
-      "competition": "Serie A",
-      "result": "",
-      "minutes": 0,
-      "note": "Esordio nella prima giornata",
-      "noteEn": "Esordio nella prima giornata",
-      "source": "Goal.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbG1laWI3dzdwRHpXWVlDMHFTTWRUeVJvNXdjUXJCUU96SHZMNzFCNjdsVzBUbFN6Vm1aOGJiM1ZZeUJ5WEFHN21nTXcyaUY5bkg5RURxTXF6RnB2M2RwWmNWVlduWmtyZklGWlR0NUZHRWVGWFBRQ3FoZXlsTGRMRVl4NUg0b3FwczlXNW4tTXVsMzBUUjBVRE9QcWJja0dQS1NpMlEwVlc2dHc3eUY5V0hEaWNVb0x2Y1h5UDFXVGNBMHROd2hrU2Nid2FKWXd0Slp1ZkozX0lIdURaRjY3QS0xNy1KQUZ1QzNPVGJwMHF4QQ?oc=5"
     }
   ]
 }
