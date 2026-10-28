@@ -25,9 +25,6 @@ L'Under 21 di Baldini non lesina gli elogi per il talento della difesa azzurra: 
 **Alessandro Longoni**
 Il giovane portiere italiano alla ricerca di continuità al PSG: dopo un periodo di difficoltà, inizia finalmente a intravedere la luce. [fonte](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlhoN3o2U29Vc1NiaDZnWnQtOXJsUktYMEpweE5EQUpsTG5WUVRWZjYzYjdyR3ZoVXlsNEtpM2RidF9UZno4b1M1NUhsX3UwWnA1VkI4VzdDWkRqdkJtVC1JSXBIcGM2X0dkSkJiRFBWTFRzUnZMUS1zc3BFZmFVT3gwZTZydjlPMl9mSUJpQWtlM1hpQnpTazBBYXdWRXFfRC11elhwTHp2UQ?oc=5)
 
-**Special Olympics**
-Tre talenti italiani tra cui Rietinclude, Lalli e Petrucci ricevono la convocazione per i Giochi Mondiali Special Olympics: un traguardo importante per loro. [fonte](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOamZHRE04dHd3eXcwRU9Cb0RYWWw0NlNSTzRCN29oc01GVkdZQ2Y4YjZ0SkotZDB4UkhySTJKQm5qcWowNGpDdFp1ZzNvZ1VUU191V3FpemFJRWNUUGZfTmQ5NFRnbW9EWDZKOGRELWNqMnR2cUlrVzJ4bndRbUZXZzExdmNGaTEtdzY5a01aeW91SmF1UW4zTEt1WlJwNi1WaVRuc1V4UkRHdGtGTzZ0TC1oZ21tVDBKS1Z3bjZQbWs0eXEtUHZSV2lFMVctVk5KOHhteUgtQVFKVTJWdHBLdmEybU8zN1ZVZ1lQcw?oc=5)
-
 Una giornata che conferma il lavoro quotidiano nei vivai e nelle categorie giovanili azzurre.
 
 <!--EN-->
@@ -43,8 +40,5 @@ Baldini's Under 21 squad reserves high praise for the young defender: comparison
 
 **Alessandro Longoni**
 The young Italian goalkeeper is seeking consistency at PSG: after a difficult spell, he is finally beginning to see the light. [source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlhoN3o2U29Vc1NiaDZnWnQtOXJsUktYMEpweE5EQUpsTG5WUVRWZjYzYjdyR3ZoVXlsNEtpM2RidF9UZno4b1M1NUhsX3UwWnA1VkI4VzdDWkRqdkJtVC1JSXBIcGM2X0dkSkJiRFBWTFRzUnZMUS1zc3BFZmFVT3gwZTZydjlPMl9mSUJpQWtlM1hpQnpTazBBYXdWRXFfRC11elhwTHp2UQ?oc=5)
-
-**Special Olympics**
-Three Italian talents including Rietinclude, Lalli and Petrucci receive their callup for the Special Olympics World Games: a significant milestone for them. [source](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOamZHRE04dHd3eXcwRU9Cb0RYWWw0NlNSTzRCN29oc01GVkdZQ2Y4YjZ0SkotZDB4UkhySTJKQm5qcWowNGpDdFp1ZzNvZ1VUU191V3FpemFJRWNUUGZfTmQ5NFRnbW9EWDZKOGRELWNqMnR2cUlrVzJ4bndRbUZXZzExdmNGaTEtdzY5a01aeW91SmF1UW4zTEt1WlJwNi1WaVRuc1V4UkRHdGtGTzZ0TC1oZ21tVDBKS1Z3bjZQbWs0eXEtUHZSV2lFMVctVk5KOHhteUgtQVFKVTJWdHBLdmEybU8zN1ZVZ1lQcw?oc=5)
 
 A day that confirms the daily work carried out in academies and young Italian categories.
