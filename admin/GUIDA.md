@@ -54,3 +54,4 @@ Sul telefono: **Condividi → Aggiungi a schermata Home**: diventa un'app.
 - Il token GitHub sta solo su Cloudflare, mai sul telefono.
 - Il Worker controlla la firma del login Cloudflare Access, che sia la tua email e il suo "aud": senza, risponde 401.
 - Cambi il token = nuovo valore in **Variables and Secrets**. Se il telefono viene perso, basta togliere la tua sessione da Zero Trust.
+
