@@ -156,3 +156,19 @@ test('sanitizeDecisions: duplicati e ordine incompleto', () => {
   assert.ok(res.ok);
   assert.deepEqual(res.value.order, ['a-1', 'b-2']);
 });
+
+test('il 401 spiega il motivo senza rivelare valori segreti', async () => {
+  const r = makeRepo({ 'data/review-queue.json': QUEUE });
+  try {
+    const diversa = await call('GET', '/api/state', { jwt: await makeJwt({ email: 'altro@example.com' }) });
+    assert.equal(diversa.status, 401);
+    assert.match(diversa.data.error, /ALLOWED_EMAIL non coincide .*altro@example\.com/);
+    assert.ok(!diversa.data.error.includes(EMAIL)); // l'email consentita non viene mai mostrata
+    const senza = await call('GET', '/api/state', { jwt: null });
+    assert.match(senza.data.error, /nessun login/);
+    const res = await worker.fetch(new Request('https://x.workers.dev/api/state', { headers: { 'Cf-Access-Jwt-Assertion': await makeJwt() } }), { GITHUB_TOKEN: 'x', TEAM_DOMAIN: TEAM });
+    assert.match((await res.json()).error, /variabili mancanti sul Worker: POLICY_AUD, ALLOWED_EMAIL/);
+    const aud = await call('GET', '/api/state', { jwt: await makeJwt({ aud: ['altra'] }) });
+    assert.match(aud.data.error, /POLICY_AUD diverso/);
+  } finally { r.restore(); }
+});

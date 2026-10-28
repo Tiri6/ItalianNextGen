@@ -9,6 +9,9 @@
     "binding": "ASSETS",
     "run_worker_first": ["/api/*"]
   },
+  // Le variabili TEAM_DOMAIN, POLICY_AUD, ALLOWED_EMAIL si impostano nel pannello Cloudflare (contengono la tua email):
+  // keep_vars evita che ogni nuovo deploy le cancelli.
+  "keep_vars": true,
   "vars": {
     "GITHUB_REPO": "Tiri6/ItalianNextGen",
     "GITHUB_BRANCH": "main"

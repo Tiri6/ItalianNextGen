@@ -49,38 +49,47 @@ async function getCerts(teamDomain, force = false) {
   return certsCache.jwks;
 }
 
-/** Ritorna l'email dell'utente autenticato oppure null. Fallisce SEMPRE chiuso (config mancante = nessun accesso). */
+/**
+ * Controlla il login di Cloudflare Access. Fallisce SEMPRE chiuso (config mancante = nessun accesso).
+ * Ritorna {ok:true, email} oppure {ok:false, reason, ...}: il motivo non contiene mai valori segreti
+ * (al massimo l'email di CHI sta chiedendo l'accesso, e solo se la firma del suo login è valida).
+ */
 export async function verifyAccess(request, env) {
   try {
     const token = request.headers.get('Cf-Access-Jwt-Assertion');
-    const team = String(env.TEAM_DOMAIN ?? '').replace(/^https?:\/\//, '').replace(/\/$/, '');
-    if (!token || !team || !env.POLICY_AUD || !env.ALLOWED_EMAIL) return null;
+    const team = String(env.TEAM_DOMAIN ?? '').trim().replace(/^https?:\/\//, '').replace(/\/$/, '');
+    const manca = [!team && 'TEAM_DOMAIN', !env.POLICY_AUD && 'POLICY_AUD', !env.ALLOWED_EMAIL && 'ALLOWED_EMAIL'].filter(Boolean);
+    if (manca.length) return { ok: false, reason: `variabili mancanti sul Worker: ${manca.join(', ')}` };
+    if (!token) return { ok: false, reason: 'nessun login Cloudflare Access nella richiesta (la pagina è protetta da Access?)' };
     const [h, p, sig] = token.split('.');
-    if (!h || !p || !sig) return null;
+    if (!h || !p || !sig) return { ok: false, reason: 'login non valido' };
     const header = JSON.parse(b64urlToText(h));
-    if (header.alg !== 'RS256') return null;
+    if (header.alg !== 'RS256') return { ok: false, reason: 'login non valido (algoritmo)' };
 
     let jwks = await getCerts(team);
     let jwk = jwks.keys?.find((k) => k.kid === header.kid);
     if (!jwk) { jwks = await getCerts(team, true); jwk = jwks.keys?.find((k) => k.kid === header.kid); }
-    if (!jwk) return null;
+    if (!jwk) return { ok: false, reason: 'chiave del login non trovata: TEAM_DOMAIN è corretto?' };
 
     const key = await crypto.subtle.importKey('jwk', jwk, { name: 'RSASSA-PKCS1-v1_5', hash: 'SHA-256' }, false, ['verify']);
-    const ok = await crypto.subtle.verify('RSASSA-PKCS1-v1_5', key, b64urlToBytes(sig), new TextEncoder().encode(`${h}.${p}`));
-    if (!ok) return null;
+    const okSig = await crypto.subtle.verify('RSASSA-PKCS1-v1_5', key, b64urlToBytes(sig), new TextEncoder().encode(`${h}.${p}`));
+    if (!okSig) return { ok: false, reason: 'firma del login non valida' };
 
     const c = JSON.parse(b64urlToText(p));
     const now = Math.floor(Date.now() / 1000);
-    if (typeof c.exp !== 'number' || c.exp < now) return null;
-    if (typeof c.nbf === 'number' && c.nbf > now + 30) return null;
-    if (c.iss !== `https://${team}`) return null;
+    if (typeof c.exp !== 'number' || c.exp < now) return { ok: false, reason: 'login scaduto: ricarica la pagina' };
+    if (typeof c.nbf === 'number' && c.nbf > now + 30) return { ok: false, reason: 'login non ancora valido (orologio)' };
+    if (c.iss !== `https://${team}`) return { ok: false, reason: 'TEAM_DOMAIN diverso da quello del login' };
     const aud = Array.isArray(c.aud) ? c.aud : [c.aud];
-    if (!aud.includes(env.POLICY_AUD)) return null;
+    if (!aud.includes(env.POLICY_AUD)) return { ok: false, reason: 'POLICY_AUD diverso da quello dell\'applicazione Access' };
     const email = String(c.email ?? '').toLowerCase();
-    if (!email || email !== String(env.ALLOWED_EMAIL).toLowerCase()) return null;
-    return email;
+    if (!email || email !== String(env.ALLOWED_EMAIL).trim().toLowerCase()) {
+      // firma valida: l'email è quella di chi sta chiedendo l'accesso, quindi si può mostrare
+      return { ok: false, reason: `ALLOWED_EMAIL non coincide con l'email del login (${email || 'assente'})` };
+    }
+    return { ok: true, email };
   } catch {
-    return null;
+    return { ok: false, reason: 'errore nel controllo del login' };
   }
 }
 
@@ -219,8 +228,9 @@ export default {
       return env.ASSETS ? env.ASSETS.fetch(request) : new Response('Not found', { status: 404 });
     }
 
-    const email = await verifyAccess(request, env);
-    if (!email) return json({ error: 'Non autorizzato' }, 401);
+    const auth = await verifyAccess(request, env);
+    if (!auth.ok) return json({ error: `Non autorizzato: ${auth.reason}` }, 401);
+    const email = auth.email;
     if (!env.GITHUB_TOKEN) return json({ error: 'GITHUB_TOKEN non configurato sul Worker' }, 500);
 
     // Difesa in più contro richieste da altri siti: le scritture devono arrivare dalla nostra stessa origine
