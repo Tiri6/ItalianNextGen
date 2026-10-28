@@ -15,7 +15,9 @@ Se per un giorno non decidi nulla, il sito funziona in automatico come prima. Ma
 
 ## 2. Crea il Worker su Cloudflare (5 minuti)
 1. Cloudflare → **Workers & Pages** → **Create** → **Import a repository** → collega GitHub e scegli `Tiri6/ItalianNextGen`.
-2. Nome progetto: `italian-next-gen-cockpit`. **Root directory**: `admin`. Lascia vuoto il comando di build; il comando di deploy è `npx wrangler deploy`.
+2. Nome progetto: **esattamente** `italian-next-gen-cockpit` (deve coincidere con il nome in `admin/wrangler.jsonc`, altrimenti il build fallisce).
+   **Root directory**: `admin`. Comando di build: `npm run build` (o vuoto). Comando di deploy: `npx wrangler deploy`.
+   Se il build fallisce: Cloudflare → il Worker → **Builds** → apri l'ultimo → copia le ultime righe rosse dell'errore.
 3. **Deploy**. Alla fine hai un indirizzo del tipo `https://italian-next-gen-cockpit.<tuo-nome>.workers.dev`.
 
 ## 3. Metti il login davanti (5 minuti)
