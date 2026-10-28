@@ -3,6 +3,32 @@
   "performances": [
     {
       "date": "2026-10-27",
+      "player": "Niccolò Pisilli",
+      "club": "Roma",
+      "opponent": "Cagliari",
+      "competition": "Serie A",
+      "result": "4-2",
+      "goals": 1,
+      "note": "Ha segnato al 21' il gol del 2-1, su assist di Lulli, dopo il tocco di mano che aveva causato il rigore del Cagliari.",
+      "noteEn": "Scored the 2-1 in the 21st minute, assisted by Lulli, after the handball that led to Cagliari's penalty.",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-27",
+      "player": "Emanuele Lulli",
+      "club": "Roma",
+      "opponent": "Cagliari",
+      "competition": "Serie A",
+      "result": "4-2",
+      "goals": 1,
+      "note": "Ha pareggiato di testa al 15' su cross di Molina e ha servito l'assist per il 2-1 di Pisilli.",
+      "noteEn": "Equalised with a header in the 15th minute from Molina's cross and set up Pisilli's 2-1.",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-27",
       "player": "Tommaso Rubino",
       "club": "Carrarese",
       "opponent": "Palermo",

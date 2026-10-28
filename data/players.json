@@ -654,6 +654,17 @@
       ]
     },
     {
+      "name": "Simone Lontani",
+      "club": "Parma",
+      "role": "Attaccante",
+      "born": 2008,
+      "status": "serie-a",
+      "queries": [
+        "Lontani Parma",
+        "Simone Lontani"
+      ]
+    },
+    {
       "name": "Francesco Coppola",
       "club": "Pisa",
       "role": "Difensore centrale",
