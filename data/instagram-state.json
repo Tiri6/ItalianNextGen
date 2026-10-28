@@ -125,8 +125,17 @@
       "at": "2026-10-28T09:52:32.554Z",
       "category": "news",
       "players": []
+    },
+    "roma-cagliari-4-2-lulli-e-pisilli-trascinano-i-giallorossi": {
+      "id": "17939200419388923",
+      "at": "2026-10-28T12:05:18.564Z",
+      "category": "performance",
+      "players": [
+        "Niccolò Pisilli",
+        "Emanuele Lulli"
+      ]
     }
   },
   "failures": {},
-  "lastPostAt": "2026-10-28T09:52:32.554Z"
+  "lastPostAt": "2026-10-28T12:05:18.564Z"
 }
