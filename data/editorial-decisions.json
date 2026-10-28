@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "date": "2026-10-28",
+  "updatedAt": "2026-10-28T16:10:25.374Z",
+  "updatedBy": "tirinatomarco@gmail.com",
+  "enabled": true,
+  "order": [
+    "mvrqyjqf-7dj3q",
+    "mvrqyjr4-2un9b",
+    "mvrqyjo9-lz8vn",
+    "mvrqyjnn-fnxwb"
+  ],
+  "items": {
+    "mvrqyjqf-7dj3q": {
+      "live": false,
+      "instagram": false
+    },
+    "mvrqyjr4-2un9b": {
+      "live": true,
+      "instagram": false
+    },
+    "mvrqyjo9-lz8vn": {
+      "live": false,
+      "instagram": false
+    },
+    "mvrqyjnn-fnxwb": {
+      "live": true,
+      "instagram": false
+    }
+  }
+}
