@@ -1,0 +1,16 @@
+{
+  // Cockpit editoriale di Marco. Deploy da Cloudflare: Workers → Create → Import a repository,
+  // "Root directory" = admin. Segreti e variabili si impostano nel pannello Cloudflare (vedi GUIDA.md).
+  "name": "italian-next-gen-cockpit",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-01-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  },
+  "vars": {
+    "GITHUB_REPO": "Tiri6/ItalianNextGen",
+    "GITHUB_BRANCH": "main"
+  }
+}

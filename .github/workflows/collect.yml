@@ -70,6 +70,9 @@ jobs:
       - name: Pulizia fonti non ammesse (data/sources.json)
         run: node pipeline/pulisci-fonti.mjs
         continue-on-error: true
+      - name: Coda di revisione per l'app di Marco
+        run: node pipeline/publish.mjs --proposta
+        continue-on-error: true
       - name: Scaglionamento articoli rimasti senza orario
         run: node pipeline/scheduler.mjs
         continue-on-error: true
@@ -89,6 +92,7 @@ jobs:
           git add pipeline/digested || true
           git add data/competitions.json || true
           git add data/performances.json || true
+          git add data/review-queue.json || true
           git add src/content/news || true
           git add public/social || true
           git diff --cached --quiet || git commit -m "redazione: candidate e bozze del $(date +%F)"

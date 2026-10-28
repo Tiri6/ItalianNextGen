@@ -6,6 +6,15 @@
 // Pubblica in automatico le candidate che hanno una bozza scritta DALLA FONTE
 // (filtro qualità: niente articoli basati sul solo titolo, salvo --all).
 // Gli articoli senza testo non vengono MAI pubblicati.
+//
+// COCKPIT EDITORIALE (app di Marco):
+//   --proposta   non pubblica nulla: scrive data/review-queue.json con le candidate nell'ordine proposto
+//                (con avvisi tipo "possibile doppione") e le scelte suggerite per sito e Instagram.
+//   Se esiste data/editorial-decisions.json con "date" = oggi e "enabled" ≠ false, la pubblicazione è
+//   "GATE": esce SOLO ciò che Marco ha messo live:true, nell'ordine scelto, senza i filtri "morbidi"
+//   (doppioni, un articolo al giorno per giocatore, pre-partita). I filtri "duri" restano
+//   (testo vero, fonti bloccate, altri sport, calcio femminile, notizia più vecchia di 2 giorni).
+//   Senza decisioni di oggi tutto funziona come prima (automatico).
 
 import { readFile, writeFile, readdir, rename, mkdir } from 'node:fs/promises';
 import path from 'node:path';
@@ -21,6 +30,7 @@ const NEWS = path.join(ROOT, 'src', 'content', 'news');
 const maxArg = process.argv.find((a) => a.startsWith('--max='));
 const MAX = Math.max(1, Number(maxArg?.split('=')[1]) || 100);
 const ALL = process.argv.includes('--all');
+const PROPOSTA = process.argv.includes('--proposta');
 
 // --- FRESCHEZZA: si pubblicano solo notizie uscite OGGI o IERI (ora italiana) ---
 // Uso: npm run publish -- --giorni=2   per allargare la finestra (default 1 = oggi+ieri)
@@ -42,6 +52,16 @@ const isFresh = (c) => { const g = newsDay(c); return !!g && g >= OLDEST_OK; };
 // riguardano una partita ormai giocata. (Le convocazioni in NAZIONALE restano valide.)
 const PREMATCH_RE = /\b(i|tra i|nei|lista dei) convocati\b|convocati (di|del|della|per|contro)\b|probabil[ie] formazion|formazion[ei] ufficial|\bvigilia\b|pre-?partita|prepartita|\bdomani\b|\bstasera\b|in vista (di|del|della|dello)\b|tornano disponibili|recuperat[oi] per\b|squad (list|news)|line-?ups?\b|\bahead of\b|\bclash\b/i;
 const todayRome = romeDay(new Date());
+
+// --- Decisioni di Marco (data/editorial-decisions.json) ---
+const DECISIONS_FILE = path.join(ROOT, 'data', 'editorial-decisions.json');
+let decisions = null;
+try {
+  const d = JSON.parse(await readFile(DECISIONS_FILE, 'utf8'));
+  if (d && d.enabled !== false && d.date === todayRome && d.items && typeof d.items === 'object') decisions = d;
+} catch {}
+const GATE = !!decisions && !PROPOSTA;
+const decisionOf = (c) => decisions?.items?.[c.id];
 function isStalePrematch(c) {
   if (c.isDigest) return false;
   const d = c.draft ?? {};
@@ -123,19 +143,24 @@ let expired = 0;
 await mkdir(REJECTED, { recursive: true });
 for (const { f, c } of queue) {
   if (!isFresh(c) && newsDay(c)) {
-    await rename(path.join(CANDIDATES, f), path.join(REJECTED, f));
+    if (!PROPOSTA) await rename(path.join(CANDIDATES, f), path.join(REJECTED, f));
     expired++;
   }
 }
 if (expired) console.log(`  ⌛ ${expired} candidate più vecchie di ${MAX_AGE_DAYS ? 'ieri' : 'oggi'} tolte dalla coda`);
 
-const eligible = queue
+let eligible = queue
   .filter(({ c }) => {
     if (!isFresh(c)) return false; // solo notizie di oggi o di ieri
     // Data dichiarata dalla pagina della fonte: se più vecchia di 2 giorni, è una notizia riciclata
     // (es. partita di due settimane fa ripubblicata dal feed). Se la data non si legge, decide il filtro sopra.
-    if (!c.isDigest && c.draft?._sourceDate) {
-      const ageDays = (Date.now() - Date.parse(c.draft._sourceDate)) / 86400000;
+    // ATTENZIONE: alcuni siti (es. TUTTOmercatoWEB) dichiarano nella pagina una data fissa del 2005: se la data della
+    // pagina è più vecchia di 90 giorni rispetto alla data del feed NON è affidabile e decide solo il filtro oggi/ieri.
+    const pageMs = c.draft?._sourceDate ? Date.parse(c.draft._sourceDate) : NaN;
+    const feedMs = Date.parse(c.pubDate);
+    const pageDateReliable = !Number.isNaN(pageMs) && !(Number.isFinite(feedMs) && feedMs - pageMs > 90 * 86400000);
+    if (!c.isDigest && pageDateReliable) {
+      const ageDays = (Date.now() - pageMs) / 86400000;
       if (ageDays > 2) { console.log(`  ⤫ fonte di ${Math.round(ageDays)} giorni fa: ${String(c.title).slice(0, 60)}`); return false; }
     }
     if (isStalePrematch(c)) { console.log(`  ⤫ pre-partita di ieri (partita già giocata): ${String(c.title).slice(0, 60)}`); return false; }
@@ -154,10 +179,28 @@ const eligible = queue
   })
   // Ordina per ROTAZIONE (giocatori meno coperti nella settimana prima),
   // poi per punteggio di rilevanza. Così a rotazione tutti i talenti appaiono.
-  .sort((a, b) => rotationWeight(a.c) - rotationWeight(b.c) || b.c.score - a.c.score)
-  .slice(0, MAX);
+  .sort((a, b) => rotationWeight(a.c) - rotationWeight(b.c) || b.c.score - a.c.score);
 
-if (!eligible.length) {
+if (GATE) {
+  // Candidate che Marco ha scartato esplicitamente: fuori dalla coda (recuperabili dalla storia git)
+  await mkdir(REJECTED, { recursive: true });
+  let scartate = 0;
+  for (const { f, c } of queue) {
+    if (decisionOf(c)?.live === false) { await rename(path.join(CANDIDATES, f), path.join(REJECTED, f)); scartate++; }
+  }
+  if (scartate) console.log(`  🗑  ${scartate} candidate scartate da Marco: spostate in pipeline/rejected/`);
+  const ord = new Map((decisions.order ?? []).map((id, i) => [id, i]));
+  eligible = eligible
+    .filter(({ c }) => decisionOf(c)?.live === true)
+    .sort((a, b) => (ord.get(a.c.id) ?? 1e6) - (ord.get(b.c.id) ?? 1e6));
+  const dimenticate = Object.entries(decisions.items).filter(([id, v]) => v.live === true && !eligible.some(({ c }) => c.id === id));
+  for (const [id] of dimenticate) console.log(`  ⚠️ approvata ma non più pubblicabile (filtri duri o già uscita): ${id}`);
+  console.log(`🎛  Modalità decisioni di Marco: ${eligible.length} articoli approvati, ordine scelto da lui.`);
+} else if (!PROPOSTA) {
+  eligible = eligible.slice(0, MAX);
+}
+
+if (!eligible.length && !PROPOSTA) {
   console.log(`Nessuna bozza pubblicabile in coda (solo notizie dal ${OLDEST_OK} in poi).`);
   console.log('Flusso: npm run collect → npm run write → npm run publish');
   console.log('(il filtro qualità pubblica solo bozze scritte dalla fonte; --all per forzare)');
@@ -172,6 +215,29 @@ let done = 0, skippedDup = 0, skippedSameDay = 0;
 // Impronte pubblicate in QUESTO giro (evita due doppioni di fila nello stesso batch)
 const publishedNow = [];
 
+// Per --proposta: elenco delle candidate (con avvisi) e, in GATE, ordine degli slug pubblicati
+const proposalItems = [];
+const publishedSlugs = [];
+const preview = (t) => String(t ?? '').replace(/\s+/g, ' ').trim().slice(0, 420);
+function makeItem(c, f, proposedLive, flags) {
+  const d = c.draft ?? {};
+  return {
+    id: c.id, file: f,
+    title: (d.title && d.title.trim().length > 5) ? d.title.trim() : c.title,
+    excerpt: d.excerpt ?? '',
+    category: c.category || 'news',
+    source: c.source || '', link: c.link || '',
+    players: c.players ?? [],
+    sourceDate: c.pubDate && !isNaN(new Date(c.pubDate)) ? new Date(c.pubDate).toISOString() : null,
+    isDigest: !!c.isDigest,
+    score: c.score ?? 0,
+    rotation: rotationWeight(c),
+    bodyPreview: preview(d.bodyIt),
+    proposed: { live: proposedLive },
+    flags,
+  };
+}
+
 for (const { f, c } of eligible) {
   const d = c.draft;
   // Titolo pulito scritto dal redattore; il titolo grezzo della fonte è solo un ripiego
@@ -179,13 +245,13 @@ for (const { f, c } of eligible) {
 
   // --- REGOLA 0: stesso link alla fonte già pubblicato = doppione certo ---
   if (c.link && publishedUrls.has(c.link)) {
-    await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
+    if (!PROPOSTA) await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
     skippedDup++;
     console.log(`  ⤫ fonte già pubblicata: ${cleanTitle.slice(0, 55)}`);
     continue;
   }
 
-  if (c.category !== 'taccuino') {
+  if (c.category !== 'taccuino' && !GATE) {
     const w = sigWords(cleanTitle + ' ' + (d.excerpt ?? ''));
     const pls = c.players ?? [];
     const plsSet = new Set(pls);
@@ -195,6 +261,7 @@ for (const { f, c } of eligible) {
     // parlato oggi. Se tutti i suoi giocatori sono già "usati", si salta:
     // così due pezzi sullo stesso rinnovo Camarda-Comotto non escono di fila.
     if (pls.length > 0 && pls.every((p) => usedToday.has(p))) {
+      if (PROPOSTA) { proposalItems.push(makeItem(c, f, false, [{ type: 'stesso-giocatore', label: `Già trattato oggi: ${pls.join(', ')}` }])); continue; }
       await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
       skippedSameDay++;
       console.log(`  ⤫ già trattato oggi: ${cleanTitle.slice(0, 55)} [${pls.join(', ')}]`);
@@ -207,6 +274,7 @@ for (const { f, c } of eligible) {
       (o) => o.cat !== 'taccuino' && overlap(w, o.w) >= SIM_THRESHOLD && (o.cat === c.category || samePlayer(o) || plsSet.size === 0)
     );
     if (isDup) {
+      if (PROPOSTA) { proposalItems.push(makeItem(c, f, false, [{ type: 'doppione', label: 'Notizia molto simile a una già uscita o già in lista' }])); continue; }
       await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
       skippedDup++;
       console.log(`  ⤫ doppione saltato: ${cleanTitle.slice(0, 60)}`);
@@ -218,7 +286,12 @@ for (const { f, c } of eligible) {
     publishedNow.push({ w, cat: c.category, players: plsSet });
   }
 
+  if (PROPOSTA) { proposalItems.push(makeItem(c, f, true, [])); continue; }
+
   const slug = slugify(cleanTitle);
+  // GATE: la scelta di Marco per Instagram viaggia nel frontmatter (social:false = escluso, socialPick = scelto da lui)
+  const igPick = GATE ? decisionOf(c)?.instagram === true : false;
+  const igOff = GATE && !igPick;
   const md = `---
 title: ${y(cleanTitle)}
 titleEn: ${y(d.titleEn || cleanTitle)}
@@ -230,7 +303,7 @@ players: [${(c.players ?? []).map(y).join(', ')}]
 competitions: [${(c.competitions ?? []).map(y).join(', ')}]
 source: ${y(c.source || '')}
 sourceUrl: ${y(c.link || '')}
-${c.pubDate && !isNaN(new Date(c.pubDate)) ? `sourceDate: "${new Date(c.pubDate).toISOString()}"\n` : ''}---
+${c.pubDate && !isNaN(new Date(c.pubDate)) ? `sourceDate: "${new Date(c.pubDate).toISOString()}"\n` : ''}${igOff ? 'social: false\n' : ''}${igPick ? 'socialPick: true\n' : ''}---
 
 ${d.bodyIt.trim()}
 
@@ -241,7 +314,38 @@ ${(d.bodyEn || d.bodyIt).trim()}
   await writeFile(path.join(NEWS, `${slug}.md`), md);
   if (c.link) publishedUrls.add(c.link);
   await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
+  publishedSlugs.push(slug);
   done++;
+}
+
+// GATE: lo scheduler deve rispettare l'ordine scelto da Marco (file temporaneo, vive solo dentro il job)
+if (GATE && publishedSlugs.length) {
+  const STATE = path.join(ROOT, 'pipeline', 'state');
+  await mkdir(STATE, { recursive: true });
+  await writeFile(path.join(STATE, 'publish-order.json'), JSON.stringify({ date: todayRome, slugs: publishedSlugs }, null, 2) + '\n');
+}
+
+// --proposta: scrive la coda di revisione per l'app (ordine come lo schedulerebbe il sito)
+if (PROPOSTA) {
+  const catRank = (c) => { const i = ['performance', 'news', 'mercato'].indexOf(c); return i < 0 ? 3 : i; };
+  proposalItems.sort((a, b) =>
+    (b.isDigest - a.isDigest) || (a.category === 'taccuino' ? -1 : 0) - (b.category === 'taccuino' ? -1 : 0)
+    || catRank(a.category) - catRank(b.category) || a.rotation - b.rotation || b.score - a.score);
+  // Instagram suggerito: Taccuino sempre; poi per priorità, un giocatore per post, entro il tetto giornaliero
+  let igCfg = {}; try { igCfg = JSON.parse(await readFile(path.join(ROOT, 'data', 'instagram.json'), 'utf8')); } catch {}
+  let normalLeft = Math.max(0, (igCfg.maxPerDay ?? 5) - 1);
+  const igPlayers = new Set();
+  for (const it of proposalItems) {
+    if (!it.proposed.live) { it.proposed.instagram = false; continue; }
+    if (it.category === 'taccuino' || it.isDigest) { it.proposed.instagram = true; continue; }
+    const free = normalLeft > 0 && it.category !== 'mercato' && !it.players.some((p) => igPlayers.has(p));
+    it.proposed.instagram = free;
+    if (free) { normalLeft--; it.players.forEach((p) => igPlayers.add(p)); }
+  }
+  const out = { generatedAt: new Date().toISOString(), day: todayRome, items: proposalItems.map(({ rotation, score, ...rest }) => rest) };
+  await writeFile(path.join(ROOT, 'data', 'review-queue.json'), JSON.stringify(out, null, 2) + '\n');
+  console.log(`🗂  Coda di revisione: ${out.items.length} candidate (${out.items.filter((i) => i.proposed.live).length} proposte live) → data/review-queue.json`);
+  process.exit(0);
 }
 
 const extra = [skippedDup ? `${skippedDup} doppioni` : '', skippedSameDay ? `${skippedSameDay} già trattati oggi` : ''].filter(Boolean).join(' · ');

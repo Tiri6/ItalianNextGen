@@ -36,6 +36,9 @@ jobs:
           npm install sharp --no-fund --no-audit
           node pipeline/social.mjs
         continue-on-error: true
+      - name: Aggiorna la coda di revisione (app di Marco)
+        run: node pipeline/publish.mjs --proposta
+        continue-on-error: true
       - name: Commit degli articoli
         run: |
           git config user.name "ing-redazione"
@@ -46,6 +49,7 @@ jobs:
           git add pipeline/approved || true
           git add pipeline/candidates || true
           git add public/social || true
+          git add data/review-queue.json || true
           git diff --cached --quiet || git commit -m "pubblicati nuovi articoli ($(date +%F))"
           # Push con riallineamento: se un altro workflow ha appena committato, riprova
           for i in 1 2 3; do

@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Redazione · Italian Next Gen</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0d2c50">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Redazione">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/icon-192.png">
+<style>
+  :root{
+    --bg:#f3f5f9; --card:#fff; --ink:#0f1b2d; --muted:#5b6b82; --line:#dde3ec;
+    --brand:#12437a; --brand-ink:#fff; --gold:#f0c94a; --gold-ink:#3a2c00;
+    --ok:#1f8a4c; --ok-bg:#e3f5ea; --warn:#9a5b00; --warn-bg:#fff2d6; --off:#c3ccd9; --danger:#b3261e;
+    --shadow:0 1px 2px rgba(15,27,45,.06),0 4px 14px rgba(15,27,45,.06);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#0b1522; --card:#12202f; --ink:#e8eef7; --muted:#93a4bb; --line:#223449;
+      --brand:#5aa2ee; --brand-ink:#06121f; --gold:#f0c94a; --gold-ink:#2a2000;
+      --ok:#5fd18d; --ok-bg:#12301f; --warn:#f0b955; --warn-bg:#33270c; --off:#3a4b60; --danger:#ff8a80;
+      --shadow:none;
+    }
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding-bottom:calc(92px + env(safe-area-inset-bottom))}
+  header{background:linear-gradient(135deg,#0d2c50,#12437a);color:#fff;padding:calc(14px + env(safe-area-inset-top)) 16px 14px}
+  .wrap{max-width:720px;margin:0 auto;padding:0 16px}
+  header .wrap{padding:0}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.2px}
+  .brand .flag{display:inline-flex;height:20px;border-radius:3px;overflow:hidden}
+  .brand .flag i{width:9px;display:block}
+  .brand .flag i:nth-child(1){background:#009246}.brand .flag i:nth-child(2){background:#f4f6fa}.brand .flag i:nth-child(3){background:#ce2b37}
+  .brand b{color:var(--gold)}
+  header p{margin:6px 0 0;font-size:14px;opacity:.9}
+  .status{display:inline-flex;align-items:center;gap:6px;margin-top:8px;font-size:13px;background:rgba(255,255,255,.14);padding:4px 10px;border-radius:99px}
+  .dot{width:8px;height:8px;border-radius:50%;background:#9fb4cf}
+  .status.dirty .dot{background:var(--gold)} .status.saved .dot{background:#6fe3a0}
+  main{padding-top:14px}
+  .banner{background:var(--warn-bg);color:var(--warn);border-radius:12px;padding:10px 12px;font-size:14px;margin-bottom:12px}
+  .toolbar{display:flex;justify-content:space-between;align-items:center;margin:4px 0 10px;color:var(--muted);font-size:14px}
+  button{font:inherit;color:inherit}
+  .link{background:none;border:0;color:var(--brand);padding:6px 2px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+  .card{background:var(--card);border-radius:16px;box-shadow:var(--shadow);padding:14px;margin-bottom:12px;border:1px solid var(--line)}
+  .card.off{opacity:.62}
+  .row{display:flex;gap:12px;align-items:flex-start}
+  .pos{flex:none;width:30px;height:30px;border-radius:50%;background:var(--brand);color:var(--brand-ink);font-weight:800;font-size:14px;display:grid;place-items:center}
+  .card.off .pos{background:var(--off);color:var(--ink)}
+  .title{font-weight:700;font-size:17px;line-height:1.3;margin:0}
+  .meta{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 0;font-size:13px;color:var(--muted);align-items:center}
+  .chip{padding:2px 8px;border-radius:99px;background:var(--bg);border:1px solid var(--line);font-size:12px;font-weight:600;color:var(--ink)}
+  .chip.taccuino{background:var(--gold);color:var(--gold-ink);border-color:transparent}
+  .chip.performance{background:var(--ok-bg);color:var(--ok);border-color:transparent}
+  .flag-warn{margin-top:8px;font-size:13px;background:var(--warn-bg);color:var(--warn);padding:6px 10px;border-radius:10px}
+  details{margin-top:8px}
+  summary{cursor:pointer;color:var(--brand);font-size:14px;padding:4px 0}
+  .preview{font-size:14px;color:var(--muted);margin:6px 0 0}
+  .preview a{color:var(--brand)}
+  .controls{display:flex;gap:10px;align-items:center;margin-top:12px;padding-top:12px;border-top:1px solid var(--line);flex-wrap:wrap}
+  .sw{display:flex;align-items:center;gap:8px;min-height:44px;cursor:pointer;user-select:none}
+  .sw input{position:absolute;opacity:0;pointer-events:none}
+  .track{width:46px;height:28px;border-radius:99px;background:var(--off);position:relative;transition:background .15s;flex:none}
+  .track::after{content:"";position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:#fff;transition:transform .15s;box-shadow:0 1px 3px rgba(0,0,0,.3)}
+  .sw input:checked + .track{background:var(--ok)}
+  .sw input:checked + .track::after{transform:translateX(18px)}
+  .sw input:focus-visible + .track{outline:3px solid var(--brand);outline-offset:2px}
+  .sw input:disabled + .track{opacity:.45}
+  .sw span.l{font-size:14px;font-weight:600}
+  .move{margin-left:auto;display:flex;gap:6px}
+  .move button{width:44px;height:44px;border-radius:12px;border:1px solid var(--line);background:var(--card);font-size:18px;cursor:pointer}
+  .move button:disabled{opacity:.35;cursor:default}
+  .bar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);padding:10px 16px calc(10px + env(safe-area-inset-bottom));box-shadow:0 -6px 20px rgba(15,27,45,.08)}
+  .bar .wrap{display:flex;gap:10px;align-items:center;padding:0}
+  .count{flex:1;font-size:13px;color:var(--muted);line-height:1.3}
+  .count b{color:var(--ink);font-size:15px}
+  .btn{height:48px;padding:0 16px;border-radius:12px;border:1px solid var(--line);background:var(--card);font-weight:700;cursor:pointer}
+  .btn.primary{background:var(--brand);color:var(--brand-ink);border-color:transparent}
+  .btn:disabled{opacity:.5;cursor:default}
+  .empty{text-align:center;color:var(--muted);padding:40px 12px}
+  .toast{position:fixed;left:16px;right:16px;bottom:calc(92px + env(safe-area-inset-bottom));max-width:688px;margin:0 auto;background:#10223a;color:#fff;border-radius:12px;padding:12px 14px;font-size:14px;box-shadow:0 8px 24px rgba(0,0,0,.25);display:none}
+  .toast.err{background:var(--danger)}
+  .toast.show{display:block}
+  footer{color:var(--muted);font-size:12px;text-align:center;margin:18px 0}
+  .pub{margin:0 0 12px;padding:10px 12px;border-radius:12px;background:var(--card);border:1px solid var(--line);font-size:14px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand"><span class="flag"><i></i><i></i><i></i></span><span>ITALIAN <b>NEXT GEN</b></span></div>
+    <p id="sub">Redazione · caricamento…</p>
+    <span class="status" id="status"><span class="dot"></span><span id="statusText">—</span></span>
+  </div>
+</header>
+
+<main class="wrap" id="main"><div class="empty">Carico le candidate…</div></main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="count" id="count"></div>
+    <button class="btn" id="saveBtn" disabled>Salva</button>
+    <button class="btn primary" id="pubBtn" disabled>Salva e pubblica</button>
+  </div>
+</div>
+
+<script>
+(() => {
+  'use strict';
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const CAT = { taccuino: 'Taccuino', performance: 'Prestazione', news: 'News', mercato: 'Mercato', editoriale: 'Editoriale' };
+  const DRAFT_KEY = 'ing_cockpit_draft_v1';
+
+  const S = { today: '', queue: { items: [], day: null, generatedAt: null }, decisions: null, list: [], dirty: false, savedAt: null, enabled: true, busy: false };
+
+  // ---------- rete ----------
+  async function api(path, opts = {}) {
+    const res = await fetch(path, { credentials: 'same-origin', ...opts, headers: { ...(opts.body ? { 'content-type': 'application/json' } : {}), ...(opts.headers || {}) } });
+    let data = null;
+    try { data = await res.json(); } catch { /* risposta non JSON = probabile login scaduto */ }
+    if (!res.ok || data === null) {
+      const err = new Error(data?.error || (res.status === 401 || data === null ? 'Sessione scaduta: ricarica la pagina' : `Errore ${res.status}`));
+      err.status = res.status; throw err;
+    }
+    return data;
+  }
+
+  let toastTimer;
+  function toast(msg, isErr = false) {
+    const t = $('#toast'); t.textContent = msg; t.className = 'toast show' + (isErr ? ' err' : '');
+    clearTimeout(toastTimer); toastTimer = setTimeout(() => (t.className = 'toast'), isErr ? 7000 : 3500);
+  }
+
+  // ---------- stato locale ----------
+  function buildList() {
+    const items = S.queue.items || [];
+    const byId = new Map(items.map((i) => [i.id, i]));
+    const dec = S.decisions;
+    const orderIds = [];
+    if (dec) for (const id of dec.order || []) if (byId.has(id) && !orderIds.includes(id)) orderIds.push(id);
+    for (const i of items) if (!orderIds.includes(i.id)) orderIds.push(i.id);
+    S.list = orderIds.map((id) => {
+      const it = byId.get(id), d = dec?.items?.[id];
+      return { ...it, live: d ? !!d.live : !!it.proposed?.live, instagram: d ? !!d.instagram : !!it.proposed?.instagram };
+    });
+    S.enabled = dec ? dec.enabled !== false : true;
+    S.dirty = !dec; // senza decisioni salvate oggi, la proposta è tutta da confermare
+    // bozza locale non ancora salvata (stessa coda)
+    try {
+      const raw = localStorage.getItem(DRAFT_KEY);
+      if (raw) {
+        const dr = JSON.parse(raw);
+        if (dr.day === S.today && dr.gen === S.queue.generatedAt) {
+          const m = new Map(dr.list.map((x) => [x.id, x]));
+          const ordered = dr.list.map((x) => S.list.find((y) => y.id === x.id)).filter(Boolean);
+          const rest = S.list.filter((y) => !m.has(y.id));
+          S.list = [...ordered, ...rest].map((y) => (m.has(y.id) ? { ...y, live: m.get(y.id).live, instagram: m.get(y.id).instagram } : y));
+          S.dirty = true;
+        }
+      }
+    } catch { /* storage non disponibile: nessun problema */ }
+  }
+  function persistDraft() {
+    try {
+      if (S.dirty) localStorage.setItem(DRAFT_KEY, JSON.stringify({ day: S.today, gen: S.queue.generatedAt, list: S.list.map(({ id, live, instagram }) => ({ id, live, instagram })) }));
+      else localStorage.removeItem(DRAFT_KEY);
+    } catch { /* ignora */ }
+  }
+  function markDirty() { S.dirty = true; persistDraft(); renderChrome(); }
+
+  // ---------- render ----------
+  function fmtDay(d) { try { return new Intl.DateTimeFormat('it-IT', { weekday: 'long', day: 'numeric', month: 'long' }).format(new Date(d + 'T12:00:00')); } catch { return d; } }
+  function fmtTime(iso) { try { return new Intl.DateTimeFormat('it-IT', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Rome' }).format(new Date(iso)); } catch { return ''; } }
+
+  function renderChrome() {
+    const live = S.list.filter((i) => i.live).length, ig = S.list.filter((i) => i.live && i.instagram).length;
+    $('#count').innerHTML = `<b>${live}</b> sul sito · <b>${ig}</b> su Instagram<br>${S.list.length} candidate`;
+    const st = $('#status');
+    if (!S.enabled) { st.className = 'status'; $('#statusText').textContent = 'Modalità automatica attiva oggi'; }
+    else if (S.dirty) { st.className = 'status dirty'; $('#statusText').textContent = 'Modifiche non salvate'; }
+    else { st.className = 'status saved'; $('#statusText').textContent = S.savedAt ? `Salvato alle ${fmtTime(S.savedAt)}` : 'Salvato'; }
+    $('#saveBtn').disabled = S.busy || !S.list.length || (!S.dirty && S.enabled);
+    $('#pubBtn').disabled = S.busy || !live;
+    $('#sub').textContent = `Redazione · ${fmtDay(S.today)}`;
+  }
+
+  function card(it, idx, n) {
+    const flags = (it.flags || []).map((f) => `<div class="flag-warn">⚠️ ${esc(f.label)}</div>`).join('');
+    const players = (it.players || []).length ? `<span>${esc(it.players.join(', '))}</span>` : '';
+    const when = it.sourceDate ? `<span>${esc(fmtTime(it.sourceDate))}</span>` : '';
+    return `<article class="card ${it.live ? '' : 'off'}" data-id="${esc(it.id)}">
+      <div class="row">
+        <div class="pos">${idx + 1}</div>
+        <div style="flex:1;min-width:0">
+          <h2 class="title">${esc(it.title)}</h2>
+          <div class="meta"><span class="chip ${esc(it.category)}">${esc(CAT[it.category] || it.category)}</span><span>${esc(it.source)}</span>${when}${players}</div>
+          ${flags}
+          <details><summary>Leggi la bozza</summary>
+            <p class="preview">${esc(it.bodyPreview)}${it.bodyPreview && it.bodyPreview.length >= 420 ? '…' : ''}${it.link ? ` <a href="${esc(it.link)}" target="_blank" rel="noopener">Apri la fonte ↗</a>` : ''}</p>
+          </details>
+        </div>
+      </div>
+      <div class="controls">
+        <label class="sw"><input type="checkbox" data-k="live" ${it.live ? 'checked' : ''}><span class="track"></span><span class="l">Sito</span></label>
+        <label class="sw"><input type="checkbox" data-k="instagram" ${it.instagram ? 'checked' : ''} ${it.live ? '' : 'disabled'}><span class="track"></span><span class="l">Instagram</span></label>
+        <div class="move">
+          <button data-mv="-1" aria-label="Sposta su" ${idx === 0 ? 'disabled' : ''}>▲</button>
+          <button data-mv="1" aria-label="Sposta giù" ${idx === n - 1 ? 'disabled' : ''}>▼</button>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function renderList() {
+    const main = $('#main');
+    let html = '';
+    if (S.queue.day && S.queue.day !== S.today) html += `<div class="banner">La coda è del ${esc(fmtDay(S.queue.day))}: la redazione di oggi non ha ancora girato.</div>`;
+    if (!S.list.length) {
+      main.innerHTML = html + '<div class="empty">Nessuna candidata in coda.<br>Compare dopo la raccolta del mattino.</div>';
+      return;
+    }
+    html += `<div class="toolbar"><span>Ordine di uscita proposto dalla redazione</span><button class="link" id="reset">Ripristina proposta</button></div>`;
+    html += `<div id="pubstat"></div>`;
+    html += S.list.map((it, i) => card(it, i, S.list.length)).join('');
+    html += `<footer>${S.enabled ? '<button class="link" id="auto">Per oggi torna all\'automatico</button>' : 'Oggi la pubblicazione è automatica. Salva per riprendere il controllo.'}</footer>`;
+    main.innerHTML = html;
+  }
+
+  // ---------- azioni ----------
+  function move(id, delta) {
+    const i = S.list.findIndex((x) => x.id === id), j = i + delta;
+    if (i < 0 || j < 0 || j >= S.list.length) return;
+    [S.list[i], S.list[j]] = [S.list[j], S.list[i]];
+    markDirty(); renderList();
+    const el = document.querySelector(`[data-id="${CSS.escape(id)}"]`); if (el) el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+  }
+
+  function payload(enabled = true) {
+    return { enabled, order: S.list.map((x) => x.id), items: Object.fromEntries(S.list.map((x) => [x.id, { live: x.live, instagram: x.live && x.instagram }])) };
+  }
+
+  async function save(enabled = true) {
+    S.busy = true; renderChrome();
+    try {
+      const r = await api('/api/decisions', { method: 'PUT', body: JSON.stringify(payload(enabled)) });
+      S.decisions = r.saved; S.enabled = r.saved.enabled !== false; S.dirty = false; S.savedAt = r.saved.updatedAt; persistDraft();
+      return true;
+    } catch (e) { toast(e.message, true); return false; }
+    finally { S.busy = false; renderChrome(); }
+  }
+
+  async function publish() {
+    const live = S.list.filter((i) => i.live).length, ig = S.list.filter((i) => i.live && i.instagram).length;
+    if (!confirm(`Pubblicare ora ${live} articoli sul sito (${ig} con Instagram)?\nL'ordine è quello che vedi in lista.`)) return;
+    if (!(await save(true))) return;
+    S.busy = true; renderChrome();
+    try {
+      await api('/api/publish', { method: 'POST' });
+      toast('Pubblicazione avviata: tra un paio di minuti gli articoli escono sul sito.');
+      pollRun(Date.now());
+    } catch (e) { toast(e.message, true); }
+    finally { S.busy = false; renderChrome(); }
+  }
+
+  async function pollRun(startedAt) {
+    const box = () => document.getElementById('pubstat');
+    for (let k = 0; k < 40; k++) {
+      await new Promise((r) => setTimeout(r, 5000));
+      try {
+        const { run } = await api('/api/runs');
+        if (!run) continue;
+        const fresh = new Date(run.createdAt).getTime() >= startedAt - 60000;
+        if (!fresh) { if (box()) box().innerHTML = '<div class="pub">⏳ In attesa che parta la pubblicazione…</div>'; continue; }
+        if (run.status !== 'completed') { if (box()) box().innerHTML = '<div class="pub">⏳ Pubblicazione in corso…</div>'; continue; }
+        if (box()) box().innerHTML = run.conclusion === 'success'
+          ? '<div class="pub">✅ Pubblicazione completata. Gli articoli escono sul sito agli orari in lista (il primo subito).</div>'
+          : `<div class="pub">❌ La pubblicazione è fallita. <a href="${esc(run.url)}" target="_blank" rel="noopener">Dettagli su GitHub ↗</a></div>`;
+        return;
+      } catch { /* riprova */ }
+    }
+  }
+
+  // ---------- eventi ----------
+  document.addEventListener('change', (e) => {
+    const cb = e.target.closest('input[data-k]'); if (!cb) return;
+    const id = cb.closest('[data-id]').dataset.id, it = S.list.find((x) => x.id === id); if (!it) return;
+    it[cb.dataset.k] = cb.checked;
+    if (cb.dataset.k === 'live' && !cb.checked) it.instagram = false;
+    markDirty(); renderList();
+  });
+  document.addEventListener('click', (e) => {
+    const mv = e.target.closest('button[data-mv]');
+    if (mv) return move(mv.closest('[data-id]').dataset.id, Number(mv.dataset.mv));
+    if (e.target.id === 'reset') { if (confirm('Ripristinare ordine e scelte proposte dalla redazione?')) { S.decisions = null; buildList(); try { localStorage.removeItem(DRAFT_KEY); } catch {} S.dirty = true; renderList(); renderChrome(); } }
+    if (e.target.id === 'auto') { if (confirm('Per oggi la pubblicazione torna automatica, come prima. Confermi?')) save(false).then((ok) => { if (ok) { renderList(); toast('Fatto: per oggi decide la redazione.'); } }); }
+  });
+  $('#saveBtn').addEventListener('click', async () => { if (await save(true)) { renderList(); toast('Salvato su GitHub.'); } });
+  $('#pubBtn').addEventListener('click', publish);
+  window.addEventListener('beforeunload', (e) => { if (S.dirty && S.list.length && S.enabled) { e.preventDefault(); e.returnValue = ''; } });
+
+  // ---------- avvio ----------
+  (async () => {
+    try {
+      const r = await api('/api/state');
+      S.today = r.today; S.queue = r.queue || { items: [] }; S.decisions = r.decisions;
+      buildList(); renderList(); renderChrome();
+      if (S.decisions?.updatedAt) S.savedAt = S.decisions.updatedAt, renderChrome();
+    } catch (e) {
+      $('#main').innerHTML = `<div class="empty">${esc(e.message)}</div>`;
+      $('#statusText').textContent = 'Non connesso';
+    }
+  })();
+})();
+</script>
+</body>
+</html>

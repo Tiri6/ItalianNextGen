@@ -161,7 +161,21 @@ function main() {
     .filter((a) => a.category !== 'taccuino')
     // Prima le prestazioni (partite di ieri), poi news, poi mercato e il resto; a parità, le più recenti
     .sort((a, b) => catRank(a.category) - catRank(b.category) || (b.date || '').localeCompare(a.date || ''));
-  const queue = [...taccuini, ...others];
+  let queue = [...taccuini, ...others];
+
+  // Ordine scelto da Marco nell'app (scritto da publish.mjs in modalità decisioni): vince su quello di default.
+  const ORDER_FILE = path.join(__dir, 'state', 'publish-order.json');
+  let orderFile = null;
+  try {
+    const o = JSON.parse(fs.readFileSync(ORDER_FILE, 'utf-8'));
+    if (o.date === todayRome() && Array.isArray(o.slugs)) orderFile = o;
+  } catch {}
+  if (orderFile) {
+    const rank = new Map(orderFile.slugs.map((sl, i) => [sl, i]));
+    const r = (a) => (rank.has(a.file.replace(/\.md$/, '')) ? rank.get(a.file.replace(/\.md$/, '')) : 1e6);
+    queue = queue.map((a, i) => ({ a, i })).sort((x, y) => r(x.a) - r(y.a) || x.i - y.i).map((x) => x.a);
+    console.log('🎛  Ordine scelto da Marco applicato agli slot.');
+  }
 
   console.log(`📅 Scheduler → ${targetDate} (${TZ})`);
   console.log(`📍 Slot disponibili: ${slots.length} · Articoli da schedulare: ${queue.length}`);
@@ -193,6 +207,7 @@ function main() {
     scheduled++;
   }
 
+  if (orderFile) { try { fs.unlinkSync(ORDER_FILE); } catch {} }
   const leftover = queue.length - n;
   console.log(`\n✅ Schedulati ${scheduled} articoli.`);
   if (leftover > 0) {

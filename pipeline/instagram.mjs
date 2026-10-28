@@ -55,7 +55,7 @@ function parseArticle(slug, raw) {
     slug, title: str('title') ?? slug, category: str('category') ?? 'news', source: str('source'),
     publishedAt: pub ? new Date(pub) : null, players,
     sourceDate: str('sourceDate') ? new Date(str('sourceDate')) : null,
-    html: str('html') === 'true', social: str('social') !== 'false',
+    html: str('html') === 'true', social: str('social') !== 'false', socialPick: str('socialPick') === 'true',
     bodyIt: body.split('<!--EN-->')[0].trim(),
   };
 }
@@ -121,8 +121,10 @@ function select(cands, now) {
 
   const always = cands.filter((a) => cfg.alwaysPostCategories.includes(a.category)).sort((x, y) => x.publishedAt - y.publishedAt);
   const prio = (c) => { const i = cfg.categoryPriority.indexOf(c); return i < 0 ? 99 : i; };
+  // Scelti da Marco nell'app: vengono per primi, nell'ordine di uscita sul sito, e non subiscono il filtro "solo prestazioni al mattino"
   const normal = cands.filter((a) => !cfg.alwaysPostCategories.includes(a.category))
-    .sort((x, y) => prio(x.category) - prio(y.category) || y.fresh - x.fresh);
+    .sort((x, y) => (y.socialPick - x.socialPick) || (x.socialPick && y.socialPick ? x.publishedAt - y.publishedAt : 0)
+      || prio(x.category) - prio(y.category) || y.fresh - x.fresh);
 
   const picked = [...always];
   normalLeft = Math.max(0, normalLeft - always.length);
@@ -130,7 +132,7 @@ function select(cands, now) {
   const onlyPerf = romeHour(now) < (cfg.performanceOnlyUntilHour ?? 0) && normal.some((x) => x.category === 'performance');
   for (const a of normal) {
     if (normalLeft <= 0) break;
-    if (onlyPerf && a.category !== 'performance') continue;
+    if (onlyPerf && a.category !== 'performance' && !a.socialPick) continue;
     if (a.players.some((p) => playersToday.has(p))) continue;                         // un giocatore al giorno
     picked.push(a); a.players.forEach((p) => playersToday.add(p)); normalLeft--;
   }

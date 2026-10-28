@@ -26,6 +26,8 @@ const news = defineCollection({
     featured: z.boolean().default(false),
     /** false = questo articolo NON va su Instagram (vedi data/instagram.json). */
     social: z.boolean().default(true),
+    /** true = scelto da Marco per Instagram nell'app (ha la precedenza sulle regole automatiche di data/instagram.json). */
+    socialPick: z.boolean().default(false),
   }),
 });
 
