@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Cover from '../../components/Cover.astro';
 import { CATEGORY_LABELS, STATUS_LABELS, CAP_LABELS, formatDate, slugify, tmLink, sparkline } from '../../lib/utils';
 import playersData from '../../../data/players.json';
-import { dedupePerformances } from '../../../pipeline/perf-dedupe.mjs';
+import { publishablePerformances } from '../../../pipeline/perf-dedupe.mjs';
 import perfData from '../../../data/performances.json';
 
 export async function getStaticPaths() {
@@ -22,7 +22,7 @@ const news = (await getCollection('news'))
   .filter((p) => p.data.players.includes(player.name))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const perfs = dedupePerformances(perfData.performances.filter((p) => p.player === player.name));
+const perfs = publishablePerformances(perfData.performances.filter((p) => p.player === player.name));
 
 const history = player.valueHistory ?? [];
 const spark = history.length >= 2 ? sparkline(history) : null;

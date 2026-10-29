@@ -12,7 +12,8 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { dedupePerformances } from './perf-dedupe.mjs';
+import { dedupePerformances, hasResult } from './perf-dedupe.mjs';
+import { loadTitles, findResult } from './perf-result.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const NEWS = path.join(ROOT, 'src', 'content', 'news');
@@ -31,6 +32,7 @@ const db = JSON.parse(await readFile(PERF, 'utf8'));
 const existing = new Set(db.performances.map((p) => `${p.player}|${p.date}`));
 
 const today = new Date();
+const titles = await loadTitles(ROOT);
 const files = (await readdir(NEWS)).filter((f) => f.endsWith('.md'));
 const candidates = [];
 
@@ -108,6 +110,13 @@ Rispondi SOLO con JSON valido: {"performances":[...]}. Se nessuno ha giocato, {"
         if (!perf.result) continue; // senza un risultato reale non è affidabile
         perf.opponent = ''; // teniamo la prestazione ma senza avversario errato
       }
+      // REGOLA: niente prestazione senza risultato. Se l'articolo non lo dice, lo si cerca nei titoli già raccolti
+      // (squadra del giocatore + avversario + punteggio, tutti concordi); se non si trova, la prestazione non entra.
+      if (!hasResult(perf)) {
+        const r = findResult(titles, perf.club, perf.opponent);
+        if (r) perf.result = r;
+      }
+      if (!hasResult(perf)) { console.log(`  ⤫ ${perf.player} — ${perf.opponent || ''}: risultato non trovato, non aggiunta`); continue; }
       db.performances.push({
         date: c.date,
         player: perf.player,

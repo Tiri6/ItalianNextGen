@@ -221,6 +221,40 @@
       "noteEn": "Ha sbloccato il risultato nella vittoria esterna, dimostrando di saper incidere in contesti di rilievo",
       "source": "Triveneto Goal",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVEyQ041VUFMdXNvTm0wMThuSy14ajV1aS1UeVh6RXNCWlZGOWh5ZG1SUmgtZ2VkTXI0cG9SUzRkN0VJUGRURGxlUE8wXy1KOU0tTUpvcDZzNFp0TW9SN1k1bHZMc25xTEhLVGxvcjNIanF4R1dwWmc5U1ZSNW00SF9QSkE1T3k5aFk1VHUwSnhaQkljMXBweGw1bEhpMXhrZ2xnbE9PMlVyUXlTT1pnU24za3pMc3BKdF81a1lQN2VDNjFuV3VBeXp5YjdfUWc?oc=5"
+    },
+    {
+      "date": "2026-10-28",
+      "player": "Tommaso Baldanzi",
+      "club": "Genoa",
+      "opponent": "Juventus",
+      "competition": "Serie A",
+      "result": "2-0",
+      "goals": 1,
+      "note": "Gol del raddoppio nel 2-0 del Genoa sulla Juventus.",
+      "noteEn": "Scored the second goal in Genoa's 2-0 win over Juventus.",
+      "source": "Redazione"
+    },
+    {
+      "date": "2026-10-28",
+      "player": "Giovanni Daffara",
+      "club": "Parma",
+      "opponent": "Udinese",
+      "competition": "Serie A",
+      "result": "0-0",
+      "note": "Esordio in Serie A nello 0-0 del Parma con l'Udinese.",
+      "noteEn": "Serie A debut in Parma's 0-0 draw with Udinese.",
+      "source": "Redazione"
+    },
+    {
+      "date": "2026-10-28",
+      "player": "Leonardo Colombo",
+      "club": "Monza",
+      "opponent": "Napoli",
+      "competition": "Serie A",
+      "result": "1-4",
+      "note": "Titolare in Serie A nella sconfitta del Monza contro il Napoli.",
+      "noteEn": "Started in Serie A in Monza's defeat to Napoli.",
+      "source": "Redazione"
     }
   ]
 }

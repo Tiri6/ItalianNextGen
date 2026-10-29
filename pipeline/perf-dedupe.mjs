@@ -31,3 +31,21 @@ export function dedupePerformances(list) {
   }
   return out.sort((a, b) => b.date.localeCompare(a.date));
 }
+
+// Una prestazione senza risultato non si mostra: "Pisilli contro il Cagliari" senza punteggio non dice niente.
+export const hasResult = (p) => /\d+\s*[-–:]\s*\d+/.test(String(p.result ?? ''));
+
+// Livello della partita: Serie A / campionati top = 0, Serie B = 1, il resto (C, Primavera, U23, giovanili…) = 2.
+function tier(p) {
+  const t = norm(`${p.competition} ${p.club}`);
+  if (/primavera|u23|u21|u20|u19|u18|u17|u16|u15|youth|campionato$/.test(t)) return 2;
+  if (/serieb|seriec|lega ?pro/.test(t)) return /serieb/.test(t) ? 1 : 2;
+  return 0;
+}
+
+// Elenco da mostrare: una voce per partita, solo con risultato; a parità di freschezza vengono prima i livelli alti
+// (rank = giorni dalla partita + 1 per la B + 2 per C/Primavera/giovanili, così un gol in Serie A di ieri batte un 3-0 di Primavera di oggi).
+export function publishablePerformances(list, now = Date.now()) {
+  const rank = (p) => Math.max(0, (now - dayMs(p.date)) / 86400000 - 0.5) + tier(p);
+  return dedupePerformances(list.filter(hasResult)).sort((a, b) => rank(a) - rank(b) || b.date.localeCompare(a.date));
+}
