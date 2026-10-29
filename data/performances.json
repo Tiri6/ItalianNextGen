@@ -2,6 +2,35 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-28",
+      "player": "Niccolò Pisilli",
+      "club": "Roma",
+      "opponent": "Cagliari",
+      "competition": "",
+      "result": "4-2",
+      "minutes": 21,
+      "goals": 1,
+      "note": "Ha commesso un fallo di mano in area al 10' (rigore), ma si è riscattato segnando il 2-1 al 21'.",
+      "noteEn": "Ha commesso un fallo di mano in area al 10' (rigore), ma si è riscattato segnando il 2-1 al 21'.",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-28",
+      "player": "Emanuele Lulli",
+      "club": "Roma",
+      "opponent": "Cagliari",
+      "competition": "",
+      "result": "4-2",
+      "minutes": 15,
+      "goals": 1,
+      "assists": 1,
+      "note": "Ha pareggiato di testa al 15' e ha servito l'assist per il gol di Pisilli al 21'.",
+      "noteEn": "Ha pareggiato di testa al 15' e ha servito l'assist per il gol di Pisilli al 21'.",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
       "date": "2026-10-27",
       "player": "Niccolò Pisilli",
       "club": "Roma",
@@ -231,56 +260,6 @@
       "noteEn": "Scored a hat-trick with precise movements and positional awareness, first goal at the fifteenth minute from a cross.",
       "source": "Triveneto Goal",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkF3Qm1SaThnSER1eDByeGlFNlBibm5LTFNzNkZJWjZWZHpaTnlFdzVSc3lYR29fU0pWQVphOWR3eEFYYV82c1Z6RHlSYnVhNFZvTE1hVEx6WFVnMEJtWDlvemh6cUplbTlpVjItQktmMXh1V1dIZ1R0MHQ5LS1nWGMyMmVoOVQ5ZEZoXzZoY1FGUm9yakUxUy14a25WLTZHNUszLWF3cFRqV21jY2VDRzcwWUlCbFlGa2xmNmNqLUJaUUE1LUEyRjZtTFZmajBMMGZTZ3Nmb1dnSFQzcVNValc0OGNNUkRhV0FxNjZ4LVE?oc=5"
-    },
-    {
-      "date": "2026-10-16",
-      "player": "Francesco Camarda",
-      "club": "Milan",
-      "opponent": "Salisburgo",
-      "competition": "europea",
-      "result": "4-0",
-      "note": "Centravanti schierato dal primo minuto, momento formativo cruciale nel suo percorso di crescita.",
-      "noteEn": "Striker fielded from the start, a crucial formative moment in his development path.",
-      "source": "Triveneto Goal",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkF3Qm1SaThnSER1eDByeGlFNlBibm5LTFNzNkZJWjZWZHpaTnlFdzVSc3lYR29fU0pWQVphOWR3eEFYYV82c1Z6RHlSYnVhNFZvTE1hVEx6WFVnMEJtWDlvemh6cUplbTlpVjItQktmMXh1V1dIZ1R0MHQ5LS1nWGMyMmVoOVQ5ZEZoXzZoY1FGUm9yakUxUy14a25WLTZHNUszLWF3cFRqV21jY2VDRzcwWUlCbFlGa2xmNmNqLUJaUUE1LUEyRjZtTFZmajBMMGZTZ3Nmb1dnSFQzcVNValc0OGNNUkRhV0FxNjZ4LVE?oc=5"
-    },
-    {
-      "date": "2026-10-16",
-      "player": "Davide Bartesaghi",
-      "club": "Milan",
-      "opponent": "Salisburgo",
-      "competition": "europea",
-      "result": "4-0",
-      "note": "Impiegato sulla fascia dal primo minuto, accumula esperienza contro avversari di respiro europeo.",
-      "noteEn": "Deployed on the flank from the start, gaining experience against European-level opponents.",
-      "source": "Triveneto Goal",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkF3Qm1SaThnSER1eDByeGlFNlBibm5LTFNzNkZJWjZWZHpaTnlFdzVSc3lYR29fU0pWQVphOWR3eEFYYV82c1Z6RHlSYnVhNFZvTE1hVEx6WFVnMEJtWDlvemh6cUplbTlpVjItQktmMXh1V1dIZ1R0MHQ5LS1nWGMyMmVoOVQ5ZEZoXzZoY1FGUm9yakUxUy14a25WLTZHNUszLWF3cFRqV21jY2VDRzcwWUlCbFlGa2xmNmNqLUJaUUE1LUEyRjZtTFZmajBMMGZTZ3Nmb1dnSFQzcVNValc0OGNNUkRhV0FxNjZ4LVE?oc=5"
-    },
-    {
-      "date": "2026-10-15",
-      "player": "Luigi Cherubini",
-      "club": "Benevento",
-      "opponent": "Cesena",
-      "competition": "Serie B",
-      "result": "",
-      "goals": 1,
-      "note": "Ha realizzato una rete al Vigorito confermando la tendenza di segnare in casa",
-      "noteEn": "Ha realizzato una rete al Vigorito confermando la tendenza di segnare in casa",
-      "source": "Calcio Benevento",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMGFhN1puUGJEemY1X1VXMnFlZHJ3SFZ6WjBBZlBmUDhjaFZxWEVLeWtDODBMNDNfejFNUnJFMGJxaEVGZ29PTUZoR2lTMGk5UFFvV2F0d0V6U2lRYmw2ZjN0UTNDUUxNaWw5ZlZxQ1NkcDhmM242UjhTYzgzLUV0Mk9ubW14dEFTR1VZYUVkbFQ1aTZwU0NUakxUcEZHUUIxTXQ3OUg2T0FPMV9ja284WW05aXE4ckJTMUZaS2lmajl5MWRqd21MYXQ0OExLbEZjQ3lodVRKMXhhaS1VRm1ZNy1Ob1dDSzJDcmo0?oc=5"
-    },
-    {
-      "date": "2026-10-15",
-      "player": "Mattia Mosconi",
-      "club": "Inter Under 23",
-      "opponent": "Giugliano",
-      "competition": "Campionato Under 23",
-      "result": "4-0",
-      "goals": 1,
-      "note": "Ha sbloccato il match e aperto le marcature della goleada nerazzurra",
-      "noteEn": "Unlocked the match and opened the scoring in the Nerazzurri's goalfest",
-      "source": "SondrioToday",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0dXSWx2dENDOWdGckpPNHhzdXVRVUoyeUJfdWFha2FLR0xCTXk3MWR0STNmSEs3N01ZTFF5a0JNN2RiMFJFdzg3aHdoRTJqME5FenQzZkFxRjBMOUx3a21FZ3pOcGdGb1lyWVJtOW95a2lQUGNoMC1mWXh3X2ptalZLRTdtSnRJekp3LW1Uel82UTlXNGVTaUllMFduWUxGQ2NlbTJyMXYzZEh4eTRtTW9WeTFaRUJOVDNYWHN6UzdmWTM4cHc?oc=5"
     }
   ]
 }
