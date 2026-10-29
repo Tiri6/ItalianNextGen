@@ -63,6 +63,18 @@ for (let i = queue.length - 1; i >= 0; i--) {
   const { c } = queue[i];
   if (!c.isDigest && editorialReject(c.title, (c.players ?? []).length > 0)) queue.splice(i, 1);
 }
+// …né da notizie più vecchie di ieri: publish le scarterebbe, e il budget di bozze (--max) va speso sulle fresche.
+// (Il 29 ott 2026 20 bozze su 20 erano finite su notizie del 27, lasciando senza bozza Genoa-Juve e Milan-Bologna.)
+const romeDay = (d) => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Rome' }).format(d);
+const OLDEST_FRESH = romeDay(new Date(Date.now() - 86400000));
+let staleSkipped = 0;
+for (let i = queue.length - 1; i >= 0; i--) {
+  const { c } = queue[i];
+  if (c.isDigest) continue;
+  const d = c.pubDate ? new Date(c.pubDate) : null;
+  if (d && !isNaN(d) && romeDay(d) < OLDEST_FRESH) { queue.splice(i, 1); staleSkipped++; }
+}
+if (staleSkipped) console.log(`  ⌛ ${staleSkipped} candidate più vecchie di ieri ignorate (niente bozza)`);
 queue.sort((a, b) => b.c.score - a.c.score);
 
 // Una bozza scritta "dal solo titolo" (fonte non letta) viene ritentata UNA volta:
