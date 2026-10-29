@@ -5,6 +5,7 @@ import Cover from '../../components/Cover.astro';
 import { CATEGORY_LABELS, formatDate, slugify } from '../../lib/utils';
 import { filterPublished, sortByPublished } from '../../lib/articles';
 import playersData from '../../../data/players.json';
+import { dedupePerformances } from '../../../pipeline/perf-dedupe.mjs';
 import perfData from '../../../data/performances.json';
 import compData from '../../../data/competitions.json';
 
@@ -17,14 +18,13 @@ const taccuino = posts.find((p) => p.data.category === 'taccuino');
 const featuredIds = new Set([editoriale?.id, taccuino?.id].filter(Boolean));
 const rest = posts.filter((p) => !featuredIds.has(p.id));
 
-const performances = perfData.performances
-  .sort((a, b) => b.date.localeCompare(a.date))
-  .slice(0, 8);
+const allPerf = dedupePerformances(perfData.performances);
+const performances = allPerf.slice(0, 8);
 
 const nPlayers = playersData.players.length;
 const nAbroad = playersData.players.filter((p) => p.status === 'estero').length;
-const totGoals = perfData.performances.reduce((s, p) => s + (p.goals ?? 0), 0);
-const totAssists = perfData.performances.reduce((s, p) => s + (p.assists ?? 0), 0);
+const totGoals = allPerf.reduce((s, p) => s + (p.goals ?? 0), 0);
+const totAssists = allPerf.reduce((s, p) => s + (p.assists ?? 0), 0);
 ---
 
 <Base

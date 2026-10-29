@@ -2,42 +2,6 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
-      "date": "2026-10-28",
-      "player": "Alphadjo Cissè",
-      "club": "Milan",
-      "opponent": "Bologna",
-      "competition": "Serie A",
-      "result": "2-4",
-      "goals": 2,
-      "note": "Doppietta nel primo tempo (14' e 27') nella sconfitta casalinga del Milan.",
-      "noteEn": "First-half double (14' and 27') in Milan's home defeat.",
-      "source": "Redazione"
-    },
-    {
-      "date": "2026-10-29",
-      "player": "Niccolò Pisilli",
-      "club": "Roma",
-      "opponent": "Cagliari",
-      "competition": "",
-      "result": "",
-      "note": "Ha rappresentato continuità di talento nel vivaio della Roma",
-      "noteEn": "Represented continuity of talent in Roma's youth academy",
-      "source": "Romanews.eu",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVEyTmpzb2pHNHl5QmNQSUd2M2EzTmF2Y3VpRUdVMVBuMFhBWDdlLTdaMUtIazY0cE1iSEtjVHJjVmV1aTAzMG0zaW9ISUdrSmJaLVVLZmFPYkpyME9zNXBLZU9XTVNDdzlmdjNCUE1iMVc1Y25lMkk1eDVJNXZMWE85VDRsVGJjcVJuS3dQY3d4SzE3?oc=5"
-    },
-    {
-      "date": "2026-10-29",
-      "player": "Emanuele Lulli",
-      "club": "Roma",
-      "opponent": "Cagliari",
-      "competition": "",
-      "result": "",
-      "note": "Ha rappresentato continuità di talento nel vivaio della Roma",
-      "noteEn": "Represented continuity of talent in Roma's youth academy",
-      "source": "Romanews.eu",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVEyTmpzb2pHNHl5QmNQSUd2M2EzTmF2Y3VpRUdVMVBuMFhBWDdlLTdaMUtIazY0cE1iSEtjVHJjVmV1aTAzMG0zaW9ISUdrSmJaLVVLZmFPYkpyME9zNXBLZU9XTVNDdzlmdjNCUE1iMVc1Y25lMkk1eDVJNXZMWE85VDRsVGJjcVJuS3dQY3d4SzE3?oc=5"
-    },
-    {
       "date": "2026-10-29",
       "player": "Mattia Mosconi",
       "club": "Inter",
@@ -51,24 +15,22 @@
     },
     {
       "date": "2026-10-28",
-      "player": "Niccolò Pisilli",
-      "club": "Roma",
-      "opponent": "Cagliari",
-      "competition": "",
-      "result": "4-2",
-      "minutes": 21,
-      "goals": 1,
-      "note": "Ha commesso un fallo di mano in area al 10' (rigore), ma si è riscattato segnando il 2-1 al 21'.",
-      "noteEn": "Ha commesso un fallo di mano in area al 10' (rigore), ma si è riscattato segnando il 2-1 al 21'.",
-      "source": "Redazione",
-      "sourceUrl": ""
+      "player": "Alphadjo Cissè",
+      "club": "Milan",
+      "opponent": "Bologna",
+      "competition": "Serie A",
+      "result": "2-4",
+      "goals": 2,
+      "note": "Doppietta nel primo tempo (14' e 27') nella sconfitta casalinga del Milan.",
+      "noteEn": "First-half double (14' and 27') in Milan's home defeat.",
+      "source": "Redazione"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-27",
       "player": "Emanuele Lulli",
       "club": "Roma",
       "opponent": "Cagliari",
-      "competition": "",
+      "competition": "Serie A",
       "result": "4-2",
       "minutes": 15,
       "goals": 1,
@@ -76,7 +38,7 @@
       "note": "Ha pareggiato di testa al 15' e ha servito l'assist per il gol di Pisilli al 21'.",
       "noteEn": "Ha pareggiato di testa al 15' e ha servito l'assist per il gol di Pisilli al 21'.",
       "source": "Redazione",
-      "sourceUrl": ""
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVEyTmpzb2pHNHl5QmNQSUd2M2EzTmF2Y3VpRUdVMVBuMFhBWDdlLTdaMUtIazY0cE1iSEtjVHJjVmV1aTAzMG0zaW9ISUdrSmJaLVVLZmFPYkpyME9zNXBLZU9XTVNDdzlmdjNCUE1iMVc1Y25lMkk1eDVJNXZMWE85VDRsVGJjcVJuS3dQY3d4SzE3?oc=5"
     },
     {
       "date": "2026-10-27",
@@ -85,24 +47,12 @@
       "opponent": "Cagliari",
       "competition": "Serie A",
       "result": "4-2",
+      "minutes": 21,
       "goals": 1,
-      "note": "Ha segnato al 21' il gol del 2-1, su assist di Lulli, dopo il tocco di mano che aveva causato il rigore del Cagliari.",
-      "noteEn": "Scored the 2-1 in the 21st minute, assisted by Lulli, after the handball that led to Cagliari's penalty.",
+      "note": "Ha commesso un fallo di mano in area al 10' (rigore), ma si è riscattato segnando il 2-1 al 21'.",
+      "noteEn": "Ha commesso un fallo di mano in area al 10' (rigore), ma si è riscattato segnando il 2-1 al 21'.",
       "source": "Redazione",
-      "sourceUrl": ""
-    },
-    {
-      "date": "2026-10-27",
-      "player": "Emanuele Lulli",
-      "club": "Roma",
-      "opponent": "Cagliari",
-      "competition": "Serie A",
-      "result": "4-2",
-      "goals": 1,
-      "note": "Ha pareggiato di testa al 15' su cross di Molina e ha servito l'assist per il 2-1 di Pisilli.",
-      "noteEn": "Equalised with a header in the 15th minute from Molina's cross and set up Pisilli's 2-1.",
-      "source": "Redazione",
-      "sourceUrl": ""
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVEyTmpzb2pHNHl5QmNQSUd2M2EzTmF2Y3VpRUdVMVBuMFhBWDdlLTdaMUtIazY0cE1iSEtjVHJjVmV1aTAzMG0zaW9ISUdrSmJaLVVLZmFPYkpyME9zNXBLZU9XTVNDdzlmdjNCUE1iMVc1Y25lMkk1eDVJNXZMWE85VDRsVGJjcVJuS3dQY3d4SzE3?oc=5"
     },
     {
       "date": "2026-10-27",
@@ -194,19 +144,6 @@
     },
     {
       "date": "2026-10-21",
-      "player": "Tommaso Rubino",
-      "club": "Carrarese",
-      "opponent": "Modena",
-      "competition": "Serie B",
-      "result": "",
-      "goals": 1,
-      "note": "Ha ripetuto il gol della settimana precedente con una serpentina che ha significato il raddoppio.",
-      "noteEn": "Ha ripetuto il gol della settimana precedente con una serpentina che ha significato il raddoppio.",
-      "source": "LaViola.it",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
-    },
-    {
-      "date": "2026-10-21",
       "player": "Tommaso Martinelli",
       "club": "Avellino",
       "opponent": "Cesena",
@@ -218,18 +155,17 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
     },
     {
-      "date": "2026-10-20",
-      "player": "Francesco Pio Esposito",
-      "club": "",
-      "opponent": "Bologna",
-      "competition": "",
+      "date": "2026-10-21",
+      "player": "Tommaso Rubino",
+      "club": "Carrarese",
+      "opponent": "Modena",
+      "competition": "Serie B",
       "result": "",
-      "minutes": 58,
-      "rating": 6,
-      "note": "Sostituito al 58°, ha faticato a incidere sulla gara mantenendo una prestazione mediocre senza lampi particolari",
-      "noteEn": "Substituted at 58', struggled to impact the match maintaining a mediocre performance without particular flashes",
-      "source": "Goal.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcGIzdlBlWmxqY0FFdU1udTByTjFzZ01xeWQ3Szg0VnFMWTFFTmF0YWNva1FEUnVXcmM2TU9uclE0TFpfcWdoWXhJazNLMGpac2hGeE1pTHUyWlIxM1lzYjFjUnAyVmJ3WG0tYUVzM1Q5TmZ4NlF4UFpsNktlRFczTzZTUkFBVS1KLUJyM0s0Y3NDTjBkZHZkRUtNNlNDb1I1WXBmZVBfNnNZNXJyOEl3MFM3eHhoLTBWNWctU25NbGd4RDFWNUQ0RzFDNjA1ZUNiQUtPMzhVQlFTcnl1Q2RwRg?oc=5"
+      "goals": 1,
+      "note": "Ha ripetuto il gol della settimana precedente con una serpentina che ha significato il raddoppio.",
+      "noteEn": "Ha ripetuto il gol della settimana precedente con una serpentina che ha significato il raddoppio.",
+      "source": "LaViola.it",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
     },
     {
       "date": "2026-10-20",
@@ -244,6 +180,20 @@
       "noteEn": "Scored coming on late in the game, intercepting space between the opposing lines in the biancorossi's victory.",
       "source": "MondoPrimavera",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJxS3djWXhKWFpwYkJJSU1sdG4xeVpHZ1k0c3FVMlN3YlB6aTdOdnB4cUZBQXVFNGZGaGxoX3ltWGppd0ZIaVhTWHVTWUJidkdHY2tvQ0tlOWVzbzdTVUpCcTRsM2RobGROWjYtWGpGMGdWdEF6VWt0eXU5T3lDckJuaWtNV3d4NXRpUnVRTTIySktnOUFTSGN3?oc=5"
+    },
+    {
+      "date": "2026-10-20",
+      "player": "Francesco Pio Esposito",
+      "club": "",
+      "opponent": "Bologna",
+      "competition": "",
+      "result": "",
+      "minutes": 58,
+      "rating": 6,
+      "note": "Sostituito al 58°, ha faticato a incidere sulla gara mantenendo una prestazione mediocre senza lampi particolari",
+      "noteEn": "Substituted at 58', struggled to impact the match maintaining a mediocre performance without particular flashes",
+      "source": "Goal.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcGIzdlBlWmxqY0FFdU1udTByTjFzZ01xeWQ3Szg0VnFMWTFFTmF0YWNva1FEUnVXcmM2TU9uclE0TFpfcWdoWXhJazNLMGpac2hGeE1pTHUyWlIxM1lzYjFjUnAyVmJ3WG0tYUVzM1Q5TmZ4NlF4UFpsNktlRFczTzZTUkFBVS1KLUJyM0s0Y3NDTjBkZHZkRUtNNlNDb1I1WXBmZVBfNnNZNXJyOEl3MFM3eHhoLTBWNWctU25NbGd4RDFWNUQ0RzFDNjA1ZUNiQUtPMzhVQlFTcnl1Q2RwRg?oc=5"
     },
     {
       "date": "2026-10-20",

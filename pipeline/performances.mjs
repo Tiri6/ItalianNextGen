@@ -12,6 +12,7 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { dedupePerformances } from './perf-dedupe.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const NEWS = path.join(ROOT, 'src', 'content', 'news');
@@ -133,7 +134,7 @@ Rispondi SOLO con JSON valido: {"performances":[...]}. Se nessuno ha giocato, {"
 }
 
 // Tieni le più recenti (max 20 in archivio, la home ne mostra 8)
-db.performances.sort((a, b) => b.date.localeCompare(a.date));
+db.performances = dedupePerformances(db.performances); // una partita = una voce per giocatore
 db.performances = db.performances.slice(0, 20);
 await writeFile(PERF, JSON.stringify(db, null, 2));
 
