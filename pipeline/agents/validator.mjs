@@ -86,9 +86,11 @@ const AMBIGUOUS_SURNAMES = new Set(['sia', 'romano', 'arena']);
 const HOMONYMS = { motta: ['thiago motta'], esposito: ['salvatore esposito', 'sebastiano esposito'] };
 
 // Match a PAROLA INTERA (niente "ansia" → Sia, "crociati" → Croci, "arenacalcio" → Arena)
+// Senza accenti da entrambi i lati: "Cissè" in watchlist deve trovare "Cisse" nei titoli (e viceversa).
+const stripAccents = (x) => String(x).normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 function hasWord(text, word) {
-  const w = word.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  return new RegExp(`(^|[^a-z0-9à-ù])${w}($|[^a-z0-9à-ù])`, 'i').test(text);
+  const w = stripAccents(word).toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return new RegExp(`(^|[^a-z0-9])${w}($|[^a-z0-9])`, 'i').test(stripAccents(text));
 }
 
 function lastName(fullName) {
