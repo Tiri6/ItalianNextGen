@@ -130,7 +130,7 @@
     },
     {
       "name": "Honest Ahanor",
-      "club": "Crystal Palace (prestito Atalanta)",
+      "club": "Crystal Palace (prestito Chelsea)",
       "role": "Difensore centrale",
       "born": 2008,
       "status": "estero",
@@ -268,7 +268,7 @@
     },
     {
       "name": "Jeff Ekhator",
-      "club": "Genoa",
+      "club": "Juventus",
       "role": "Punta centrale",
       "born": 2006,
       "status": "serie-a",
@@ -284,7 +284,8 @@
         }
       ],
       "queries": [
-        "Ekhator Genoa"
+        "Jeff Ekhator",
+        "Jeff Ekhator Juventus"
       ]
     },
     {
@@ -352,13 +353,14 @@
     },
     {
       "name": "Giovanni Fabbian",
-      "club": "Bologna",
+      "club": "Parma (prestito Fiorentina)",
       "role": "Trequartista",
       "born": 2003,
       "status": "serie-a",
       "value": 10,
       "queries": [
-        "Fabbian Bologna"
+        "Giovanni Fabbian",
+        "Giovanni Fabbian Parma"
       ]
     },
     {
@@ -449,7 +451,7 @@
     },
     {
       "name": "Luca Marianucci",
-      "club": "Torino (prestito Napoli)",
+      "club": "Napoli",
       "role": "Difensore centrale",
       "born": 2004,
       "status": "serie-a",
@@ -483,10 +485,10 @@
     },
     {
       "name": "Emanuele Rao",
-      "club": "SPAL",
+      "club": "Pisa (prestito Napoli)",
       "role": "Ala sinistra",
       "born": 2006,
-      "status": "serie-c",
+      "status": "serie-b",
       "value": 6,
       "queries": [
         "Emanuele Rao"
@@ -494,10 +496,10 @@
     },
     {
       "name": "Raphael Kofler",
-      "club": "Südtirol",
+      "club": "Cagliari",
       "role": "Difensore centrale",
       "born": 2005,
-      "status": "serie-b",
+      "status": "serie-a",
       "value": 5.5,
       "queries": [
         "Raphael Kofler"
@@ -527,13 +529,14 @@
     },
     {
       "name": "Tommaso Martinelli",
-      "club": "Fiorentina",
+      "club": "Avellino (prestito Fiorentina)",
       "role": "Portiere",
       "born": 2006,
-      "status": "serie-a",
+      "status": "serie-b",
       "value": 5,
       "queries": [
-        "Martinelli Fiorentina portiere"
+        "Tommaso Martinelli",
+        "Tommaso Martinelli Avellino"
       ]
     },
     {
@@ -601,10 +604,10 @@
     },
     {
       "name": "Fabio Rispoli",
-      "club": "Como",
+      "club": "Südtirol (prestito Como)",
       "role": "Centrocampista",
       "born": 2007,
-      "status": "serie-a",
+      "status": "serie-b",
       "value": 4.5,
       "queries": [
         "Fabio Rispoli"
@@ -689,10 +692,10 @@
     },
     {
       "name": "Dominic Vavassori",
-      "club": "Atalanta U23",
+      "club": "Palermo",
       "role": "Seconda punta",
       "born": 2006,
-      "status": "serie-c",
+      "status": "serie-b",
       "value": 3.5,
       "queries": [
         "Dominic Vavassori"
@@ -700,10 +703,10 @@
     },
     {
       "name": "Kevin Zeroli",
-      "club": "Milan Futuro",
+      "club": "Südtirol (prestito Milan)",
       "role": "Centrocampista",
       "born": 2005,
-      "status": "serie-c",
+      "status": "serie-b",
       "value": 3.3,
       "queries": [
         "Zeroli"
@@ -755,10 +758,10 @@
     },
     {
       "name": "Tommaso Rubino",
-      "club": "Fiorentina",
+      "club": "Carrarese (prestito Fiorentina)",
       "role": "Trequartista",
       "born": 2007,
-      "status": "serie-a",
+      "status": "serie-b",
       "value": 2.5,
       "queries": [
         "Tommaso Rubino"
@@ -854,10 +857,10 @@
     },
     {
       "name": "Mattia Mosconi",
-      "club": "Inter",
+      "club": "Inter U23",
       "role": "Ala destra",
       "born": 2007,
-      "status": "primavera",
+      "status": "serie-c",
       "value": 1.5,
       "queries": [
         "Mosconi Inter"
@@ -899,10 +902,10 @@
     },
     {
       "name": "Wisdom Amey",
-      "club": "Bologna",
+      "club": "Frosinone (prestito Bologna)",
       "role": "Difensore centrale",
       "born": 2005,
-      "status": "serie-a",
+      "status": "serie-b",
       "value": 0.8,
       "queries": [
         "Wisdom Amey"
@@ -910,13 +913,14 @@
     },
     {
       "name": "Leonardo Mendicino",
-      "club": "Atalanta",
+      "club": "Bari",
       "role": "Mediano",
       "born": 2006,
       "status": "serie-c",
       "value": 0.7,
       "queries": [
-        "Mendicino Atalanta"
+        "Leonardo Mendicino",
+        "Leonardo Mendicino Bari"
       ]
     },
     {
@@ -970,10 +974,10 @@
     },
     {
       "name": "Mattia Marello",
-      "club": "Inter",
+      "club": "Inter U23",
       "role": "Difensore centrale",
       "born": 2008,
-      "status": "primavera",
+      "status": "serie-c",
       "queries": [
         "Marello Inter"
       ]
@@ -1030,10 +1034,10 @@
     },
     {
       "name": "Sebastiano Desplanches",
-      "club": "Palermo",
+      "club": "Frosinone",
       "role": "Portiere",
       "born": 2003,
-      "status": "serie-b",
+      "status": "serie-a",
       "queries": [
         "Desplanches"
       ]
@@ -1060,22 +1064,23 @@
     },
     {
       "name": "Giuseppe Ambrosino",
-      "club": "Napoli",
+      "club": "Modena (prestito Napoli)",
       "role": "Attaccante",
       "born": 2003,
-      "status": "serie-a",
+      "status": "serie-b",
       "queries": [
         "Ambrosino"
       ]
     },
     {
       "name": "Alessandro Dellavalle",
-      "club": "Torino",
+      "club": "Stati Uniti (squadra da confermare)",
       "role": "Difensore centrale",
       "born": 2004,
-      "status": "serie-b",
+      "status": "estero",
       "queries": [
-        "Dellavalle Torino"
+        "Alessandro Dellavalle",
+        "Alessandro Dellavalle Squadra USA"
       ]
     },
     {
@@ -1090,12 +1095,13 @@
     },
     {
       "name": "Davide Pavesi",
-      "club": "Cremonese",
+      "club": "Pergolettese (prestito Cremonese)",
       "role": "Difensore centrale",
       "born": 2008,
-      "status": "primavera",
+      "status": "serie-c",
       "queries": [
-        "Davide Pavesi Cremonese"
+        "Davide Pavesi",
+        "Davide Pavesi Pergolettese"
       ]
     },
     {
@@ -1193,12 +1199,13 @@
     },
     {
       "name": "Vincenzo Prisco",
-      "club": "Napoli",
+      "club": "Bari (prestito Napoli)",
       "role": "Regista",
       "born": 2008,
-      "status": "primavera",
+      "status": "serie-c",
       "queries": [
-        "Vincenzo Prisco Napoli"
+        "Vincenzo Prisco",
+        "Vincenzo Prisco Bari"
       ]
     },
     {
@@ -1233,12 +1240,13 @@
     },
     {
       "name": "Thomas Campaniello",
-      "club": "Empoli",
+      "club": "Fiorentina",
       "role": "Attaccante",
       "born": 2008,
       "status": "primavera",
       "queries": [
-        "Thomas Campaniello Empoli"
+        "Thomas Campaniello",
+        "Thomas Campaniello Fiorentina"
       ]
     },
     {
@@ -1253,12 +1261,13 @@
     },
     {
       "name": "Alessandro Longoni",
-      "club": "Milan",
+      "club": "Paris Saint-Germain",
       "role": "Portiere",
       "born": 2008,
-      "status": "primavera",
+      "status": "estero",
       "queries": [
-        "Alessandro Longoni Milan"
+        "Alessandro Longoni",
+        "Alessandro Longoni Paris Saint-Germain"
       ]
     },
     {
@@ -1283,12 +1292,13 @@
     },
     {
       "name": "Vincenzo Damiano",
-      "club": "Venezia",
+      "club": "Genoa",
       "role": "Centrocampista",
       "born": 2008,
       "status": "primavera",
       "queries": [
-        "Vincenzo Damiano Venezia"
+        "Vincenzo Damiano",
+        "Vincenzo Damiano Genoa"
       ]
     },
     {
@@ -1296,7 +1306,7 @@
       "club": "Perugia",
       "role": "Centrocampista",
       "born": 2008,
-      "status": "primavera",
+      "status": "serie-c",
       "queries": [
         "Christian Dottori Perugia"
       ]
@@ -1409,7 +1419,7 @@
     },
     {
       "name": "Costantino Favasuli",
-      "club": "Napoli (prestito Catanzaro)",
+      "club": "Napoli",
       "role": "Terzino",
       "born": 2004,
       "status": "serie-a",
