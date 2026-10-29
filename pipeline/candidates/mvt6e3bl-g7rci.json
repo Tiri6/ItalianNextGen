@@ -12,5 +12,15 @@
   "players": [],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Tiro a segno, azzurri in cerca di conferme ai Mondiali di Doha",
+    "titleEn": "Shooting, Italian team targets confirmation at Doha Worlds",
+    "excerpt": "Sedici atleti convocati per la rassegna iridata in Qatar dal 3 al 9 novembre, con Monna e Maldini in prima linea. L'evento rappresenta un passaggio cruciale verso le finali di Coppa del Mondo a Roma.",
+    "excerptEn": "Sixteen athletes selected for the World Championships in Qatar from 3 to 9 November, with Monna and Maldini leading the charge. The event marks a crucial stepping stone toward the World Cup finals in Rome.",
+    "bodyIt": "Il movimento italiano del tiro a segno si prepara a uno snodo importante della stagione. La nazionale si presenterà ai Mondiali di Doha con una delegazione di sedici atleti decisa a recitare un ruolo di assoluto rilievo nelle dieci specialità olimpiche in calendario. In primo piano figurano Paolo Monna e Federico Nilo Maldini, reduce da buoni piazzamenti internazionali, coadiuvati da elementi di spessore quali Danilo Dennis Sollazzo e Sofia Ceccarello.\n\nLa competizione si svolgerà tra il 3 e il 9 novembre, articolata secondo un calendario fitto che partirà dalle qualificazioni e finali della carabina 10 metri per concludersi con la pistola sportiva 25 metri femminile. Le gare spazieranno dalla carabina tre posizioni a 50 metri alla pistola automatica, offrendo agli azzurri occasioni di visibilità su più fronti. L'evento costituisce inoltre un banco di prova decisivo in ottica delle finali di Coppa del Mondo, fissate a Roma per il mese di dicembre.\n\nTutte le finali saranno trasmesse in diretta streaming, gratuitamente, attraverso i canali YouTube ufficiale dell'ISSF e Olympic Channel. Una vetrina internazionale che consente di seguire l'intera manifestazione senza interruzioni, dalle eliminatorie iniziali fino alle assegnazioni dei titoli iridati.",
+    "bodyEn": "Italian shooting is preparing for a crucial moment in the season. The national team will arrive in Doha with a delegation of sixteen athletes determined to play a leading role across all ten Olympic disciplines on the schedule. At the forefront are Paolo Monna and Federico Nilo Maldini, fresh from solid international performances, supported by experienced competitors such as Danilo Dennis Sollazzo and Sofia Ceccarello.\n\nThe competition runs from 3 to 9 November, structured according to a packed calendar beginning with qualification and final rounds of the 10-metre rifle and concluding with the women's 25-metre sport pistol. Races will span from the three-position 50-metre rifle to the automatic pistol, offering the Italians multiple chances to shine across different disciplines. The event also serves as a decisive test ahead of the World Cup finals, scheduled for Rome in December.\n\nAll finals will be broadcast live and free of charge through the official ISSF YouTube channel and Olympic Channel. An international showcase that allows viewers to follow the entire competition without interruption, from initial elimination rounds through to the crowning of world champions.",
+    "_fromSource": true,
+    "_sourceDate": null
+  }
 }

@@ -12,5 +12,15 @@
   ],
   "category": "mercato",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Baldanzi trascina il Genoa, Juventus ko al Ferraris",
+    "titleEn": "Baldanzi leads Genoa to victory, Juventus falls at Ferraris",
+    "excerpt": "L'attaccante genovese protagonista della vittoria rossoblù con una prestazione di livello superiore. I bianconeri crollano in difesa: Kalulu e Cambiaso tra i peggiori in campo.",
+    "excerptEn": "The Genoa forward stars in the Rossoblu's victory with a top-tier display. Juventus's defense crumbles: Kalulu and Cambiaso among the worst performers.",
+    "bodyIt": "Il Genoa ha sorpreso la Juventus con una prestazione corale e organizzata, imponendosi per 2-0 al Ferraris. Sulla strada della rimonta bianconera si sono frapposti il gol iniziale di Ehizibue, seguito dal raddoppio di Tommaso Baldanzi, che ha dominato la serata sul piano della qualità e dell'incisività offensiva. L'esterno offensivo ha saputo trovarsi in posizioni decisive, risultando pericoloso in ogni occasione e finalizzando la sua prova con il sigillo che ha chiuso i conti.\n\nDa segnalare anche la solidità difensiva rossoblù, con Ostigard autentico muro davanti al portiere, e l'equilibrio del centrocampo guidato da Amorim, bravo a neutralizzare le trame offensive juventine. Sul fronte bianconero, la delusione maggiore è arrivata dalla difesa: Kalulu ha avuto una serata complicata, errando in occasione del secondo gol, mentre Cambiaso ha commesso un posizionamento impreciso sul primo vantaggio. Kolo Muani è rimasto ingabbiato dalla marcatura avversaria, risultando pressoché invisibile per l'intera gara.",
+    "bodyEn": "Genoa surprised Juventus with a cohesive and well-organized performance, imposing themselves 2-0 at the Ferraris. Ehizibue's early goal was followed by Tommaso Baldanzi's second strike, with the forward dominating the evening through quality play and attacking incisiveness. The winger proved dangerous in every opportunity, showcasing decisive positioning and sealing his display with the goal that decided the match.\n\nGenoa's defensive solidity also stood out, with Ostigard an impenetrable wall in front of the goalkeeper, while the midfield maintained equilibrium under Amorim's guidance, effective at neutralizing Juventus's attacking patterns. On the Bianconeri's side, the disappointment came from the defense: Kalulu struggled through the evening, making a critical error on the second goal, while Cambiaso showed imprecise positioning on the opening score. Kolo Muani remained tightly marked by his opponents, proving nearly invisible for the entire match.",
+    "_fromSource": true,
+    "_sourceDate": "2026-10-28T21:47:40.000Z"
+  }
 }

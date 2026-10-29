@@ -2,6 +2,42 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-29",
+      "player": "Niccolò Pisilli",
+      "club": "Roma",
+      "opponent": "Cagliari",
+      "competition": "",
+      "result": "",
+      "note": "Ha rappresentato continuità di talento nel vivaio della Roma",
+      "noteEn": "Represented continuity of talent in Roma's youth academy",
+      "source": "Romanews.eu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVEyTmpzb2pHNHl5QmNQSUd2M2EzTmF2Y3VpRUdVMVBuMFhBWDdlLTdaMUtIazY0cE1iSEtjVHJjVmV1aTAzMG0zaW9ISUdrSmJaLVVLZmFPYkpyME9zNXBLZU9XTVNDdzlmdjNCUE1iMVc1Y25lMkk1eDVJNXZMWE85VDRsVGJjcVJuS3dQY3d4SzE3?oc=5"
+    },
+    {
+      "date": "2026-10-29",
+      "player": "Emanuele Lulli",
+      "club": "Roma",
+      "opponent": "Cagliari",
+      "competition": "",
+      "result": "",
+      "note": "Ha rappresentato continuità di talento nel vivaio della Roma",
+      "noteEn": "Represented continuity of talent in Roma's youth academy",
+      "source": "Romanews.eu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVEyTmpzb2pHNHl5QmNQSUd2M2EzTmF2Y3VpRUdVMVBuMFhBWDdlLTdaMUtIazY0cE1iSEtjVHJjVmV1aTAzMG0zaW9ISUdrSmJaLVVLZmFPYkpyME9zNXBLZU9XTVNDdzlmdjNCUE1iMVc1Y25lMkk1eDVJNXZMWE85VDRsVGJjcVJuS3dQY3d4SzE3?oc=5"
+    },
+    {
+      "date": "2026-10-29",
+      "player": "Mattia Mosconi",
+      "club": "Inter",
+      "opponent": "Lazio",
+      "competition": "Serie A",
+      "result": "",
+      "note": "Esordio in Serie A con pochi minuti in campo nella 36ª giornata",
+      "noteEn": "Serie A debut with few minutes played in the 36th matchday",
+      "source": "La Casa di C",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblRBRUIyQVRXa21xOVA5Vm1KaU45NTFzbEs2eC1Hd1BCTnh0RmhsN2g5anp3M2loMWtNV3haUlRlVUJlYTRBS0xnNWlWcTNxeGQ1RnNDY3M5UVpnX21tb3NsTGdKMG9qRVhjVTBwdWI5TFNDRlcweGxpckpWY3VqTGFqbXQ2c3ozc3c?oc=5"
+    },
+    {
       "date": "2026-10-28",
       "player": "Niccolò Pisilli",
       "club": "Roma",
@@ -223,43 +259,6 @@
       "noteEn": "Ha sbloccato il risultato nella vittoria esterna, dimostrando di saper incidere in contesti di rilievo",
       "source": "Triveneto Goal",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVEyQ041VUFMdXNvTm0wMThuSy14ajV1aS1UeVh6RXNCWlZGOWh5ZG1SUmgtZ2VkTXI0cG9SUzRkN0VJUGRURGxlUE8wXy1KOU0tTUpvcDZzNFp0TW9SN1k1bHZMc25xTEhLVGxvcjNIanF4R1dwWmc5U1ZSNW00SF9QSkE1T3k5aFk1VHUwSnhaQkljMXBweGw1bEhpMXhrZ2xnbE9PMlVyUXlTT1pnU24za3pMc3BKdF81a1lQN2VDNjFuV3VBeXp5YjdfUWc?oc=5"
-    },
-    {
-      "date": "2026-10-19",
-      "player": "Cher Ndour",
-      "club": "Como",
-      "opponent": "Polonia U21",
-      "competition": "Nazionali giovanili",
-      "result": "",
-      "note": "Ha iniziato bene servendo un pallone interessante, ma si è dissolto nei momenti di accelerazione dell'avversario, chiudendo con un errore tecnico grave (liscio) che ha fotografato la difficoltà nel reggere il confronto a questo livello",
-      "noteEn": "Started well by serving an interesting pass, but dissolved in moments of opponent's acceleration, ending with a serious technical error (mishit) that captured the difficulty in handling the comparison at this level",
-      "source": "FiorentinaNews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUjF2Qkh1ekY3aVJTWFp2ejlXcTlyUjhNS2ZfM0dXZFVxTDI0ek1KNTd4S2RlX1MxNmxDY0llYWMyY215UFBqT2s0bnFlQUhBQmZSeUZaSlU5YWY4LUdyMUlfQkg0Sll6c2RNYzZQQktDQ1ZhNkliZVdYY2NQVTNUWk9Hc1VWSEl1TkNqUktBWmZLelpxT2xiR24yNE43OHNJeDlqcGNwREN4LUpuU25mTDJvbzA0ZGR4dUIwc296emVsRzNQT3pTQ0txSlNzTXR1TERQcHBGVFVKS2ItMmhnT0hBV2NUTks2bVNBWDJzaURxX2ZYRVB4WTFXQ1hFRTJT?oc=5"
-    },
-    {
-      "date": "2026-10-16",
-      "player": "Samuele Inacio",
-      "club": "Borussia Dortmund",
-      "opponent": "Bodo/Glimt",
-      "competition": "Champions League",
-      "result": "0-1",
-      "note": "Non ha lasciato tracce significative della sua presenza nella sconfitta.",
-      "noteEn": "He did not leave significant traces of his presence in the defeat.",
-      "source": "Virgilio Sport",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTktSM3hFYlN1aXFKOXNNUGptWG1wTlZVV045Z04wVmRnUEZMNndhWnJ2ZWdJeDJRMEhJeTJISWQ3UnF5bEROdzJRUWZXQ2pVX1l4UEJnV29MLUtkRnBWekFsMkRnN011QUczSkpseUtUamxkcTN1M3dVcDFTbnFyc1NVbzVpcm5FX3N6R0Z6WHBDUXM0czNQY1JFT2sxeFpmSVpSbUtuS3pITnNDSFRQaFdvcTYwLXpwekxWQTFwYkhZb2I4TF9ra0pYT1dpV0FxREp6R3pFQ2E2WHN1RDBGZtIB5wFBVV95cUxNUS1ZVHJYVllZRW1IRkhnUTdpYnZqMWJxZEdVT2hJLWc1Z0p6ZXV5U1JaR1lwWnRDME93WHFEalVCUFBiZWptYkVMUDBocmxiVDVGOWZzS1lQcVdtUWVYdTdlWHFFd2JKZlNObzZpRlhJVWluQlFLeG80dXBNYVhUN2k0NXBCWEtuRFFkM29va19RN1htTXgzMlBKRDZRTVUyTk8zQl9tVG10cldXakZLT3FGalFIdko1eWoyZnM4X2VLODh0aVFqaGJpbzhXSG9yYTFTZjA2VG95dnI0c0doOHZzM0hqNW8?oc=5"
-    },
-    {
-      "date": "2026-10-16",
-      "player": "Alphadjo Cissè",
-      "club": "Milan",
-      "opponent": "Salisburgo",
-      "competition": "europea",
-      "result": "4-0",
-      "goals": 3,
-      "note": "Ha realizzato una tripletta con inserimenti precisi e senso della posizione, primo gol al quindicesimo minuto su cross dalla fascia.",
-      "noteEn": "Scored a hat-trick with precise movements and positional awareness, first goal at the fifteenth minute from a cross.",
-      "source": "Triveneto Goal",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYkF3Qm1SaThnSER1eDByeGlFNlBibm5LTFNzNkZJWjZWZHpaTnlFdzVSc3lYR29fU0pWQVphOWR3eEFYYV82c1Z6RHlSYnVhNFZvTE1hVEx6WFVnMEJtWDlvemh6cUplbTlpVjItQktmMXh1V1dIZ1R0MHQ5LS1nWGMyMmVoOVQ5ZEZoXzZoY1FGUm9yakUxUy14a25WLTZHNUszLWF3cFRqV21jY2VDRzcwWUlCbFlGa2xmNmNqLUJaUUE1LUEyRjZtTFZmajBMMGZTZ3Nmb1dnSFQzcVNValc0OGNNUkRhV0FxNjZ4LVE?oc=5"
     }
   ]
 }

@@ -10,5 +10,15 @@
   "players": [],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Azzurrini U19 Futsal, rimonta ceca ferma l'Italia sul 3-3",
+    "titleEn": "Italy U19 Futsal held by Czech Republic in 3-3 draw",
+    "excerpt": "In trasferta a Kutna Hora, gli Azzurrini controllano il primo tempo con tre gol in otto minuti, poi subiscono la rimonta ceca. Pedrini: «Uno stress-test che ci forma più di una vittoria».",
+    "excerptEn": "Away in Kutna Hora, Italy's youngsters dominate the first half with three goals in eight minutes, before the Czech side stages a comeback. Coach Pedrini: «A test that teaches us more than a win».",
+    "bodyIt": "La nazionale Under 19 di futsal pareggia nella seconda amichevole contro la Cechia a Kutna Hora con il risultato di 3-3. Dopo il netto successo della vigilia (6-1), gli Azzurrini sembrano riprendere il filo conduttore della sfida precedente: Meneguim porta avanti la squadra dopo soli trenta secondi, poi Fraia e Ferraro dilatano il vantaggio entro l'ottavo minuto. L'Italia sembra avere in pugno la partita, ma nella fase conclusiva del primo tempo la Cechia approfitta di tre tiri liberi a disposizione, segnandone due con Zita e riequilibrando completamente i conti prima dell'intervallo.\n\nNella ripresa il copione cambia radicalmente. Sebbene gli Azzurrini creino diverse opportunità offensive, il risultato resta inchiodato sul pareggio. Entrambe le squadre terminano il match in condizione di bonus falli, con la gara che assume i contorni di uno scontro tattico più che spettacolare. Al termine Vanni Pedrini commenta l'esito come «uno stress-test importante», sottolineando come la resistenza mostrata dalla Cechia e le difficoltà incontrate nella fase finale insegneranno più di una semplice vittoria. Gli Azzurrini torneranno in Italia con una vittoria e un pareggio dal doppio impegno, in vista del Main Round di qualificazione continentale previsto a marzo.",
+    "bodyEn": "Italy's Under 19 futsal team drew 3-3 with the Czech Republic in the second friendly match held in Kutna Hora. Following the clear-cut victory of the previous day (6-1), the Azzurrini picked up where they left off: Meneguim broke the deadlock after just thirty seconds, then Fraia and Ferraro extended the advantage within the eighth minute. Italy appeared to have full control, but in the closing stages of the first half the Czechs took advantage of three free throws, converting two through Zita to level the match before halftime.\n\nThe second period told a different story. Despite creating several scoring chances, the Azzurrini could not find the net again. Both teams ended the match with accumulated fouls reaching bonus conditions, transforming the encounter into a more tactical battle than a free-flowing spectacle. Coach Vanni Pedrini described the outcome as «an important stress-test», emphasizing that the resilience shown by the Czech side and the difficulties encountered in the closing stages would provide more valuable lessons than a straightforward victory. The Azzurrini return home from the double fixture with one win and one draw, as they prepare for the Main Round of continental qualification scheduled for March.",
+    "_fromSource": true,
+    "_sourceDate": "2026-10-28T20:17:12.940Z"
+  }
 }
