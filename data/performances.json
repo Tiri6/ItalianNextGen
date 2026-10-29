@@ -2,6 +2,18 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-10-28",
+      "player": "Alphadjo Cissè",
+      "club": "Milan",
+      "opponent": "Bologna",
+      "competition": "Serie A",
+      "result": "2-4",
+      "goals": 2,
+      "note": "Doppietta nel primo tempo (14' e 27') nella sconfitta casalinga del Milan.",
+      "noteEn": "First-half double (14' and 27') in Milan's home defeat.",
+      "source": "Redazione"
+    },
+    {
       "date": "2026-10-29",
       "player": "Niccolò Pisilli",
       "club": "Roma",
