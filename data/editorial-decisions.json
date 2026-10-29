@@ -1,31 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28T16:10:25.374Z",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T08:27:53.104Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mvrqyjqf-7dj3q",
-    "mvrqyjr4-2un9b",
-    "mvrqyjo9-lz8vn",
-    "mvrqyjnn-fnxwb"
+    "mvt6e358-rrzuf",
+    "mvt6e313-igj6b",
+    "mvt6e3at-uke77"
   ],
   "items": {
-    "mvrqyjqf-7dj3q": {
-      "live": false,
-      "instagram": false
-    },
-    "mvrqyjr4-2un9b": {
+    "mvt6e358-rrzuf": {
       "live": true,
-      "instagram": false
+      "instagram": true
     },
-    "mvrqyjo9-lz8vn": {
-      "live": false,
-      "instagram": false
-    },
-    "mvrqyjnn-fnxwb": {
+    "mvt6e313-igj6b": {
       "live": true,
-      "instagram": false
+      "instagram": true
+    },
+    "mvt6e3at-uke77": {
+      "live": true,
+      "instagram": true
     }
   }
 }
