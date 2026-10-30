@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-30T06:45:05.650Z",
+  "generatedAt": "2026-10-30T08:15:11.610Z",
   "day": "2026-10-30",
   "items": [
+    {
+      "id": "mvultknx-ihnvn",
+      "file": "mvultknx-ihnvn.json",
+      "title": "Under 15, Messico devastante: Italia travolta 7-0 nei quarti",
+      "excerpt": "Gli azzurrini crollano contro il Messico (più grande di un anno) a Baku. Battisti ammette: prestazione inaccettabile su tutti i fronti.",
+      "category": "performance",
+      "source": "FIGC",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWFdJSFJiTnB4dVUtcHJNbkllX1BaaUhkOHFURzFiMm1LbVBYSEgxY1lsVWtDUTE4RnFqaE5sQmd6YkZVTFp2QmNiOXdiM2ttLXIzV1B6bkR1Wktwb0FvV082VnByenE4MC1pUmxXZTM5T1kwR3ptQlo4TW9SODRjV29GbnZIV2V1UjJBMkxCTFE5a0poODNHR2hxbGREdEMwSEwtcXJ0OEdVWmZlN2tRdkNVaU1GN0NndkFna3ZBMXRVZXdNWmxV?oc=5",
+      "players": [],
+      "sourceDate": "2026-10-29T09:20:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Nazionale Under 15 esce di scena dalla World Cup & Festival di Baku con una sconfitta pesantissima. A Baku, sul Campo 1B dell'Hovsan Competition Complex, gli azzurrini perdono per 7-0 contro il Messico nel match valido per i quarti del torneo fase a livello A. I messicani, anagraficamente più grandi di un anno, hanno confezionato un'esibizione di superiorità tecnica e caratteriale. Villarreal sblocca dopo nemmeno ",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
     {
       "id": "mvultkjz-0orxw",
       "file": "mvultkjz-0orxw.json",
@@ -23,7 +41,7 @@
       "flags": [
         {
           "type": "stesso-giocatore",
-          "label": "Già trattato oggi: Federico Steffanoni"
+          "label": "Stesso giocatore (Federico Steffanoni) di un'altra notizia in questa lista: «Steffanoni, la mezzala dell'Atalanta Under 23 che segna da fuori». Ne esce una sola al giorno."
         }
       ]
     },
@@ -66,65 +84,6 @@
         "instagram": true
       },
       "flags": []
-    },
-    {
-      "id": "mvultko6-vzrwy",
-      "file": "mvultko6-vzrwy.json",
-      "title": "Bob, sedici azzurri convocati ad Igls per la stagione",
-      "excerpt": "La nazionale italiana di bob si ritrova in Austria per una settimana di lavoro in altura. Prima tappa della Coppa del Mondo ad Altenberg alla fine di novembre.",
-      "category": "news",
-      "source": "OA Sport",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1RlYWZTXzFQOF90ZERXT2tGUDhOYWlBcGU0RkM4dk55Rk9ReWF6WlBDbmhnRVdDYU1iQVRsc3J0elBzUnNkbFVTNFhKRFFBb2REcEFrRGFmVUQ1WmZUVlJ0eF9lU0s5UE9iT2FnN1ZzZFo5N00tSDFMNDhzX0VtaDJmV0ZrYnRoUW9fZFlpN2JabEVZMHIxNjBrZHJBSWs4NEZMODI3UUJCbmM5NmF3Q1VGSW9vdzJxX0NISEhHd9IBxAFBVV95cUxQN0RIdVlTQUMyS2lBb3doS2pWU2d2ajN4VXFfMVhZM2pnYzR6ME9MNnV6SjhUQ2tvQmNseUhSMy02cDAwU1l3NEs0Z1p5VUQxYnBoVHJXY2JpR21RdnF3MWxrd0YtekM4ODE3TVVKMlZyZElpT1hBaDJfcEpDbUFPU01nejlWeEJ1WENNeVlhRGJXS1BYTENnMk5zMGlyc09YR00zMHBDbGxvRExhV1dCQThDVFllNWlDNURLbUx4UXJqbkc5?oc=5",
-      "players": [],
-      "sourceDate": "2026-10-29T09:48:30.000Z",
-      "isDigest": false,
-      "bodyPreview": "La Nazionale italiana di bob si prepara al debutto stagionale con un raduno in Austria. Dalla domenica 1 al 12 novembre gli atleti saranno ad Igls, dove lavoreranno alla base della pista austriaca sotto la guida del direttore tecnico Maurizio Oioli e dello staff composto da Simone Bertazzo, Fabrizio Tosini, Costantino Ughi, Giorgia Gramillano, Giovanni Mulassaro e Lorenzo Bilotti. Il gruppo conta sedici convocati: di",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "mvtbe5il-cdskq",
-      "file": "mvtbe5il-cdskq.json",
-      "title": "Tiro a segno, gli azzurri a Doha per i Mondiali 2026",
-      "excerpt": "Sedici atleti azzurri sfidano i migliori interpreti mondiali dal 3 al 9 novembre in Qatar. Monna e Maldini guidano la spedizione verso le Finali di Coppa del Mondo di Roma.",
-      "category": "news",
-      "source": "sport2u.tv",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzQwRGZuSXlUOC1qWjd0Tm5OLW5GcWdaYTZxV2NPOXE0NU1IV3RZSTVpSVlmZUVrZmJNR2NQcUhQQ2pBQ2x5VUlvalN3aF9vR3RQeWF6T2RtQy1UdmhyMDFZR2xreFpqM0NoMkY3S1BBWGJXdEV4azFxTl9RQzl2R0d5cWxVUUFkWFpYZFdQTm5ITEVWM25aTkgtaG1ZdXFjQjAtLXNRM0VkcmhMcmc?oc=5",
-      "players": [],
-      "sourceDate": "2026-10-29T06:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "La nazionale italiana del tiro a segno si prepara a una sfida di rilievo internazionale. A Doha, dal 3 al 9 novembre, andrà in scena il campionato mondiale senior, appuntamento decisivo della stagione prima dell'epilogo delle Finali di Coppa del Mondo fissate a Roma a dicembre. La delegazione azzurra si presenta con una rosa di sedici atleti, articolata su tutte le specialità olimpiche di pistola e carabina. Paolo Mo",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "mvultko6-isysj",
-      "file": "mvultko6-isysj.json",
-      "title": "Tiro a segno, l'Italia a Doha per i Mondiali: sedici azzurri in gara",
-      "excerpt": "Dal 3 al 9 novembre il Qatar ospita la rassegna iridata senior. Monna e Maldini guidano una spedizione di sedici atleti italiani in cerca di conferme prima delle Finali di Coppa del Mondo a Roma.",
-      "category": "news",
-      "source": "sport2u.tv",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzQwRGZuSXlUOC1qWjd0Tm5OLW5GcWdaYTZxV2NPOXE0NU1IV3RZSTVpSVlmZUVrZmJNR2NQcUhQQ2pBQ2x5VUlvalN3aF9vR3RQeWF6T2RtQy1UdmhyMDFZR2xreFpqM0NoMkY3S1BBWGJXdEV4azFxTl9RQzl2R0d5cWxVUUFkWFpYZFdQTm5ITEVWM25aTkgtaG1ZdXFjQjAtLXNRM0VkcmhMcmc?oc=5",
-      "players": [],
-      "sourceDate": "2026-10-29T06:00:22.000Z",
-      "isDigest": false,
-      "bodyPreview": "Il tiro a segno italiano si prepara a una trasferta di rilievo nelle pedane di Doha, dove si disputeranno i Mondiali della disciplina tra inizio e metà novembre. La nazionale azzurra avrà l'occasione di consolidare la propria posizione nel panorama internazionale, forte di una selezione che riunisce i migliori interpreti del movimento tricolore. Sedici gli atleti convocati, con i fari puntati su Paolo Monna e Federic",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
     },
     {
       "id": "mvultkjz-v4ejp",
@@ -187,7 +146,7 @@
       "flags": [
         {
           "type": "stesso-giocatore",
-          "label": "Già trattato oggi: Matteo Cichella"
+          "label": "Stesso giocatore (Matteo Cichella) di un'altra notizia in questa lista: «Cichella segna e dedica il gol alla famiglia: «De Rossi è il mio idolo». Ne esce una sola al giorno."
         }
       ]
     },

@@ -67,6 +67,7 @@ function isStalePrematch(c) {
   const d = c.draft ?? {};
   const text = [c.title, d.title, d.excerpt, d.titleEn, d.excerptEn].filter(Boolean).join(' ');
   if (!PREMATCH_RE.test(text)) return false;
+  if (/(?<![\d:])\d{1,2}\s*[-–]\s*\d{1,2}(?![\d:])/.test(c.title)) return false; // il titolo ha un punteggio: è un resoconto, non una pre-partita
   if (/\bnazional|\bitalia\b|\bunder ?\d{2}\b|\bu\d{2}\b/i.test(c.title) && /convoca/i.test(c.title)) return false; // chiamata in nazionale
   const g = newsDay(c);
   return !g || g < todayRome;
@@ -261,7 +262,14 @@ for (const { f, c } of eligible) {
     // parlato oggi. Se tutti i suoi giocatori sono già "usati", si salta:
     // così due pezzi sullo stesso rinnovo Camarda-Comotto non escono di fila.
     if (pls.length > 0 && pls.every((p) => usedToday.has(p))) {
-      if (PROPOSTA) { proposalItems.push(makeItem(c, f, false, [{ type: 'stesso-giocatore', label: `Già trattato oggi: ${pls.join(', ')}` }])); continue; }
+      if (PROPOSTA) {
+        // Spiega DOVE: o c'è un articolo già pubblicato oggi, o un'altra candidata di questa lista ha già preso il giocatore
+        const altra = proposalItems.find((it) => it.proposed.live && it.players.some((p) => pls.includes(p)));
+        const label = altra
+          ? `Stesso giocatore (${pls.join(', ')}) di un'altra notizia in questa lista: «${altra.title.slice(0, 70)}». Ne esce una sola al giorno.`
+          : `Di ${pls.join(', ')} è già uscito un articolo sul sito oggi. Ne esce uno solo al giorno.`;
+        proposalItems.push(makeItem(c, f, false, [{ type: 'stesso-giocatore', label }])); continue;
+      }
       await rename(path.join(CANDIDATES, f), path.join(APPROVED, f));
       skippedSameDay++;
       console.log(`  ⤫ già trattato oggi: ${cleanTitle.slice(0, 55)} [${pls.join(', ')}]`);
