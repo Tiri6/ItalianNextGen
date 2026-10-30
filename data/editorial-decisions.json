@@ -1,65 +1,45 @@
 {
   "version": 1,
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29T10:27:45.092Z",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T08:23:17.857Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mvt6e32j-gvoee",
-    "mvt6e334-qg21w",
-    "mvt6e346-kxm4q",
-    "mvt6e35m-jy6yj",
-    "mvt6e2zj-t2kvu",
-    "mvt6e2zu-hr0gc",
-    "mvtbe5i7-fqvba",
-    "mvt6e3bl-g7rci",
-    "mvt6e3bq-5m23x",
-    "mvt6e31z-6rsuu",
-    "mvt6e34n-lom0n"
+    "mvultkiz-7qb1h",
+    "mvultknx-ihnvn",
+    "mvultkjz-0orxw",
+    "mvultkml-xkd2l",
+    "mvultkjz-v4ejp",
+    "mvultkjr-vuq1j",
+    "mvultkiz-sz05t"
   ],
   "items": {
-    "mvt6e32j-gvoee": {
-      "live": true,
-      "instagram": false
-    },
-    "mvt6e334-qg21w": {
-      "live": false,
-      "instagram": false
-    },
-    "mvt6e346-kxm4q": {
-      "live": false,
-      "instagram": false
-    },
-    "mvt6e35m-jy6yj": {
+    "mvultkiz-7qb1h": {
       "live": true,
       "instagram": true
     },
-    "mvt6e2zj-t2kvu": {
+    "mvultknx-ihnvn": {
+      "live": true,
+      "instagram": true
+    },
+    "mvultkjz-0orxw": {
       "live": false,
       "instagram": false
     },
-    "mvt6e2zu-hr0gc": {
-      "live": false,
-      "instagram": false
+    "mvultkml-xkd2l": {
+      "live": true,
+      "instagram": true
     },
-    "mvtbe5i7-fqvba": {
+    "mvultkjz-v4ejp": {
       "live": true,
       "instagram": false
     },
-    "mvt6e3bl-g7rci": {
-      "live": false,
-      "instagram": false
-    },
-    "mvt6e3bq-5m23x": {
-      "live": false,
-      "instagram": false
-    },
-    "mvt6e31z-6rsuu": {
+    "mvultkjr-vuq1j": {
       "live": true,
       "instagram": false
     },
-    "mvt6e34n-lom0n": {
-      "live": true,
+    "mvultkiz-sz05t": {
+      "live": false,
       "instagram": false
     }
   }
