@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:15:11.610Z",
+  "generatedAt": "2026-10-30T08:20:20.683Z",
   "day": "2026-10-30",
   "items": [
     {
@@ -44,46 +44,6 @@
           "label": "Stesso giocatore (Federico Steffanoni) di un'altra notizia in questa lista: «Steffanoni, la mezzala dell'Atalanta Under 23 che segna da fuori». Ne esce una sola al giorno."
         }
       ]
-    },
-    {
-      "id": "mvt6e32b-dx5ou",
-      "file": "mvt6e32b-dx5ou.json",
-      "title": "Fabbian al Parma, stagione da protagonista in mediana",
-      "excerpt": "Il centrocampista classe 2003 prosegue la sua esperienza in Serie A con la squadra ducale, collezionando presenze significative nel campionato.",
-      "category": "news",
-      "source": "Virgilio",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5MkFYZEpDcU5naWpIeFhsdUdGdDNSOGxzaHJ0MmluY3c4QTJLMUg2c2lsTUVFckNHUmRYNXVEUDVJOEV4VjZ2eVB3OHd2YUNycTF4VDlDYWUxU3VqMTdSUWtyQjVYRFo4V2JHZ1B2amxpQQ?oc=5",
-      "players": [
-        "Giovanni Fabbian"
-      ],
-      "sourceDate": "2026-10-28T23:21:45.000Z",
-      "isDigest": false,
-      "bodyPreview": "Giovanni Fabbian mantiene la continuità in Serie A nella stagione 2026/2027 indossando la maglia del Parma con il numero 80. Il centrocampista nato a Camposampiero il 14 gennaio 2003 ha fin qui disputato sette incontri nel campionato italiano, rappresentando una risorsa concreta nel centrocampo della formazione emiliana. Con un'altezza di 186 centimetri e preferenza per il piede destro, il mediano prosegue il suo per",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "mvt6e341-iolth",
-      "file": "mvt6e341-iolth.json",
-      "title": "Under 20, l'Italia demolisce la Francia: Pafundi protagonista in Spagna",
-      "excerpt": "Nella La Nucía International Tournament, gli azzurrini si riscattano dopo il ko all'esordio contro l'Inghilterra. Pafundi torna in campo e contribuisce al successo.",
-      "category": "news",
-      "source": "Virgilio",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91Mkl3Ym1yZWJwWU1NXzV3ZE93bTJpQ2xMSEpIMXZ4czl3V2JoLXRQaVQ3cTcwZ1RlVmlzYkNIck0zeXVOOUkzTzBUSW5ia05ZSnRZY2c2djI5Z3VfbXpwSGllVTVZQmtTY25Fa0g1RQ?oc=5",
-      "players": [
-        "Simone Pafundi"
-      ],
-      "sourceDate": "2026-10-29T01:09:22.000Z",
-      "isDigest": false,
-      "bodyPreview": "L'Under 20 azzurra trova riscatto in Spagna, nel torneo internazionale in corso a La Nucía. Dopo il passo falso iniziale contro l'Inghilterra, il cui risultato aveva pesato sul morale del gruppo, la nazionale giovanile ha risposto con una prestazione convincente fermando la Francia con un secco 3-0. Tra i protagonisti della gara figura Simone Pafundi, che ritorna a disposizione e torna a giocare in questa fase del to",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
     },
     {
       "id": "mvultkjz-v4ejp",

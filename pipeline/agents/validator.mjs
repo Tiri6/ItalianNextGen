@@ -47,7 +47,14 @@ const STRONG_NAZ = /\bnazionale\b|\bitalia\b|\bunder ?\d{2}\b|\bu\d{2}\b|\bct\b|
  * Regole editoriali sul solo titolo, condivise da raccolta (validate) e pubblicazione.
  * @returns {string|null} motivo dello scarto, oppure null se la notizia è in tema
  */
+// Pagine-profilo di aggregatori ("Simone Pafundi - Virgilio"): titolo = solo nome del giocatore, nessuna data vera.
+// Google News le ripubblica ogni volta che la pagina si aggiorna e il testo può risalire a settimane prima
+// (caso Pafundi, 30 ott 2026: partita del 3 ott presentata come notizia di ieri). Mai notizia.
+const AGGREGATOR_PAGE_RE = /^[\p{L}'’.]+(?:\s+[\p{L}'’.]+){1,3}\s+[-–|]\s+(?:Virgilio|Sky Sport|Tuttosport|Transfermarkt|Gazzetta\.it)\s*$/u;
+export const isAggregatorPage = (title) => AGGREGATOR_PAGE_RE.test(String(title ?? '').trim());
+
 export function editorialReject(title, hasPlayers = false) {
+  if (isAggregatorPage(title)) return 'pagina riepilogativa senza data';
   // Il titolo di Google News finisce con " - Testata" (es. "- road tv italia"): non fa parte della notizia
   const t = String(title ?? '').replace(/\s+[-–|]\s+[^-–|]{2,40}$/, '');
   if (WOMEN_KW.test(t)) return 'calcio femminile';
