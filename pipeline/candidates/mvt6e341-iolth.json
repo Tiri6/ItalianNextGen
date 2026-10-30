@@ -12,5 +12,15 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Under 20, l'Italia demolisce la Francia: Pafundi protagonista in Spagna",
+    "titleEn": "Italy U-20 crushes France: Pafundi shines in Spain",
+    "excerpt": "Nella La Nucía International Tournament, gli azzurrini si riscattano dopo il ko all'esordio contro l'Inghilterra. Pafundi torna in campo e contribuisce al successo.",
+    "excerptEn": "At the La Nucía International Tournament, the young Italians bounce back after the opening defeat to England. Pafundi returns to action and plays a role in the victory.",
+    "bodyIt": "L'Under 20 azzurra trova riscatto in Spagna, nel torneo internazionale in corso a La Nucía. Dopo il passo falso iniziale contro l'Inghilterra, il cui risultato aveva pesato sul morale del gruppo, la nazionale giovanile ha risposto con una prestazione convincente fermando la Francia con un secco 3-0.\n\nTra i protagonisti della gara figura Simone Pafundi, che ritorna a disposizione e torna a giocare in questa fase del torneo. La sua presenza in campo conferma l'importanza del talento nel progetto dell'Under 20 azzurra, mentre Siviero si distingue in difesa, tracciando paralleli con la solidità già nota da altri prospetti del calcio italiano.",
+    "bodyEn": "Italy's Under 20 squad found redemption in Spain at the ongoing La Nucía International Tournament. Following an initial setback against England, the youth national team responded with a convincing performance, defeating France 3-0.\n\nAmong the standout performers was Simone Pafundi, who returned to action in this match of the tournament. His presence on the pitch underscores the importance of his talent in the Under 20 project, while Siviero distinguished himself defensively, reinforcing the tradition of solid defenders emerging from Italian youth football.",
+    "_fromSource": true,
+    "_sourceDate": null
+  }
 }

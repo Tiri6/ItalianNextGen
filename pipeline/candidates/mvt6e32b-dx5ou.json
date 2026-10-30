@@ -12,5 +12,15 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Fabbian al Parma, stagione da protagonista in mediana",
+    "titleEn": "Fabbian establishing himself at Parma midfield",
+    "excerpt": "Il centrocampista classe 2003 prosegue la sua esperienza in Serie A con la squadra ducale, collezionando presenze significative nel campionato.",
+    "excerptEn": "The 2003-born midfielder continues his Serie A journey with Parma, accumulating meaningful appearances in the league.",
+    "bodyIt": "Giovanni Fabbian mantiene la continuità in Serie A nella stagione 2026/2027 indossando la maglia del Parma con il numero 80. Il centrocampista nato a Camposampiero il 14 gennaio 2003 ha fin qui disputato sette incontri nel campionato italiano, rappresentando una risorsa concreta nel centrocampo della formazione emiliana.\n\nCon un'altezza di 186 centimetri e preferenza per il piede destro, il mediano prosegue il suo percorso di crescita in un contesto competitivo. In questa fase della stagione non ha ancora trovato la via del gol, mentre il suo contributo in termini di disciplina rimane positivo, con un bilancio pulito dal punto di vista dei cartellini.",
+    "bodyEn": "Giovanni Fabbian continues his Serie A career in the 2026/2027 season wearing Parma's number 80 shirt. The midfielder born in Camposampiero on January 14, 2003 has made seven appearances in the Italian league so far, representing a concrete resource in the Emilian side's midfield.\n\nStanding 186 centimetres tall and preferring his right foot, the midfielder continues his development path in a competitive setting. At this stage of the season he has not yet found the back of the net, while his disciplinary record remains unblemished with no yellow or red cards to his name.",
+    "_fromSource": true,
+    "_sourceDate": null
+  }
 }

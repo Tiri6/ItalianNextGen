@@ -12,5 +12,15 @@
   "players": [],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Tiro a segno, gli azzurri a Doha per i Mondiali 2026",
+    "titleEn": "Shooting, Italian team heads to Doha for 2026 Worlds",
+    "excerpt": "Sedici atleti azzurri sfidano i migliori interpreti mondiali dal 3 al 9 novembre in Qatar. Monna e Maldini guidano la spedizione verso le Finali di Coppa del Mondo di Roma.",
+    "excerptEn": "Sixteen Italian shooters will compete against the world's best from November 3-9 in Qatar. Monna and Maldini lead the squad towards the World Cup Finals in Rome.",
+    "bodyIt": "La nazionale italiana del tiro a segno si prepara a una sfida di rilievo internazionale. A Doha, dal 3 al 9 novembre, andrà in scena il campionato mondiale senior, appuntamento decisivo della stagione prima dell'epilogo delle Finali di Coppa del Mondo fissate a Roma a dicembre. La delegazione azzurra si presenta con una rosa di sedici atleti, articolata su tutte le specialità olimpiche di pistola e carabina.\n\nPaolo Monna e Federico Nilo Maldini rappresenteranno i riferimenti tecnici del gruppo italiano, supportati da elementi come Danilo Dennis Sollazzo e Sofia Ceccarello. Il movimento tricolore intende consolidare il proprio stato di forma e ricoprire un ruolo da protagonista nella rassegna iridata.\n\nIl programma si sviluppa su sette giorni di gare. L'apertura spetta alla carabina 10 metri, con finali sia al maschile che al femminile già martedì. Seguiranno le prove a squadre miste, le sfide della pistola 10 metri e i 50 metri carabina tre posizioni, fino alla chiusura con la pistola sportiva 25 metri femminile lunedì 9 novembre. Tutte le dieci specialità olimpiche saranno trasmesse in diretta streaming gratuita sui canali YouTube ufficiale della ISSF e su Olympic Channel.",
+    "bodyEn": "Italy's shooting team is preparing for a significant international challenge. Doha will host the senior world championship from November 3-9, a decisive appointment in the season before the World Cup Finals showdown scheduled in Rome in December. The Italian delegation arrives with a roster of sixteen athletes spread across all Olympic shooting disciplines.\n\nPaolo Monna and Federico Nilo Maldini will represent the core of the Italian squad, alongside competitors such as Danilo Dennis Sollazzo and Sofia Ceccarello. The Italian movement aims to consolidate its competitive form and establish itself as a protagonist at the world championships.\n\nThe schedule unfolds over seven days of competition. The opening belongs to the 10-metre rifle, with finals in both men's and women's categories by Tuesday. This will be followed by mixed team events, 10-metre pistol matches, and 50-metre three-position rifle competitions, concluding with women's 25-metre sport pistol on Monday, November 9. All ten Olympic disciplines will be broadcast live and free on the official YouTube channels of the ISSF and Olympic Channel.",
+    "_fromSource": true,
+    "_sourceDate": null
+  }
 }

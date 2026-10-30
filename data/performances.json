@@ -3,6 +3,42 @@
   "performances": [
     {
       "date": "2026-10-29",
+      "player": "Davide Bartesaghi",
+      "club": "Milan",
+      "opponent": "Bologna",
+      "competition": "",
+      "result": "2-4",
+      "note": "Segna un autogol al 60' che vale il 2-2",
+      "noteEn": "Scores an own goal at 60' that makes it 2-2",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-29",
+      "player": "Francesco Camarda",
+      "club": "Milan",
+      "opponent": "Bologna",
+      "competition": "",
+      "result": "2-4",
+      "note": "Subentra a Bartesaghi poco dopo l'ora di gioco",
+      "noteEn": "Comes on as a substitute for Bartesaghi shortly after the hour mark",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-29",
+      "player": "Christian Comotto",
+      "club": "Milan",
+      "opponent": "Bologna",
+      "competition": "",
+      "result": "2-4",
+      "note": "Entra nel finale al posto di Ramos",
+      "noteEn": "Enters in the final stages replacing Ramos",
+      "source": "Redazione",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-29",
       "player": "Mattia Mosconi",
       "club": "Inter",
       "opponent": "Lazio",
@@ -23,6 +59,40 @@
       "goals": 2,
       "note": "Doppietta nel primo tempo (14' e 27') nella sconfitta casalinga del Milan.",
       "noteEn": "First-half double (14' and 27') in Milan's home defeat.",
+      "source": "Redazione"
+    },
+    {
+      "date": "2026-10-28",
+      "player": "Tommaso Baldanzi",
+      "club": "Genoa",
+      "opponent": "Juventus",
+      "competition": "Serie A",
+      "result": "2-0",
+      "goals": 1,
+      "note": "Gol del raddoppio nel 2-0 del Genoa sulla Juventus.",
+      "noteEn": "Scored the second goal in Genoa's 2-0 win over Juventus.",
+      "source": "Redazione"
+    },
+    {
+      "date": "2026-10-28",
+      "player": "Giovanni Daffara",
+      "club": "Parma",
+      "opponent": "Udinese",
+      "competition": "Serie A",
+      "result": "0-0",
+      "note": "Esordio in Serie A nello 0-0 del Parma con l'Udinese.",
+      "noteEn": "Serie A debut in Parma's 0-0 draw with Udinese.",
+      "source": "Redazione"
+    },
+    {
+      "date": "2026-10-28",
+      "player": "Leonardo Colombo",
+      "club": "Monza",
+      "opponent": "Napoli",
+      "competition": "Serie A",
+      "result": "1-4",
+      "note": "Titolare in Serie A nella sconfitta del Monza contro il Napoli.",
+      "noteEn": "Started in Serie A in Monza's defeat to Napoli.",
       "source": "Redazione"
     },
     {
@@ -180,81 +250,6 @@
       "noteEn": "Scored coming on late in the game, intercepting space between the opposing lines in the biancorossi's victory.",
       "source": "MondoPrimavera",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJxS3djWXhKWFpwYkJJSU1sdG4xeVpHZ1k0c3FVMlN3YlB6aTdOdnB4cUZBQXVFNGZGaGxoX3ltWGppd0ZIaVhTWHVTWUJidkdHY2tvQ0tlOWVzbzdTVUpCcTRsM2RobGROWjYtWGpGMGdWdEF6VWt0eXU5T3lDckJuaWtNV3d4NXRpUnVRTTIySktnOUFTSGN3?oc=5"
-    },
-    {
-      "date": "2026-10-20",
-      "player": "Francesco Pio Esposito",
-      "club": "",
-      "opponent": "Bologna",
-      "competition": "",
-      "result": "",
-      "minutes": 58,
-      "rating": 6,
-      "note": "Sostituito al 58°, ha faticato a incidere sulla gara mantenendo una prestazione mediocre senza lampi particolari",
-      "noteEn": "Substituted at 58', struggled to impact the match maintaining a mediocre performance without particular flashes",
-      "source": "Goal.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcGIzdlBlWmxqY0FFdU1udTByTjFzZ01xeWQ3Szg0VnFMWTFFTmF0YWNva1FEUnVXcmM2TU9uclE0TFpfcWdoWXhJazNLMGpac2hGeE1pTHUyWlIxM1lzYjFjUnAyVmJ3WG0tYUVzM1Q5TmZ4NlF4UFpsNktlRFczTzZTUkFBVS1KLUJyM0s0Y3NDTjBkZHZkRUtNNlNDb1I1WXBmZVBfNnNZNXJyOEl3MFM3eHhoLTBWNWctU25NbGd4RDFWNUQ0RzFDNjA1ZUNiQUtPMzhVQlFTcnl1Q2RwRg?oc=5"
-    },
-    {
-      "date": "2026-10-20",
-      "player": "Sebastiano Esposito",
-      "club": "",
-      "opponent": "Bologna",
-      "competition": "",
-      "result": "",
-      "minutes": 58,
-      "rating": 6,
-      "note": "Sostituito al 58°, ha faticato a incidere sulla gara mantenendosi sulla mediocrità",
-      "noteEn": "Substituted at 58', struggled to make an impact on the match, remaining mediocre",
-      "source": "Goal.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcGIzdlBlWmxqY0FFdU1udTByTjFzZ01xeWQ3Szg0VnFMWTFFTmF0YWNva1FEUnVXcmM2TU9uclE0TFpfcWdoWXhJazNLMGpac2hGeE1pTHUyWlIxM1lzYjFjUnAyVmJ3WG0tYUVzM1Q5TmZ4NlF4UFpsNktlRFczTzZTUkFBVS1KLUJyM0s0Y3NDTjBkZHZkRUtNNlNDb1I1WXBmZVBfNnNZNXJyOEl3MFM3eHhoLTBWNWctU25NbGd4RDFWNUQ0RzFDNjA1ZUNiQUtPMzhVQlFTcnl1Q2RwRg?oc=5"
-    },
-    {
-      "date": "2026-10-19",
-      "player": "Mattia Liberali",
-      "club": "Como",
-      "opponent": "Fiorentina",
-      "competition": "",
-      "result": "3-1",
-      "goals": 1,
-      "note": "Ha sbloccato il risultato nella vittoria esterna, dimostrando di saper incidere in contesti di rilievo",
-      "noteEn": "Ha sbloccato il risultato nella vittoria esterna, dimostrando di saper incidere in contesti di rilievo",
-      "source": "Triveneto Goal",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVEyQ041VUFMdXNvTm0wMThuSy14ajV1aS1UeVh6RXNCWlZGOWh5ZG1SUmgtZ2VkTXI0cG9SUzRkN0VJUGRURGxlUE8wXy1KOU0tTUpvcDZzNFp0TW9SN1k1bHZMc25xTEhLVGxvcjNIanF4R1dwWmc5U1ZSNW00SF9QSkE1T3k5aFk1VHUwSnhaQkljMXBweGw1bEhpMXhrZ2xnbE9PMlVyUXlTT1pnU24za3pMc3BKdF81a1lQN2VDNjFuV3VBeXp5YjdfUWc?oc=5"
-    },
-    {
-      "date": "2026-10-28",
-      "player": "Tommaso Baldanzi",
-      "club": "Genoa",
-      "opponent": "Juventus",
-      "competition": "Serie A",
-      "result": "2-0",
-      "goals": 1,
-      "note": "Gol del raddoppio nel 2-0 del Genoa sulla Juventus.",
-      "noteEn": "Scored the second goal in Genoa's 2-0 win over Juventus.",
-      "source": "Redazione"
-    },
-    {
-      "date": "2026-10-28",
-      "player": "Giovanni Daffara",
-      "club": "Parma",
-      "opponent": "Udinese",
-      "competition": "Serie A",
-      "result": "0-0",
-      "note": "Esordio in Serie A nello 0-0 del Parma con l'Udinese.",
-      "noteEn": "Serie A debut in Parma's 0-0 draw with Udinese.",
-      "source": "Redazione"
-    },
-    {
-      "date": "2026-10-28",
-      "player": "Leonardo Colombo",
-      "club": "Monza",
-      "opponent": "Napoli",
-      "competition": "Serie A",
-      "result": "1-4",
-      "note": "Titolare in Serie A nella sconfitta del Monza contro il Napoli.",
-      "noteEn": "Started in Serie A in Monza's defeat to Napoli.",
-      "source": "Redazione"
     }
   ]
 }
