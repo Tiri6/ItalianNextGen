@@ -1,0 +1,29 @@
+---
+title: "Steffanoni, la mezzala dell'Atalanta Under 23 che segna da fuori"
+titleEn: "Steffanoni, Atalanta's young midfielder striking from distance"
+excerpt: "Federico Steffanoni, classe 2008, brilla nella Serie C con quattro reti in questa stagione. Il giovane nerazzurro è già nel mirino della prima squadra bergamasca."
+excerptEn: "Federico Steffanoni, born 2008, shines in Serie C with four goals this season. The young Bergamo midfielder is already in the sights of the senior squad."
+date: 2026-10-30
+publishedAt: 2026-10-30T10:20:00+01:00
+category: mercato
+players: ["Federico Steffanoni"]
+competitions: []
+source: "Calciomercato"
+sourceUrl: "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUUtfaWZDQmN2d2UxNmtrcWFRWmJRRXg2QW50T0RNcGpLMDJRa3dkTm5Sa1RETWhKZFVxWnRpT3d5OUFLQ3l5QXFkdGdnNDJZdi14WGlhbDN3UldHUkd5ZlJhQW5CQzI0T2l3a2p1SXc3U2M3bXFRWTR0ZG5oOGJDV1pTbFZIZmtOYVpXQWVETHlkajdKXzB5N1JiRWVDb1dqeWlmVWFVLUxnTFFkbVFrbVp4ZGRlZGdKdWEzcmkxWGR0V3lLS2Q4cWQ3dTlCdXRtUkRrazhneW9iYmRuclZOOVZwM1RUM2dHcFR5aEg4ajhaU1dkTjVqMmd0dw?oc=5"
+sourceDate: "2026-10-29T13:31:00.000Z"
+social: false
+---
+
+Federico Steffanoni sta disegnando il suo ingresso nel calcio che conta con i numeri di chi sa muoversi con naturalezza anche in categorie superiori alla propria. Il centrocampista dell'Atalanta Under 23 ha già messo a referto una rete e tre assist, con il pregio di smarcare il piede dalla lunga distanza. L'ultimo episodio significativo lo ha visto protagonista nella partita contro la Vis Pesaro, dove ha trovato il gol grazie a un tiro sul sinistro che si è insaccato all'incrocio dei pali.
+
+Malgrado sia il più giovane della rosa della seconda squadra bergamasca, Steffanoni figura già tra i cardini della costruzione tattica. La sua versatilità gli consente di ricoprire il ruolo di mezzala nel suo habitat naturale, ma nella scorsa annata è stato impiegato anche come quinto di fascia, una soluzione che la velocità di base e la capacità di incidere in fase difensiva rendono percorribile. Con la maglia dell'Under 19 azzurra continua il suo apprendistato nelle giovanili, mentre nel palmares figura un bronzo mondiale nella categoria Under 17, conquistato nella finale di consolazione contro il Brasile.
+
+Lo staff della Dea ha avviato una riflessione sul suo sviluppo: nella scorsa primavera l'agente Alessandro Lucci e la famiglia Percassi si sono confrontati per tracciare le prossime tappe. L'orizzonte della prima squadra non è lontano, ma per il momento il focus rimane sulla crescita in maglia Under 23 e nel progetto delle nazionali giovanili.
+
+<!--EN-->
+
+Federico Steffanoni is making his mark in competitive football with the credentials of a player who moves naturally even in categories above his age group. The Atalanta Under 23 midfielder has already recorded three goals and an assist, with the ability to strike from distance. His latest significant moment came against Vis Pesaro, where he found the back of the net with a left-footed strike that nestled in the top corner.
+
+Despite being the youngest in the second team's squad, Steffanoni has already established himself as a tactical cornerstone. His versatility allows him to operate as a central midfielder in his natural role, though in the previous season he was deployed as a left-back, a solution made viable by his pace and defensive contributions. He continues his apprenticeship with the Italian Under 19 squad, and his honours include a bronze medal at the Under 17 World Cup, won in the third-place playoff against Brazil.
+
+Atalanta's management has begun evaluating his development trajectory: last spring, agent Alessandro Lucci and the Percassi family met to plot the next steps. The senior squad horizon is not distant, but for now the focus remains on his growth with Under 23 and the youth national team project.
