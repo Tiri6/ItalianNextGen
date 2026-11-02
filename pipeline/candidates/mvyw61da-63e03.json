@@ -13,5 +13,15 @@
   ],
   "category": "news",
   "score": 6,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Südtirol-Cesena, cambi in vista: Rispoli torna dal 1', Okoro in ballottaggio",
+    "titleEn": "Südtirol-Cesena, lineup changes ahead: Rispoli back in starting XI, Okoro competing for spot",
+    "excerpt": "Alla decima giornata di Serie B, gli altoatesini si preparano con modifiche rispetto al turno infrasettimanale. In difesa rientrano Stabile e il terzino Rispoli, mentre in attacco Mixtur parte favorito su Okoro.",
+    "excerptEn": "In the tenth round of Serie B, the South Tyrolean side prepares with changes from the midweek fixture. Stabile and fullback Rispoli return to the defense, while Mixtur is favored over Okoro in attack.",
+    "bodyIt": "Il Südtirol affronta il Cesena sabato nel secondo turno della decima giornata di Serie B, con una serie di variazioni rispetto alla gara infrasettimanale contro il Padova. In assenza di squalifiche, l'allenatore azzera i debiti di freschezza attraverso gli elementi della difesa: Stabile prende il posto di Veroli, mentre Rispoli si candida per una maglia da titolare sulla fascia, rimasto inizialmente in panchina nella sfida precedente.\n\nIn attacco, il tridente dovrebbe ruotare intorno a Zeroli, Lopes e Mixtur, quest'ultimo avanti nel ballottaggio rispetto a Okoro. Tocca a capitan Tait sostituire Tronchin, che usufruisce di un turno di riposo. Il Cesena, dal canto suo, conta su modifiche significative: Frabotta partirà dalla panchina dopo la bocciatura, con Mangraviti spostato nel ruolo di terzino. A centrocampo Guidi è leggermente favorito su Bohinen, mentre l'attacco sarà composto da Fiori, D'Andrea e Shpendi.",
+    "bodyEn": "Südtirol faces Cesena on Saturday in the second match of the tenth Serie B round, with several changes compared to the midweek fixture against Padova. With no suspensions to contend with, the coaching staff refreshes the squad primarily through defensive adjustments: Stabile replaces Veroli, while Rispoli pushes for a starting spot on the flank after beginning the previous match on the bench.\n\nUpfront, the attacking line is expected to feature Zeroli, Lopes and Mixtur, the latter ahead in the competition for a place against Okoro. Captain Tait will fill in for Tronchin, who gets a rest day. Cesena, meanwhile, is planning several changes: Frabotta will start from the bench following a performance review, with Mangraviti shifted to fullback. In midfield Guidi edges Bohinen, while the attack will be led by Fiori, D'Andrea and Shpendi.",
+    "_fromSource": true,
+    "_sourceDate": "2026-10-31T08:32:00.000Z"
+  }
 }
