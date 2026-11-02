@@ -2,6 +2,32 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-11-02",
+      "player": "Emanuele Lulli",
+      "club": "Roma",
+      "opponent": "Cagliari",
+      "competition": "",
+      "result": "4-2",
+      "goals": 1,
+      "note": "Ha segnato pochi giorni prima nella vittoria contro il Cagliari.",
+      "noteEn": "Ha segnato pochi giorni prima nella vittoria contro il Cagliari.",
+      "source": "Corriere dello Sport",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEpTZjdaMHp3dmRsMHNEOHQ0YXZlMjJDRmhVZDhTTVloWG15YkItZWU1bTNxUzNwZFZGVGltbGJ2NURDN1BVcU12UGhQWjBhT2tucWZUV1M1cWRmWUFUZU5KWHhRZFZrLWpId1VGTU5DaGdNeFlnX203LTkwbWRnNERnNUEtV3JPREl1X2FhMGVZN19faWNOQjlOWWg0ajgzNjRlVzZLX0VZQUZVQ1NjM2JLUWxpanI5VWpNQlFkSVB5VlhwRXBRWm1QUEhDTUh0S2htNDM3dl9paGkxTDU4bXFjeDRmUXZZOVNMMdIB7wFBVV95cUxOQnhibk55NjZUZXRZRkhQSVJNWTg1NnB4ZXZ0QnJSdHdIRjJNWVBaWmtuVDc5RVhTa200dHQ1TndaSURULW1vWjZpRlNKOG5UemNRMmlMNnJvZU1XM1NIU0t3ZUtRZ0lrMktBbWctelRFbjAycUNFY0FSN2RkZld4aUpxOGdWM0lLcklENFNGZ3RzQ01rcFQxY0g2ekpBbTluMGVCS0dFUFpqQXVPbGtzci1UR3dQZzF0WjY5STBDSGhubVFuWjA3Z0VhUllUbk4tQ1BUMVNaTHFrcTkzQnNJbHlrWnVEN3psSG1wUGtBTQ?oc=5"
+    },
+    {
+      "date": "2026-11-02",
+      "player": "Tommaso Berti",
+      "club": "Cremonese",
+      "opponent": "Benevento",
+      "competition": "",
+      "result": "2-0",
+      "rating": 7,
+      "note": "Difensore schierato in difesa con performance solida, ha contribuito significativamente alla tenuta difensiva della squadra",
+      "noteEn": "Defender deployed in defense with solid performance, significantly contributed to the team's defensive solidity",
+      "source": "Pianeta Serie B",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQV9zeW1Gb015cTFfdW9LWV9UTmNtaDltbEZ5OS1WU2lXOE1CQ0dQSHpTOHFLalRESDBFSVZMVFFCZzE5X0hSY21YYXZMS3lnNkJRcmJ1YWFFR1BNWmRuXzc1YWh2UThpLTRra3FXbUF3Z1l2d2dNSGd4YVUyTDh6QW5FUUNDcXRwRFVnZjVfb2RUNF9Ja2lJX2V2ZlNGb1BpZmFhMlRR?oc=5"
+    },
+    {
       "date": "2026-10-29",
       "club": "Frosinone",
       "opponent": "Lecce",
@@ -222,31 +248,6 @@
       "noteEn": "Unlocked the match in the first half's recovery time by scoring his first goal with Paris FC",
       "source": "Cronachedi",
       "sourceUrl": "https://cronachedi.it/paris-fc-luca-koleosho-ha-segnato-il-suo-primo-gol/"
-    },
-    {
-      "date": "2026-10-21",
-      "player": "Eddy Kouadio",
-      "club": "Monza",
-      "opponent": "Cagliari",
-      "competition": "Serie A",
-      "result": "4-0",
-      "goals": 1,
-      "note": "Ha sbloccato il match con una cavalcata convincente, sottolineando la crescita nel torneo.",
-      "noteEn": "Ha sbloccato il match con una cavalcata convincente, sottolineando la crescita nel torneo.",
-      "source": "LaViola.it",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
-    },
-    {
-      "date": "2026-10-21",
-      "player": "Tommaso Martinelli",
-      "club": "Avellino",
-      "opponent": "Cesena",
-      "competition": "Serie B",
-      "result": "1-1",
-      "note": "Si è distinto tra i pali sfoggiando parate decisive nonostante la pressione offensiva avversaria.",
-      "noteEn": "Si è distinto tra i pali sfoggiando parate decisive nonostante la pressione offensiva avversaria.",
-      "source": "LaViola.it",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2hiVnBpVE9iaFI1NzhkMDN6bGJ0ek5lT2ZCX2x6b0ZWT0lETFN4OTNHMmlod2pIcWxJYV9IYTNaWkVSekp5XzJSNVpVcHhWNFhGV0o3eW5uLTMzNzUxUDF1RGR2VEVMd182ZndiUXNDem01U2FzMTdVLXpLMHh2SEthRU50a3ZocVVZQmM3bmJldVFMMVFHV01JQWN0N2NYV3RGV3oweGhXcWM?oc=5"
     }
   ]
 }
