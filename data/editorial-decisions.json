@@ -1,45 +1,80 @@
 {
   "version": 1,
-  "date": "2026-10-30",
-  "updatedAt": "2026-10-30T08:23:17.857Z",
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T08:40:32.605Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mvultkiz-7qb1h",
-    "mvultknx-ihnvn",
-    "mvultkjz-0orxw",
-    "mvultkml-xkd2l",
-    "mvultkjz-v4ejp",
-    "mvultkjr-vuq1j",
-    "mvultkiz-sz05t"
+    "taccuino-2026-10-31",
+    "taccuino-2026-11-01",
+    "taccuino-2026-11-02",
+    "mvxgp80g-ndai5",
+    "mvxgp848-flwe7",
+    "mvyw61in-pvf1a",
+    "mvxgp806-9gazr",
+    "mvxgp80b-hhc5h",
+    "mvxgp7zw-1570s",
+    "mvxgp7zw-purzi",
+    "mvyw61bn-ucyhq",
+    "mvyw61c4-bac9u",
+    "mvz013aj-zp8qz",
+    "mvxgp7y1-q6y2x"
   ],
   "items": {
-    "mvultkiz-7qb1h": {
-      "live": true,
-      "instagram": true
-    },
-    "mvultknx-ihnvn": {
-      "live": true,
-      "instagram": true
-    },
-    "mvultkjz-0orxw": {
+    "taccuino-2026-10-31": {
       "live": false,
       "instagram": false
     },
-    "mvultkml-xkd2l": {
+    "taccuino-2026-11-01": {
+      "live": false,
+      "instagram": false
+    },
+    "taccuino-2026-11-02": {
       "live": true,
       "instagram": true
     },
-    "mvultkjz-v4ejp": {
+    "mvxgp80g-ndai5": {
       "live": true,
-      "instagram": false
+      "instagram": true
     },
-    "mvultkjr-vuq1j": {
-      "live": true,
-      "instagram": false
-    },
-    "mvultkiz-sz05t": {
+    "mvxgp848-flwe7": {
       "live": false,
+      "instagram": false
+    },
+    "mvyw61in-pvf1a": {
+      "live": true,
+      "instagram": false
+    },
+    "mvxgp806-9gazr": {
+      "live": true,
+      "instagram": false
+    },
+    "mvxgp80b-hhc5h": {
+      "live": true,
+      "instagram": false
+    },
+    "mvxgp7zw-1570s": {
+      "live": false,
+      "instagram": false
+    },
+    "mvxgp7zw-purzi": {
+      "live": true,
+      "instagram": true
+    },
+    "mvyw61bn-ucyhq": {
+      "live": true,
+      "instagram": false
+    },
+    "mvyw61c4-bac9u": {
+      "live": true,
+      "instagram": false
+    },
+    "mvz013aj-zp8qz": {
+      "live": false,
+      "instagram": false
+    },
+    "mvxgp7y1-q6y2x": {
+      "live": true,
       "instagram": false
     }
   }
