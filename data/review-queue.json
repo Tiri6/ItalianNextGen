@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T06:44:34.816Z",
-  "day": "2026-11-01",
+  "generatedAt": "2026-11-02T06:43:51.135Z",
+  "day": "2026-11-02",
   "items": [
     {
       "id": "taccuino-2026-10-31",
@@ -52,19 +52,23 @@
       "flags": []
     },
     {
-      "id": "mvxgp848-flwe7",
-      "file": "mvxgp848-flwe7.json",
-      "title": "Berti illumina Cremona, Benevento crolla con Mignani in ombra",
-      "excerpt": "Nella decima giornata di Serie B, la Cremonese ha battuto il Benevento 2-0 allo stadio Zini. Tra i grigiorossi spicca la prova di Tommaso Berti, mentre gli ospiti soffrono pesantemente nella prestazione del difensore Mignani.",
-      "category": "performance",
-      "source": "Pianeta Serie B",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQV9zeW1Gb015cTFfdW9LWV9UTmNtaDltbEZ5OS1WU2lXOE1CQ0dQSHpTOHFLalRESDBFSVZMVFFCZzE5X0hSY21YYXZMS3lnNkJRcmJ1YWFFR1BNWmRuXzc1YWh2UThpLTRra3FXbUF3Z1l2d2dNSGd4YVUyTDh6QW5FUUNDcXRwRFVnZjVfb2RUNF9Ja2lJX2V2ZlNGb1BpZmFhMlRR?oc=5",
+      "id": "taccuino-2026-11-02",
+      "file": "taccuino-2026-11-02.json",
+      "title": "Taccuino del giorno · 2 novembre 2026",
+      "excerpt": "Cinque giovani talenti azzurri sotto i riflettori tra Serie B, Under 21 e mercato europeo.",
+      "category": "taccuino",
+      "source": "Taccuino da 5 fonti",
+      "link": "",
       "players": [
-        "Tommaso Berti"
+        "Dominic Vavassori",
+        "Pietro Comuzzo",
+        "Luca Reggiani",
+        "Raphael Kofler",
+        "Brando Moruzzi"
       ],
-      "sourceDate": "2026-10-31T15:52:23.000Z",
-      "isDigest": false,
-      "bodyPreview": "La Cremonese non lascia scampo al Benevento nella sfida del decimo turno: allo stadio Zini termina 2-0 per i padroni di casa. Una vittoria che premia la solidità della squadra grigiorossa, dove Tommaso Berti si rivela uno dei protagonisti principali con una prestazione convincente che gli vale una valutazione positiva nelle valutazioni di giornata. Ben diverso il copione per gli ospiti campani, che subiscono un passi",
+      "sourceDate": null,
+      "isDigest": true,
+      "bodyPreview": "**Dominic Vavassori** Il Palermo continua a vincere e Vavassori si conferma protagonista: super prestazione del giovane nella vittoria sulla Sicilia esterna contro il Vicenza. [fonte](https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZWdmd0ZRS1RRanNlZ25CMzJSRU5nTU9pV3hlbmVZVnVXcnBPLUtsWU41bzV1ZS16TzRGV2lIMEdITUlIVkhtLTB4S3RqeWpJdVZFOTF3RGxQZGlQM3laNXJ1Y1EtZkQzNTBhWFlR?oc=5) **Pietro Comuzzo** L'Under 21 azzurra co",
       "proposed": {
         "live": true,
         "instagram": true
@@ -72,80 +76,19 @@
       "flags": []
     },
     {
-      "id": "mvxgp80g-ndai5",
-      "file": "mvxgp80g-ndai5.json",
-      "title": "Ghilardi segna e esulta: il primo gol in Serie A dopo due stagioni d'attesa",
-      "excerpt": "Il difensore della Roma trova la rete nella vittoria sull'Udinese a 23 anni, interrompendo un digiuno personale. Con una battuta su Lulli, racconta come il sistema tattico di Gasperini coinvolga anche i centrali in fase offensiva.",
-      "category": "performance",
-      "source": "Corriere dello Sport",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEpTZjdaMHp3dmRsMHNEOHQ0YXZlMjJDRmhVZDhTTVloWG15YkItZWU1bTNxUzNwZFZGVGltbGJ2NURDN1BVcU12UGhQWjBhT2tucWZUV1M1cWRmWUFUZU5KWHhRZFZrLWpId1VGTU5DaGdNeFlnX203LTkwbWRnNERnNUEtV3JPREl1X2FhMGVZN19faWNOQjlOWWg0ajgzNjRlVzZLX0VZQUZVQ1NjM2JLUWxpanI5VWpNQlFkSVB5VlhwRXBRWm1QUEhDTUh0S2htNDM3dl9paGkxTDU4bXFjeDRmUXZZOVNMMdIB7wFBVV95cUxOQnhibk55NjZUZXRZRkhQSVJNWTg1NnB4ZXZ0QnJSdHdIRjJNWVBaWmtuVDc5RVhTa200dHQ1TndaSURULW1vWjZpRlNKOG5UemNRMmlMNnJvZU1XM1NIU0t3ZUtRZ0lrMktBbWctelRFbjAycUNFY0FSN2RkZld4aUpxOGdWM0lLcklENFNGZ3RzQ01rcFQxY0g2ekpBbTluMGVCS0dFUFpqQXVPbGtzci1UR3dQZzF0WjY5STBDSGhubVFuWjA3Z0VhUllUbk4tQ1BUMVNaTHFrcTkzQnNJbHlrWnVEN3psSG1wUGtBTQ?oc=5",
+      "id": "mvyw61bn-ucyhq",
+      "file": "mvyw61bn-ucyhq.json",
+      "title": "Marianucci, l'esame di Torino è un'interrogazione rimandabile",
+      "excerpt": "Il difensore azzurro parte bene nella prima frazione ma cala vistosamente nella ripresa, quando viene spostato terzino. L'espulsione per fallo di reazione chiude una serata che andava ben diversamente.",
+      "category": "mercato",
+      "source": "Calciomercato",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd2xlbG8weHhnM19mbldaWEgwUHVDS1p0aHRxTTcwMjdBdmE5Rmc5MkFNUU5ERHNSbkxQYURnQjNpSEdMZjNlUExQQjhyMFg5R2haLXo2ZDctblZtdmxQbDBaTEJjdWVucDZfMGZCYWZlYmdIWWplYzFad2ZVOVpDbkxXQ3FxbHFNaXJick1SNjNLeFFqRDE0UkprMWJKR05rdUFwOFE5X1dmY2pzNmJrRUpKYng2T3ZkZGg1ZHRQZFp2LUdDMWt2QVJjbXZUb0F3NUFxZm45TDIyZnplLTdiYThOcUNjR1FhU2R0Zi1FZ3BhNmhtLWkzV1F0TWQ?oc=5",
       "players": [
-        "Daniele Ghilardi",
-        "Emanuele Lulli"
+        "Luca Marianucci"
       ],
-      "sourceDate": "2026-10-31T19:08:33.000Z",
+      "sourceDate": "2026-11-01T21:39:00.000Z",
       "isDigest": false,
-      "bodyPreview": "Daniele Ghilardi ha finalmente assaporato il gol in Serie A. Il difensore della Roma lo ha realizzato nella vittoria della squadra giallorossa sull'Udinese, interrompendo un'attesa durata oltre due stagioni. Sebbene già protagonista in cadetti e terza serie, la gioia di segnare al massimo livello arriva solo adesso, a 23 anni. Il centrale ha rilasciato dichiarazioni al termine della partita, ricordando lo sforzo fisi",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "mvxgp806-9gazr",
-      "file": "mvxgp806-9gazr.json",
-      "title": "U19, quattro della Primavera torinese convocati per lo stage Uefa",
-      "excerpt": "Ballanti, Bonacina, Cereser e Falasca aggregati da Favo per la preparazione di novembre a Coverciano.",
-      "category": "news",
-      "source": "Toro.it",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1Z3NEN0eHpYX29MUG93REVnTjZzanFySzJrMjZsZGhaNk9DVGVmNDVSNWJJdE93QzY1WGg3bHBYSVFFSWtsZzktUmIzZFJaWUwtUTZjaHdGRlRPSHd3RFJqZHQtRVdRZzVtcmlpVkU1ak9MMnNLQzN3eXYyci1reVBTSEJVa1otcTdndXEzbzNvUEc2X0Fad0tHSFlKVVlSN1JoZE9RMTFGMUxyTVk4?oc=5",
-      "players": [
-        "Andrea Ballanti",
-        "Francesco Cereser",
-        "David Bonacina"
-      ],
-      "sourceDate": "2026-10-31T17:50:54.000Z",
-      "isDigest": false,
-      "bodyPreview": "La Nazionale Under 19 continua a scandagliare i talenti della Primavera italiana. Massimiliano Favo, commissario tecnico azzurro della categoria, ha scelto quattro elementi della rosa torinese per lo stage di preparazione UEFA round 2, in programma a Coverciano il 2 e 3 novembre. Tra i convocati figurano Andrea Ballanti, David Bonacina e Francesco Cereser, già nel mirino di Italian Next Gen, insieme a Gabriele Falasc",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "mvxgp80b-hhc5h",
-      "file": "mvxgp80b-hhc5h.json",
-      "title": "Damiano convocato dall'Italia Under 19 per le qualificazioni europee",
-      "excerpt": "Il laterale offensivo del Genoa Primavera prenderà parte al secondo turno di qualificazione all'Europeo di categoria nelle Marche, dal 11 al 17 novembre.",
-      "category": "news",
-      "source": "Genoa Oggi",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmdiaEhJN2JBbjIwNjFkQ2tRVzVlbHJka2JqS3Fua1lqbWhNR29lemJuaDJUTnd5MTg1MlI2RWptYnlqNmI0MjdNZm4tMl9jcGlBOHozeVJnUElUbGFXRGhqazZxMkdudGZGcUlWNXFXTmxyYU5sSS1yWHFhUU9WSkUwbG9scHBvSldIeFZfRkpvTENJdW5lWDBXT0tmcDJla3d4ZHUxSHFZLW5kUnRVYjJOZzgzYjZDVnZNUk1vTWJoQQ?oc=5",
-      "players": [
-        "Vincenzo Damiano"
-      ],
-      "sourceDate": "2026-10-31T09:49:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Vincenzo Damiano raggiunge la selezione azzurra Under 19 per il prossimo impegno internazionale. Il laterale offensivo della Primavera rossoblù è stato convocato per il secondo turno di qualificazione all'Europeo di categoria, che si svolgerà nelle Marche tra l'11 e il 17 novembre. Gli Azzurrini disputeranno tre partite nel corso della manifestazione. Il debutto è fissato per l'11 novembre contro la Romania alle 15:3",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "mvxgp7zw-1570s",
-      "file": "mvxgp7zw-1570s.json",
-      "title": "Italia U19, le Marche ospitano il secondo turno europeo",
-      "excerpt": "Dopo il primo posto conquistato in Scozia, gli Azzurrini di Favo giocano in casa il Round 2 delle qualificazioni all'Europeo. Tre match tra Ancona, Fano e Fermo da mercoledì 11 a martedì 17 novembre.",
-      "category": "news",
-      "source": "Francesco Panza",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQazFwcmlrbXJSTkl1VEdCbnFxSS1rM1p6X2xMRjhfWURoS0ZDbEoxdWc3RnVzbWhtMndlRWJ6VHBONDYtOXJMdngwMEFsb1VSNms0MTE2dG9jU01hdEw3Vk9mNVVzTEoxeTlSV3lZNTY1RlhiSmJHTUhHRlk4TkdfZTBJeUtxNFNlaTlzeWw4eGUybWhEOVMta1p0UFlfaGcyS09YcjJKM1Q4bDRFM2RxSHlmd2gwWnVhMHc?oc=5",
-      "players": [],
-      "sourceDate": "2026-10-31T08:43:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "La Nazionale Under 19 ha già staccato il biglietto per il secondo turno di qualificazione all'Europeo dopo aver dominato il primo round di marzo con sette punti in tre gare disputate in Scozia. Ora l'Italia ritrova il pubblico amico nelle Marche, dove dal 11 al 17 novembre affronterà Romania, Ucraina e Israele nel Girone A6 della Lega A. Lo stage di preparazione è fissato per i giorni 2 e 3 novembre al Centro Tecnico",
+      "bodyPreview": "Luca Marianucci ha sperimentato sulla sua pelle la differenza tra i primi 45 minuti e il prosieguo della sfida di Torino. Nei tempi iniziali il centrale azzurro gioca con solidità, contenendo le giocate di Kolo Muani quando viene lanciato in profondità. Un'ammonizione raccolta nel primo tempo avrà però effetti determinanti sul prosieguo dell'incontro. Nella ripresa arriva la scossa: il cambio tattico lo sistema come ",
       "proposed": {
         "live": true,
         "instagram": false
@@ -153,57 +96,20 @@
       "flags": []
     },
     {
-      "id": "mvxgp7zw-purzi",
-      "file": "mvxgp7zw-purzi.json",
-      "title": "U19, stage a Coverciano prima del Round 2. Favo convoca 22 azzurrini",
-      "excerpt": "La nazionale Under 19 di Massimiliano Favo si prepara alla fase cruciale delle qualificazioni europee con un raduno in Toscana. Dal 11 al 17 novembre in scena il girone italiano contro Romania, Ucraina e Israele.",
-      "category": "news",
-      "source": "Francesco Panza",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1FlZUkwNGU5ako3V1BxNWFMRUdXNm5YZzE4cF8yODlSVktRNnZhYkt3OXBvQVF6MldBQXFoNjdNRzA4YThxVU5lWXZyVFpCWVV3dEIzbVVLUEoyb29OTUdFTXc4bm1sSVBObE9zcjNlNWJ4Y3VuWnNJWTNUUmRDTW5rWjVxUmplRTNocWlrQWpTZk9acmdr?oc=5",
-      "players": [],
-      "sourceDate": "2026-10-31T09:55:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Dopo aver dominato la prima fase di qualificazione disputata in Scozia a marzo, con sette punti in altrettante partite, gli Azzurrini affrontano ora lo step successivo del loro percorso verso l'Europeo di categoria. Favo ha organizzato uno stage di due giorni presso il centro tecnico di Coverciano per il 2 e 3 novembre, al termine del quale comunicherà i venti elementi che rappresenteranno l'Italia nelle gare ufficia",
-      "proposed": {
-        "live": true,
-        "instagram": false
-      },
-      "flags": []
-    },
-    {
-      "id": "mvxgp7y1-q6y2x",
-      "file": "mvxgp7y1-q6y2x.json",
-      "title": "Rispoli illumina il Druso: Sudtirol e Cesena non si fanno male",
-      "excerpt": "Il centrocampista del Sudtirol regala il momentaneo vantaggio con un gol di rara bellezza dai venti metri. Shpendi pareggia nella ripresa, ma gli altoatesini rimangono in difficoltà: due punti in quattro turni.",
+      "id": "mvyw61c4-bac9u",
+      "file": "mvyw61c4-bac9u.json",
+      "title": "Kofler e il Cagliari: «Rialzeremo la testa dopo la sconfitta con la Lazio»",
+      "excerpt": "Il difensore rossoblu commenta la quarta sconfitta consecutiva all'Olimpico. Sulla rete del 2-1, le parole di Colombo sulla dinamica del gol.",
       "category": "mercato",
       "source": "TUTTOmercatoWEB",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjgyUW1ycF91SFBGdTRtMzE2WnA0WU5OVkVMX0ZDWFJvbWgxbC1EMmE1V1Z4TUlrNm9DUjAyTGlHN0NicjlKLV9uMUxxTGpOWV9oUXZheF8tNkpjZ1JncHdvQ3AzV2FiaVFlTHVmTERwVm5jQU5xRzdEcC1OSlRjd3FpYjNNZENxanBOS3ZLN0cwQmlfb1V5UUlmcHlFX3RkMV84cHNrQzJmR0tGTldzLXU5LUVDTW8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWhvZUxXcFNTb0hBU2JfY084am1mVURDT0ExUzZLYzY0N0ItWEo1MGpVUkc1NVg5N0hVWk9LdFB6eTFYOGhoSXZybmhmQUMyRW90QzRkS3A3M016Y0M3V3E4M25YbTM4ZFhfZ1F2MG9yTjZON2VWVHBEZlBnNTladkppVUM?oc=5",
       "players": [
-        "Fabio Rispoli"
+        "Raphael Kofler",
+        "Leonardo Colombo"
       ],
-      "sourceDate": "2026-10-31T16:08:22.000Z",
+      "sourceDate": "2026-11-01T16:35:00.000Z",
       "isDigest": false,
-      "bodyPreview": "Finisce in equilibrio l'incontro fra Sudtirol e Cesena al Druso, con le due squadre che si dividono la posta in palio all'insegna di una gara ricca di spunti offensivi. Trenta occasioni complessive e due legni testimonianza di un confronto che ha regalato scambi piacevoli al pubblico presente, con i portieri protagonisti e il solito Shpendi a timbrare il cartellino per la nona volta stagionale. Ad accendere la gara è",
-      "proposed": {
-        "live": true,
-        "instagram": false
-      },
-      "flags": []
-    },
-    {
-      "id": "mvw193qt-gh8ee",
-      "file": "mvw193qt-gh8ee.json",
-      "title": "Camarda in bilico al Milan, possibile addio a gennaio",
-      "excerpt": "L'attaccante rossonero fatica a trovare continuità sotto Amorim. Un prestito in Serie B potrebbe essere la soluzione per garantirgli il minutaggio necessario.",
-      "category": "mercato",
-      "source": "Calciomercato.it",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbU5lc3lPdEpENTlxaG5HUW1KdTdfdUZMa3RsZnRzNl9oUHFPSndZUTBpd0VFZ1RUaWY0SzJLeGs3LUZUNE4tdHF6c3N4aXE3bjgzb1JiOTdXTVk1TmpxVkw1UEZXRndiTE9hcVdQQzI5M1dOYVROc1VOcmx1V1lGdlZWZFhtZWpva2JKeHpSZzYwZk51MW5QMlNCRVJvYlUwYVJwTEJZZkhld9IBrwFBVV95cUxOdG1RZ3RmRWlEa1VNOWxEZHIyUy1leXVlVU1sNnI2VzAxWV80eHNLY28yRjVUbG9RQWZqRWlfazMtaWRlalJreFZVQjliWnZnRVF1SDhPb2x1UWgtN05aYjlKQzNUNURLXy1PQUhsZmhDQmVmTDRoQWdUU1hlOEQ5Q2xEX0ZNejRWdFJ0cHphdzhuekwwSXpEYjI2T1p0elFORmZrdE55QWdyUnNoZUNZ?oc=5",
-      "players": [
-        "Francesco Camarda"
-      ],
-      "sourceDate": "2026-10-31T06:23:38.000Z",
-      "isDigest": false,
-      "bodyPreview": "Francesco Camarda rischia di lasciare il Milan nella finestra invernale di mercato. Il centravanti non sta trovando lo spazio sperato all'interno del progetto tecnico di Amorim, con appena un'apparizione dal primo minuto finora: quella nella sfida europea vinta contro il Salisburgo in Austria. Secondo le indiscrezioni, la società rossonera sta valutando diverse opzioni per il prosieguo della stagione. Nel caso in cui",
+      "bodyPreview": "Il Cagliari esce sconfitto dall'Olimpico, cedendo 2-1 alla Lazio. Una battuta d'arresto che rappresenta il quarto ko di fila per la squadra sarda, che avrebbe inaugurato il match con la rete di N'Zola ma non ha saputo contenere gli attacchi dei biancocelesti, capitolando poi con i gol di Isaksen e Pinamonti. Dalla sala stampa dello stadio romano, Raphael Kofler ha affrontato il momento critico senza cercare scusanti.",
       "proposed": {
         "live": true,
         "instagram": false
