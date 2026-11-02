@@ -36,7 +36,8 @@ jobs:
           git config user.name "ing-redazione"
           git config user.email "redazione@italiannextgen"
           git add data/performances.json || true
-          git add data/apifootball-state.json data/apifootball-status.json || true
+          git add data/apifootball-state.json || true
+          git add data/apifootball-status.json || true
           git diff --cached --quiet || git commit -m "aggiornate prestazioni ($(date +%F))"
           for i in 1 2 3; do
             git push && break
