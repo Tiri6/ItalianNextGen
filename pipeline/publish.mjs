@@ -35,7 +35,9 @@ const PROPOSTA = process.argv.includes('--proposta');
 // --- FRESCHEZZA: si pubblicano solo notizie uscite OGGI o IERI (ora italiana) ---
 // Uso: npm run publish -- --giorni=2   per allargare la finestra (default 1 = oggi+ieri)
 const giorniArg = process.argv.find((a) => a.startsWith('--giorni='));
-const MAX_AGE_DAYS = Math.max(0, Number(giorniArg?.split('=')[1] ?? 1));
+// Di lunedì la finestra arriva a SABATO (il weekend non si pubblica: altrimenti le notizie di sabato andrebbero perse).
+const isMonday = new Intl.DateTimeFormat('en-US', { timeZone: 'Europe/Rome', weekday: 'short' }).format(new Date()) === 'Mon';
+const MAX_AGE_DAYS = Math.max(0, Number(giorniArg?.split('=')[1] ?? (isMonday ? 2 : 1)));
 const romeDay = (d) => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Rome' }).format(d); // YYYY-MM-DD
 const OLDEST_OK = romeDay(new Date(Date.now() - MAX_AGE_DAYS * 86400000));
 // Data della notizia alla fonte (giorno italiano). Il taccuino nasce oggi: sempre fresco.

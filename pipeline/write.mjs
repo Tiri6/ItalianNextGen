@@ -66,7 +66,8 @@ for (let i = queue.length - 1; i >= 0; i--) {
 // …né da notizie più vecchie di ieri: publish le scarterebbe, e il budget di bozze (--max) va speso sulle fresche.
 // (Il 29 ott 2026 20 bozze su 20 erano finite su notizie del 27, lasciando senza bozza Genoa-Juve e Milan-Bologna.)
 const romeDay = (d) => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Rome' }).format(d);
-const OLDEST_FRESH = romeDay(new Date(Date.now() - 86400000));
+const isMondayW = new Intl.DateTimeFormat('en-US', { timeZone: 'Europe/Rome', weekday: 'short' }).format(new Date()) === 'Mon';
+const OLDEST_FRESH = romeDay(new Date(Date.now() - (isMondayW ? 2 : 1) * 86400000)); // lunedì: fino a sabato
 let staleSkipped = 0;
 for (let i = queue.length - 1; i >= 0; i--) {
   const { c } = queue[i];
