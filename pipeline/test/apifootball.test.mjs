@@ -32,11 +32,17 @@ const fx = { fixture: { date: '2026-10-31T18:00:00+01:00' }, league: { name: 'Se
 test('voce: titolare con gol', () => {
   const e = buildEntry(fx, 'away', { name: 'Daniele Ghilardi', club: 'Roma' }, { games: { minutes: 90, rating: '7.8', substitute: false }, goals: { total: 1, assists: null }, cards: { red: 0 } });
   assert.equal(e.date, '2026-10-31');
-  assert.equal(e.result, '2-5');
+  assert.equal(e.result, '5-2');
   assert.equal(e.club, 'Roma'); assert.equal(e.opponent, 'Udinese');
   assert.equal(e.goals, 1); assert.equal(e.rating, 7.8); assert.equal(e.minutes, 90);
   assert.match(e.note, /^Titolare, 90' in campo, 1 gol\.$/);
   assert.equal(e.assists, undefined);
+});
+
+test('risultato dal punto di vista del club del giocatore', () => {
+  const st = { games: { minutes: 90, substitute: false } };
+  assert.equal(buildEntry(fx, 'away', { name: 'A' }, st).result, '5-2'); // Roma in trasferta vince 5-2
+  assert.equal(buildEntry(fx, 'home', { name: 'B' }, st).result, '2-5'); // Udinese in casa perde 2-5
 });
 
 test('voce: in panchina senza entrare = nessuna prestazione', () => {
