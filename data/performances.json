@@ -28,6 +28,19 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQV9zeW1Gb015cTFfdW9LWV9UTmNtaDltbEZ5OS1WU2lXOE1CQ0dQSHpTOHFLalRESDBFSVZMVFFCZzE5X0hSY21YYXZMS3lnNkJRcmJ1YWFFR1BNWmRuXzc1YWh2UThpLTRra3FXbUF3Z1l2d2dNSGd4YVUyTDh6QW5FUUNDcXRwRFVnZjVfb2RUNF9Ja2lJX2V2ZlNGb1BpZmFhMlRR?oc=5"
     },
     {
+      "date": "2026-10-31",
+      "player": "Daniele Ghilardi",
+      "club": "Roma",
+      "opponent": "Udinese",
+      "competition": "Serie A",
+      "result": "2-5",
+      "goals": 1,
+      "note": "Primo gol in Serie A, nella vittoria della Roma a Udine.",
+      "noteEn": "First Serie A goal, in Roma's win at Udinese.",
+      "source": "Corriere dello Sport",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEpTZjdaMHp3dmRsMHNEOHQ0YXZlMjJDRmhVZDhTTVloWG15YkItZWU1bTNxUzNwZFZGVGltbGJ2NURDN1BVcU12UGhQWjBhT2tucWZUV1M1cWRmWUFUZU5KWHhRZFZrLWpId1VGTU5DaGdNeFlnX203LTkwbWRnNERnNUEtV3JPREl1X2FhMGVZN19faWNOQjlOWWg0ajgzNjRlVzZLX0VZQUZVQ1NjM2JLUWxpanI5VWpNQlFkSVB5VlhwRXBRWm1QUEhDTUh0S2htNDM3dl9paGkxTDU4bXFjeDRmUXZZOVNMMdIB7wFBVV95cUxOQnhibk55NjZUZXRZRkhQSVJNWTg1NnB4ZXZ0QnJSdHdIRjJNWVBaWmtuVDc5RVhTa200dHQ1TndaSURULW1vWjZpRlNKOG5UemNRMmlMNnJvZU1XM1NIU0t3ZUtRZ0lrMktBbWctelRFbjAycUNFY0FSN2RkZld4aUpxOGdWM0lLcklENFNGZ3RzQ01rcFQxY0g2ekpBbTluMGVCS0dFUFpqQXVPbGtzci1UR3dQZzF0WjY5STBDSGhubVFuWjA3Z0VhUllUbk4tQ1BUMVNaTHFrcTkzQnNJbHlrWnVEN3psSG1wUGtBTQ?oc=5"
+    },
+    {
       "date": "2026-10-29",
       "club": "Frosinone",
       "opponent": "Lecce",
@@ -235,32 +248,6 @@
       "noteEn": "Scored a hat-trick leading Fiorentina to victory, but was sent off for a second yellow card",
       "source": "Labaro Viola",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjlZNE1nVl9FT1dEQ25SM3p0VmcteFV6b1BVazc5ZXJOamVtNm9vTzFNcTVsdmZ5cG8tMktoSDlCOXFrdmNld195bW1La0paQTFTc0xqbVpqVWthM3ZkaHdlN1NPN2RKT0xVMm1uMk1CZDRZVkdVXzB1MzBubWZrZGpiVUxNMFNQTGltVWZYM3ZHUGdBai1HcjdETWdSY1JaaXF0NDlFS3R3Qmp5UFc0Sy0taXFYZkU?oc=5"
-    },
-    {
-      "date": "2026-10-25",
-      "player": "Luca Koleosho",
-      "club": "Paris FC",
-      "opponent": "Lens",
-      "competition": "",
-      "result": "2-1",
-      "goals": 1,
-      "note": "Ha sbloccato la partita nei minuti di recupero del primo tempo firmando il suo primo gol con la maglia del Paris FC",
-      "noteEn": "Unlocked the match in the first half's recovery time by scoring his first goal with Paris FC",
-      "source": "Cronachedi",
-      "sourceUrl": "https://cronachedi.it/paris-fc-luca-koleosho-ha-segnato-il-suo-primo-gol/"
-    },
-    {
-      "date": "2026-10-31",
-      "player": "Daniele Ghilardi",
-      "club": "Roma",
-      "opponent": "Udinese",
-      "competition": "Serie A",
-      "result": "2-5",
-      "goals": 1,
-      "note": "Primo gol in Serie A, nella vittoria della Roma a Udine.",
-      "noteEn": "First Serie A goal, in Roma's win at Udinese.",
-      "source": "Corriere dello Sport",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEpTZjdaMHp3dmRsMHNEOHQ0YXZlMjJDRmhVZDhTTVloWG15YkItZWU1bTNxUzNwZFZGVGltbGJ2NURDN1BVcU12UGhQWjBhT2tucWZUV1M1cWRmWUFUZU5KWHhRZFZrLWpId1VGTU5DaGdNeFlnX203LTkwbWRnNERnNUEtV3JPREl1X2FhMGVZN19faWNOQjlOWWg0ajgzNjRlVzZLX0VZQUZVQ1NjM2JLUWxpanI5VWpNQlFkSVB5VlhwRXBRWm1QUEhDTUh0S2htNDM3dl9paGkxTDU4bXFjeDRmUXZZOVNMMdIB7wFBVV95cUxOQnhibk55NjZUZXRZRkhQSVJNWTg1NnB4ZXZ0QnJSdHdIRjJNWVBaWmtuVDc5RVhTa200dHQ1TndaSURULW1vWjZpRlNKOG5UemNRMmlMNnJvZU1XM1NIU0t3ZUtRZ0lrMktBbWctelRFbjAycUNFY0FSN2RkZld4aUpxOGdWM0lLcklENFNGZ3RzQ01rcFQxY0g2ekpBbTluMGVCS0dFUFpqQXVPbGtzci1UR3dQZzF0WjY5STBDSGhubVFuWjA3Z0VhUllUbk4tQ1BUMVNaTHFrcTkzQnNJbHlrWnVEN3psSG1wUGtBTQ?oc=5"
     }
   ]
 }
