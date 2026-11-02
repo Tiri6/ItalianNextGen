@@ -1,0 +1,25 @@
+---
+title: "Marianucci, l'esame di Torino è un'interrogazione rimandabile"
+titleEn: "Marianucci fails the Turin test after defensive collapse"
+excerpt: "Il difensore azzurro parte bene nella prima frazione ma cala vistosamente nella ripresa, quando viene spostato terzino. L'espulsione per fallo di reazione chiude una serata che andava ben diversamente."
+excerptEn: "The Napoli defender starts well in the first half but collapses significantly after the break, when moved to fullback. A red card for a rash challenge ends an evening that started much differently."
+date: 2026-11-02
+publishedAt: 2026-11-02T11:40:00+01:00
+category: mercato
+players: ["Luca Marianucci"]
+competitions: []
+source: "Calciomercato"
+sourceUrl: "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd2xlbG8weHhnM19mbldaWEgwUHVDS1p0aHRxTTcwMjdBdmE5Rmc5MkFNUU5ERHNSbkxQYURnQjNpSEdMZjNlUExQQjhyMFg5R2haLXo2ZDctblZtdmxQbDBaTEJjdWVucDZfMGZCYWZlYmdIWWplYzFad2ZVOVpDbkxXQ3FxbHFNaXJick1SNjNLeFFqRDE0UkprMWJKR05rdUFwOFE5X1dmY2pzNmJrRUpKYng2T3ZkZGg1ZHRQZFp2LUdDMWt2QVJjbXZUb0F3NUFxZm45TDIyZnplLTdiYThOcUNjR1FhU2R0Zi1FZ3BhNmhtLWkzV1F0TWQ?oc=5"
+sourceDate: "2026-11-01T21:39:00.000Z"
+social: false
+---
+
+Luca Marianucci ha sperimentato sulla sua pelle la differenza tra i primi 45 minuti e il prosieguo della sfida di Torino. Nei tempi iniziali il centrale azzurro gioca con solidità, contenendo le giocate di Kolo Muani quando viene lanciato in profondità. Un'ammonizione raccolta nel primo tempo avrà però effetti determinanti sul prosieguo dell'incontro.
+
+Nella ripresa arriva la scossa: il cambio tattico lo sistema come terzino, e da lì in poi la prestazione precipita. Lo spazio concesso dall'ex Bologna consente al bosniaco di siglare una rete di pregevole fattura. Poco dopo, Marianucci arriva tardivamente su Cabal, lo stende e rimane in campo senza neanche il beneficio del dubbio: è rosso diretto. Un crescendo di episodi che trasforma rapidamente una gara affrontata da titolare in un big match in un esame fallito sulla linea di demarcazione tra sufficio e insufficiente.
+
+<!--EN-->
+
+Luca Marianucci experienced firsthand the gulf between the opening 45 minutes and the remainder of the Turin clash. In the early stages, the Napoli centre-back plays with composure, containing Kolo Muani's forward runs with relative ease. A caution picked up in the first half would however prove consequential for what lay ahead.
+
+The second half brings the turning point: a tactical reshuffle positions him as a fullback, and from that moment onward his performance unravels. The space given by the ex-Bologna player allows the Bosnian attacker to register a well-struck goal. Shortly after, Marianucci arrives late on Cabal, brings him down, and there is no reprieve—a straight red. A sequence of events that swiftly transforms what began as a credible display in a high-stakes fixture into an examination failed at the borderline between adequate and inadequate.
