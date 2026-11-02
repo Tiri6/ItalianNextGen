@@ -220,7 +220,20 @@ async function handleRuns(env) {
 }
 
 // ---------------------------------------------------------------- ingresso
+// Rebuild programmato affidabile: i cron di GitHub Actions sono "best effort" e spesso saltano per ore,
+// così gli articoli con orario futuro non compaiono. Il cron di Cloudflare è puntuale: lancia il Deploy.
+async function handleScheduled(env) {
+  const r = await ghFetch(env, `/repos/${repoOf(env)}/actions/workflows/deploy.yml/dispatches`, {
+    method: 'POST',
+    body: JSON.stringify({ ref: branchOf(env) }),
+    headers: { 'content-type': 'application/json' },
+  });
+  if (r.status !== 204) console.log(`Rebuild programmato: GitHub ${r.status}`);
+}
+
 export default {
+  async scheduled(_event, env, ctx) { ctx.waitUntil(handleScheduled(env)); },
+
   async fetch(request, env) {
     const url = new URL(request.url);
     if (!url.pathname.startsWith('/api/')) {

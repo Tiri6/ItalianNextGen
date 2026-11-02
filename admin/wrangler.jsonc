@@ -12,6 +12,8 @@
   // Le variabili TEAM_DOMAIN, POLICY_AUD, ALLOWED_EMAIL si impostano nel pannello Cloudflare (contengono la tua email):
   // keep_vars evita che ogni nuovo deploy le cancelli.
   "keep_vars": true,
+  // Rebuild del sito ogni 20 minuti, 8-20 UTC (9-21 ora italiana): fa comparire gli articoli programmati
+  "triggers": { "crons": ["*/20 8-19 * * *"] },
   "vars": {
     "GITHUB_REPO": "Tiri6/ItalianNextGen",
     "GITHUB_BRANCH": "main"
