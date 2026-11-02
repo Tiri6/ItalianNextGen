@@ -210,5 +210,5 @@ async function main() {
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
-  main().catch((e) => { console.error('Errore dati partita:', e.message); process.exit(0); }); // mai bloccare la redazione
+  main().catch(async (e) => { await status(`💥 Errore dati partita: ${String(e?.stack ?? e).slice(0, 400)}`); process.exit(0); }); // mai bloccare la redazione
 }
