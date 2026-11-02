@@ -74,9 +74,9 @@ export function buildEntry({ fixture, league, teams, goals }, teamSide, player, 
   const gl = stat.goals?.total ?? 0;
   const as = stat.goals?.assists ?? 0;
   const rating = g.rating ? Math.round(Number(g.rating) * 10) / 10 : null;
-  const starter = g.substitute === false;
-  const itB = [starter ? 'Titolare' : 'Subentrato', `${minutes}' in campo`];
-  const enB = [starter ? 'Starter' : 'Substitute', `${minutes} minutes played`];
+  // Il flag "substitute" dell'API non è affidabile (dava "titolare" a chi ha giocato 10'): non dichiariamo ruolo, solo minuti.
+  const itB = [`${minutes}' in campo`];
+  const enB = [`${minutes} minutes played`];
   if (gl) { itB.push(plural(gl, 'gol', 'gol')); enB.push(plural(gl, 'goal', 'goals')); }
   if (as) { itB.push(plural(as, 'assist', 'assist')); enB.push(plural(as, 'assist', 'assists')); }
   if (stat.cards?.red) { itB.push('espulso'); enB.push('sent off'); }

@@ -35,7 +35,7 @@ test('voce: titolare con gol', () => {
   assert.equal(e.result, '5-2');
   assert.equal(e.club, 'Roma'); assert.equal(e.opponent, 'Udinese');
   assert.equal(e.goals, 1); assert.equal(e.rating, 7.8); assert.equal(e.minutes, 90);
-  assert.match(e.note, /^Titolare, 90' in campo, 1 gol\.$/);
+  assert.match(e.note, /^90' in campo, 1 gol\.$/);
   assert.equal(e.assists, undefined);
 });
 
@@ -51,7 +51,7 @@ test('voce: in panchina senza entrare = nessuna prestazione', () => {
 
 test('voce: subentrato con assist', () => {
   const e = buildEntry(fx, 'home', { name: 'X' }, { games: { minutes: 12, substitute: true }, goals: { total: 0, assists: 1 } });
-  assert.match(e.note, /^Subentrato, 12' in campo, 1 assist\.$/);
+  assert.match(e.note, /^12' in campo, 1 assist\.$/);
   assert.equal(e.goals, undefined);
 });
 
