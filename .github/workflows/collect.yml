@@ -97,7 +97,7 @@ jobs:
           git add pipeline/digested || true
           git add data/competitions.json || true
           git add data/performances.json || true
-          git add data/apifootball-state.json || true
+          git add data/apifootball-state.json data/apifootball-status.json || true
           git add data/review-queue.json || true
           git add src/content/news || true
           git add public/social || true

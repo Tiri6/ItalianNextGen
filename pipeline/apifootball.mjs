@@ -135,13 +135,18 @@ async function api(pathAndQuery, key, retry = true) {
   return j.response ?? [];
 }
 
+const STATUS = path.join(ROOT, 'data', 'apifootball-status.json');
+async function status(msg, extra = {}) {
+  console.log(msg);
+  try { await writeFile(STATUS, JSON.stringify({ at: new Date().toISOString(), msg, ...extra }, null, 2) + '\n'); } catch {}
+}
 const romeDay = (d) => new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Rome' }).format(d);
 
 async function main() {
   const arg = (n) => process.argv.find((a) => a.startsWith(`--${n}=`))?.split('=')[1];
   const DRY = process.argv.includes('--dry');
   const key = process.env.APIFOOTBALL_KEY;
-  if (!key) { console.log('ℹ️  APIFOOTBALL_KEY non impostata: dati partita saltati.'); return; }
+  if (!key) { await status('ℹ️  APIFOOTBALL_KEY non impostata: dati partita saltati.'); return; }
 
   const MAX = Number(arg('max') ?? 70);
   const days = arg('date')
@@ -159,7 +164,7 @@ async function main() {
   for (const day of days) {
     let fixtures;
     try { fixtures = await api(`/fixtures?date=${day}&timezone=Europe/Rome`, key); calls++; }
-    catch (e) { console.log(`❌ fixtures ${day}: ${e.message}`); return; }
+    catch (e) { await status(`❌ fixtures ${day}: ${e.message}`, { remaining }); return; }
     const done = fixtures.filter((f) => FINISHED.has(f.fixture?.status?.short));
     for (const f of done) {
       if (state.processed[f.fixture.id]) continue;
@@ -197,6 +202,7 @@ async function main() {
   const ids = Object.keys(state.processed);
   if (ids.length > 600) for (const id of ids.slice(0, ids.length - 600)) delete state.processed[id];
 
+  await status(`✅ ${days.join(', ')}: partite da leggere ${todo.length}, prestazioni ${added}, richieste ${calls}`, { remaining });
   console.log(`\n✅ Prestazioni da dati partita: ${added} (di cui ${replaced} sostituiscono voci da articoli) · richieste usate: ${calls}${remaining != null ? ` · rimaste oggi: ${remaining}` : ''}`);
   if (DRY) { console.log('(prova: niente scritto)'); return; }
   await writeFile(PERF, JSON.stringify(db, null, 2) + '\n');
