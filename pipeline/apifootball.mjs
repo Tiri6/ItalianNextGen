@@ -160,11 +160,17 @@ async function main() {
   state.processed ??= {};
 
   let calls = 0;
+  const errors = [];
   const todo = [];
   for (const day of days) {
     let fixtures;
     try { fixtures = await api(`/fixtures?date=${day}&timezone=Europe/Rome`, key); calls++; }
-    catch (e) { await status(`❌ fixtures ${day}: ${e.message}`, { remaining }); return; }
+    catch (e) {
+      // Piano gratuito: solo ieri, oggi e domani. Una data fuori finestra si salta, le altre proseguono.
+      console.log(`⚠️  fixtures ${day}: ${e.message}`);
+      errors.push(`${day}: ${e.message}`);
+      continue;
+    }
     const done = fixtures.filter((f) => FINISHED.has(f.fixture?.status?.short));
     for (const f of done) {
       if (state.processed[f.fixture.id]) continue;
@@ -202,7 +208,7 @@ async function main() {
   const ids = Object.keys(state.processed);
   if (ids.length > 600) for (const id of ids.slice(0, ids.length - 600)) delete state.processed[id];
 
-  await status(`✅ ${days.join(', ')}: partite da leggere ${todo.length}, prestazioni ${added}, richieste ${calls}`, { remaining });
+  await status(`${errors.length && !calls ? '❌' : '✅'} ${days.join(', ')}: partite da leggere ${todo.length}, prestazioni ${added}, richieste ${calls}`, { remaining, ...(errors.length ? { errors } : {}) });
   console.log(`\n✅ Prestazioni da dati partita: ${added} (di cui ${replaced} sostituiscono voci da articoli) · richieste usate: ${calls}${remaining != null ? ` · rimaste oggi: ${remaining}` : ''}`);
   if (DRY) { console.log('(prova: niente scritto)'); return; }
   await writeFile(PERF, JSON.stringify(db, null, 2) + '\n');

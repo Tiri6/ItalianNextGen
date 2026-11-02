@@ -54,8 +54,8 @@ jobs:
         run: node pipeline/results.mjs
         continue-on-error: true
       - name: Prestazioni da dati partita (API-Football)
-        # Tabellini verificati di ieri e oggi (il lunedì anche sabato). Senza segreto APIFOOTBALL_KEY salta da solo.
-        run: node pipeline/apifootball.mjs --giorni=$([ "$(date +%u)" = 1 ] && echo 3 || echo 2)
+        # Tabellini verificati di ieri e oggi (il piano gratuito non arriva più indietro: per questo gira ogni giorno, weekend compresi). Senza segreto APIFOOTBALL_KEY salta da solo.
+        run: node pipeline/apifootball.mjs --giorni=2
         continue-on-error: true
       - name: Prestazioni dai match report
         if: env.ANTHROPIC_API_KEY != ''
