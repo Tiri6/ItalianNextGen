@@ -116,10 +116,18 @@ export function mergeEntry(list, entry) {
 
 // ---------- API ----------
 let remaining = null;
-async function api(pathAndQuery, key) {
+let lastCall = 0;
+// Piano gratuito: massimo 10 richieste al minuto → una ogni 7 secondi (ritardo configurabile con APIFOOTBALL_DELAY_MS)
+const DELAY_MS = Number(process.env.APIFOOTBALL_DELAY_MS ?? 7000);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+async function api(pathAndQuery, key, retry = true) {
+  const wait = lastCall + DELAY_MS - Date.now();
+  if (wait > 0) await sleep(wait);
+  lastCall = Date.now();
   const res = await fetch(`${API}${pathAndQuery}`, { headers: { 'x-apisports-key': key }, signal: AbortSignal.timeout(30000) });
   const r = res.headers.get('x-ratelimit-requests-remaining');
   if (r != null) remaining = Number(r);
+  if (res.status === 429 && retry) { await sleep(65000); return api(pathAndQuery, key, false); } // troppe richieste al minuto: attende e riprova una volta
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const j = await res.json();
   const errs = j.errors && (Array.isArray(j.errors) ? j.errors : Object.values(j.errors));
