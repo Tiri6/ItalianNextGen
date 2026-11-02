@@ -6,7 +6,11 @@
 name: ⚽ Aggiorna prestazioni
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      giorni:
+        description: 'Quanti giorni indietro cercare le partite (2 = ieri e oggi; 4 dopo un weekend lungo)'
+        default: '2'
 
 permissions:
   contents: write
@@ -16,11 +20,15 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      APIFOOTBALL_KEY: ${{ secrets.APIFOOTBALL_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Prestazioni da dati partita (API-Football)
+        run: node pipeline/apifootball.mjs --giorni=${{ github.event.inputs.giorni || 2 }}
+        continue-on-error: true
       - name: Estrai prestazioni dai match report
         run: node pipeline/performances.mjs
       - name: Commit delle prestazioni
@@ -28,6 +36,7 @@ jobs:
           git config user.name "ing-redazione"
           git config user.email "redazione@italiannextgen"
           git add data/performances.json || true
+          git add data/apifootball-state.json || true
           git diff --cached --quiet || git commit -m "aggiornate prestazioni ($(date +%F))"
           for i in 1 2 3; do
             git push && break

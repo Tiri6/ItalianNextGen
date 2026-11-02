@@ -42,6 +42,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      APIFOOTBALL_KEY: ${{ secrets.APIFOOTBALL_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -51,6 +52,10 @@ jobs:
         run: node pipeline/run.mjs
       - name: Risultati partite
         run: node pipeline/results.mjs
+        continue-on-error: true
+      - name: Prestazioni da dati partita (API-Football)
+        # Tabellini verificati di ieri e oggi (il lunedì anche sabato). Senza segreto APIFOOTBALL_KEY salta da solo.
+        run: node pipeline/apifootball.mjs --giorni=$([ "$(date +%u)" = 1 ] && echo 3 || echo 2)
         continue-on-error: true
       - name: Prestazioni dai match report
         if: env.ANTHROPIC_API_KEY != ''
@@ -92,6 +97,7 @@ jobs:
           git add pipeline/digested || true
           git add data/competitions.json || true
           git add data/performances.json || true
+          git add data/apifootball-state.json || true
           git add data/review-queue.json || true
           git add src/content/news || true
           git add public/social || true
