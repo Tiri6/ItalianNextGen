@@ -1,5 +1,275 @@
 {
-  "generatedAt": "2026-11-03T08:55:35.944Z",
-  "day": "2026-11-03",
-  "items": []
+  "generatedAt": "2026-11-04T06:47:03.514Z",
+  "day": "2026-11-04",
+  "items": [
+    {
+      "id": "taccuino-2026-11-04",
+      "file": "taccuino-2026-11-04.json",
+      "title": "Taccuino del giorno · 4 novembre 2026",
+      "excerpt": "Giovani talenti azzurri protagonisti tra campo e mercato: dalla magia di Fabbian e Lontani all'Atalanta alle mosse di mercato della Juventus. Tra rinnovi e turnover, prosegue il lavoro sugli under che animano la Serie A.",
+      "category": "taccuino",
+      "source": "Taccuino da 5 fonti",
+      "link": "",
+      "players": [
+        "Giovanni Fabbian",
+        "Simone Lontani",
+        "Cher Ndour",
+        "Jeff Ekhator",
+        "Luca Lipani",
+        "Eddy Kouadio"
+      ],
+      "sourceDate": null,
+      "isDigest": true,
+      "bodyPreview": "**Giovanni Fabbian e Simone Lontani** Fabbian e Lontani trascinano l'Atalanta a una goleada esterna contro il Parma, con i fischi a Bergamo rivolti a Sarri e compagni per una prestazione deludente. Due giovani che non smettono di mostrare qualità quando chiamati in causa. [fonte](https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3dONE56TjA3amkzSUYxSHNUN3NmbTY1OVE3YkRTYTdMbWtlTXFyQURoTHNnMFpvd0xKcUR4dURrRndSZmFmV3",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1iwq-s9mx6",
+      "file": "mw1r1iwq-s9mx6.json",
+      "title": "Padova, Giunti out con l'Empoli. Dellavalle verso il limite",
+      "excerpt": "Il centrocampista biancoscudato sconterà una giornata di squalifica dopo l'ammonizione ricevuta a Catanzaro. Dellavalle entra in diffida con il quarto cartellino.",
+      "category": "performance",
+      "source": "Telenuovo",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX2M4U0g1TWpScUZ3cDRZbFFpT1JMYVZSV0dLYklkbXpvM2FfdWkxZl84NkpuTWxMTWZmcVA0TE5FR3FYdGpQTHMtSkZ0RVhxMXlhNHBwcnNydlB0VXA4N2Z4cGd5ZUxrVnpOTndJQUNydEhzSmFpMk1rYkdnRTdYT2RfVjc1S21GSE9hSXN5VjZJYUNBcF9yUXpZUktRTEplel9VY1NPUHRWMEJrLW4zTFAyeW5FakdzNnVNUUVyd1lxbkprelk0cFlmYnlCSjFJTERsQ1pMY1VpaVIxQnZhQ2Rob1dBeFk?oc=5",
+      "players": [
+        "Alessandro Dellavalle"
+      ],
+      "sourceDate": "2026-11-03T08:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Il Padova dovrà fare a meno di Giovanni Giunti nella prossima sfida di campionato contro l'Empoli. Il giudice sportivo della Serie B ha disposto una giornata di squalifica per il centrocampista, punito per un comportamento scorretto rivolto a un avversario durante la trasferta di Catanzaro. Si tratta del quinto provvedimento disciplinare stagionale a carico di Giunti, che era già in diffida. Cambia la situazione per ",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1iw1-ru1d2",
+      "file": "mw1r1iw1-ru1d2.json",
+      "title": "Vavassori, l'attaccante del Palermo che conquista Mancini",
+      "excerpt": "L'esterno destro classe 2005 di proprietà dell'Atalanta sta brillando in Serie B sotto la guida di Inzaghi, con sette gol in dodici presenze. Il suo nome circola già negli ambienti della Nazionale azzurra.",
+      "category": "performance",
+      "source": "Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSzZ5aVpuMWFEM3pTRDQ3YlA4SWNDSU5pSWJnRnFwWkpnZFNaeklqWHZRSFJOSDl0ZllMNDFYYXJIZ3B3NHJiVmJiVnpMUDYyMC04M2tYaUFndmwyemdxdUUxSXQxd04zMHh5YWtNZWIxcnVWdXhsQXdiakx1c0lPSzJkTkpwWHRQQW1ObU9icTZ4Rjd6d2ZUNGVPa1ByOVdidS04Zkctd001Q3U2VkplMDh3b0N1emgteno0QnpXMVZGYldCQUpPMTdkaG5GYTVQalMxSlZxVW5BQkx0V05rZ1ZBUkRsZw?oc=5",
+      "players": [
+        "Dominic Vavassori"
+      ],
+      "sourceDate": "2026-11-03T18:26:14.000Z",
+      "isDigest": false,
+      "bodyPreview": "Dominic Vavassori sta imponendosi come uno dei volti più interessanti della Serie B in questa stagione. L'attaccante, arrivato al Palermo in prestito dall'Atalanta durante la scorsa estate, si è ritagliato un ruolo da titolare fisso nel 4-2-3-1 di Pippo Inzaghi, prevalentemente sulla fascia destra. Il bilancio finora parla chiaro: sette reti e tre assist in dodici gare tra campionato e Coppa Italia, con quattro dei s",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1iui-j3ktf",
+      "file": "mw1r1iui-j3ktf.json",
+      "title": "Marianucci bloccato dal regolamento UEFA: il Napoli ha già esaurito i cambi",
+      "excerpt": "Il giovane difensore non può essere inserito nella lista per il Porto perché il club ha già utilizzato l'unica sostituzione straordinaria concessa nella fase a gironi. L'unica strada rimane quella della Lista B con gli elementi della Primavera.",
+      "category": "performance",
+      "source": "https://tuttonapolicalcio.it/",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3cxLTg1OFNybUZ0Umtoc3NkWmViVklURm5zMURmQm9mX3NNRVNYTkJYUkUycGdUVHNtZGg0NjNaa1lSVEhPOFlpS2tFZkswSFAxWU5xSjJvZm8wcUhlSHM1UG9KX1JCc1cxWnBOX0lTNm5oRVlocVdoR3lOb0lnbXdJdFRsVU9NQU5DV1VvaXVRdjhTWl9kcU1VY3VvcTk1WFBBZnN3ZkJsZWdXLWx2VGREMlg3bzhmQ2lacWtERU0?oc=5",
+      "players": [
+        "Luca Marianucci"
+      ],
+      "sourceDate": "2026-11-03T07:37:12.000Z",
+      "isDigest": false,
+      "bodyPreview": "Luca Marianucci non sarà disponibile per la sfida europea del Napoli contro il Porto, ma non per motivi tecnici o fisici: a precludergli l'accesso è il freddo regolamento UEFA. Il club partenopeo ha infatti esaurito la possibilità di modifica straordinaria della lista UEFA consentita nella fase a gironi. Secondo le norme europee, è permessa una sola sostituzione di un calciatore di movimento nella Lista A quando ques",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1j0d-k7s12",
+      "file": "mw1r1j0d-k7s12.json",
+      "title": "Dalla Promozione valdostana al Senegal: Rita Zappia fa impazzire il Costa Rica",
+      "excerpt": "A 17-year-old from Aosta, ancora in Promozione femminile, realizza una prestazione straordinaria ai Giochi Olimpici Giovanili trascinando l'Italia in semifinale.",
+      "category": "performance",
+      "source": "Sprint e Sport",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUUk0bllhQ1QzcGN4VkZRYVh0U2xpanB2Rm1TdklBZjB5aWxPM21tZW9nM1JrU3RSWlNGMVFUWUFBbkFiUnIweUVKQmhCcG5lZWJXMzNnci13TVlHWXJNLVhKSTVmU2psQUVMN19RSWRuM1ZiVFNwNk9acmFtOE1pVl9XdUl2NXFyZGx3azhLV0IwY0xJR0tnSzNuUDJKc1d3OXB3UkhNSjhzRVI4ZXUtS3o0VE16UWhKWmw3U1BTOGQxdDU3dTg0bkp1RTBkNHRnNlkxLXpUeTFNaVdyMWpveHJZWFlZVDN6Rk1QYWMzOGlCMmxxSng1NVBORkg4aWdoVUdtQ2hBaDB5bXpjSU5pQXlidjJMaXEycGc?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-03T16:51:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Rita Zappia ha scritto una pagina memorabile della propria carriera ai Giochi Olimpici Giovanili di Dakar. L'attaccante valdostana della classe 2009, ancora milita in Promozione femminile con l'Aosta Calcio 511, ha realizzato tutti e quattro i gol dell'Italia Under 18 nella vittoria 4-1 contro il Costa Rica, regalando alle azzurrine la qualificazione alle semifinali della competizione. Una prestazione da bomber puro,",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1j09-knr0g",
+      "file": "mw1r1j09-knr0g.json",
+      "title": "Azzurrine a Cipro per le qualificazioni europee",
+      "excerpt": "Il Round 1 di qualificazione all'Europeo Under 19 femminile si disputerà a Pafos dal 27 novembre al 3 dicembre. L'Italia affronterà Galles, Spagna e Israele nel girone della Lega A.",
+      "category": "news",
+      "source": "FIGC",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG9RZDlCQV93czBCXzFKV19rc2FUcHhMUHVHNHNnel9fZGJxUHNvLVNDSEtYZkZ3QXl2ZUlZY0ctS0pkeDR0amg2TldtRDJKem9vTzJjVnhzMEdYaFdkeFRDa01Ra2dZNFdya1hPNkZLeDdHQnREOEE0LXl0SzZNeDdhMnQ0UjRoaGptUWViYTVlZzhnc21kdWhLOUM1VmxycEVBa3lLRWRSRFh5TlNtVUFTUVV5Y3BEU19BMERFaFdKb05Sd1NDZlRrMUZ5RkJKU1N4a1hackFkM3psM29Ddw?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-03T05:39:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "La nazionale Under 19 femminile inizierà il proprio cammino di qualificazione all'Europeo nella località cipriota di Pafos, dove si giocheranno i tre incontri del girone in campo neutro presso lo Stadio Comunale di Geroskipou. La scelta della sede, inizialmente prevista in Israele, è stata modificata mantenendo comunque lo stesso raggruppamento. Le ragazze allenate da Nicola Matteucci debatteranno il 27 novembre alle",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1j0c-dhcx6",
+      "file": "mw1r1j0c-dhcx6.json",
+      "title": "Tre talenti della Malo in azzurro, raduno U17 a Conversano",
+      "excerpt": "Sassaro, Trivellin e Stedile rappresenteranno il club veneto nel raduno della Nazionale under 17, con l'obiettivo di volare in Portogallo per il primo torneo internazionale della stagione.",
+      "category": "news",
+      "source": "Il Giornale di Vicenza",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeTBCVFc1QXgxV0pwWmxZNDcwY04zcXBpbTU2RkdPdkQ4UktvSmV3N3p5ZTMzTVVTRHNVOXhCSW1vcWg3dDN0QlJPWDlRclJqSWxCWElKZktybVZiaGZGNEp3bm5Pc0hJaFR1LXBzdzZFSTF1Y0Z4Q25tMXhBREF6VWJ4TWJyV0VRNUo0VXNZMkw3a2d6VkFPdWRhaUl1bVpQb3VrYWo3NDBBeFRMTXoxZ2ZqUDhrNlFwdFM4SzZKcGZBWlpzWF9zbEt3WEJaX0ZESzRIQk9JYjhCbWJJWVBQSHBHVnfSAeoBQVVfeXFMT1VKbVp1QlA1Wnd0R2VmTlYteTlQcFB3ZkxLLWJTYTJmd0dsc1NtUXpGRGpmSU9Ick9lZXZhYTZhMXY2THQ3eW55ejVROTRTV0puYllUdG1xZzYzTHF6NGtremp0ZTNjSEpkQjdXR2JEVlE3WW1TNnhCTGU5UWQ0elB3YlVscjF4Szd3blR1YS1IaUZla01BUFhzVXpzUlVwSnpRQVhwa1hfbDhMLUZKTVMtaWdZMTlLeXBRck53ZVJzU2d6YUdxX0J4THk2U2syczZ2aVZuNHJfVkhkVTBWUjQ0V2kwOEViSENB?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-03T18:18:32.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Pallamano Malo ha messo tre giocatori a disposizione della Nazionale italiana under 17 per il raduno tenutosi al Pala San Giacomo di Conversano. I convocati sono Nicola Sassaro (portiere), Nicolò Trivellin (terzino sinistro) e Francesco Stedile (centrale), tutti nati nel 2010. Il lavoro svolto durante questi giorni è stato incentrato sulla preparazione in vista dei prossimi impegni internazionali. Al termine del r",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1j0u-ohmoe",
+      "file": "mw1r1j0u-ohmoe.json",
+      "title": "Meta Catania, quattro azzurri per il doppio scontro con il Kosovo",
+      "excerpt": "Il commissario tecnico Samperi convoca Musumeci, Silvestri, Podda e Pulvirenti per le qualificazioni mondiali di futsal. La sfida ai Balcani potrebbe decidere il passaggio all'Elite Round.",
+      "category": "news",
+      "source": "Forzacatania.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTy1qU1lCU0w1T1FxVUFjbWlLYkwtYW05bXNqY3F4VnhsWENpVTZiY3lBQmpOVHc0dlIwdHBJeklZWFRabHdoYWdzVUxXQnVTN0s1eVhnY0dkVDJ6eWp0amdyMFlUTDB0NHZTUHdST2xNMTFWVzJkRmtocWhGVFpKQWZEZ0VPdDduR2dobjVPVTRTNE1wVXBYdU5rd0gzR3RVdXYwOXBRREpSZw?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-03T14:56:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Meta Catania conferma il suo peso nel panorama del futsal italiano con quattro convocazioni in Nazionale per le qualificazioni ai Mondiali 2028. Il tecnico azzurro Salvo Samperi ha scelto Carmelo Musumeci, Maurizio Silvestri, Michele Podda e Giovanni Pulvirenti in vista della doppia sfida contro il Kosovo, fissata per il 6 e il 10 novembre. Un riconoscimento che arriva nel momento più felice per i siciliani, lanci",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1izg-t1rx2",
+      "file": "mw1r1izg-t1rx2.json",
+      "title": "Juventus, Elimoghale blindato fino al 2029",
+      "excerpt": "L'attaccante della Next Gen bianconera ha rinnovato il contratto. Nato nel 2009, ha già esordito con la Prima Squadra in Europa League.",
+      "category": "mercato",
+      "source": "Calciomercato",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3YxdEFoZDVwQ2ZUS3M4Q3ZmUzhPWnVzM0t5Tkh2MTV0UkMxcjNyYngyN245bWZGNUFmZ1JRa2h4bUVZM3M3OXpQZHJPcE9vVkVUbXpNeHhOeFM1YWZ4OHRjMDc1YmlzMFFxZ1RhNmFad2owMXlzc3RUUzZCNHEwQWxmNWtNYUcxVEh0dFlPU2xQZ2VwUGFscHZtMDMtQnZRbXROd0RILXVEQ3ZRdzktUEVVOGhNWjA3cUpKTi02dUplWDAza0ZyeXNHZTZGb1BOLWpZOTBRSnJabURQZW5lWkdab3pKeGQzd2tqUmJpSGg1azVWZ3AzQVR3?oc=5",
+      "players": [
+        "Destiny Elimoghale"
+      ],
+      "sourceDate": "2026-11-03T17:37:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Juventus allunga il legame con Destiny Elimoghale. L'attaccante, classe 2009 e protagonista della squadra Primavera bianconera in Serie C, ha sottoscritto un nuovo accordo che lo vincolerà al club piemontese fino a giugno 2029, quando avrà vent'anni. Elimmoghale ha costruito la sua formazione nel settore giovanile bianconero, passando per tutte le categorie fino all'Under 20. Nel corso di questa stagione con la Ne",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1iwl-ns4ul",
+      "file": "mw1r1iwl-ns4ul.json",
+      "title": "Elimoghale, la Juventus blinda il suo attaccante fino al 2029",
+      "excerpt": "La Juventus ufficializza il rinnovo del giovane attaccante Destiny Elimoghale fino al 30 giugno 2029. Il classe 2009 ha già esordito con la Next Gen e ricevuto la prima convocazione in prima squadra.",
+      "category": "mercato",
+      "source": "MondoPrimavera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV05Ga0x1aWtHNEk3b0YzT2F4UFk2UU9aTk10ejNGQ1VZb3pTd1FsNU1xWkdTZXJzUFZ3aXBqdXZkczMxOERfODBZTGdCUkJ6R3hDNmcwNkZldXRTdDhFQVk2SnFoTXVyUnRlRHd4dXRuc2pDcDhNek1KRHpKZW5qLUFZby0wU2UtVHNYYmRHajktYTgtd2tEU3YwZlZXSGNW?oc=5",
+      "players": [
+        "Destiny Elimoghale"
+      ],
+      "sourceDate": "2026-11-03T16:40:35.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Juventus prosegue nella sua politica di consolidamento dei giovani prospetti in rosa: il club bianconero ha annunciato il prolungamento contrattuale di Destiny Elimoghale, attaccante nato nel 2009, che ha legato il proprio futuro al club fino al 30 giugno 2029. Un accordo che riconosce il percorso compiuto dal calciatore all'interno dell'accademia torinese, dalla categoria giovanile fino al calcio professionistico",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Destiny Elimoghale) di un'altra notizia in questa lista: «Juventus, Elimoghale blindato fino al 2029». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "mw1r1iw0-zepav",
+      "file": "mw1r1iw0-zepav.json",
+      "title": "Lontani domina tra i 2008 d'Europa: 5 gol in questa stagione",
+      "excerpt": "L'attaccante del Parma è il classe 2008 più prolifico nei principali campionati europei. Alle sue spalle restano coetanei di calibro mondiale come Inacio e Camarda.",
+      "category": "mercato",
+      "source": "TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFVCanpjYlBNWDdlcERpeVpGYjk0aldmMFlKdHdVbGRtb2FpUlQwOTNhY29zTVpVU24xRVQwZGd2Y2ZXSEtoWGdMZ0hCcTVmVFZLOC1WaVlldm8zSU5XR2hGVmREdjdJalB2ZTlHbmNuTl9vc1RtS0RnUWhoWHE5bGdub29xN2syUjFIZ2xyejVtZWtKaWJVd3JwSnZvOHVNM0E?oc=5",
+      "players": [
+        "Samuele Inacio",
+        "Francesco Camarda",
+        "Simone Lontani"
+      ],
+      "sourceDate": "2026-11-03T12:03:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Simone Lontani emerge come il bomber più letale tra i calciatori nati nel 2008 che giocano nei campionati europei. Il centravanti crociato ha raggiunto quota cinque reti in questa stagione: due in Coppa Italia e tre in Serie A, firmando gol decisivi contro Monza, Lazio e Atalanta. Una produzione che rappresenta quasi il 50% dell'intera offensiva della squadra di Gilardino, evidenziando quanto il giovane sia centrale ",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mw1r1iw4-yqq3k",
+      "file": "mw1r1iw4-yqq3k.json",
+      "title": "Vavassori guida il Palermo: doppietta e primato nella Serie B",
+      "excerpt": "L'attaccante rosanero firma due gol nella vittoria contro il Vicenza e conquista il riconoscimento settimanale. A 19 anni, è tra i più prolifici d'Europa nei cinque principali campionati.",
+      "category": "mercato",
+      "source": "TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVdkc3I1Y1FnZkg1dFMxQ3FaWUNoeGYwUDl1ai1IbTE0azhJVGtPMjg4U3hxTmEwcGtVOXJ2ZUo2ZjAzUVpIMlRyVmx5bXdxUjdvYWp3Wk5HbHkxejRLODJlLVVuZUkxeW4wOWRCZ2VpbUw5R05pbDBTUXF6YnRYYkx0eWg4T1JfMWVVbzVIMVd6NlF3Q2VjVVZwRUVRS2RGSEJnbnVDRWJnZmRPeUhIa2g1WQ?oc=5",
+      "players": [
+        "Dominic Vavassori"
+      ],
+      "sourceDate": "2026-11-03T21:19:36.000Z",
+      "isDigest": false,
+      "bodyPreview": "Dominic Vavassori è protagonista della vittoria del Palermo sulla L.R. Vicenza, realizzando una doppietta che consolida la posizione di leadership dei rosanero nel campionato cadetto. L'ottava affermazione stagionale della squadra siciliana porta dunque la firma dell'attaccante classe 2005. I numeri dell'ala confermano il momento di forma straordinario. Con sei gol all'attivo, Vavassori figura tra i marcatori più gio",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Dominic Vavassori) di un'altra notizia in questa lista: «Vavassori, l'attaccante del Palermo che conquista Mancini». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "mw1r1j05-971l7",
+      "file": "mw1r1j05-971l7.json",
+      "title": "Mancini rilancia i giovani: Cissè e compagni verso Francia e Belgio",
+      "excerpt": "Il commissario tecnico prepara un mix tra promesse emergenti e ritorni di esperienza per le ultime due gare di Nations League. In rampa di lancio anche Amatucci, mentre tornano Zaniolo, Retegui e Cristante.",
+      "category": "mercato",
+      "source": "Calciomercato",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeW93MnB3dURnYjRWeTlVZTVQcDBnUFhHWlVRSmNHTkxHMXdsaWNuQWVLbm80VEpzbUZRMnFfNEgtVmRHQmxSdFFka0VHbExOYVpYcC04aHVNNzBmeGtaWmFkMWs3MmZvVHBuNGswYkRrMktjWnJ2T01PZEZRUDBId0JpWXFUWHh1X2ZMdnFzVkVlSGJTZEQwUEtzNHN6SWp0SjZGM2t3UzNoRm1rUVd3ZV9zVVRHUVB1RlNpRHRoSXQ3VXV0OXdGeGJfNHN6dDlsZVZiSlRYVGJqN2hHbzNRNkQzSmNkZjZEVVBRZmZxNXl2S3duMU9hWjQ5MVFkajBEVXo2Z0xVdUNJZw?oc=5",
+      "players": [
+        "Alphadjo Cissè"
+      ],
+      "sourceDate": "2026-11-03T09:13:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Roberto Mancini sta per comunicare le convocazioni per affrontare Francia e Belgio nelle prossime sfide di Nations League, e l'orientamento è quello di aprire le porte a una generazione di calciatori che si stanno distinguendo nei rispettivi campionati. Tra le figure in primo piano figurano elementi come Alphadjo Cissè, Koleosho, Palestra, Pisilli e Ghilardi, mentre Lorenzo Amatucci, play del Deportivo, rimane in bal",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    }
+  ]
 }
