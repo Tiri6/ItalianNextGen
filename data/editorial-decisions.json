@@ -1,64 +1,74 @@
 {
   "version": 1,
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-03T08:54:37.921Z",
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T09:05:03.754Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "taccuino-2026-11-03",
-    "mw0bl902-pekde",
-    "mw0bl906-m4bdn",
-    "mw0bl8x7-pijc5",
-    "mw0bl97w-jizwi",
-    "mw0bl90h-7gcfy",
-    "mw0bl90h-ceelr",
-    "mw0bl90u-cmhe5",
-    "mw0bl8x4-zsaiu",
-    "mw0bl8zu-g2j57",
-    "mw0bl93l-rete9"
+    "taccuino-2026-11-04",
+    "mw1r1iw1-ru1d2",
+    "mw1r1iwq-s9mx6",
+    "mw1r1iw0-zepav",
+    "mw1r1izg-t1rx2",
+    "mw1r1iui-j3ktf",
+    "mw1r1j0d-k7s12",
+    "mw1r1j09-knr0g",
+    "mw1r1j0c-dhcx6",
+    "mw1r1j0u-ohmoe",
+    "mw1r1iwl-ns4ul",
+    "mw1r1iw4-yqq3k",
+    "mw1r1j05-971l7"
   ],
   "items": {
-    "taccuino-2026-11-03": {
+    "taccuino-2026-11-04": {
       "live": true,
       "instagram": true
     },
-    "mw0bl902-pekde": {
+    "mw1r1iw1-ru1d2": {
       "live": true,
       "instagram": true
     },
-    "mw0bl906-m4bdn": {
-      "live": false,
-      "instagram": false
-    },
-    "mw0bl8x7-pijc5": {
+    "mw1r1iwq-s9mx6": {
       "live": true,
       "instagram": false
     },
-    "mw0bl97w-jizwi": {
-      "live": false,
-      "instagram": false
-    },
-    "mw0bl90h-7gcfy": {
-      "live": false,
-      "instagram": false
-    },
-    "mw0bl90h-ceelr": {
-      "live": false,
-      "instagram": false
-    },
-    "mw0bl90u-cmhe5": {
+    "mw1r1iw0-zepav": {
       "live": true,
       "instagram": true
     },
-    "mw0bl8x4-zsaiu": {
+    "mw1r1izg-t1rx2": {
+      "live": true,
+      "instagram": true
+    },
+    "mw1r1iui-j3ktf": {
       "live": true,
       "instagram": false
     },
-    "mw0bl8zu-g2j57": {
-      "live": true,
+    "mw1r1j0d-k7s12": {
+      "live": false,
       "instagram": false
     },
-    "mw0bl93l-rete9": {
+    "mw1r1j09-knr0g": {
+      "live": false,
+      "instagram": false
+    },
+    "mw1r1j0c-dhcx6": {
+      "live": false,
+      "instagram": false
+    },
+    "mw1r1j0u-ohmoe": {
+      "live": false,
+      "instagram": false
+    },
+    "mw1r1iwl-ns4ul": {
+      "live": false,
+      "instagram": false
+    },
+    "mw1r1iw4-yqq3k": {
+      "live": false,
+      "instagram": false
+    },
+    "mw1r1j05-971l7": {
       "live": true,
       "instagram": false
     }
