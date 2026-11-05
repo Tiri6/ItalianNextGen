@@ -1,74 +1,84 @@
 {
   "version": 1,
-  "date": "2026-11-04",
-  "updatedAt": "2026-11-04T09:05:03.754Z",
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T08:32:54.137Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "taccuino-2026-11-04",
-    "mw1r1iw1-ru1d2",
-    "mw1r1iwq-s9mx6",
-    "mw1r1iw0-zepav",
-    "mw1r1izg-t1rx2",
-    "mw1r1iui-j3ktf",
-    "mw1r1j0d-k7s12",
-    "mw1r1j09-knr0g",
-    "mw1r1j0c-dhcx6",
-    "mw1r1j0u-ohmoe",
-    "mw1r1iwl-ns4ul",
-    "mw1r1iw4-yqq3k",
-    "mw1r1j05-971l7"
+    "mw36h68h-m9jix",
+    "mw36h6ee-foka6",
+    "mw36h6c9-lwfz1",
+    "mw36h6bx-5gog0",
+    "mw36h69c-7i0e7",
+    "mw36h69g-g4pw0",
+    "mw36h6eb-9xmim",
+    "mw36h6ed-y4ne1",
+    "mw36h6et-3tikx",
+    "mw36h68h-x0nhn",
+    "mw36h6bf-26fg5",
+    "mw36h663-xr1hw",
+    "mw36h69g-83r2k",
+    "mw36h6cz-x275r",
+    "mw36h67h-s44bd"
   ],
   "items": {
-    "taccuino-2026-11-04": {
+    "mw36h68h-m9jix": {
       "live": true,
       "instagram": true
     },
-    "mw1r1iw1-ru1d2": {
+    "mw36h6ee-foka6": {
+      "live": false,
+      "instagram": false
+    },
+    "mw36h6c9-lwfz1": {
       "live": true,
       "instagram": true
     },
-    "mw1r1iwq-s9mx6": {
-      "live": true,
-      "instagram": false
-    },
-    "mw1r1iw0-zepav": {
+    "mw36h6bx-5gog0": {
       "live": true,
       "instagram": true
     },
-    "mw1r1izg-t1rx2": {
+    "mw36h69c-7i0e7": {
       "live": true,
       "instagram": true
     },
-    "mw1r1iui-j3ktf": {
+    "mw36h69g-g4pw0": {
+      "live": false,
+      "instagram": false
+    },
+    "mw36h6eb-9xmim": {
+      "live": false,
+      "instagram": false
+    },
+    "mw36h6ed-y4ne1": {
+      "live": false,
+      "instagram": false
+    },
+    "mw36h6et-3tikx": {
+      "live": false,
+      "instagram": false
+    },
+    "mw36h68h-x0nhn": {
+      "live": false,
+      "instagram": false
+    },
+    "mw36h6bf-26fg5": {
+      "live": false,
+      "instagram": false
+    },
+    "mw36h663-xr1hw": {
       "live": true,
       "instagram": false
     },
-    "mw1r1j0d-k7s12": {
-      "live": false,
+    "mw36h69g-83r2k": {
+      "live": true,
       "instagram": false
     },
-    "mw1r1j09-knr0g": {
-      "live": false,
+    "mw36h6cz-x275r": {
+      "live": true,
       "instagram": false
     },
-    "mw1r1j0c-dhcx6": {
-      "live": false,
-      "instagram": false
-    },
-    "mw1r1j0u-ohmoe": {
-      "live": false,
-      "instagram": false
-    },
-    "mw1r1iwl-ns4ul": {
-      "live": false,
-      "instagram": false
-    },
-    "mw1r1iw4-yqq3k": {
-      "live": false,
-      "instagram": false
-    },
-    "mw1r1j05-971l7": {
+    "mw36h67h-s44bd": {
       "live": true,
       "instagram": false
     }
