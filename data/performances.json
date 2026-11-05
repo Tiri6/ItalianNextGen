@@ -2,6 +2,36 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-11-04",
+      "player": "Mattia Liberali",
+      "club": "Como",
+      "opponent": "Lens",
+      "competition": "UEFA Champions League",
+      "result": "9-1",
+      "minutes": 32,
+      "goals": 1,
+      "assists": 2,
+      "rating": 8.4,
+      "note": "32' in campo, 1 gol, 2 assist.",
+      "noteEn": "32 minutes played, 1 goal, 2 assists.",
+      "source": "Dati partita",
+      "fromApi": true
+    },
+    {
+      "date": "2026-11-04",
+      "player": "Antonio Vergara",
+      "club": "Napoli",
+      "opponent": "FC Porto",
+      "competition": "UEFA Champions League",
+      "result": "1-4",
+      "minutes": 78,
+      "rating": 5.3,
+      "note": "78' in campo.",
+      "noteEn": "78 minutes played.",
+      "source": "Dati partita",
+      "fromApi": true
+    },
+    {
       "date": "2026-11-03",
       "player": "Issa Doumbia",
       "club": "Sporting CP",
@@ -257,34 +287,6 @@
       "rating": 6.2,
       "note": "90' in campo.",
       "noteEn": "90 minutes played.",
-      "source": "Dati partita",
-      "fromApi": true
-    },
-    {
-      "date": "2026-11-01",
-      "player": "Lorenzo Palmisani",
-      "club": "Frosinone",
-      "opponent": "Torino",
-      "competition": "Serie A",
-      "result": "2-0",
-      "minutes": 90,
-      "rating": 6.6,
-      "note": "90' in campo.",
-      "noteEn": "90 minutes played.",
-      "source": "Dati partita",
-      "fromApi": true
-    },
-    {
-      "date": "2026-11-01",
-      "player": "Antonio Raimondo",
-      "club": "Frosinone",
-      "opponent": "Torino",
-      "competition": "Serie A",
-      "result": "2-0",
-      "minutes": 30,
-      "rating": 6.7,
-      "note": "30' in campo.",
-      "noteEn": "30 minutes played.",
       "source": "Dati partita",
       "fromApi": true
     }
