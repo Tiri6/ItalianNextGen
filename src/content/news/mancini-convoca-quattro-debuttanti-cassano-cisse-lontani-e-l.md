@@ -1,0 +1,25 @@
+---
+title: "Mancini convoca quattro debuttanti: Cassano, Cissè, Lontani e Liberali per Francia e Belgio"
+titleEn: "Mancini calls up four debutants: Cassano, Cissè, Lontani and Liberali for France and Belgium"
+excerpt: "Il commissario tecnico azzurro ha scelto quattro volti nuovi per le ultime due partite della Nations League. Tra i convocati torna anche Zaniolo, mentre Inacio resta fuori dalla rosa."
+excerptEn: "The Italian manager has selected four fresh faces for the final two Nations League matches. Zaniolo returns to the squad, while Inacio is left out."
+date: 2026-11-06
+publishedAt: 2026-11-06T08:50:00+01:00
+category: mercato
+players: ["Samuele Inacio", "Mattia Liberali", "Alphadjo Cissè", "Simone Lontani"]
+competitions: []
+source: "Calciomercato"
+sourceUrl: "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR2pMbDI4bkpFUFZkQ1R1S0xXSVEtdk5pSHdUNm9sNWpISFpWbzZfaDlhT1BNWXBlWElMZmxWUTZVblpTUGFEYWkwN2hBT3hDWkg5aTR2dDBIaEJjdGpfbkxsNXhrZFBrNE1JcFdTUHU1RnloMS1pTU05dHR4TC11TlJBamVBenVjSFBMREg4TS1MU2NiODVXbDZlMFJOYTZnZ280LWtUbXhpbHdUemRTYVExUk9hc1ZhY2dVQW15ekotdi1mbTZoQzdXdDNLREpVNTgwcTAtcmlBZDBuXzQ3RUE4dmVpR0xMQ2VpRnhzQ0pDR3hzWGIyWGl5TzZoU25ENTFOcEJJd3pCaVZjX0FnX2R3Rlc?oc=5"
+sourceDate: "2026-11-05T17:54:00.000Z"
+socialPick: true
+---
+
+Roberto Mancini ha diramato i convocati per le due sfide che chiuderanno il percorso azzurro in Nations League. Quattro le prime chiamate: il centrocampista del Como Riccardo Cassano (2009), il mediano del Parma Simone Lontani (2008), l'attaccante rossonero Alphadjo Cissè (2006) e Mattia Liberali (2007), pure lui nel Como. Si tratta però di convocazioni osservative: i tre più giovani raggiungeranno il raduno solo temporaneamente prima di tornare alle rispettive Under.
+
+L'Italia arriva alle ultime due giornate con sette punti, al secondo posto nel girone e già matematicamente certi del terzo posto. La sfida contro la Francia si disputerà a San Siro, mentre il confronto con il Belgio avrà luogo in trasferta. Dalla lista riemerge Nicolò Zaniolo con l'Udinese, mentre Samuele Inacio dell'Atalanta non figura tra i convocati. La rosa comprende elementi di consolidata esperienza internazionale insieme a prospettive interessanti per il futuro del progetto azzurro.
+
+<!--EN-->
+
+Roberto Mancini has announced his squad for the two matches that will conclude Italy's Nations League campaign. Four players will make their debuts: Como midfielder Riccardo Cassano (born 2009), Parma's Simone Lontani (2008), AC Milan forward Alphadjo Cissè (2006) and Mattia Liberali (2007), also from Como. However, these are observation-based call-ups: the three youngest players will join the squad temporarily before returning to their respective youth national teams.
+
+Italy arrives at the final two matches with seven points, sitting second in their group and mathematically guaranteed at least third place. The clash against France will take place at San Siro, while the meeting with Belgium will be away. Nicolò Zaniolo with Udinese returns to the squad, while Atalanta's Samuele Inacio is absent from the list. The roster combines players with established international experience alongside promising prospects for Italy's future football project.
