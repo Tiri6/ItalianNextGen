@@ -1,85 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-05",
-  "updatedAt": "2026-11-05T08:32:54.137Z",
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T07:51:07.943Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mw36h68h-m9jix",
-    "mw36h6ee-foka6",
-    "mw36h6c9-lwfz1",
-    "mw36h6bx-5gog0",
-    "mw36h69c-7i0e7",
-    "mw36h69g-g4pw0",
-    "mw36h6eb-9xmim",
-    "mw36h6ed-y4ne1",
-    "mw36h6et-3tikx",
-    "mw36h68h-x0nhn",
-    "mw36h6bf-26fg5",
-    "mw36h663-xr1hw",
-    "mw36h69g-83r2k",
-    "mw36h6cz-x275r",
-    "mw36h67h-s44bd"
+    "mw4lvy0v-bir0d",
+    "mw4lvxyf-nhisk",
+    "mw4lvxyd-izpjw",
+    "mw4lvxz4-b3a2d",
+    "mw4lvy1j-07ntg"
   ],
   "items": {
-    "mw36h68h-m9jix": {
+    "mw4lvy0v-bir0d": {
       "live": true,
       "instagram": true
     },
-    "mw36h6ee-foka6": {
-      "live": false,
-      "instagram": false
-    },
-    "mw36h6c9-lwfz1": {
+    "mw4lvxyf-nhisk": {
       "live": true,
       "instagram": true
     },
-    "mw36h6bx-5gog0": {
-      "live": true,
-      "instagram": true
-    },
-    "mw36h69c-7i0e7": {
-      "live": true,
-      "instagram": true
-    },
-    "mw36h69g-g4pw0": {
+    "mw4lvxyd-izpjw": {
       "live": false,
       "instagram": false
     },
-    "mw36h6eb-9xmim": {
+    "mw4lvxz4-b3a2d": {
       "live": false,
       "instagram": false
     },
-    "mw36h6ed-y4ne1": {
+    "mw4lvy1j-07ntg": {
       "live": false,
-      "instagram": false
-    },
-    "mw36h6et-3tikx": {
-      "live": false,
-      "instagram": false
-    },
-    "mw36h68h-x0nhn": {
-      "live": false,
-      "instagram": false
-    },
-    "mw36h6bf-26fg5": {
-      "live": false,
-      "instagram": false
-    },
-    "mw36h663-xr1hw": {
-      "live": true,
-      "instagram": false
-    },
-    "mw36h69g-83r2k": {
-      "live": true,
-      "instagram": false
-    },
-    "mw36h6cz-x275r": {
-      "live": true,
-      "instagram": false
-    },
-    "mw36h67h-s44bd": {
-      "live": true,
       "instagram": false
     }
   }
