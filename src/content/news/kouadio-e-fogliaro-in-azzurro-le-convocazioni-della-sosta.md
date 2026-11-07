@@ -1,0 +1,29 @@
+---
+title: "Kouadio e Fogliaro in azzurro: le convocazioni della sosta"
+titleEn: "Kouadio and Fogliaro called up for youth internationals"
+excerpt: "Il difensore monzese riceve la prima chiamata nell'Under 21 dopo il passaggio in Nazionale maggiore. Fogliaro confermato nell'Under 19 per le qualificazioni europee."
+excerptEn: "Monza defender gets his first U21 call-up after appearing in the senior squad. Fogliaro confirmed in U19 for European qualifiers."
+date: 2026-11-07
+publishedAt: 2026-11-07T15:40:00+01:00
+category: news
+players: ["Eddy Kouadio", "Christian Fogliaro"]
+competitions: ["euro-u21-2027", "euro-u19-2026"]
+source: "ilmonzasiamonoi.it"
+sourceUrl: "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWRDZUtzdTR0RVZVdjZlb0w5ZWZrOC0zUUMwR0tCcHVabDRFZnBLNF9UZHY5WnNtaTdiZERDOF9XQ1ZESU5oRHNFdHBOWWNxekZORDZhOHBvUVAtV3JMdW5xWlNmd1VweE5iOFZiSzRBc0lhUVFRQjh4TkZxWEU2MERVOTI5YmUyaXF6STBn?oc=5"
+sourceDate: "2026-11-06T12:00:50.000Z"
+social: false
+---
+
+Due elementi del Monza raggiungeranno la rappresentativa azzurra durante la pausa di novembre. Eddy Kouadio è stato inserito da Silvio Baldini tra i 26 convocati dell'Under 21: per il difensore classe 2006, arrivato in prestito dalla Fiorentina, si tratta della prima volta nella categoria. Un percorso inusuale quello del centrale monzese, che a settembre era stato sorprendentemente nominato da Roberto Mancini per gli impegni di Nations League della Nazionale senior, senza però trovare spazi. Ora Baldini gli offre l'opportunità di mettersi in luce tra i giovani, dove potrebbe raccogliere i frutti della buona impressione lasciata al Monza: in Brianza si è rapidamente conquistato una maglia da titolare con Juric e ha segnato anche nella goleada interna contro il Cagliari.
+
+L'Under 21 affronterà due test internazionali: il 13 novembre in Francia contro i pari età francesi, quindi il 16 novembre a Livorno contro il Belgio. La squadra è già qualificata agli Europei 2027. Nel frattempo Christian Fogliaro prosegue la sua ascesa nelle selezioni giovanili. L'attaccante classe 2008 è stato riconfermato dal ct Massimiliano Favo nell'Under 19 per il secondo turno di qualificazione all'Europeo di categoria, dopo lo stage di Coverciano dei giorni scorsi.
+
+Per Fogliaro si tratta dell'ennesima chiamata azzurra: faceva parte del gruppo vittorioso al torneo internazionale in Crozia a settembre e aveva partecipato con l'Under 18 alla spedizione scozzese di marzo, quando l'Italia superò il primo turno con sette punti. Con la Primavera continua a raccogliere minutaggio costante. L'Italia ospiterà il Round 2 nelle Marche, giocando tre partite tra l'11 e il 17 novembre contro Romania, Ucraina e Israele.
+
+<!--EN-->
+
+Two Monza players have been called up for international duty during the November break. Eddy Kouadio has been included by Silvio Baldini in the 26-man Under 21 squad, marking his first call-up at this level. The 2006-born centre-back, on loan from Fiorentina, follows an unusual path: Roberto Mancini had surprisingly named him for the senior team's Nations League fixtures in September, though he remained on the bench. Now Baldini gives him the chance to impress among the youth ranks, where he can build on his strong performances at Monza. The defender has quickly become a regular starter under Juric and even scored in the home demolition of Cagliari.
+
+The Under 21 side will face two testing fixtures: France on 13 November and Belgium on 16 November in Livorno. The squad has already qualified for the 2027 European Championship. Meanwhile, Christian Fogliaro continues his upward trajectory through the youth system. The 2008-born forward has been reconfirmed by ct Massimiliano Favo in the Under 19 for the second qualifying round of the European Championship, following a recent training camp in Coverciano.
+
+For Fogliaro, it is yet another youth call-up: he was part of the group that won the international tournament in Croatia last September and featured with the Under 18s on their trip to Scotland in March, when Italy topped their group with seven points. He continues to get regular minutes with the Primavera side. Italy will host the Round 2 ties in the Marche region, playing three matches between 11 and 17 November against Romania, Ukraine and Israel.

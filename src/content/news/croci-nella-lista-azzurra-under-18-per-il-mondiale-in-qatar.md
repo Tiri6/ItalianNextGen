@@ -1,0 +1,25 @@
+---
+title: "Croci nella lista azzurra Under 18 per il Mondiale in Qatar"
+titleEn: "Croci named in Italy U18 squad for Qatar World Cup"
+excerpt: "L'attaccante della Fiorentina tra i 21 convocati del ct Franceschini per la rassegna iridata. È uno dei soli due giocatori sotto età selezionati."
+excerptEn: "Fiorentina striker among 21 players called up by coach Franceschini for the world tournament. He is one of just two underage players selected."
+date: 2026-11-07
+publishedAt: 2026-11-07T15:20:00+01:00
+category: news
+players: ["Federico Croci"]
+competitions: []
+source: "Firenze Viola"
+sourceUrl: "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXMxMjVIWUpWajd0elFxRWJ3YUpkUEZ6d2RTb1BzZWZhaHhiNTM5T2l0MHp5M0ZlMi11dnQwX0ZZaTM4TWZwb0VXY3d0Vi1ZVG1weTM1QnRYMHpyRzRTUEVOTXlnQ0JqQVBWSkdoTWEzamJWM2ViV2N4WU9uRG1jb2JQcGxmM2pIcGFpV2VBUllBa1BmYWxV?oc=5"
+sourceDate: "2026-11-06T15:30:22.000Z"
+social: false
+---
+
+Federico Croci figura nella lista dei convocati della Nazionale italiana Under 18 per il Mondiale in programma in Qatar dal 19 novembre al 13 dicembre. Il commissario tecnico Daniele Franceschini ha selezionato complessivamente 21 calciatori, con l'attaccante viola che rappresenta una delle scelte più interessanti dell'elenco.
+
+A catturare l'attenzione è soprattutto la condizione di Croci: il classe 2010 è infatti uno dei soli due giocatori scelti sotto l'età regolamentare, insieme al centrocampista dell'Atalanta Francesco Olivieri. Una scelta che testimonia le qualità riconosciute al giovane della Fiorentina dal tecnico azzurro.
+
+<!--EN-->
+
+Federico Croci has been named in Italy's Under 18 squad for the World Cup taking place in Qatar from November 19 to December 13. Head coach Daniele Franceschini has called up a total of 21 players, with the Fiorentina striker representing one of the most compelling selections on the roster.
+
+What stands out particularly is Croci's status: the 2010-born talent is one of just two underage players picked for the tournament, alongside Atalanta midfielder Francesco Olivieri. A choice that underscores the abilities recognized in the young Fiorentina prospect by the Italian coach.

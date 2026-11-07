@@ -1,0 +1,25 @@
+---
+title: "U19, Bovio e Marello in campo per le qualificazioni europee"
+titleEn: "U19, Bovio and Marello called up for European qualifying rounds"
+excerpt: "Due elementi dell'Inter tra i convocati per il Round 2 nelle Marche. L'Italia sfida Romania, Ucraina e Israele da mercoledì 11 a martedì 17 novembre."
+excerptEn: "Two Inter players among the squad for the second round in the Marche region. Italy faces Romania, Ukraine and Israel from November 11 to 17."
+date: 2026-11-07
+publishedAt: 2026-11-07T15:00:00+01:00
+category: news
+players: ["Mattia Marello", "Leonardo Noah Bovio"]
+competitions: ["euro-u19-2026"]
+source: "FC Inter 1908"
+sourceUrl: "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcF9VbnZFQUlkX2syWDNoSS1ub1FMZFFyNFF3Q1NiQVF5cng0ZnlyMGRtT1BmeHhhNEhnaXBfb1BISWNpbFdES0NRTmNlc2JrMzl1S3JMbE56cEktWkJxWTg5U3F4R0hILWpTTUQxcW9qRzNWaDEtNzJvYmJMclNsbW1n0gGCAUFVX3lxTE1wX1VudkVBSWRfazJYM2hJLW5vUUxkUXI0UXdDU2JBUXlyeDRmeXIwZG1PUGZ4eGE0SGdpcF9vUEhJY2lsV0RLQ1FOY2VzYmszOXVLckxsTnpwSS1aQnFZODlTcXhHSEgtalNNRDFxb2pHM1ZoMS03Mm9iYkxyU2xtbWc?oc=5"
+sourceDate: "2026-11-06T18:45:26.000Z"
+socialPick: true
+---
+
+La Nazionale Under 19 si prepara al secondo turno di qualificazione all'Europeo, che si disputerà nelle Marche nella prossima settimana. Gli azzurrini affronteranno Romania ad Ancona mercoledì 11 novembre, quindi Ucraina a Fano sabato 14 e Israele a Fermo martedì 17. In palio tre posti per la terza fase, prevista a marzo, dalla quale usciranno i partecipanti alla rassegna continentale in programma in Cechia tra giugno e luglio.
+
+Interessa in particolare la presenza di due calciatori nerazzurri nel ventaglio dei convocati: Leonardo Noah Bovio e Mattia Marello, entrambi difensori, completano il pacchetto difensivo a disposizione dello staff tecnico. La squadra arriva al doppio impegno dopo il successo nel torneo internazionale disputato in Croazia alla ripresa della stagione agonistica.
+
+<!--EN-->
+
+The Italian Under 19 national team is preparing for the second qualifying round for the European Championship, to be held in the Marche region next week. The young Azzurri will face Romania in Ancona on Wednesday, November 11, then Ukraine in Fano on Saturday, November 14, and Israel in Fermo on Tuesday, November 17. Three spots are up for grabs for the third phase, scheduled for March, from which the participants for the continental tournament in the Czech Republic between June and July will emerge.
+
+Particularly notable is the inclusion of two Inter players in the squad of convocations: Leonardo Noah Bovio and Mattia Marello, both defenders, round out the defensive roster available to the technical staff. The team enters the tournament window following victory in the international tournament held in Croatia at the start of the competitive season.
