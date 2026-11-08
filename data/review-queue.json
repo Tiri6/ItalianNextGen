@@ -1,5 +1,194 @@
 {
-  "generatedAt": "2026-11-07T12:44:41.286Z",
-  "day": "2026-11-07",
-  "items": []
+  "generatedAt": "2026-11-08T06:47:43.885Z",
+  "day": "2026-11-08",
+  "items": [
+    {
+      "id": "taccuino-2026-11-08",
+      "file": "taccuino-2026-11-08.json",
+      "title": "Taccuino del giorno · 8 novembre 2026",
+      "excerpt": "Ballottaggi e convocazioni: i giovani talenti italiani tra scelte di campo e riconoscimenti internazionali.",
+      "category": "taccuino",
+      "source": "Taccuino da 4 fonti",
+      "link": "",
+      "players": [
+        "Daniele Ghilardi",
+        "Alessandro Romano",
+        "Emanuele Lulli",
+        "Tommaso Martinelli"
+      ],
+      "sourceDate": null,
+      "isDigest": true,
+      "bodyPreview": "**Daniele Ghilardi** e **Emanuele Lulli** — A Trigoria tiene banco il ballottaggio sulla fascia sinistra per Roma-Sassuolo: Gasperini deve scegliere tra il giovane difensore e Molina, mentre Gollini resta in dubbio per il forfait. La battaglia tattica sulla corsia mancina non accenna a placarsi. [fonte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUlFaSFJWNWJiX2VRcndMUDZjTUtrblU0MVVmRG83blZWX1diU1c2QlUwQmRwbn",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw7gscgi-9wpxx",
+      "file": "mw7gscgi-9wpxx.json",
+      "title": "Inter U23, Mosconi domina contro la Salernitana: Fiordilino rischia nel finale",
+      "excerpt": "Il talento nerazzurro offre una prestazione di altra categoria nella Serie C, mentre il centrocampista cala nella gestione finale con errori critici.",
+      "category": "performance",
+      "source": "FC Inter News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzd0YzZXZS1DVWRSbnBrOTREM2hIazAyY3ZqbVY5ZUJZeDdFbFdHeEsya3FqRkxrLUxUd3hWR3F2TFRLUkgwbDdTVnlNcC1oUUtjeUJBZmMwazJHNG5oUER5OW8xblVLQlJNMk9YaXB1SklraFFPbmlwLWgzWVpic0hnVjdNX1M1bFBELXJRUTFzamZxYkJpVmo0Z2FuOHg1Nzd6STFmNU9JTTI4Z2ZCbEJ5NlVZM2J1a19ES3ln?oc=5",
+      "players": [
+        "Mattia Mosconi"
+      ],
+      "sourceDate": "2026-11-07T17:09:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Mattia Mosconi ha illuminato la sfida fra Inter U23 e Salernitana con una prestazione che ha messo in seria difficoltà l'intera retroguardia campana. Cambio passo, dribbling e una visione di gioco fuori dal comune hanno caratterizzato la sua prova, con giocate che hanno reso qualsiasi reazione dell'avversario praticamente impossibile. La sua presenza in campo ha fatto emergere nettamente il divario tra i due undici. ",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw7gscic-sreqz",
+      "file": "mw7gscic-sreqz.json",
+      "title": "Vergara in nazionale, il Napoli risponde alla chiamata di Mancini",
+      "excerpt": "Il centrocampista del Napoli convocato per la seconda volta consecutiva in Nazionale. L'Italia si prepara ai match di Nations League contro Francia e Belgio.",
+      "category": "performance",
+      "source": "Gol del Napoli",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZM21tSXM1TVZQMnkzSEZ5ZnI2VkFjaTRzbU9razdxZmtGZmhOOHp3YmZWOExzZlpvcFJiZUZCR0hLLTltUmdjbi1td2Y4MzEyWmJBcFVmOHBIQQ?oc=5",
+      "players": [
+        "Antonio Vergara"
+      ],
+      "sourceDate": "2026-11-07T16:58:38.000Z",
+      "isDigest": false,
+      "bodyPreview": "Antonio Vergara del Napoli ha trovato spazio nella convocazione dell'Italia per gli ultimi due appuntamenti di Nations League. Si tratta della seconda chiamata di fila per il centrocampista azzurro, che si unirà al gruppo mentre diversi compagni di reparto rimangono a casa per ragioni diverse: assenze per infortunio e scelte tecniche hanno rimodellato la lista dei 23 selezionati dal commissario tecnico Roberto Mancin",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw7gscm3-wcyk9",
+      "file": "mw7gscm3-wcyk9.json",
+      "title": "Palma sceglie l'Italia: il difensore dell'Udinese debutta con Mancini",
+      "excerpt": "Matteo Palma, centrale classe 2008 nato a Berlino, riceve la prima convocazione in Nazionale dopo aver ottenuto il via libera FIFA per il cambio di nazionalità. Il giovane difensore, che aveva vestito le maglie di Germania e Italia nelle selezioni giovanili, scenderà in campo nelle prossime gare di Nations League.",
+      "category": "performance",
+      "source": "Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSHVxNUphLVhUM01vZWRralNBTEtaNlVTS2ZiNVZzWTZfR0NVcFlteEw5c0dlanN6dTluWjJNUWlkSTVnUzVKSm9sRndtS2pvRkdDWXplblM5UnNELXZSUmlhNVNqaFJkZWpDaUxURW1haTVscjJfd3YyQ0lvUUJodnhNSlJjeTNqczNjWG5WRnhGWE1sOEx2a2JTcVNxTGpjTDRDSGRIaEl0ek1BYWd4cHdxNS03bFRQU1ZsUlJqSTZaT0VhM2pnUEVsaFZ4RktWZzFnbS1wMFc4cnZlWjBuN1BPZVJWMUhTUmswc0RiTENHX1p2STZjNVJ2SGJORXNXemZuZi1B?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-07T15:40:02.000Z",
+      "isDigest": false,
+      "bodyPreview": "Matteo Palma entra ufficialmente nel progetto della Nazionale italiana. Roberto Mancini ha convocato il difensore dell'Udinese per le imminenti sfide di Nations League contro Francia e Belgio, segnando il debutto assoluto in azzurro del classe 2008. La convocazione arriva dopo mesi di attesa amministrativa: la FIFA ha infatti dato il benestare al cambio di nazionalità sportiva del giocatore. Nato a Berlino da padre i",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw7gscgu-s7ktr",
+      "file": "mw7gscgu-s7ktr.json",
+      "title": "Inter U23, Marello non basta: decide Charlys nel finale",
+      "excerpt": "I nerazzurri superano la Salernitana 1-0 e consolidano la zona playoff nel girone C di Serie C. Il terzino italiano sfiora il gol su punizione, ma è il brasiliano a regalare tre punti pesanti.",
+      "category": "news",
+      "source": "FC Inter News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHNTdU1jdTZYWXF4Q3gwZEpsRHd3OHhUaXJqUXV0UFIwbmdMeGZyOWlmbjFVTXhMOXI5UmpFenBfVTVrb2M0d1A0LWpYdkhNMnlZU2xLTk8xU2VER0ZBLUwzTDY2NXNLdkFoeWpoaFBqS0MzYmwyWmhTdzJTanNwQjZCWV96THpEVUZjR1d4RTE5VzI4dWQ0Qmw5Nm84am9FLWdQQzRkY00?oc=5",
+      "players": [
+        "Mattia Marello"
+      ],
+      "sourceDate": "2026-11-07T14:12:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "L'Inter U23 ottiene una vittoria di grande valore contro la Salernitana, portandosi provvisoriamente al terzo posto nel girone C della Serie C insieme a Sorrento, Audace Cerignola e Casertana. La partita rimane bloccata per buona parte della prima frazione, finché i meneghini riescono a sbloccarla con Charlys al 41': il centrocampista brasiliano sfrutta un'azione corale per depositare il pallone in rete dopo che lo s",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mw7gsccc-ycocp",
+      "file": "mw7gsccc-ycocp.json",
+      "title": "Under 21, Baldini convoca 26 azzurrini per Francia e Belgio",
+      "excerpt": "Il ct della Nazionale giovanile schiera tre debuttanti in vista dell'Europeo 2027. Test internazionali a Laval e Livorno con diretta Rai.",
+      "category": "news",
+      "source": "Francesco Panza",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3RYX2NXeDRnMnFrR3g3MFY4ek5pSVdmTE9YVFZiMC1nS0luU2I2aTdwSHNTTk81eUVBRjZ5M0lsQXhMbFlNSFg0Um1jMnEzZ3Voc1I3RzFvbE9sUGNYQW1qRFlYSjFHZzRMN3RyNDVYMDRHRFVGWDBqYzRmZ1lPenQwVEpGcE9mQUNvMVZDTm5LbHE3RFZWOXduektnWlRKMDVqczJXcWNSN184Zk1qX2N3?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-07T18:41:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Silvio Baldini ha reso nota la lista dei ventiseiunque convocati per le due amichevoli della Nazionale Under 21 di novembre. Dopo il traguardo della qualificazione alla fase finale dell'Europeo 2027 in Albania e Serbia, gli Azzurrini tornano in campo con obiettivi di rodaggio e valutazione. Prima la sfida a Laval contro la Francia il 13 novembre alle 18.30, quindi il match casalingo a Livorno contro il Belgio il 16 n",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mw7gsce8-rrhdc",
+      "file": "mw7gsce8-rrhdc.json",
+      "title": "Paris FC secondo: Koleosho e Coppola tra i segreti di Rosenior",
+      "excerpt": "Il Paris FC vola in Ligue 1 con Sinayoko mattatore e una difesa quasi impermeabile. Dietro il progetto ambizioso di Rosenior anche due talenti italiani: il difensore centrale Coppola, mai tolto dal campo, e Koleosho a centrocampo.",
+      "category": "mercato",
+      "source": "Calciomercato",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWE3elJZZ3lPUmFxRFZWUjFGN0drZlh5dENnZzNNN2toRURLN3Fwc2Z1NjROczRMTVdsR3pNSGZFLW1UZEZLQlQ2b290Tm1GLWVzSDlELTJLQ0c3V2s1clFVdzI3OG03QXBjdzRMNHJtaDVFVFFhYzBSWmtFV1I4aGV0ZDZZYmZWbkJEQU5IVS1oSDhNZkh1bzNTX3U4ZEdiMGQ0V09HSGIzbjI4R29lbmg5U3VSZWZUTldza0dsZ0N2YVFFUFRCNl9aTmU3Nkt1VWY4V1pEeGZERUhyb3ZIQnVXOXJmZ3o2VnVKRjdqNm9YcE0?oc=5",
+      "players": [
+        "Luca Koleosho",
+        "Francesco Coppola",
+        "Diego Coppola"
+      ],
+      "sourceDate": "2026-11-07T22:45:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Dalla Serie B francese al secondo posto in campionato. Il Paris FC ha completato una cavalcata sorprendente che affonda le radici nel progetto costruito da Liam Rosenior, il quale ha trasformato il rifiuto iniziale di una pausa meritata nell'opportunità di un nuovo capitolo dopo l'esperienza al Chelsea. La dirigenza ha assecondato pedissequamente le richieste tecniche dell'allenatore, assemblando una rosa pensata per",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mw7gsce9-ciba0",
+      "file": "mw7gsce9-ciba0.json",
+      "title": "Paris FC in vetta: Coppola e Koleosho battono l'Auxerre",
+      "excerpt": "Il Paris FC aggancia il primo posto della Ligue 2 dopo la vittoria esterna contro l'Auxerre. Decisivo il gol di Sinayoko al 63', con Coppola in campo dall'inizio e Koleosho subentrato nella ripresa.",
+      "category": "mercato",
+      "source": "TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVRibUlqLWpEdGVzb0k2MzVKMnhwNHNUM2FyazNzWG8ySmgzeGFHYnRXMnlRc1ZCRzhHWVoyYUtQdUpyQzJ1anZKdmJNcHVsNWNnMU1Ha2xYVUxMdTJ3dFRQbXB3UklmSHhrX3RaVGhmV1l3RFBIdVQwYXp1Q21XNWpTcUVjMmw4NHliNHUyOW50S0dWZlBXUUw2UDFyd0hVbGFlU0g0WmJ2clotTHBCWg?oc=5",
+      "players": [
+        "Luca Koleosho",
+        "Francesco Coppola",
+        "Diego Coppola"
+      ],
+      "sourceDate": "2026-11-07T20:56:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Il Paris FC rafforza la propria posizione nella lotta ai vertici della Ligue 2. La squadra ha superato l'Auxerre con un netto 1-0 in trasferta, grazie al gol di Sinayoko al 63esimo minuto. Nella formazione francese hanno avuto un ruolo centrale i due giovani italiani monitorati: Diego Coppola ha affrontato la partita dall'inizio, mentre Luca Koleosho è stato inserito nella ripresa. Con questa affermazione il Paris FC",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Luca Koleosho, Francesco Coppola, Diego Coppola) di un'altra notizia in questa lista: «Paris FC secondo: Koleosho e Coppola tra i segreti di Rosenior». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "mw7gscc7-2rmdy",
+      "file": "mw7gscc7-2rmdy.json",
+      "title": "Comuzzo guida il Torino, ma il Lecce pareggia grazie a N'Dri",
+      "excerpt": "All'Olimpico Grande Torino finisce 1-1 tra granata e salentini. Il difensore torinese brilla in fase difensiva e serve l'assist per il vantaggio, ma la partita si decide sui dettagli e sulle scelte dalla panchina.",
+      "category": "mercato",
+      "source": "TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDRiNXJDcEZrSVhsLWpvU2NwdGtTbmhUYVF3VWRZcWwxYktfOUQ2TkxxV045MzJKZEttM2R5aDFWT3BNVDlHRVF3aEFpQjZfRlN3MWJqTXI4QXl4UnhxNnJFc2E4dXZwdmNkbXNlcUc4aWdYVXFfUmtRN0ZnME1ucXl6a1VKaWt4S01RNVpxNFdEb1NZd0gybldJQTVDbHFndWptVFpaNFdRQ1E?oc=5",
+      "players": [
+        "Pietro Comuzzo"
+      ],
+      "sourceDate": "2026-11-07T16:27:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Rimane bloccata sull'1-1 la sfida tra Torino e Lecce all'Olimpico Grande Torino. Una gara caratterizzata da ritmi lenti per gran parte della durata, senza particolari squilli fino al momento decisivo: la deviazione avventata di Gaspar sul tiro di Simeone toglie involontariamente la palla dalle mani di Falcone, consegnando il vantaggio ai padroni di casa. Nel mezzo di quest'azione è stato decisivo l'apporto di Comuzzo",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    }
+  ]
 }
