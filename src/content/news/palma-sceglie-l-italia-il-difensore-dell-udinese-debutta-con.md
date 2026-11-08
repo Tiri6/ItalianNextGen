@@ -1,0 +1,29 @@
+---
+title: "Palma sceglie l'Italia: il difensore dell'Udinese debutta con Mancini"
+titleEn: "Palma chooses Italy: Udinese defender makes debut under Mancini"
+excerpt: "Matteo Palma, centrale classe 2008 nato a Berlino, riceve la prima convocazione in Nazionale dopo aver ottenuto il via libera FIFA per il cambio di nazionalità. Il giovane difensore, che aveva vestito le maglie di Germania e Italia nelle selezioni giovanili, scenderà in campo nelle prossime gare di Nations League."
+excerptEn: "Matteo Palma, 2008-born centre-back born in Berlin, receives his first national team call-up after obtaining FIFA clearance for the change of nationality. The young defender, who had worn both Germany and Italy shirts in youth selections, will play in the upcoming Nations League matches."
+date: 2026-11-08
+publishedAt: 2026-11-08T10:21:00+01:00
+category: performance
+players: []
+competitions: []
+source: "Goal.com"
+sourceUrl: "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSHVxNUphLVhUM01vZWRralNBTEtaNlVTS2ZiNVZzWTZfR0NVcFlteEw5c0dlanN6dTluWjJNUWlkSTVnUzVKSm9sRndtS2pvRkdDWXplblM5UnNELXZSUmlhNVNqaFJkZWpDaUxURW1haTVscjJfd3YyQ0lvUUJodnhNSlJjeTNqczNjWG5WRnhGWE1sOEx2a2JTcVNxTGpjTDRDSGRIaEl0ek1BYWd4cHdxNS03bFRQU1ZsUlJqSTZaT0VhM2pnUEVsaFZ4RktWZzFnbS1wMFc4cnZlWjBuN1BPZVJWMUhTUmswc0RiTENHX1p2STZjNVJ2SGJORXNXemZuZi1B?oc=5"
+sourceDate: "2026-11-07T15:40:02.000Z"
+socialPick: true
+---
+
+Matteo Palma entra ufficialmente nel progetto della Nazionale italiana. Roberto Mancini ha convocato il difensore dell'Udinese per le imminenti sfide di Nations League contro Francia e Belgio, segnando il debutto assoluto in azzurro del classe 2008. La convocazione arriva dopo mesi di attesa amministrativa: la FIFA ha infatti dato il benestare al cambio di nazionalità sportiva del giocatore.
+
+Nato a Berlino da padre italiano e madre tedesca, Palma ha attraversato un percorso singolare nelle selezioni giovanili. Ha collezionato tre presenze con l'Italia Under 15, per poi scendere in campo sette volte con la Germania Under 16 e sei con la Germania Under 17. La decisione finale di rappresentare l'Italia giunge dopo una fase di valutazione personale, durante la quale il difensore aveva mantenuto i contatti con entrambe le federazioni.
+
+Sul piano calcistico, il centrale si è formato nei vivai dell'Udinese, distinguendosi nella Primavera bianconera. Nella stagione precedente è stato girato in prestito alla Sampdoria in Serie B, dove ha accumulato undici presenze. Quest'anno è già sceso in campo sei volte in Serie A con l'Udinese, potendo agire sia da braccetto destro in una difesa a tre sia da centrale in un assetto a quattro.
+
+<!--EN-->
+
+Matteo Palma officially enters the Italian national team project. Roberto Mancini has called up the Udinese defender for the upcoming Nations League clashes against France and Belgium, marking the 2008-born player's senior debut in blue. The call-up arrives after months of administrative waiting: FIFA had indeed cleared the way for the player's change of sporting nationality.
+
+Born in Berlin to an Italian father and German mother, Palma has followed a singular path through youth selections. He earned three appearances with Italy U15 before playing seven times for Germany U16 and six for Germany U17. His final decision to represent Italy comes after a period of personal evaluation, during which the defender had maintained contacts with both federations.
+
+On the pitch, the centre-back was developed in Udinese's youth academy, standing out in their Primavera team. In the previous season he was loaned to Sampdoria in Serie B, where he accumulated eleven appearances. This year he has already featured six times in Serie A with Udinese, capable of playing as a right-sided centre-back in a three-man defence or as a central defender in a four-man setup.

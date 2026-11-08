@@ -1,0 +1,29 @@
+---
+title: "Under 21, Baldini convoca 26 azzurrini per Francia e Belgio"
+titleEn: "Italy U21, Baldini names 26 players for France and Belgium friendlies"
+excerpt: "Il ct della Nazionale giovanile schiera tre debuttanti in vista dell'Europeo 2027. Test internazionali a Laval e Livorno con diretta Rai."
+excerptEn: "The U21 coach fields three debutants ahead of Euro 2027. International friendlies in Laval and Livorno with Rai coverage."
+date: 2026-11-08
+publishedAt: 2026-11-08T11:00:00+01:00
+category: news
+players: []
+competitions: ["euro-u21-2027"]
+source: "Francesco Panza"
+sourceUrl: "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3RYX2NXeDRnMnFrR3g3MFY4ek5pSVdmTE9YVFZiMC1nS0luU2I2aTdwSHNTTk81eUVBRjZ5M0lsQXhMbFlNSFg0Um1jMnEzZ3Voc1I3RzFvbE9sUGNYQW1qRFlYSjFHZzRMN3RyNDVYMDRHRFVGWDBqYzRmZ1lPenQwVEpGcE9mQUNvMVZDTm5LbHE3RFZWOXduektnWlRKMDVqczJXcWNSN184Zk1qX2N3?oc=5"
+sourceDate: "2026-11-07T18:41:00.000Z"
+social: false
+---
+
+Silvio Baldini ha reso nota la lista dei ventiseiunque convocati per le due amichevoli della Nazionale Under 21 di novembre. Dopo il traguardo della qualificazione alla fase finale dell'Europeo 2027 in Albania e Serbia, gli Azzurrini tornano in campo con obiettivi di rodaggio e valutazione. Prima la sfida a Laval contro la Francia il 13 novembre alle 18.30, quindi il match casalingo a Livorno contro il Belgio il 16 novembre alle 18.15, al "Picchi". Entrambe le partite verranno trasmesse su Rai 2.
+
+Tre i volti nuovi aggregati alla selezione. Il portiere del Bologna Massimo Pessina, il difensore del Monza Eddy Kouadio e l'attaccante del Borussia Dortmund Samuele Inacio completano l'organico dopo essere stati chiamati dalla Nazionale maggiore lo scorso ottobre. Tornano nel gruppo Filippo Mane, Lorenzo Amatucci, Alessio Cacciamani, Jeff Ekhator e Dominic Vavassori, mentre rimangono indisponibili i convocati dal ct Mancini per la selezione A. Il raduno inizierà domenica al CPO di Tirrenia.
+
+Storicamente, il bilancio contro la Francia conta ventiquattro precedenti con sette successi per parte e otto pareggi, mentre il Belgio offre un computo di otto scontri con tre vittorie azzurre, quattro sconfitte e un pareggio. L'ultimo capitolo con i belgi risale agli Europei 2019, concluso con il netto 3-1 per l'Italia. Livorno ospiterà la quinta gara dell'Under 21 sul proprio terreno, con un bilancio positivo: tre successi nelle quattro partite precedenti.
+
+<!--EN-->
+
+Silvio Baldini has announced the squad of twenty-six players called up for Italy's U21 friendly matches in November. Following qualification to the final phase of Euro 2027 in Albania and Serbia, the Azzurrini return to action for assessment and preparation. The first challenge comes in Laval against France on 13 November at 18:30, followed by the home fixture in Livorno against Belgium on 16 November at 18:15 at the "Picchi" stadium. Both matches will be broadcast on Rai 2.
+
+Three new faces have been brought into the squad. Bologna goalkeeper Massimo Pessina, Monza defender Eddy Kouadio and Borussia Dortmund forward Samuele Inacio join the group after receiving senior national team call-ups in October. Filippo Mane, Lorenzo Amatucci, Alessio Cacciamani, Jeff Ekhator and Dominic Vavassori return to the setup, while several players remain unavailable due to senior squad commitments under coach Mancini. The gathering begins Sunday at the Tirrenia training centre.
+
+Historically, the record against France spans twenty-two meetings with seven wins apiece and eight draws, while Belgium offers eight clashes with three Italian victories, four defeats and one draw. The last chapter against the Belgians dates to Euro 2019, concluded with Italy's commanding 3-1 victory. Livorno will host the U21's fifth match on home soil, with a positive record: three wins in four previous fixtures.
