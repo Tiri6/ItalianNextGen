@@ -1,56 +1,131 @@
 {
   "version": 1,
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T07:23:41.917Z",
+  "updatedAt": "2026-11-09T07:31:43.021Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mw8w8j06-n2xab",
-    "mw8w8j1a-i6sfj",
-    "mw8w8jbh-on5xe",
-    "mw8w8jbi-yw4fq",
-    "mw8w8jbk-dbyi0",
-    "mw8w8j3n-ro3ty",
-    "mw8w8j02-de717",
-    "mw8w8jc7-fjglz",
-    "mw8w8jcd-hi481"
+    "api-2026-11-08-tommaso-baldanzi",
+    "api-2026-11-08-giorgio-scalvini",
+    "api-2026-11-07-alessandro-romano",
+    "api-2026-11-07-fabio-rispoli",
+    "api-2026-11-07-lorenzo-palmisani",
+    "api-2026-11-07-matteo-cichella",
+    "api-2026-11-07-raphael-kofler",
+    "api-2026-11-07-tommaso-martinelli",
+    "api-2026-11-08-cher-ndour",
+    "api-2026-11-08-giuseppe-ambrosino",
+    "api-2026-11-08-mattia-zanotti",
+    "api-2026-11-08-michael-kayode",
+    "api-2026-11-08-samuel-wiafe",
+    "api-2026-11-08-stefano-di-mario",
+    "api-2026-11-08-tommaso-berti",
+    "api-2026-11-08-tommaso-rubino",
+    "api-2026-11-07-giovanni-daffara",
+    "api-2026-11-07-alessio-cacciamani",
+    "api-2026-11-07-gabriele-calvani",
+    "api-2026-11-07-giovanni-fabbian",
+    "api-2026-11-08-antonio-vergara",
+    "api-2026-11-08-leonardo-colombo",
+    "api-2026-11-08-eddy-kouadio",
+    "api-2026-11-08-marco-palestra"
   ],
   "items": {
-    "mw8w8j06-n2xab": {
-      "live": true,
-      "instagram": true
-    },
-    "mw8w8j1a-i6sfj": {
+    "api-2026-11-08-tommaso-baldanzi": {
       "live": true,
       "instagram": false
     },
-    "mw8w8jbh-on5xe": {
+    "api-2026-11-08-giorgio-scalvini": {
       "live": true,
       "instagram": false
     },
-    "mw8w8jbi-yw4fq": {
+    "api-2026-11-07-alessandro-romano": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-07-fabio-rispoli": {
       "live": true,
       "instagram": false
     },
-    "mw8w8jbk-dbyi0": {
+    "api-2026-11-07-lorenzo-palmisani": {
       "live": true,
       "instagram": false
     },
-    "mw8w8j3n-ro3ty": {
+    "api-2026-11-07-matteo-cichella": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-07-raphael-kofler": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-07-tommaso-martinelli": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-cher-ndour": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-giuseppe-ambrosino": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-mattia-zanotti": {
       "live": true,
       "instagram": false
     },
-    "mw8w8j02-de717": {
-      "live": true,
+    "api-2026-11-08-michael-kayode": {
+      "live": false,
       "instagram": false
     },
-    "mw8w8jc7-fjglz": {
-      "live": true,
+    "api-2026-11-08-samuel-wiafe": {
+      "live": false,
       "instagram": false
     },
-    "mw8w8jcd-hi481": {
-      "live": true,
-      "instagram": true
+    "api-2026-11-08-stefano-di-mario": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-tommaso-berti": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-tommaso-rubino": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-07-giovanni-daffara": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-07-alessio-cacciamani": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-07-gabriele-calvani": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-07-giovanni-fabbian": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-antonio-vergara": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-leonardo-colombo": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-eddy-kouadio": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-08-marco-palestra": {
+      "live": false,
+      "instagram": false
     }
   }
 }
