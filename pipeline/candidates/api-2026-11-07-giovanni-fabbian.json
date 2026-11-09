@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-07-giovanni-fabbian",
+  "collectedAt": "2026-11-09T07:30:09.485Z",
+  "title": "Fabbian in campo 82': Parma perde 1-2 con Bologna",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 07 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Giovanni Fabbian"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Fabbian in campo 82': Parma perde 1-2 con Bologna",
+    "titleEn": "Fabbian plays 82 minutes: Parma lose 1-2 against Bologna",
+    "excerpt": "Giovanni Fabbian ha giocato una partita solida contro Bologna: Parma ha perso 1-2.",
+    "excerptEn": "Giovanni Fabbian put in a solid performance against Bologna: Parma lost 1-2.",
+    "bodyIt": "Giovanni Fabbian ha giocato una partita solida con il Parma nella sfida contro Bologna (Serie A), chiusa sul 1-2 per i suoi: sconfitta. Il giovane è rimasto in campo 82 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Giovanni Fabbian put in a solid performance for Parma against Bologna (Serie A), in a match that ended 1-2 for his side: a defeat. The youngster played 82 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-07T20:00:00.000Z"
+  }
+}

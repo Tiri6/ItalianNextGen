@@ -64,6 +64,9 @@ jobs:
       - name: Selezione candidate (caporedattore)
         run: node pipeline/prune.mjs
         continue-on-error: true
+      - name: Schede-prestazione dai dati partita (gol, assist, minuti)
+        run: node pipeline/schede-prestazione.mjs
+        continue-on-error: true
       - name: Bozze articoli (redattore)
         if: env.ANTHROPIC_API_KEY != ''
         run: node pipeline/write.mjs --max=20

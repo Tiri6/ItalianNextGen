@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-08-giuseppe-ambrosino",
+  "collectedAt": "2026-11-09T07:30:09.483Z",
+  "title": "Ambrosino in campo 70': Modena vince 2-0 con Virtus Entella",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 08 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Giuseppe Ambrosino"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Ambrosino in campo 70': Modena vince 2-0 con Virtus Entella",
+    "titleEn": "Ambrosino plays 70 minutes: Modena win 2-0 against Virtus Entella",
+    "excerpt": "Giuseppe Ambrosino ha giocato una partita solida contro Virtus Entella: Modena ha vinto 2-0.",
+    "excerptEn": "Giuseppe Ambrosino put in a solid performance against Virtus Entella: Modena won 2-0.",
+    "bodyIt": "Giuseppe Ambrosino ha giocato una partita solida con il Modena nella sfida contro Virtus Entella (Serie B), chiusa sul 2-0 per i suoi: vittoria. Il giovane è rimasto in campo 70 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Giuseppe Ambrosino put in a solid performance for Modena against Virtus Entella (Serie B), in a match that ended 2-0 for his side: a win. The youngster played 70 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-08T20:00:00.000Z"
+  }
+}

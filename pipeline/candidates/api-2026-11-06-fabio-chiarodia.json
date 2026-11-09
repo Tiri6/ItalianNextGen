@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-06-fabio-chiarodia",
+  "collectedAt": "2026-11-09T07:30:09.486Z",
+  "title": "Chiarodia in campo 90': Borussia Mönchengladbach perde 1-3 con Hamburger SV",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Fri, 06 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Fabio Chiarodia"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Chiarodia in campo 90': Borussia Mönchengladbach perde 1-3 con Hamburger SV",
+    "titleEn": "Chiarodia plays 90 minutes: Borussia Mönchengladbach lose 1-3 against Hamburger SV",
+    "excerpt": "Fabio Chiarodia ha giocato una partita solida contro Hamburger SV: Borussia Mönchengladbach ha perso 1-3.",
+    "excerptEn": "Fabio Chiarodia put in a solid performance against Hamburger SV: Borussia Mönchengladbach lost 1-3.",
+    "bodyIt": "Fabio Chiarodia ha giocato una partita solida con il Borussia Mönchengladbach nella sfida contro Hamburger SV (Bundesliga), chiusa sul 1-3 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Fabio Chiarodia put in a solid performance for Borussia Mönchengladbach against Hamburger SV (Bundesliga), in a match that ended 1-3 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-06T20:00:00.000Z"
+  }
+}

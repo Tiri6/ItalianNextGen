@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-07-tommaso-martinelli",
+  "collectedAt": "2026-11-09T07:30:09.486Z",
+  "title": "Martinelli in campo 90': Avellino pareggia 1-1 con Benevento",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 07 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Tommaso Martinelli"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Martinelli in campo 90': Avellino pareggia 1-1 con Benevento",
+    "titleEn": "Martinelli plays 90 minutes: Avellino draw 1-1 against Benevento",
+    "excerpt": "Tommaso Martinelli ha giocato una partita solida contro Benevento: Avellino ha pareggiato 1-1.",
+    "excerptEn": "Tommaso Martinelli put in a solid performance against Benevento: Avellino drew 1-1.",
+    "bodyIt": "Tommaso Martinelli ha giocato una partita solida con il Avellino nella sfida contro Benevento (Serie B), chiusa sul 1-1 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Tommaso Martinelli put in a solid performance for Avellino against Benevento (Serie B), in a match that ended 1-1 for his side: a draw. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-07T20:00:00.000Z"
+  }
+}

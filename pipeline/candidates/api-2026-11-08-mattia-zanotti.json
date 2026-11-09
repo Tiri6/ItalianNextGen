@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-08-mattia-zanotti",
+  "collectedAt": "2026-11-09T07:30:09.481Z",
+  "title": "Zanotti in campo 65': Lugano perde 0-5 con FC ST. Gallen",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 08 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Mattia Zanotti"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Zanotti in campo 65': Lugano perde 0-5 con FC ST. Gallen",
+    "titleEn": "Zanotti plays 65 minutes: Lugano lose 0-5 against FC ST. Gallen",
+    "excerpt": "Mattia Zanotti ha giocato una partita solida contro FC ST. Gallen: Lugano ha perso 0-5.",
+    "excerptEn": "Mattia Zanotti put in a solid performance against FC ST. Gallen: Lugano lost 0-5.",
+    "bodyIt": "Mattia Zanotti ha giocato una partita solida con il Lugano nella sfida contro FC ST. Gallen (Super League), chiusa sul 0-5 per i suoi: sconfitta. Il giovane è rimasto in campo 65 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Mattia Zanotti put in a solid performance for Lugano against FC ST. Gallen (Super League), in a match that ended 0-5 for his side: a defeat. The youngster played 65 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-08T20:00:00.000Z"
+  }
+}

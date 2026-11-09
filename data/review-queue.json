@@ -1,5 +1,586 @@
 {
-  "generatedAt": "2026-11-09T07:24:07.867Z",
+  "generatedAt": "2026-11-09T07:30:15.021Z",
   "day": "2026-11-09",
-  "items": []
+  "items": [
+    {
+      "id": "api-2026-11-08-tommaso-baldanzi",
+      "file": "api-2026-11-08-tommaso-baldanzi.json",
+      "title": "Assist di Baldanzi, Genoa perde 1-2 contro AC Milan",
+      "excerpt": "Tommaso Baldanzi ha fornito un assist contro AC Milan: Genoa ha perso 1-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Baldanzi"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Baldanzi ha fornito un assist con il Genoa nella sfida contro AC Milan (Serie A), chiusa sul 1-2 per i suoi: sconfitta. Il giovane è rimasto in campo 28 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-08-giorgio-scalvini",
+      "file": "api-2026-11-08-giorgio-scalvini.json",
+      "title": "Scalvini in campo 90': Atalanta vince 1-0 con Monza",
+      "excerpt": "Giorgio Scalvini ha giocato una partita solida contro Monza: Atalanta ha vinto 1-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giorgio Scalvini"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giorgio Scalvini ha giocato una partita solida con il Atalanta nella sfida contro Monza (Serie A), chiusa sul 1-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-07-alessandro-romano",
+      "file": "api-2026-11-07-alessandro-romano.json",
+      "title": "Romano in campo 78': Cagliari vince 1-0 con Frosinone",
+      "excerpt": "Alessandro Romano ha giocato una partita solida contro Frosinone: Cagliari ha vinto 1-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Alessandro Romano"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Alessandro Romano ha giocato una partita solida con il Cagliari nella sfida contro Frosinone (Serie A), chiusa sul 1-0 per i suoi: vittoria. Il giovane è rimasto in campo 78 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-07-fabio-rispoli",
+      "file": "api-2026-11-07-fabio-rispoli.json",
+      "title": "Rispoli in campo 81': Südtirol pareggia 2-2 con Pisa",
+      "excerpt": "Fabio Rispoli ha giocato una partita solida contro Pisa: Südtirol ha pareggiato 2-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Fabio Rispoli"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Fabio Rispoli ha giocato una partita solida con il Südtirol nella sfida contro Pisa (Serie B), chiusa sul 2-2 per i suoi: pareggio. Il giovane è rimasto in campo 81 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-07-lorenzo-palmisani",
+      "file": "api-2026-11-07-lorenzo-palmisani.json",
+      "title": "Palmisani in campo 90': Frosinone perde 0-1 con Cagliari",
+      "excerpt": "Lorenzo Palmisani ha giocato una partita solida contro Cagliari: Frosinone ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Lorenzo Palmisani"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Lorenzo Palmisani ha giocato una partita solida con il Frosinone nella sfida contro Cagliari (Serie A), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-07-matteo-cichella",
+      "file": "api-2026-11-07-matteo-cichella.json",
+      "title": "Cichella in campo 81': Frosinone perde 0-1 con Cagliari",
+      "excerpt": "Matteo Cichella ha giocato una partita solida contro Cagliari: Frosinone ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Matteo Cichella"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Matteo Cichella ha giocato una partita solida con il Frosinone nella sfida contro Cagliari (Serie A), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 81 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-07-raphael-kofler",
+      "file": "api-2026-11-07-raphael-kofler.json",
+      "title": "Kofler in campo 90': Cagliari vince 1-0 con Frosinone",
+      "excerpt": "Raphael Kofler ha giocato una partita solida contro Frosinone: Cagliari ha vinto 1-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Raphael Kofler"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Raphael Kofler ha giocato una partita solida con il Cagliari nella sfida contro Frosinone (Serie A), chiusa sul 1-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-07-tommaso-martinelli",
+      "file": "api-2026-11-07-tommaso-martinelli.json",
+      "title": "Martinelli in campo 90': Avellino pareggia 1-1 con Benevento",
+      "excerpt": "Tommaso Martinelli ha giocato una partita solida contro Benevento: Avellino ha pareggiato 1-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Martinelli"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Martinelli ha giocato una partita solida con il Avellino nella sfida contro Benevento (Serie B), chiusa sul 1-1 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-cher-ndour",
+      "file": "api-2026-11-08-cher-ndour.json",
+      "title": "Ndour in campo 90': Fiorentina pareggia 2-2 con Juventus",
+      "excerpt": "Cher Ndour ha giocato una partita solida contro Juventus: Fiorentina ha pareggiato 2-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Cher Ndour"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Cher Ndour ha giocato una partita solida con il Fiorentina nella sfida contro Juventus (Serie A), chiusa sul 2-2 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-giuseppe-ambrosino",
+      "file": "api-2026-11-08-giuseppe-ambrosino.json",
+      "title": "Ambrosino in campo 70': Modena vince 2-0 con Virtus Entella",
+      "excerpt": "Giuseppe Ambrosino ha giocato una partita solida contro Virtus Entella: Modena ha vinto 2-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giuseppe Ambrosino"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giuseppe Ambrosino ha giocato una partita solida con il Modena nella sfida contro Virtus Entella (Serie B), chiusa sul 2-0 per i suoi: vittoria. Il giovane è rimasto in campo 70 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-mattia-zanotti",
+      "file": "api-2026-11-08-mattia-zanotti.json",
+      "title": "Zanotti in campo 65': Lugano perde 0-5 con FC ST. Gallen",
+      "excerpt": "Mattia Zanotti ha giocato una partita solida contro FC ST. Gallen: Lugano ha perso 0-5.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Mattia Zanotti"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Mattia Zanotti ha giocato una partita solida con il Lugano nella sfida contro FC ST. Gallen (Super League), chiusa sul 0-5 per i suoi: sconfitta. Il giovane è rimasto in campo 65 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-michael-kayode",
+      "file": "api-2026-11-08-michael-kayode.json",
+      "title": "Kayode in campo 90': Brentford perde 0-2 con Brighton",
+      "excerpt": "Michael Kayode ha giocato una partita solida contro Brighton: Brentford ha perso 0-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Michael Kayode"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Michael Kayode ha giocato una partita solida con il Brentford nella sfida contro Brighton (Premier League), chiusa sul 0-2 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-samuel-wiafe",
+      "file": "api-2026-11-08-samuel-wiafe.json",
+      "title": "Wiafe in campo 84': Genoa perde 1-2 con AC Milan",
+      "excerpt": "Samuel Wiafe ha giocato una partita solida contro AC Milan: Genoa ha perso 1-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Samuel Wiafe"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Samuel Wiafe ha giocato una partita solida con il Genoa nella sfida contro AC Milan (Serie A), chiusa sul 1-2 per i suoi: sconfitta. Il giovane è rimasto in campo 84 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-stefano-di-mario",
+      "file": "api-2026-11-08-stefano-di-mario.json",
+      "title": "Di Mario in campo 70': Virtus Entella perde 0-2 con Modena",
+      "excerpt": "Stefano Di Mario ha giocato una partita solida contro Modena: Virtus Entella ha perso 0-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Stefano Di Mario"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Stefano Di Mario ha giocato una partita solida con il Virtus Entella nella sfida contro Modena (Serie B), chiusa sul 0-2 per i suoi: sconfitta. Il giovane è rimasto in campo 70 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-tommaso-berti",
+      "file": "api-2026-11-08-tommaso-berti.json",
+      "title": "Berti in campo 86': Cremonese vince 4-1 con Vicenza Virtus",
+      "excerpt": "Tommaso Berti ha giocato una partita solida contro Vicenza Virtus: Cremonese ha vinto 4-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Berti"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Berti ha giocato una partita solida con il Cremonese nella sfida contro Vicenza Virtus (Serie B), chiusa sul 4-1 per i suoi: vittoria. Il giovane è rimasto in campo 86 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-tommaso-rubino",
+      "file": "api-2026-11-08-tommaso-rubino.json",
+      "title": "Rubino in campo 63': Carrarese perde 0-1 con Sampdoria",
+      "excerpt": "Tommaso Rubino ha giocato una partita solida contro Sampdoria: Carrarese ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Rubino"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Rubino ha giocato una partita solida con il Carrarese nella sfida contro Sampdoria (Serie B), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 63 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-07-giovanni-daffara",
+      "file": "api-2026-11-07-giovanni-daffara.json",
+      "title": "Daffara in campo 90': Parma perde 1-2 con Bologna",
+      "excerpt": "Giovanni Daffara ha giocato una partita solida contro Bologna: Parma ha perso 1-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giovanni Daffara"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giovanni Daffara ha giocato una partita solida con il Parma nella sfida contro Bologna (Serie A), chiusa sul 1-2 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-07-alessio-cacciamani",
+      "file": "api-2026-11-07-alessio-cacciamani.json",
+      "title": "Cacciamani in campo 78': Torino pareggia 1-1 con Lecce",
+      "excerpt": "Alessio Cacciamani ha giocato una partita solida contro Lecce: Torino ha pareggiato 1-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Alessio Cacciamani"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Alessio Cacciamani ha giocato una partita solida con il Torino nella sfida contro Lecce (Serie A), chiusa sul 1-1 per i suoi: pareggio. Il giovane è rimasto in campo 78 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-07-gabriele-calvani",
+      "file": "api-2026-11-07-gabriele-calvani.json",
+      "title": "Calvani in campo 90': Frosinone perde 0-1 con Cagliari",
+      "excerpt": "Gabriele Calvani ha giocato una partita solida contro Cagliari: Frosinone ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Gabriele Calvani"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Gabriele Calvani ha giocato una partita solida con il Frosinone nella sfida contro Cagliari (Serie A), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-07-giovanni-fabbian",
+      "file": "api-2026-11-07-giovanni-fabbian.json",
+      "title": "Fabbian in campo 82': Parma perde 1-2 con Bologna",
+      "excerpt": "Giovanni Fabbian ha giocato una partita solida contro Bologna: Parma ha perso 1-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giovanni Fabbian"
+      ],
+      "sourceDate": "2026-11-07T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giovanni Fabbian ha giocato una partita solida con il Parma nella sfida contro Bologna (Serie A), chiusa sul 1-2 per i suoi: sconfitta. Il giovane è rimasto in campo 82 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-antonio-vergara",
+      "file": "api-2026-11-08-antonio-vergara.json",
+      "title": "Vergara in campo 74': Napoli pareggia 1-1 con Lazio",
+      "excerpt": "Antonio Vergara ha giocato una partita solida contro Lazio: Napoli ha pareggiato 1-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Antonio Vergara"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Antonio Vergara ha giocato una partita solida con il Napoli nella sfida contro Lazio (Serie A), chiusa sul 1-1 per i suoi: pareggio. Il giovane è rimasto in campo 74 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-leonardo-colombo",
+      "file": "api-2026-11-08-leonardo-colombo.json",
+      "title": "Colombo in campo 90': Monza perde 0-1 con Atalanta",
+      "excerpt": "Leonardo Colombo ha giocato una partita solida contro Atalanta: Monza ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Leonardo Colombo"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Leonardo Colombo ha giocato una partita solida con il Monza nella sfida contro Atalanta (Serie A), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-eddy-kouadio",
+      "file": "api-2026-11-08-eddy-kouadio.json",
+      "title": "Kouadio in campo 60': Monza perde 0-1 con Atalanta",
+      "excerpt": "Eddy Kouadio ha giocato una partita solida contro Atalanta: Monza ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Eddy Kouadio"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Eddy Kouadio ha giocato una partita solida con il Monza nella sfida contro Atalanta (Serie A), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 60 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-08-marco-palestra",
+      "file": "api-2026-11-08-marco-palestra.json",
+      "title": "Palestra in campo 62': Chelsea perde 0-1 con Sunderland",
+      "excerpt": "Marco Palestra ha giocato una partita solida contro Sunderland: Chelsea ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Marco Palestra"
+      ],
+      "sourceDate": "2026-11-08T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Marco Palestra ha giocato una partita solida con il Chelsea nella sfida contro Sunderland (Premier League), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 62 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    }
+  ]
 }

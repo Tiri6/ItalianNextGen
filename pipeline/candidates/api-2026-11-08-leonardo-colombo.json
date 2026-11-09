@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-08-leonardo-colombo",
+  "collectedAt": "2026-11-09T07:30:09.482Z",
+  "title": "Colombo in campo 90': Monza perde 0-1 con Atalanta",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 08 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Leonardo Colombo"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Colombo in campo 90': Monza perde 0-1 con Atalanta",
+    "titleEn": "Colombo plays 90 minutes: Monza lose 0-1 against Atalanta",
+    "excerpt": "Leonardo Colombo ha giocato una partita solida contro Atalanta: Monza ha perso 0-1.",
+    "excerptEn": "Leonardo Colombo put in a solid performance against Atalanta: Monza lost 0-1.",
+    "bodyIt": "Leonardo Colombo ha giocato una partita solida con il Monza nella sfida contro Atalanta (Serie A), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Leonardo Colombo put in a solid performance for Monza against Atalanta (Serie A), in a match that ended 0-1 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-08T20:00:00.000Z"
+  }
+}

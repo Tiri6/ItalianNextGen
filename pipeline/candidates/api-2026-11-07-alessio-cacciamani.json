@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-07-alessio-cacciamani",
+  "collectedAt": "2026-11-09T07:30:09.485Z",
+  "title": "Cacciamani in campo 78': Torino pareggia 1-1 con Lecce",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 07 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Alessio Cacciamani"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Cacciamani in campo 78': Torino pareggia 1-1 con Lecce",
+    "titleEn": "Cacciamani plays 78 minutes: Torino draw 1-1 against Lecce",
+    "excerpt": "Alessio Cacciamani ha giocato una partita solida contro Lecce: Torino ha pareggiato 1-1.",
+    "excerptEn": "Alessio Cacciamani put in a solid performance against Lecce: Torino drew 1-1.",
+    "bodyIt": "Alessio Cacciamani ha giocato una partita solida con il Torino nella sfida contro Lecce (Serie A), chiusa sul 1-1 per i suoi: pareggio. Il giovane è rimasto in campo 78 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Alessio Cacciamani put in a solid performance for Torino against Lecce (Serie A), in a match that ended 1-1 for his side: a draw. The youngster played 78 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-07T20:00:00.000Z"
+  }
+}

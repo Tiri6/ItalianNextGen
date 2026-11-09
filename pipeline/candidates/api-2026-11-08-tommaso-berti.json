@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-08-tommaso-berti",
+  "collectedAt": "2026-11-09T07:30:09.484Z",
+  "title": "Berti in campo 86': Cremonese vince 4-1 con Vicenza Virtus",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 08 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Tommaso Berti"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Berti in campo 86': Cremonese vince 4-1 con Vicenza Virtus",
+    "titleEn": "Berti plays 86 minutes: Cremonese win 4-1 against Vicenza Virtus",
+    "excerpt": "Tommaso Berti ha giocato una partita solida contro Vicenza Virtus: Cremonese ha vinto 4-1.",
+    "excerptEn": "Tommaso Berti put in a solid performance against Vicenza Virtus: Cremonese won 4-1.",
+    "bodyIt": "Tommaso Berti ha giocato una partita solida con il Cremonese nella sfida contro Vicenza Virtus (Serie B), chiusa sul 4-1 per i suoi: vittoria. Il giovane è rimasto in campo 86 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Tommaso Berti put in a solid performance for Cremonese against Vicenza Virtus (Serie B), in a match that ended 4-1 for his side: a win. The youngster played 86 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-08T20:00:00.000Z"
+  }
+}

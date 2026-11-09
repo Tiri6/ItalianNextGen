@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-07-lorenzo-palmisani",
+  "collectedAt": "2026-11-09T07:30:09.485Z",
+  "title": "Palmisani in campo 90': Frosinone perde 0-1 con Cagliari",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 07 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Lorenzo Palmisani"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Palmisani in campo 90': Frosinone perde 0-1 con Cagliari",
+    "titleEn": "Palmisani plays 90 minutes: Frosinone lose 0-1 against Cagliari",
+    "excerpt": "Lorenzo Palmisani ha giocato una partita solida contro Cagliari: Frosinone ha perso 0-1.",
+    "excerptEn": "Lorenzo Palmisani put in a solid performance against Cagliari: Frosinone lost 0-1.",
+    "bodyIt": "Lorenzo Palmisani ha giocato una partita solida con il Frosinone nella sfida contro Cagliari (Serie A), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Lorenzo Palmisani put in a solid performance for Frosinone against Cagliari (Serie A), in a match that ended 0-1 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-07T20:00:00.000Z"
+  }
+}

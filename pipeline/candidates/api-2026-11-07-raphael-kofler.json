@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-07-raphael-kofler",
+  "collectedAt": "2026-11-09T07:30:09.484Z",
+  "title": "Kofler in campo 90': Cagliari vince 1-0 con Frosinone",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 07 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Raphael Kofler"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Kofler in campo 90': Cagliari vince 1-0 con Frosinone",
+    "titleEn": "Kofler plays 90 minutes: Cagliari win 1-0 against Frosinone",
+    "excerpt": "Raphael Kofler ha giocato una partita solida contro Frosinone: Cagliari ha vinto 1-0.",
+    "excerptEn": "Raphael Kofler put in a solid performance against Frosinone: Cagliari won 1-0.",
+    "bodyIt": "Raphael Kofler ha giocato una partita solida con il Cagliari nella sfida contro Frosinone (Serie A), chiusa sul 1-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Raphael Kofler put in a solid performance for Cagliari against Frosinone (Serie A), in a match that ended 1-0 for his side: a win. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-07T20:00:00.000Z"
+  }
+}

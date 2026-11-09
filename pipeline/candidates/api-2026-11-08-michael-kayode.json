@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-08-michael-kayode",
+  "collectedAt": "2026-11-09T07:30:09.482Z",
+  "title": "Kayode in campo 90': Brentford perde 0-2 con Brighton",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 08 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Michael Kayode"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Kayode in campo 90': Brentford perde 0-2 con Brighton",
+    "titleEn": "Kayode plays 90 minutes: Brentford lose 0-2 against Brighton",
+    "excerpt": "Michael Kayode ha giocato una partita solida contro Brighton: Brentford ha perso 0-2.",
+    "excerptEn": "Michael Kayode put in a solid performance against Brighton: Brentford lost 0-2.",
+    "bodyIt": "Michael Kayode ha giocato una partita solida con il Brentford nella sfida contro Brighton (Premier League), chiusa sul 0-2 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Michael Kayode put in a solid performance for Brentford against Brighton (Premier League), in a match that ended 0-2 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-08T20:00:00.000Z"
+  }
+}
