@@ -142,9 +142,12 @@ Rispondi SOLO con JSON valido: {"performances":[...]}. Se nessuno ha giocato, {"
   }
 }
 
-// Tieni le più recenti (max 20 in archivio, la home ne mostra 8)
+// Archivio: ultimi 14 giorni (tetto 300 voci). Il vecchio tetto di 20 voci cancellava le partite del sabato al giro successivo.
 db.performances = dedupePerformances(db.performances); // una partita = una voce per giocatore
-db.performances = db.performances.slice(0, 20);
+{
+  const limit = new Date(Date.now() - 14 * 86400000).toISOString().slice(0, 10);
+  db.performances = db.performances.filter((x) => String(x.date) >= limit).slice(0, 300);
+}
 await writeFile(PERF, JSON.stringify(db, null, 2));
 
 console.log(`\n✅ Prestazioni aggiunte: ${added}. Totale in archivio: ${db.performances.length}.`);

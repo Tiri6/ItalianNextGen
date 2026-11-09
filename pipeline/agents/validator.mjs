@@ -7,7 +7,9 @@ import { isBlocked } from '../sources.mjs';
 //  4. assegna un punteggio di rilevanza e una categoria
 //  5. produce le "candidate" da sottoporre all'approvazione del proprietario
 
-const MERCATO_KW = /mercato|trasferim|cessione|rinnovo|clausola|offerta|prestito|acquisto|transfer|loan|bid|signing|contract/i;
+// Parole intere: "successione" conteneva "cessione" e il Genoa-Milan di Cissè finiva in "mercato".
+const MERCATO_KW = /\b(mercato|trasferiment\w*|cession[ei]|rinnov\w*|clausola|offert\w*|prestito|acquist\w*|transfer|loan|bid|signing|contract)\b/i;
+const HAS_SCORE = /\b\d{1,2}\s*[-–]\s*\d{1,2}\b/;
 
 // Contesto calcistico: se un titolo contiene una di queste parole, il match sul
 // solo cognome è affidabile. Altrimenti serve il nome completo.
@@ -173,7 +175,9 @@ export function validate(items, players, seen) {
 
     // Classificazione
     let category = 'news';
-    if (MERCATO_KW.test(item.title)) category = 'mercato';
+    // Un titolo con punteggio e parole da partita è una prestazione, anche se contiene una parola da mercato.
+    if (HAS_SCORE.test(item.title) && PERFORMANCE_KW.test(item.title)) category = 'performance';
+    else if (MERCATO_KW.test(item.title)) category = 'mercato';
     else if (PERFORMANCE_KW.test(item.title)) category = 'performance';
 
     // Suggerisci le competizioni collegate
