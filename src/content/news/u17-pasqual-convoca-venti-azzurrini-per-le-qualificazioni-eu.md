@@ -1,0 +1,29 @@
+---
+title: "U17, Pasqual convoca venti azzurrini per le qualificazioni europee"
+titleEn: "U17, Pasqual names twenty players for European qualifiers"
+excerpt: "Manuel Pasqual ha scelto il gruppo interamente classe 2010 per affrontare Lussemburgo, Armenia e Francia nel primo turno. Test positivo con il Genoa prima della partenza verso l'Armenia."
+excerptEn: "Manuel Pasqual has selected an all-2010 squad to face Luxembourg, Armenia and France in the first round. Positive test against Genoa ahead of the trip to Armenia."
+date: 2026-11-09
+publishedAt: 2026-11-09T10:00:00+01:00
+category: news
+players: []
+competitions: ["euro-u17"]
+source: "MondoPrimavera"
+sourceUrl: "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVN2LUFJT0FjNGQ5dGJyR1dUTXFOLXFqbE4zT2xOUjRyUjBKY3lRRzhVcmxFNG14VjBQb3NkYjhQNVB5Y2FibWdOWGpVT3RLOHgxRkVCVDhZRS1BWUVpOEZmcGpWSncwbW5ENFBrV0lieW9ZeGtMNFE2eXZMMUhxVmI3ZUltMUVyQnk4cXBUQzZUVmh0UVdheUNpNjlqQmhW?oc=5"
+sourceDate: "2026-11-08T08:06:17.000Z"
+social: false
+---
+
+Conclusa la preparazione in Piemonte, l'Italia Under 17 campione d'Europa in carica si prepara al debutto nelle qualificazioni continentali. Manuel Pasqual ha definito una rosa di venti giocatori, tutti nati nel 2010, per affrontare il primo turno della competizione. Gli azzurrini partono dall'Armenia, dove dal 11 al 17 novembre disputeranno le tre partite del Gruppo 10 contro Lussemburgo, Armenia e Francia.
+
+In porta confermati Umberto Costante dell'Inter e Filippo Rondelli dell'Atalanta. La difesa si articola su profili provenienti dai principali vivai nazionali, mentre a centrocampo spicca la presenza di elementi da club di vertice come Cristian Sorrentino del Milan e Lorenzo Bernamonte della Fiorentina. L'attacco propone soluzioni diversificate, da Gabriele Borsa a Giuseppe Pipitò, con l'apporto anche di Fortune Egharevba e David Furlan.
+
+Prima della trasferta armena, il test amichevole ha visto gli azzurrini prevalere 1-0 contro il Genoa grazie al gol di Borsa. La formula del torneo richiede concentrazione massima: solo le prime due di ogni girone accedono al secondo turno di Lega A, mentre le altre proseguono nella Lega B. Per la nuova generazione azzurra, già chiamata a confrontarsi con il blasone della Francia, inizia dunque un percorso ad alta tensione agonistica.
+
+<!--EN-->
+
+After completing preparations in Piedmont, the defending European champion Italy U17 is preparing for its debut in the continental qualifiers. Manuel Pasqual has named a squad of twenty players, all born in 2010, to face the first round. The young Italians start from Armenia, where from November 11th to 17th they will play three matches in Group 10 against Luxembourg, Armenia and France.
+
+In goal, Umberto Costante of Inter and Filippo Rondelli of Atalanta are confirmed. Defence draws from the country's main academies, while midfield features players from top clubs such as Cristian Sorrentino of Milan and Lorenzo Bernamonte of Fiorentina. Attack offers diverse options, from Gabriele Borsa to Giuseppe Pipitò, with contributions also from Fortune Egharevba and David Furlan.
+
+Before the Armenian trip, a friendly test saw the young Italians prevail 1-0 against Genoa thanks to a goal by Borsa. The tournament format demands maximum concentration: only the top two from each group advance to the second round of League A, while others continue in League B. For the new Italian generation, already challenged to face France's pedigree, a high-pressure competitive path begins.
