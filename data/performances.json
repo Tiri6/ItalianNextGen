@@ -7,14 +7,14 @@
       "club": "Milan",
       "opponent": "Genoa",
       "competition": "Serie A",
-      "result": "2-1",
+      "result": "1-2",
       "minutes": 61,
       "goals": 1,
-      "rating": 7.3,
-      "note": "61' in campo, 1 gol.",
-      "noteEn": "61 minutes played, 1 goal.",
-      "source": "Dati partita",
-      "fromApi": true
+      "note": "Ha segnato il gol che, insieme a quello di Pulisic, ha deciso la sfida.",
+      "noteEn": "Scored the goal that, along with Pulisic's, decided the match.",
+      "source": "Redazione",
+      "sourceUrl": "",
+      "rating": 7.3
     },
     {
       "date": "2026-11-08",

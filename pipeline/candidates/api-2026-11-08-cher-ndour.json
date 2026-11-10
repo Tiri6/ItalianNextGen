@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-08-cher-ndour",
+  "collectedAt": "2026-11-10T06:42:21.702Z",
+  "title": "Ndour in campo 90': Fiorentina pareggia 2-2 con Juventus",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 08 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Cher Ndour"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Ndour in campo 90': Fiorentina pareggia 2-2 con Juventus",
+    "titleEn": "Ndour plays 90 minutes: Fiorentina draw 2-2 against Juventus",
+    "excerpt": "Cher Ndour ha giocato una partita solida contro Juventus: Fiorentina ha pareggiato 2-2.",
+    "excerptEn": "Cher Ndour put in a solid performance against Juventus: Fiorentina drew 2-2.",
+    "bodyIt": "Cher Ndour ha giocato una partita solida con il Fiorentina nella sfida contro Juventus (Serie A), chiusa sul 2-2 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Cher Ndour put in a solid performance for Fiorentina against Juventus (Serie A), in a match that ended 2-2 for his side: a draw. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-08T20:00:00.000Z"
+  }
+}
