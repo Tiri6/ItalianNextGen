@@ -25,6 +25,12 @@ permissions:
   pages: write
   id-token: write
 
+# Un solo deploy alla volta: i giri sovrapposti (push + cron Cloudflare + cron GitHub) si mettono in coda
+# invece di cancellarsi a vicenda ("Deployment cancelled").
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
