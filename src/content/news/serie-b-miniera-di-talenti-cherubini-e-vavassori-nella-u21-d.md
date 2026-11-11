@@ -1,0 +1,29 @@
+---
+title: "Serie B miniera di talenti: Cherubini e Vavassori nella U21 di Baldini"
+titleEn: "Serie B proves itself as talent factory: Cherubini and Vavassori called up to U21"
+excerpt: "Le ultime convocazioni della Nazionale Under 21 confermano il ruolo cruciale del calcio cadetto nella formazione dei giovani azzurri. Tre profili diversi, accomunati da percorsi non convenzionali e ambizione."
+excerptEn: "Recent U21 national team call-ups confirm Serie B's crucial role in developing young Italian talent. Three different profiles united by unconventional paths and ambition."
+date: 2026-11-11
+publishedAt: 2026-11-11T09:00:00+01:00
+category: performance
+players: ["Dominic Vavassori", "Luigi Cherubini"]
+competitions: ["euro-u21-2027"]
+source: "Virgilio"
+sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnByUXdZb1lwYlZWYVlRR2FRbU5JbUtzczNLbnB4RFFOQzNrVWh2cGtPSGhqZkV6dUFNcFplM1VZbElWNUVZdjM1UWhyUWlPQ192Z3FYcVc0aXprVmZZeEt1cVJxZWh2eWt2MzZKNmVXZ1RtRm9OeE9YWGtSRG84emROX1FSX0FpTmk3ZkJieUd2SlFoOWFhTWprUWwxa2lGVVdvX1RQYzhlS1J5TkIzaGtMLS0tbDQ4bEHSAcABQVVfeXFMTUNpUk05VDN1QnhjZzVQbWxwNk4yYXV6cWh2cExfT05aWXJESWZVbEFBeFJKLWRjZjBLZTBETU9yd0ZBTkpBUkRaVVhXMmJVY0pqMTBsSHJfb2dJMUVBcUtCdWFaUXo5ZU1vVHZzdVdDN2tnSF9WS2FnRXBQa2hCeGozX2gyM21qenhzLU5DRDZBUkYtTHBaczlQZ09fT3U4NzVMNmZ5b1pRM0FPSkhqVUE2V2hCUzJhY3dTMU4tTExu?oc=5"
+sourceDate: "2026-11-10T07:22:00.000Z"
+socialPick: true
+---
+
+La Serie B continua a dimostrarsi il laboratorio più efficace per la maturazione dei talenti italiani. Le scelte tecniche del commissario tecnico Silvio Baldini nelle ultime convocazioni della Nazionale Under 21 puntano i riflettori su tre attaccanti che uniscono qualità tecnica e creatività nei trenta metri finali, capaci di incidere in piazze esigenti come Ascoli, Benevento e Palermo.
+
+Luigi Cherubini, originario di Tivoli, ha compiuto un percorso formativo che lo ha portato a toccare i vertici della Roma, dove ha indossato la fascia da capitano della Primavera vincendo Coppa Italia e Supercoppa di categoria. L'esordio in Europa League sotto José Mourinho rappresentò un momento di rilievo, ma l'esterno ha scelto consapevolmente la strada della provincia per crescere: dopo le esperienze con Carrarese e Sampdoria, l'approdo al Benevento ha completato la sua maturazione agonistica, trasformandolo in uno dei migliori del suo ruolo in cadetteria.
+
+Dominic Vavassori porta con sé una storia ancora più variegata. Nato a Bergamo da padre brasiliano adottato e madre polacca, ha mosso i primi passi nella Brianza prima di varcare i cancelli dell'Atalanta a Zingonia. La formazione nella scuola orobica ha coniugato l'estro sudamericano con la cultura del lavoro, producendo un giocatore che unisce tecnica individuale e solidità. Entrambi i profili confermano come le piazze cadette, quando affrontate con serietà e dedizione, rappresentino il vero step decisivo per chi aspira a indossare l'azzurro.
+
+<!--EN-->
+
+Serie B continues to prove itself as the most effective laboratory for developing Italian talent. Recent national team choices by U21 coach Silvio Baldini have highlighted three attacking players who combine technical quality and creativity in the final third, capable of making an impact in demanding cities like Ascoli, Benevento and Palermo.
+
+Luigi Cherubini, originally from Tivoli, has followed a formative path that took him to the heights of Roma, where he wore the armband as Primavera captain, winning both the Coppa Italia and Supercoppa in that category. His Europa League debut under José Mourinho represented a moment of significance, but the winger consciously chose the provincial route for further growth: after experiences with Carrarese and Sampdoria, his move to Benevento completed his competitive maturation, establishing him as one of the best players in his role in Serie B.
+
+Dominic Vavassori carries an even more varied story. Born in Bergamo to an adopted Brazilian father and Polish mother, he took his first steps in Brianza before entering Atalanta's academy at Zingonia. Training within the Bergamo school's system fused South American flair with a culture of hard work, producing a player who combines individual technique with solidity. Both profiles confirm that, when approached with seriousness and dedication, second-tier cities represent the true decisive step for those aspiring to wear the Azzurri shirt.

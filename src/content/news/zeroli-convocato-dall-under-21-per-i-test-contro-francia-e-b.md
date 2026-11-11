@@ -1,0 +1,25 @@
+---
+title: "Zeroli convocato dall'Under 21 per i test contro Francia e Belgio"
+titleEn: "Zeroli called up by Italy U21 for France and Belgium friendlies"
+excerpt: "Il centrocampista del Südtirol entra nel progetto di Baldini per la sosta di novembre. Gli Azzurrini preparano gli Europei del 2027."
+excerptEn: "The Südtirol midfielder joins Baldini's project for the November international break. Italy U21 prepare for the 2027 European Championship."
+date: 2026-11-11
+publishedAt: 2026-11-11T11:00:00+01:00
+category: news
+players: ["Kevin Zeroli"]
+competitions: ["euro-u21-2027"]
+source: "FC Südtirol"
+sourceUrl: "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa05ERGRiVlU5UjI4ZHRHUXFoYjd3UUtuOTNlbnZMWnVsYi0zUnNNaXNsdlFBb3ctYUhlRGY3eEpIQV9lYnp5NmFoXzZ0R2lZLWlIckN0RjhUV0lSWnp0WDlBUDczMzhPbW1reTZHVXRXMjAyVE5JbHVCV2FfWVhMeGdYa1laWGo5RlFsZE5zZTFWcVR4Rl9iSTRB?oc=5"
+sourceDate: "2026-11-10T17:31:20.000Z"
+social: false
+---
+
+Kevin Zeroli è stato selezionato dal commissario tecnico Silvio Baldini per gli impegni autunnali della Nazionale Under 21. Il centrocampista del FC Südtirol sarà a disposizione per due match amichevoli, parte del programma di preparazione della squadra azzurra in vista della fase finale degli Europei.
+
+Il primo test si giocherà a Laval il 13 novembre alle 18.30 contro la Francia, formazione che come l'Italia ha raggiunto la rassegna continentale in programma in Albania e Serbia tra giugno e luglio 2027. A seguire, il 16 novembre alle 18.15, Baldini porterà i suoi allo Stadio Armando Picchi di Livorno per affrontare il Belgio, altro avversario che ha strappato il pass per la competizione europea.
+
+<!--EN-->
+
+Kevin Zeroli has been selected by head coach Silvio Baldini for Italy's Under 21 autumn fixtures. The Südtirol midfielder will be available for two friendly matches, part of the squad's preparation ahead of the European Championship final tournament.
+
+The first test will be held in Laval on November 13 at 18.30 against France, a team that like Italy qualified for the continental competition scheduled in Albania and Serbia between June and July 2027. Next, on November 16 at 18.15, Baldini will take his side to the Armando Picchi Stadium in Livorno to face Belgium, another opponent that secured a place at the European event.
