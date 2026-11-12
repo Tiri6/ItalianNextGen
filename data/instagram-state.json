@@ -408,10 +408,19 @@
         "Antonio Vergara",
         "Sebastiano Esposito"
       ]
+    },
+    "croci-il-16enne-della-fiorentina-che-ha-catturato-l-attenzio": {
+      "id": "18079532687569171",
+      "at": "2026-11-12T12:01:54.290Z",
+      "category": "performance",
+      "players": [
+        "Simone Pafundi",
+        "Federico Croci"
+      ]
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1
   },
-  "lastPostAt": "2026-11-12T10:13:17.958Z"
+  "lastPostAt": "2026-11-12T12:01:54.290Z"
 }
