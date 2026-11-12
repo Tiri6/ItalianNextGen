@@ -212,7 +212,8 @@
       "note": "63' in campo.",
       "noteEn": "63 minutes played.",
       "source": "Dati partita",
-      "fromApi": true
+      "fromApi": true,
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUM5Y3ROY1RNTUZ5cEJWU0FPdXh1ei1vMGFSYXhoNjZJQkRKbmVIMkNNMWhQQjdPeDdHUGw0NmdZc3V1aHNXazlJRm8yU0RNRVBXYjN6TzJIRzI4RV9VTy1qM2VBWXgzVDlQekZBZmpSaF8zb3IxeVRCVHJYRWtPNWF6N2VYa2lvUWFubWYyNTlmNW5WSzZrV1pCTkw?oc=5"
     },
     {
       "date": "2026-11-08",
@@ -380,7 +381,8 @@
       "note": "90' in campo.",
       "noteEn": "90 minutes played.",
       "source": "Dati partita",
-      "fromApi": true
+      "fromApi": true,
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUM5Y3ROY1RNTUZ5cEJWU0FPdXh1ei1vMGFSYXhoNjZJQkRKbmVIMkNNMWhQQjdPeDdHUGw0NmdZc3V1aHNXazlJRm8yU0RNRVBXYjN6TzJIRzI4RV9VTy1qM2VBWXgzVDlQekZBZmpSaF8zb3IxeVRCVHJYRWtPNWF6N2VYa2lvUWFubWYyNTlmNW5WSzZrV1pCTkw?oc=5"
     },
     {
       "date": "2026-11-07",

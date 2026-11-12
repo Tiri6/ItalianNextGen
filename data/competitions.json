@@ -195,7 +195,8 @@
           "stageEn": "League A · Group 1 · MD5 · Milan (San Siro)",
           "home": "Italia",
           "away": "Francia",
-          "result": ""
+          "result": "2-1",
+          "_autoResult": true
         },
         {
           "date": "2026-11-15",
