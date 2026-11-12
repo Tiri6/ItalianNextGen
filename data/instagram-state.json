@@ -399,10 +399,19 @@
       "players": [
         "Simone Lontani"
       ]
+    },
+    "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": {
+      "id": "18110800796212785",
+      "at": "2026-11-12T10:13:17.958Z",
+      "category": "performance",
+      "players": [
+        "Antonio Vergara",
+        "Sebastiano Esposito"
+      ]
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1
   },
-  "lastPostAt": "2026-11-11T11:42:02.421Z"
+  "lastPostAt": "2026-11-12T10:13:17.958Z"
 }
