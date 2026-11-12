@@ -1,0 +1,29 @@
+---
+title: "Wiafe e Damiano debuttano con l'Under 19 nella vittoria sull'Italia"
+titleEn: "Wiafe and Damiano make U19 debut in win over Romania"
+excerpt: "I due genovani sono entrati nel secondo tempo durante la gara valida per le qualificazioni agli Europei di categoria. Gli Azzurrini hanno superato 2-0 la Romania con una doppietta di Borasio."
+excerptEn: "The two Genoa players came on in the second half during a qualifier for the European Championship. Italy's U19s beat Romania 2-0 with a brace from Borasio."
+date: 2026-11-12
+publishedAt: 2026-11-12T12:40:00+01:00
+category: news
+players: ["Samuel Wiafe", "Vincenzo Damiano"]
+competitions: ["euro-u19-2026"]
+source: "Buon Calcio a Tutti"
+sourceUrl: "https://news.google.com/rss/articles/CBMiogFBVV95cUxNandZekUyNmV4OElTelp4UVpHMG9FNEU0U0VPSUdTVURDSUVEVHoyZG9oRGRwUmhLbmhyNVZ5MUIxOXBOUFpEMUxfcnpFWXZuQ3BLLU13UWVjU3dXaE1iXzVIUGNXbWJSSGxwUHV3Z0wtck1oZHkyNV9QY1ZVQ2QtczBxUnpqT2Z6VUY5dm5vVFZVbXpKaW92YmtxelpGY0FBZVHSAacBQVVfeXFMUGo2N194TGh4VUNqcW9KTU9KTjA4QlAyZ1RzQW9WVWx3V2ljVm9QYjhDVm96VWFzcEVDZERCX05ibjFHdkxOWUlrYnF6dDBZREZtR0FteXAyVTNBV2NvY25yTlhYRXNUclNaWjhDMTVGWkFVUHhMNDRVUXZsajRKay1sUGQzZWdabjZnTTk2TnVpWm9xTUowZFhBZG14M0gybkktNG5hMUk?oc=5"
+sourceDate: "2026-11-11T16:54:00.000Z"
+social: false
+---
+
+Samuel Wiafe e Vincenzo Damiano hanno messo piede sul rettangolo verde con la maglia dell'Italia Under 19 nelle qualificazioni agli Europei di categoria. I due rossoblù sono stati utilizzati nella ripresa della sfida contro la Romania, disputata nel pomeriggio sotto la guida del commissario tecnico Massimiliano Favo.
+
+La formazione italiana ha chiuso la pratica con un netto 2-0 grazie ai gol di Borasio. Wiafe, centrocampista arrivato dal Modena, ha fatto il suo ingresso attorno al sessantesimo minuto. Damiano, attaccante della Primavera genoana, è stato invece lanciato in campo negli ultimi scambi della gara.
+
+Gli Azzurrini torneranno in azione sabato per affrontare l'Ucraina, secondo appuntamento del ciclo di tre incontri ravvicinati in questo turno di qualificazioni continentali.
+
+<!--EN-->
+
+Samuel Wiafe and Vincenzo Damiano have earned their first minutes with Italy's Under 19 squad during the European Championship qualifiers. The two Genoa players took to the pitch in the second half against Romania in an afternoon fixture overseen by head coach Massimiliano Favo.
+
+Italy's side sealed a convincing 2-0 victory courtesy of goals from Borasio. Wiafe, a midfielder previously with Modena, entered play around the hour mark. Damiano, a forward from Genoa's Primavera setup, came on during the final stages of the encounter.
+
+The Italian squad will return to action on Saturday to face Ukraine in the second of three qualifying matches scheduled during this international window.
