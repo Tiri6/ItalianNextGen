@@ -1,80 +1,65 @@
 {
   "version": 1,
-  "date": "2026-11-11",
-  "updatedAt": "2026-11-11T07:56:13.867Z",
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T10:10:33.006Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "taccuino-2026-11-11",
-    "mwbr45in-lp6h9",
-    "mwbr45fb-op5b8",
-    "mwbr45ec-drzm7",
-    "mwbr45il-9yva4",
-    "mwbr45gi-4ghx6",
-    "mwbr45f5-zr55p",
-    "mwbr45hv-jrt2g",
-    "mwbr45is-9oe0a",
-    "mwbr45is-knzye",
-    "mwbr45kg-skxyb",
-    "mwbr45e9-h31z2",
-    "mwbr45ea-rzhnw",
-    "mwbr45ie-0potd"
+    "mwd6jp3c-3ah0m",
+    "mwd6jp15-fxsrg",
+    "mwd6jp1p-p8tst",
+    "mwd6jp1y-jj7pw",
+    "mwd6jp2c-opzzy",
+    "mwd6jp2d-c10et",
+    "mwd6jp5f-6ubg2",
+    "mwd6jp2a-6uoaw",
+    "mwd6jp2p-nnk4x",
+    "mwd6jp22-yf0zl",
+    "mwd6jp2u-seois"
   ],
   "items": {
-    "taccuino-2026-11-11": {
+    "mwd6jp3c-3ah0m": {
       "live": true,
       "instagram": true
     },
-    "mwbr45in-lp6h9": {
+    "mwd6jp15-fxsrg": {
       "live": true,
       "instagram": true
     },
-    "mwbr45fb-op5b8": {
+    "mwd6jp1p-p8tst": {
       "live": true,
       "instagram": true
     },
-    "mwbr45ec-drzm7": {
+    "mwd6jp1y-jj7pw": {
       "live": true,
       "instagram": true
     },
-    "mwbr45il-9yva4": {
-      "live": true,
-      "instagram": true
-    },
-    "mwbr45gi-4ghx6": {
+    "mwd6jp2c-opzzy": {
       "live": false,
       "instagram": false
     },
-    "mwbr45f5-zr55p": {
-      "live": true,
-      "instagram": false
-    },
-    "mwbr45hv-jrt2g": {
+    "mwd6jp2d-c10et": {
       "live": true,
       "instagram": true
     },
-    "mwbr45is-9oe0a": {
-      "live": true,
-      "instagram": false
-    },
-    "mwbr45is-knzye": {
+    "mwd6jp5f-6ubg2": {
       "live": false,
       "instagram": false
     },
-    "mwbr45kg-skxyb": {
-      "live": true,
-      "instagram": true
-    },
-    "mwbr45e9-h31z2": {
+    "mwd6jp2a-6uoaw": {
       "live": true,
       "instagram": false
     },
-    "mwbr45ea-rzhnw": {
+    "mwd6jp2p-nnk4x": {
       "live": false,
       "instagram": false
     },
-    "mwbr45ie-0potd": {
+    "mwd6jp22-yf0zl": {
       "live": true,
+      "instagram": false
+    },
+    "mwd6jp2u-seois": {
+      "live": false,
       "instagram": false
     }
   }
