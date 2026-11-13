@@ -1,65 +1,75 @@
 {
   "version": 1,
-  "date": "2026-11-12",
-  "updatedAt": "2026-11-12T10:10:33.006Z",
+  "date": "2026-11-13",
+  "updatedAt": "2026-11-13T07:54:15.852Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mwd6jp3c-3ah0m",
-    "mwd6jp15-fxsrg",
-    "mwd6jp1p-p8tst",
-    "mwd6jp1y-jj7pw",
-    "mwd6jp2c-opzzy",
-    "mwd6jp2d-c10et",
-    "mwd6jp5f-6ubg2",
-    "mwd6jp2a-6uoaw",
-    "mwd6jp2p-nnk4x",
-    "mwd6jp22-yf0zl",
-    "mwd6jp2u-seois"
+    "mwem0enc-75ef3",
+    "mwem0esj-c0ieg",
+    "mwem0erb-uev5y",
+    "mwem0ese-6lwh6",
+    "mwem0eo9-e4kuo",
+    "mwem0evj-jrro5",
+    "mwem0er0-ocesv",
+    "mwem0er2-gspdj",
+    "mwem0ez8-eurjn",
+    "mwem0f2m-snw9u",
+    "mwem0eqn-pnk0t",
+    "mwem0eq9-y789l",
+    "mwem0epa-jkn98"
   ],
   "items": {
-    "mwd6jp3c-3ah0m": {
+    "mwem0enc-75ef3": {
       "live": true,
       "instagram": true
     },
-    "mwd6jp15-fxsrg": {
+    "mwem0esj-c0ieg": {
       "live": true,
       "instagram": true
     },
-    "mwd6jp1p-p8tst": {
+    "mwem0erb-uev5y": {
       "live": true,
-      "instagram": true
+      "instagram": false
     },
-    "mwd6jp1y-jj7pw": {
-      "live": true,
-      "instagram": true
-    },
-    "mwd6jp2c-opzzy": {
+    "mwem0ese-6lwh6": {
       "live": false,
       "instagram": false
     },
-    "mwd6jp2d-c10et": {
+    "mwem0eo9-e4kuo": {
       "live": true,
       "instagram": true
     },
-    "mwd6jp5f-6ubg2": {
-      "live": false,
-      "instagram": false
-    },
-    "mwd6jp2a-6uoaw": {
+    "mwem0evj-jrro5": {
       "live": true,
       "instagram": false
     },
-    "mwd6jp2p-nnk4x": {
+    "mwem0er0-ocesv": {
       "live": false,
       "instagram": false
     },
-    "mwd6jp22-yf0zl": {
+    "mwem0er2-gspdj": {
       "live": true,
       "instagram": false
     },
-    "mwd6jp2u-seois": {
-      "live": false,
+    "mwem0ez8-eurjn": {
+      "live": true,
+      "instagram": false
+    },
+    "mwem0f2m-snw9u": {
+      "live": true,
+      "instagram": false
+    },
+    "mwem0eqn-pnk0t": {
+      "live": true,
+      "instagram": true
+    },
+    "mwem0eq9-y789l": {
+      "live": true,
+      "instagram": false
+    },
+    "mwem0epa-jkn98": {
+      "live": true,
       "instagram": false
     }
   }
