@@ -1,0 +1,29 @@
+---
+title: "L'Under 17 azzurra demolisce il Lussemburgo: 6-0 all'esordio nelle qualificazioni"
+titleEn: "Italy U17 crushes Luxembourg 6-0 in opening Euro qualifier"
+excerpt: "La campionessa d'Europa in carica esordisce con un'affermazione netta nel Gruppo 10. Doppietta di Borsa, in gol anche Elena, Scaglione, Sorrentino e Pipitò."
+excerptEn: "Defending European champions make a statement in Group 10 with commanding opening victory. Borsa scores twice as Italy dominates qualifier in Armenia."
+date: 2026-11-13
+publishedAt: 2026-11-13T11:00:00+01:00
+category: performance
+players: []
+competitions: ["euro-u17"]
+source: "11giovani.it"
+sourceUrl: "https://news.google.com/rss/articles/CBMigwJBVV95cUxQc2pTak5zRTFTOU5Kc284aThxN3RPUHdHcUo4b3cta1I2QVA1U3RaTGZLUGRPdEl4WU9RQzlkOTVnbm9LMW5KMllBNnZGYVN2cEJhWG1XUVRLWnpncHJhVDNXdy16YjE1OWlVR2tjZnM2QnlLLURzVlRSbGZqZXNPckJlYnBoNllRNm5oaHpPZHdPY2JRRUN4dHVYOTBaamplazliMjY2d0RaZ0NOUkVNLTRHc0tXNTMzRFZLMzhPaGhReE9TakYxRW9xajVZTFE3c1FWV2tCWThPbDBYVTFPZGp5TThFdmxaZWhKX1JMMXNjZUpRQTlnM0I4Qi1YU2Y4eUFF?oc=5"
+sourceDate: "2026-11-12T09:12:00.000Z"
+social: false
+---
+
+L'Italia Under 17 inizia con il massimo dei tre punti il percorso nelle qualificazioni europee. Ad Abovyan gli Azzurrini hanno travolto il Lussemburgo 6-0, mettendo in mostra una progressione tattica significativa nel corso della gara. Nel primo tempo la squadra ha faticato a trovare il ritmo, ma è bastato il rigore di Borsa al 10' per lo sblocco. La ripresa ha portato consapevolezza: il raddoppio di Scaglione al 50' ha rasserenato l'ambiente, seguito dalla galoppata offensiva che ha prodotto il poker entro il 63'.
+
+A firma il punteggio finale sono stati i subentrati Sorrentino all'89' e Pipitò al 90'+1. Pasqual, il tecnico azzurro, ha riconosciuto l'iniziale rigidità emotiva della squadra, comprensibile per una prima partita ufficiale, ma ha valorizzato l'adattamento tattico nel secondo tempo di fronte a un Lussemburgo intento a compattarsi in difesa. L'assenza di gol incassati rappresenta un dato che snellisce i calcoli per la prosecuzione del torneo.
+
+L'Italia condivide il primo posto con la Francia, fermata a sua volta nel Gruppo 10 ma davanti alla stessa Armenia con un differenziale migliore. Il prossimo impegno è previsto contro gli armeni, padroni di casa: una sfida che potrebbe già avere peso rilevante sulla lotta per il passaggio del turno.
+
+<!--EN-->
+
+Italy's Under 17 side launched their European qualifying campaign in authoritative fashion, thrashing Luxembourg 6-0 in Armenia. The defending European champions showed gradual improvement throughout the match, struggling initially before imposing their rhythm in the second half. Borsa's penalty conversion in the 10th minute opened the scoring, with Scaglione doubling the lead after the interval and the striker adding his second shortly after.
+
+Substitutes Sorrentino and Pipitò added goals late in the match to seal a dominant performance. Coach Manuel Pasqual acknowledged early emotional tension from his players in their first competitive outing, but highlighted tactical adjustments that unlocked space following the second goal. The clean sheet provides valuable cushion as qualification scenarios develop.
+
+Italy shares top spot in Group 10 with France on three points, though the French maintain a superior goal difference. The Azzurrini face hosts Armenia in their next fixture—a contest that could prove decisive for progression to the next round.
