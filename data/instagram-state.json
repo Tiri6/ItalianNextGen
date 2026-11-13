@@ -435,10 +435,20 @@
         "Antonio Vergara",
         "Sebastiano Esposito"
       ]
+    },
+    "italia-u20-rao-decide-con-un-capolavoro-battuto-il-portogall": {
+      "id": "18101545433639679",
+      "at": "2026-11-13T09:42:07.616Z",
+      "category": "performance",
+      "players": [
+        "Luca Reggiani",
+        "Emanuele Rao",
+        "Mattia Mosconi"
+      ]
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1
   },
-  "lastPostAt": "2026-11-13T08:02:24.829Z"
+  "lastPostAt": "2026-11-13T09:42:07.616Z"
 }
