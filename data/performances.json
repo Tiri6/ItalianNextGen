@@ -2,6 +2,19 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-11-12",
+      "player": "Mattia Marello",
+      "club": "",
+      "opponent": "Romania",
+      "competition": "Qualificazioni Europeo Under 19",
+      "result": "2-0",
+      "assists": 1,
+      "note": "Incisivo con l'assist per il secondo gol",
+      "noteEn": "Incisive with the assist for the second goal",
+      "source": "Virgilio",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEdja0NpMnVHV1FWc2FpdnVScmxXam12bEtzbWcwWkh2Z0NydEpmMEN1UUxPOVlSeWd1bk9kd1QyTzJRblg3dDloZVZ5Z2NOclVkQ1U2Y2lJdVlWbml2X0RQTnNDT1N4NXZTT1E1aDJqR0s2RHRhZ2pGNmtSUWJwYWZFc1Y5OG8ybjZBM0Fac3NURWhpUEk3VXNkLXZIWWlyRnZfZ0J5Z2VfTzRCd1hVeTRETkbSAbQBQVVfeXFMTmRHY2tDaTJ1R1dRVnNhaXZ1UnJsV2ptdmxLc21nMFpIdmdDcnRKZjBDdVFMTzlZUnlndW5PZHdUMk8yUW5YN3Q5aGVWeWdjTnJVZENVNmNpSXVZVm5pdl9EUE5zQ09TeDV2U09RNWgyakdLNkR0YWdqRjZrUlFicGFmRXNWOThvMm42QTNBWnNzVEVoaVBJN1VzZC12SFlpckZ2X2dCeWdlX080QndYVXk0RE5G?oc=5"
+    },
+    {
       "date": "2026-11-08",
       "player": "Alphadjo Cissè",
       "club": "Milan",
