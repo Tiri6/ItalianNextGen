@@ -445,10 +445,19 @@
         "Emanuele Rao",
         "Mattia Mosconi"
       ]
+    },
+    "kayode-ancora-titolare-palestra-rimane-in-panchina": {
+      "id": "17965836303240607",
+      "at": "2026-11-13T11:22:03.140Z",
+      "category": "performance",
+      "players": [
+        "Michael Kayode",
+        "Marco Palestra"
+      ]
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1
   },
-  "lastPostAt": "2026-11-13T09:42:07.616Z"
+  "lastPostAt": "2026-11-13T11:22:03.140Z"
 }
