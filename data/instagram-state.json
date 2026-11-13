@@ -425,10 +425,20 @@
       "players": [
         "Mattia Marello"
       ]
+    },
+    "pio-esposito-trascina-l-italia-francia-ko-a-san-siro": {
+      "id": "18099319316554251",
+      "at": "2026-11-13T08:02:24.829Z",
+      "category": "performance",
+      "players": [
+        "Francesco Pio Esposito",
+        "Antonio Vergara",
+        "Sebastiano Esposito"
+      ]
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1
   },
-  "lastPostAt": "2026-11-12T13:42:03.017Z"
+  "lastPostAt": "2026-11-13T08:02:24.829Z"
 }
