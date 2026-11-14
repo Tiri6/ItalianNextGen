@@ -470,11 +470,17 @@
       "at": "2026-11-14T10:42:11.178Z",
       "category": "performance",
       "players": []
+    },
+    "bergomi-spinge-esposito-verso-il-record-di-riva": {
+      "id": "18111674363193991",
+      "at": "2026-11-14T12:22:21.094Z",
+      "category": "performance",
+      "players": []
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1,
     "l-italia-u21-piega-la-francia-in-amichevole-camarda-e-lipani": 1
   },
-  "lastPostAt": "2026-11-14T10:42:11.178Z"
+  "lastPostAt": "2026-11-14T12:22:21.094Z"
 }
