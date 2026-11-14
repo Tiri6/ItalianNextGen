@@ -1,0 +1,29 @@
+---
+title: "Bergomi spinge Esposito verso il record di Riva"
+titleEn: "Bergomi backs Esposito's quest to break Riva's national team record"
+excerpt: "Francesco Pio Esposito ha raggiunto quota nove gol in quattordici presenze azzurre. Bergomi ne auspica il superamento del primato storico di 35 reti firmato da Gigi Riva."
+excerptEn: "Francesco Pio Esposito has reached nine goals in fourteen appearances for Italy. Bergomi hopes he can surpass Gigi Riva's all-time record of 35 goals."
+date: 2026-11-14
+publishedAt: 2026-11-14T11:20:00+01:00
+category: performance
+players: []
+competitions: []
+source: "FC Inter News"
+sourceUrl: "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRy13Rjl4clU2bnMya2owQUxaUVN3WnlVVzhyMXlVcjlCWFBQZHdMLU9ESjhIQ3dSTnVWUlY5U3dsZHF0RDhUcmNRd0U5YmFPLTdqZHdxcWtGRjdEZmtlQWlQLXdENWcwUUM5MHFKUEFvV3RMUUVWV1dMZmVZa19Ia2VmdjlmUEkwRDAtWktFeGNsR1VNbEpSdDJsaXlEcE0?oc=5"
+sourceDate: "2026-11-13T15:55:02.000Z"
+socialPick: true
+---
+
+La media realizzativa di Francesco Pio Esposito con l'Italia continua a impressionare. Dopo le due marcature messe a segno contro la Francia, l'attaccante dell'Inter ha portato il suo bottino complessivo in maglia azzurra a nove reti in quattordici presenze, un rendimento che alimenta riflessioni sulla possibilità di vedere infrangere il primato storico stabilito da Gigi Riva con i suoi 35 gol.
+
+Su questa prospettiva si è pronunciato Beppe Bergomi, che ha evidenziato come il record del bomber di Cagliari resista da decenni nonostante il passaggio di molti attaccanti di valore tra le fila della nazionale. "Quel primato resiste da non so quanti anni. Durante questo periodo non abbiamo mai avuto nessuno in grado di battere quel record", ha dichiarato l'ex difensore per Sky Sport, citando tra gli altri Inzaghi, Vieri, Del Piero e Totti.
+
+Bergomi ha però espresso fiducia nelle qualità di Esposito, apprezzandone tanto le doti tecniche quanto gli aspetti umani. "Mi auguro ci riesca Pio Esposito, un ragazzo che, oltre alle qualità tecniche, ha tutto il resto. È uno posato e perbene", le sue parole di stima nei confronti del giovane calciatore interista.
+
+<!--EN-->
+
+Francesco Pio Esposito's scoring rate with the Italian national team continues to impress. Following two goals against France, the Inter striker has brought his overall tally in the Azzurri shirt to nine goals in fourteen appearances—a return that sparks discussion about the possibility of breaking the all-time record set by Gigi Riva with his 35 goals.
+
+Beppe Bergomi has weighed in on this prospect, highlighting how the Cagliari legend's record has stood for decades despite the passage of many quality strikers through the national team ranks. "That record has lasted I don't know how many years. During this time we've never had anyone capable of beating it," the former defender told Sky Sport, citing players such as Inzaghi, Vieri, Del Piero and Totti among others.
+
+Bergomi expressed confidence in Esposito's qualities, appreciating both his technical abilities and human character. "I hope Pio Esposito can do it, a player who, beyond his technical qualities, has everything else. He's composed and a good person," were his words of praise for the young Inter footballer.

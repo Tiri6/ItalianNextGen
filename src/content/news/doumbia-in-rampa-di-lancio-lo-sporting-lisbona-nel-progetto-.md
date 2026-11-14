@@ -1,0 +1,25 @@
+---
+title: "Doumbia in rampa di lancio: lo Sporting Lisbona nel progetto di Mancini"
+titleEn: "Doumbia on the rise: Sporting Lisbon midfielder in Mancini's plans"
+excerpt: "Il centrocampista portoghese accumula presenze nella Nations League sotto la gestione del ct. Fisicità e qualità tecnica per sfondare in un reparto affollato."
+excerptEn: "The Portuguese midfielder is gaining experience in the Nations League under the head coach's watch. Physical presence and technical ability to breakthrough in a crowded department."
+date: 2026-11-14
+publishedAt: 2026-11-14T11:40:00+01:00
+category: news
+players: ["Francesco Pio Esposito", "Michael Kayode", "Issa Doumbia", "Antonio Vergara", "Sebastiano Esposito"]
+competitions: []
+source: "Il Messaggero"
+sourceUrl: "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQnRFYmc0eGxyRzdfUzE3cDJuLXVSTnZ2Q0Jxdmd2d3FsT2JUUXpGTldJNk43cnItVVY1ZWJvQ2otUGNMYmRFUk9aOGNSQ040RXVSVWcyLTJfMnAwN3I5V0tIRmpnMW5iV1lWZjRVLXVDUE1ZZE1qeW0zSlM3SGQ0ajJaM0g2VGRlRlVFX3FQSUd5X1lnelkxUVdvWXk1Nmk1SFhxb2c3OU45Nmp6QkI5aGZlZ2doZ3gyU3RjTlFwT2dBeTg2ME84bXZLTXZvS1NrMFpGWFVWZVhhRmN00gHiAUFVX3lxTE1INUFOY1VJTXVjc01xZnlwbXhWZXprVm5tWDV1ZEVUUG9vMWE1Y0dqR1B0Mzl2VkwwTmJqaG9rWGJQSDRZRF8yVTVXaXg5S3JlYS1CVWVrS3BBaU1SNWo5YW1DY09JejdFbXVNWGlMcUpFX0c3ekxxWGtEbm9NejktSmtTLUtJYzJwaHZsVHB2TG52QkhkYUd5Qkx5bDcyRWkzYWFzcm9FMUJTbTlHVWNweURSUV9CSlN0Z2xHTFNYOENlU0dKTU14TGk2T1NDc2F0YnZDNDMxSERkTERmZzdLcXc?oc=5"
+sourceDate: "2026-11-13T15:43:50.000Z"
+social: false
+---
+
+Issa Doumbia continua a ricevere opportunità nella gestione Mancini. Il ventitreenne dello Sporting Lisbona è stato convocato regolarmente nel blocco di partite di Nations League, accumulando complessivamente cinque presenze con la maglia azzurra. Il profilo del centrocampista si caratterizza per corsa e solidità fisica, abbinata a una discreta padronanza della palla.
+
+Al momento la strada verso la titolarità resta complicata. Nel reparto di mezzo la Nazionale può contare su veterani della categoria come Barella, Frattesi e Tonali, profili già consolidati. Tuttavia, nella prospettiva che sta delineando Mancini, Doumbia rappresenta una pedina destinata a crescere d'importanza. La sua progressione nel gruppo rappresenta un segnale della volontà di rinnovamento programmato nel centrocampo italiano.
+
+<!--EN-->
+
+Issa Doumbia continues to receive opportunities under Mancini's management. The 23-year-old from Sporting Lisbon has been a regular in the Nations League call-ups, accumulating five senior caps with the Azzurri. The midfielder's profile is built on athleticism and physical robustness, combined with solid technical ability on the ball.
+
+Breaking into the starting XI remains a challenge for now. Italy's midfield already boasts established names such as Barella, Frattesi and Tonali, players with considerable international experience. However, within Mancini's tactical blueprint, Doumbia appears destined to play a larger role. His continued involvement signals an intention to gradually refresh Italy's engine room.

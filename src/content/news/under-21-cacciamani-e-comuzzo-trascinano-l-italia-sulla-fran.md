@@ -1,0 +1,29 @@
+---
+title: "Under 21, Cacciamani e Comuzzo trascinano l'Italia sulla Francia"
+titleEn: "U21, Cacciamani and Comuzzo lead Italy past France"
+excerpt: "Due elementi del Torino protagonisti nella vittoria di Baldini contro i transalpini. L'esterno granata ha offerto spunti offensivi nel primo tempo, mentre il difensore ha garantito solidità in retroguardia."
+excerptEn: "Two Torino players starred in Baldini's victory over France. The winger provided attacking chances in the first half, while the defender ensured defensive stability."
+date: 2026-11-14
+publishedAt: 2026-11-14T10:20:00+01:00
+category: performance
+players: ["Pietro Comuzzo", "Alessio Cacciamani"]
+competitions: ["euro-u21-2027"]
+source: "Toro.it"
+sourceUrl: "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaEt1dUdwY0l5TjA4NFZmeUlTdWd0QndKekw1SW1oaXY0YTJLXzJBTmpTNnYtYnZqSTNnMTZjcWtlbzRNWEFIbGVhekEzd0Fib1hYSFhMZjlfRnpOejZRQ2piSTVNX3Z5ZkFGcVNHVW9OdG40dUQxWDdFdy1xVFlXN2NzVGJHY2Q4MzRWN01mRHN1NThCSGFqTkJBbVh0WEtNWU55N0pnUUpwRmhDVTgxN3JHZW84TlhmTUdkZGs5aDBzQQ?oc=5"
+sourceDate: "2026-11-13T19:22:00.000Z"
+social: false
+---
+
+Alessio Cacciamani e Pietro Comuzzo hanno guidato l'Italia Under 21 al successo contro la Francia in un match dove gli uomini di Baldini hanno prevalso nel segno di Camarda e Lipani. I due granata hanno risposto presente nel corso della gara, confermando il loro valore nel progetto della nazionale giovanile.
+
+Cacciamani, impiegato sulla sinistra del tridente offensivo insieme a Camarda e Fini, ha costruito una prestazione ricca di iniziative. Nel primo tempo ha provato a sorprendere l'estremo difensore avversario al 12' con un tiro dal sinistro da buona posizione, quindi ha seminato il panico sulla fascia sinistra negli ultimi minuti della prima frazione, servendo un pallone interessante per Camarda. L'esterno del Torino è rimasto in campo fino al 61', quando è stato sostituito.
+
+Comuzzo ha invece fornito una prova di grande attenzione al centro della difesa. Il centrale granata è stato lucido negli interventi e raramente è uscito sconfitto dai duelli, contenendo la pressione della Francia con puntualità. Ha indossato anche la fascia da capitano, contribuendo alla vittoria con una gara solida e senza errori significativi. Il prossimo impegno della categoria è fissato per il 16 novembre contro il Belgio.
+
+<!--EN-->
+
+Alessio Cacciamani and Pietro Comuzzo led Italy Under 21 to victory against France in a match where Baldini's side prevailed through goals from Camarda and Lipani. The two Torino players delivered solid performances, confirming their standing in the youth national team project.
+
+Cacciamani, deployed on the left wing of the attacking trio with Camarda and Fini, built an enterprising display. In the opening half he tested the opposing goalkeeper with a left-footed strike from a promising position at the 12th minute, then created danger on the left flank in the closing stages of the first period by providing an inviting ball for Camarda. The Torino winger remained on the pitch until the 61st minute, when he was substituted.
+
+Comuzzo delivered a performance marked by strong defensive attention from centre-back. The Torino defender was sharp in his interventions and rarely lost individual battles, containing France's attacking pressure with precision. He also wore the captain's armband, contributing to the win with a solid and error-free display. The category's next engagement is scheduled for 16 November against Belgium.
