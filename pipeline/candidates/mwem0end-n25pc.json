@@ -12,13 +12,14 @@
   "score": 7,
   "status": "pending",
   "draft": {
-    "title": "L'Italia ribalta la Francia a San Siro: azzurri vincitori 3-1",
-    "titleEn": "Italy stuns France at San Siro with 3-1 comeback victory",
-    "excerpt": "Prestazione convincente della nazionale italiana che a Milano ha superato i francesi con una rimonta decisa. Gli azzurri trovano il successo con un netto margine di due reti.",
-    "excerptEn": "Italy delivers an impressive display in Milan, overturning France with a decisive 3-1 victory. The Azzurri secure a convincing win at home.",
-    "bodyIt": "L'Italia ha trovato una vittoria importante a San Siro, dove ha affrontato la Francia in una sfida che ha visto gli azzurri ribaltare il risultato per imporsi con il punteggio di 3-1. La partita ha evidenziato la capacità della squadra di reagire e trovare il gol quando necessario.\n\nLa prestazione italiana si contraddistingue per l'efficacia offensiva, con un margine finale che testimonia il controllo della gara nella fase decisiva. Una prova incoraggiante per chi segue da vicino il progetto calcistico della nazionale.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
-    "bodyEn": "Italy secured an important victory at San Siro, where the Azzurri faced France in a match that saw them overturn the result and prevail with a final score of 3-1. The encounter highlighted Italy's ability to react and find the back of the net when it mattered most.\n\nThe Italian performance stood out for its offensive effectiveness, with the final margin reflecting command of the match in its decisive phases. An encouraging display for those monitoring the national team's footballing project.\n\n(Draft from title only: verify details on source.)",
+    "title": "Italia batte la Francia a San Siro, azzurri vincono 3-1",
+    "titleEn": "Italy defeats France 3-1 at San Siro",
+    "excerpt": "Rimonta azzurra contro i transalpini nel match giocato a Milano. L'Italia si impone con un netto 3-1.",
+    "excerptEn": "Italy stages a comeback against France in Milan. The Azzurri win decisively 3-1 at the San Siro.",
+    "bodyIt": "L'Italia ha ottenuto una vittoria di rilievo a San Siro contro la Francia, imponendosi con il risultato di 3-1. Gli azzurri hanno saputo ribaltare l'andamento della partita, firmando una prestazione convincente davanti al pubblico di Milano.\n\nUna prova che testimonia la capacità della nazionale di competere ad alti livelli e di reagire alle difficoltà iniziali della gara. Il successo rappresenta un segnale positivo per il progetto tecnico in corso.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "Italy secured an important victory over France at San Siro, winning 3-1. The Azzurri recovered from an initial disadvantage to produce a convincing performance in front of the Milan crowd.\n\nThe result demonstrates the national team's ability to compete at a high level and to respond when facing adversity during a match. The success sends a positive signal about the current technical project.\n\n(Draft from title only: verify details on the source.)",
     "_fromSource": false,
-    "_sourceDate": null
+    "_sourceDate": null,
+    "_retried": true
   }
 }
