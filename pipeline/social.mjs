@@ -164,6 +164,12 @@ function svgArt({ title, category }, art) {
   else if (art.type === 'ibrida') body = stadiumSvg(club, { y: 710, h: 320 }) + figureSvg(club, { scale: 0.76, x: 500, y: 590, pose: 'kick' });
   else if (art.type === 'maglia') body = `<circle cx="760" cy="800" r="250" fill="#fff" opacity=".08"/>` + jerseySvg(club, { scale: 1.1, x: 520, y: 600, rot: 8 });
   else if (art.type === 'lavagna') { tint = '#1f7a4a'; body = tacticsBoardSvg(art.formation, { x: 90, y: 600, w: 900, h: 400 }); }
+  else if (art.type === 'stadiocoppa') {
+    // Stadio sullo sfondo + coppa in primo piano (cover scelta a mano in data/social-covers.json)
+    tint = art.kind === 'mondiali' ? '#d9a21f' : '#9fb4cc';
+    const label = art.label ? `<text x="540" y="1012" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#fff" opacity=".85" letter-spacing="3">${esc(art.label.toUpperCase())}</text>` : '';
+    body = stadiumSvg(club, { y: 690, h: 340 }) + label + `<circle cx="800" cy="770" r="220" fill="${tint}" opacity=".18"/>` + trophySvg(art.kind, { scale: 0.74, x: 690, y: 585 });
+  }
   else if (art.type === 'coppa') {
     tint = art.kind === 'mondiali' ? '#d9a21f' : '#9fb4cc';
     body = `<circle cx="790" cy="810" r="230" fill="${tint}" opacity=".16"/>` + trophySvg(art.kind, { scale: 0.88, x: 650, y: 600 });
@@ -180,6 +186,10 @@ const regenArg = process.argv.find((a) => a.startsWith('--rigenera='));
 const REGEN_HOURS = regenArg ? Number(regenArg.split('=')[1]) : 0;
 let igPosted = {};
 try { igPosted = JSON.parse(await readFile(path.join(ROOT, 'data', 'instagram-state.json'), 'utf8')).posted ?? {}; } catch {}
+
+// Cover scelte a mano: data/social-covers.json  { "<slug>": { "type": "stadiocoppa", "club": "Italia", "kind": "mondiali", "label": "San Siro" } }
+let COVER_OVERRIDES = {};
+try { COVER_OVERRIDES = JSON.parse(await readFile(path.join(ROOT, 'data', 'social-covers.json'), 'utf8')); delete COVER_OVERRIDES._note; } catch {}
 
 const files = (await readdir(NEWS)).filter((f) => f.endsWith('.md'));
 await mkdir(OUT, { recursive: true });
@@ -203,7 +213,7 @@ for (const f of files) {
 
   const excerpt = fm.match(/^excerpt:\s*"(.*)"/m)?.[1] ?? '';
   const competitions = [...(fm.match(/^competitions:\s*\[(.*)\]/m)?.[1] ?? '').matchAll(/"([^"]+)"/g)].map((m) => m[1]);
-  const art = decideArt({ slug, title, excerpt, category, players, competitions });
+  const art = COVER_OVERRIDES[slug] ?? decideArt({ slug, title, excerpt, category, players, competitions });
   const svg = art ? svgArt({ title, category }, art) : svgClassic({ title, category, players });
   if (process.env.SOCIAL_DEBUG) console.log(`${art ? art.type + (art.club ? ':' + art.club : '') : 'classica'}  ←  ${title.slice(0, 70)}`);
   await sharp(Buffer.from(svg)).jpeg({ quality: 88 }).toFile(dest);

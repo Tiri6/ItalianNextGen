@@ -1,0 +1,4 @@
+{
+ "_note": "Cover social scelte a mano per singoli articoli (hanno la precedenza sulle regole automatiche). type: stadiocoppa | stadio | maglia | coppa | ibrida; club = chiave di data/clubs.json; kind = mondiali | europei; label = scritta sotto lo stadio.",
+ "editoriale-mancini-da-0-2-col-belgio-a-un-pareggio-che-vale-i-quarti": { "type": "stadiocoppa", "club": "Italia", "kind": "mondiali", "label": "San Siro" }
+}
