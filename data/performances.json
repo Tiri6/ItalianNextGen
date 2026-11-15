@@ -2,6 +2,47 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-11-14",
+      "player": "Francesco Camarda",
+      "club": "Milan",
+      "opponent": "Francia",
+      "competition": "Under 21",
+      "result": "2-1",
+      "minutes": 54,
+      "goals": 1,
+      "note": "Ha segnato al 54' dopo aver avuto un gol annullato per fuorigioco al 26' e aver colpito il palo al 38'.",
+      "noteEn": "Ha segnato al 54' dopo aver avuto un gol annullato per fuorigioco al 26' e aver colpito il palo al 38'.",
+      "source": "Tuttosport",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUV9XVGNlQTlNaVljM2c0ckJRTDhBVGdPT3otckJWdzNZR19nSHJHaTdUYUFrT0p3UDJ1ZFU4YVpxSGhDSTVoQUw0UXZoSkc5NnEzZ2JqdWRWV2tPQnB0S09HM3EyZ2dTWnJYMW9xZkQ3c3NkQ21VZWxuRnhFRmVlanVoWlVjWkZfalpkb2Z4V0QwUUhWZWdRVkNnTzcwa3hvU0pYVDVzNFQyTzdiVUx2eW1YZ1RodVltNlhhWU10MmlJMHVNelg3NnhUWE0tLXh2MXdWNWp3bWIxeldfdV9MTmgxY2dnazRCNXQ0QkE3X0hnQ3dTSFVXR2k3TUNzdzZw0gGAAkFVX3lxTFBRX1dUY2VBOU1pWWMzZzRyQlFMOEFUZ09Pei1yQlZ3M1lHX2dIckdpN1RhQWtPSndQMnVkVThhWnFIaENJNWhBTDRRdmhKRzk2cTNnYmp1ZFZXa09CcHRLT0czcTJnZ1Naclgxb3FmRDdzc2RDbVVlbG5GeEVGZWVqdWhaVWNaRl9qWmRvZnhXRDBRSFZlZ1FWQ2dPNzBreG9TSlhUNXM0VDJPN2JVTHZ5bVhnVGh1WW02WGFZTXQyaUkwdU16WDc2eFRYTS0teHYxd1Y1andtYjF6V191X0xOaDFjZ2drNEI1dDRCQTdfSGdDd1NIVVdHaTdNQ3N3NnA?oc=5"
+    },
+    {
+      "date": "2026-11-14",
+      "player": "Luca Lipani",
+      "club": "",
+      "opponent": "Francia",
+      "competition": "Under 21",
+      "result": "2-1",
+      "minutes": 68,
+      "goals": 1,
+      "note": "Ha segnato il gol della vittoria dal limite dell'area al 68'.",
+      "noteEn": "Ha segnato il gol della vittoria dal limite dell'area al 68'.",
+      "source": "Tuttosport",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUV9XVGNlQTlNaVljM2c0ckJRTDhBVGdPT3otckJWdzNZR19nSHJHaTdUYUFrT0p3UDJ1ZFU4YVpxSGhDSTVoQUw0UXZoSkc5NnEzZ2JqdWRWV2tPQnB0S09HM3EyZ2dTWnJYMW9xZkQ3c3NkQ21VZWxuRnhFRmVlanVoWlVjWkZfalpkb2Z4V0QwUUhWZWdRVkNnTzcwa3hvU0pYVDVzNFQyTzdiVUx2eW1YZ1RodVltNlhhWU10MmlJMHVNelg3NnhUWE0tLXh2MXdWNWp3bWIxeldfdV9MTmgxY2dnazRCNXQ0QkE3X0hnQ3dTSFVXR2k3TUNzdzZw0gGAAkFVX3lxTFBRX1dUY2VBOU1pWWMzZzRyQlFMOEFUZ09Pei1yQlZ3M1lHX2dIckdpN1RhQWtPSndQMnVkVThhWnFIaENJNWhBTDRRdmhKRzk2cTNnYmp1ZFZXa09CcHRLT0czcTJnZ1Naclgxb3FmRDdzc2RDbVVlbG5GeEVGZWVqdWhaVWNaRl9qWmRvZnhXRDBRSFZlZ1FWQ2dPNzBreG9TSlhUNXM0VDJPN2JVTHZ5bVhnVGh1WW02WGFZTXQyaUkwdU16WDc2eFRYTS0teHYxd1Y1andtYjF6V191X0xOaDFjZ2drNEI1dDRCQTdfSGdDd1NIVVdHaTdNQ3N3NnA?oc=5"
+    },
+    {
+      "date": "2026-11-14",
+      "player": "Jeff Ekhator",
+      "club": "Juventus",
+      "opponent": "Francia",
+      "competition": "Under 21",
+      "result": "2-1",
+      "minutes": 30,
+      "note": "Entrato nel finale per consolidare il vantaggio, ha avuto difficoltà nell'economia offensiva con zero tiri in porta e perdita di tutti i duelli disputati.",
+      "noteEn": "Brought on late to consolidate the advantage, struggled in attack with zero shots on target and lost all duels contested.",
+      "source": "Juventus News 24",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTl1cmQxdzhiWEMxaXpjSVgyaFk1ZmFiSU9SRU1YSGNxLUVoUHVWYzNzMjN3RllHTGJuZkNPNnBZSTJFM2t2cHpiOUxiQzNXSi1MZGNzX2RrazA0LWlxcDY0MGxDVk9TcS1kay1oZ0w1QjhtY3NfbFBCcUdpUzMzUDZzdkJtLWc?oc=5"
+    },
+    {
       "date": "2026-11-13",
       "player": "Emanuele Rao",
       "club": "Pisa",

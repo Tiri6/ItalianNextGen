@@ -1,5 +1,28 @@
 {
-  "generatedAt": "2026-11-14T08:51:45.935Z",
-  "day": "2026-11-14",
-  "items": []
+  "generatedAt": "2026-11-15T06:48:36.434Z",
+  "day": "2026-11-15",
+  "items": [
+    {
+      "id": "taccuino-2026-11-15",
+      "file": "taccuino-2026-11-15.json",
+      "title": "Taccuino del giorno · 15 novembre 2026",
+      "excerpt": "L'Italia U21 batte la Francia 2-1 in amichevole internazionale. Spazio limitato per alcuni dei nostri giovani talenti.",
+      "category": "taccuino",
+      "source": "Taccuino da 3 fonti",
+      "link": "",
+      "players": [
+        "Emanuele Lulli",
+        "Eddy Kouadio",
+        "Giovanni Daffara"
+      ],
+      "sourceDate": null,
+      "isDigest": true,
+      "bodyPreview": "Una giornata intensa per i nostri giovani azzurri nelle Nazionali giovanili. **Emanuele Lulli e Giovanni Daffara** — L'Italia U21 batte 2-1 la Francia in una sfida internazionale importante: entrambi i calciatori rimangono in panchina per l'intera durata del match, ma assistono a una prova convincente della squadra. [fonte](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk0xcU5VWFM3Q0x4NTJVT21xa3NvaGhLMEs4V1Zsc",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    }
+  ]
 }
