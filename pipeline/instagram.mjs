@@ -10,6 +10,8 @@
 // Segreti (GitHub → Settings → Secrets): IG_USER_ID, IG_ACCESS_TOKEN.
 
 import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
+// Caption personalizzata: se esiste data/instagram-captions/<slug>.txt si usa quella (già completa di footer e hashtag).
+// --slug=<slug> : anteprima/pubblica SOLO quell'articolo, anche se ha social:false (serve per i post tenuti in attesa di validazione).
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -26,6 +28,8 @@ const CAPTION_MAX = 2150; // il limite Instagram è 2200: teniamo margine
 const arg = (n, d) => process.argv.find((a) => a.startsWith(`--${n}=`))?.split('=')[1] ?? d;
 const MODE = arg('mode', 'anteprima'); // anteprima | pubblica | auto
 const MAX_RUN = Number(arg('max', 0)) || Infinity;
+const ONLY_SLUG = arg('slug', '').trim();
+const CAPTIONS_DIR = path.join(ROOT, 'data', 'instagram-captions');
 
 const cfg = JSON.parse(await readFile(CFG_FILE, 'utf8'));
 let state = { posted: {}, failures: {}, lastPostAt: null };
@@ -77,6 +81,7 @@ function plainText(a) {
 }
 
 function buildCaption(a) {
+  if (a.customCaption) return a.customCaption;
   const tail = [
     a.source && !/^taccuino/i.test(a.source) ? `Fonte: ${a.source}` : null,
     cfg.footer,
@@ -98,8 +103,12 @@ async function loadCandidates(now) {
   const files = (await readdir(NEWS)).filter((f) => f.endsWith('.md'));
   const out = [];
   for (const f of files) {
-    const a = parseArticle(f.replace(/\.md$/, ''), await readFile(path.join(NEWS, f), 'utf8'));
-    if (!a || !a.publishedAt || a.publishedAt > now) continue;                       // non ancora visibile / storico senza orario
+    const slug = f.replace(/\.md$/, '');
+    if (ONLY_SLUG && slug !== ONLY_SLUG) continue;
+    const a = parseArticle(slug, await readFile(path.join(NEWS, f), 'utf8'));
+    if (!a || !a.publishedAt || a.publishedAt > now) continue;
+    try { a.customCaption = (await readFile(path.join(CAPTIONS_DIR, `${slug}.txt`), 'utf8')).trim(); } catch {}
+    if (ONLY_SLUG) { if (!state.posted[slug]) out.push(a); continue; }   // scelta esplicita: niente filtri di freschezza/social                       // non ancora visibile / storico senza orario
     if ((now - a.publishedAt) / 36e5 > cfg.maxAgeHours) continue;                    // troppo vecchio: niente post stantii
     // Freschezza vera: conta quando la fonte ha dato la notizia, non quando l'abbiamo messa online.
     a.fresh = a.sourceDate && !isNaN(a.sourceDate) ? a.sourceDate : a.publishedAt;
@@ -113,6 +122,7 @@ async function loadCandidates(now) {
 }
 
 function select(cands, now) {
+  if (ONLY_SLUG) return cands;
   const today = romeDay(now);
   const postedToday = Object.values(state.posted).filter((p) => romeDay(new Date(p.at)) === today);
   const playersToday = new Set(postedToday.flatMap((p) => p.players ?? []));

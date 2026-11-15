@@ -22,6 +22,10 @@ on:
         default: 'anteprima'
         type: choice
         options: [anteprima, pubblica]
+      slug:
+        description: 'Solo un articolo (slug): anteprima/pubblica quello, anche se tenuto in attesa (social: false). Vuoto = selezione normale'
+        required: false
+        default: ''
       quanti:
         description: 'Massimo post da pubblicare in questa esecuzione (0 = tutti quelli selezionati)'
         required: false
@@ -59,7 +63,7 @@ jobs:
           set -o pipefail
           MODO="${{ github.event.inputs.modo || 'auto' }}"
           echo "### 📸 Instagram — modo: $MODO" >> "$GITHUB_STEP_SUMMARY"
-          node pipeline/instagram.mjs --mode="$MODO" --max="${{ github.event.inputs.quanti || 0 }}" 2>&1 | tee ig.log
+          node pipeline/instagram.mjs --mode="$MODO" --max="${{ github.event.inputs.quanti || 0 }}" --slug="${{ github.event.inputs.slug || '' }}" 2>&1 | tee ig.log
           { echo '```'; cat ig.log; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
       - name: Salva lo stato dei post
         if: always() && github.event.inputs.modo != 'anteprima'
