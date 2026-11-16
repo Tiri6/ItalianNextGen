@@ -203,7 +203,8 @@
           "stageEn": "League A · Group 1 · MD6 · Brussels",
           "home": "Belgio",
           "away": "Italia",
-          "result": ""
+          "result": "4-1",
+          "_autoResult": true
         }
       ],
       "events": [
