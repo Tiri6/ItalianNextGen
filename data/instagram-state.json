@@ -497,11 +497,21 @@
       "at": "2026-11-16T08:31:52.187Z",
       "category": "performance",
       "players": []
+    },
+    "pisilli-non-incide-con-l-italia-ghilardi-ancora-in-panchina": {
+      "id": "18135254392690773",
+      "at": "2026-11-16T10:41:43.434Z",
+      "category": "performance",
+      "players": [
+        "Niccolò Pisilli",
+        "Daniele Ghilardi",
+        "Emanuele Lulli"
+      ]
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1,
     "l-italia-u21-piega-la-francia-in-amichevole-camarda-e-lipani": 1
   },
-  "lastPostAt": "2026-11-16T08:31:52.187Z"
+  "lastPostAt": "2026-11-16T10:41:43.434Z"
 }
