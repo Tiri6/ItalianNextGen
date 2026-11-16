@@ -1,0 +1,25 @@
+---
+title: "U19, l'Italia cede all'Ucraina: Lontani e Elimoghale non bastano"
+titleEn: "Italy U19 falls to Ukraine: Lontani and Elimoghale's efforts not enough"
+excerpt: "Gli azzurrini perdono di misura nelle qualificazioni agli Europei. Decisivo un errore difensivo nel primo tempo, nella ripresa la squadra di Favo ha creato diverse occasioni senza concretizzarle."
+excerptEn: "Young Italians lose narrowly in European qualifying. A defensive error in the first half proved decisive, while Favo's team created several chances in the second half without converting them."
+date: 2026-11-16
+publishedAt: 2026-11-16T10:20:00+01:00
+category: performance
+players: ["Simone Lontani", "Destiny Elimoghale"]
+competitions: ["euro-u19-2026"]
+source: "MondoPrimavera"
+sourceUrl: "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWtUemFHaXg1dUkwcFZJaGJ5ZGE2WHN2UjZ1Y0daVlJfNVJLaVR2Y2xsS3VyVHUxa1JhY3liQXFQTzlBcUtnWGRMVVlFMWZqMVFIdzh2eUl6bTk4VHltSzNFOGJGTXFUeElHMmlVcS1CREg3cTR5cWg1VlZmdS1BTHpmTklxbEQ0RWN4MG44TFdqN3dKeGh4b2J2NklRakd3dnpJ?oc=5"
+sourceDate: "2026-11-14T18:07:40.000Z"
+socialPick: true
+---
+
+L'Italia U19 esce sconfitta dalle qualificazioni agli Europei contro l'Ucraina, colpita da un episodio difensivo che ha deciso la partita nel primo tempo. La squadra di Favo ha reagito con carattere e ha spinto soprattutto nella ripresa, cercando il pareggio attraverso diverse iniziative dal limite e tentativi dalla distanza, senza però riuscire a sfondare la retroguardia avversaria. Una prestazione generosa che non ha fruttato il risultato sperato.
+
+Simone Lontani si è rivelato il più propositivo tra gli azzurrini: l'esterno ha sfiorato il gol su punizione e ha mantenuto alto il livello delle giocate nel corso della gara, trasmettendo sempre la sensazione di poter inventare l'azione decisiva. Nel secondo tempo Destiny Elimoghale ha portato in campo tecnica e vivacità offensiva, arricchendo la manovra italiana fino al triplice fischio. La difesa ha retto bene salvo l'episodio fatale che ha permesso agli ospiti di passare in vantaggio.
+
+<!--EN-->
+
+Italy U19 suffered defeat against Ukraine in European qualifying, undone by a defensive mistake in the opening period. Favo's squad responded with determination and pressed particularly in the second half, attempting to equalize through set pieces and long-range efforts, though they could not break through the visiting defense. A committed display that ultimately did not yield the desired result.
+
+Simone Lontani stood out as the Azzurrini's most creative outlet: the winger came close to scoring from a free kick and maintained his quality throughout, consistently hinting at producing a decisive moment. In the second period Destiny Elimoghale injected technical ability and attacking vitality into Italy's play until the final whistle. The backline held firm aside from the crucial error that allowed the visitors to take the lead.
