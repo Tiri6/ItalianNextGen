@@ -1,81 +1,46 @@
 {
   "version": 1,
-  "date": "2026-11-16",
-  "updatedAt": "2026-11-16T08:30:02.423Z",
+  "date": "2026-11-17",
+  "updatedAt": "2026-11-17T07:32:38.258Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mwiwbmkt-wrmxd",
-    "taccuino-2026-11-15",
-    "mwiwbme1-m7m15",
-    "mwiwbmgp-gknxj",
-    "mwiwbmhw-c8gm7",
-    "mwiwbmei-l8an4",
-    "mwiwbmlv-z1dhn",
-    "mwiwbmic-xylb5",
-    "mwiwbmgy-yheiw",
-    "mwiwbmos-4j6ng",
-    "mwiwbmq3-qqdx7",
-    "mwiwbmhv-tvtw0",
-    "mwiwbmg2-1zdee",
-    "mwiwbmg6-93orf"
+    "mwkbrvpx-vf94q",
+    "mwkbrvt9-oaz6h",
+    "mwkbrvry-b6qog",
+    "mwkbrvsb-xxruz",
+    "mwkbrvrg-yt2w9",
+    "mwkbrvrm-utoij",
+    "mwkbrvqj-nk91x"
   ],
   "items": {
-    "mwiwbmkt-wrmxd": {
+    "mwkbrvpx-vf94q": {
       "live": true,
       "instagram": true
     },
-    "taccuino-2026-11-15": {
-      "live": false,
-      "instagram": false
-    },
-    "mwiwbme1-m7m15": {
+    "mwkbrvt9-oaz6h": {
       "live": true,
       "instagram": true
     },
-    "mwiwbmgp-gknxj": {
+    "mwkbrvry-b6qog": {
+      "live": true,
+      "instagram": false
+    },
+    "mwkbrvsb-xxruz": {
       "live": true,
       "instagram": true
     },
-    "mwiwbmhw-c8gm7": {
+    "mwkbrvrg-yt2w9": {
+      "live": true,
+      "instagram": false
+    },
+    "mwkbrvrm-utoij": {
+      "live": true,
+      "instagram": false
+    },
+    "mwkbrvqj-nk91x": {
       "live": true,
       "instagram": true
-    },
-    "mwiwbmei-l8an4": {
-      "live": true,
-      "instagram": false
-    },
-    "mwiwbmlv-z1dhn": {
-      "live": false,
-      "instagram": false
-    },
-    "mwiwbmic-xylb5": {
-      "live": true,
-      "instagram": false
-    },
-    "mwiwbmgy-yheiw": {
-      "live": true,
-      "instagram": false
-    },
-    "mwiwbmos-4j6ng": {
-      "live": false,
-      "instagram": false
-    },
-    "mwiwbmq3-qqdx7": {
-      "live": false,
-      "instagram": false
-    },
-    "mwiwbmhv-tvtw0": {
-      "live": false,
-      "instagram": false
-    },
-    "mwiwbmg2-1zdee": {
-      "live": true,
-      "instagram": false
-    },
-    "mwiwbmg6-93orf": {
-      "live": false,
-      "instagram": false
     }
   }
 }
