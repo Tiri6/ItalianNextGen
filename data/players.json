@@ -1492,6 +1492,17 @@
         "Mattia Zanotti Lugano",
         "Mattia Zanotti"
       ]
+    },
+    {
+      "name": "Lorenzo Amatucci",
+      "club": "Deportivo La Coruña",
+      "role": "Centrocampista",
+      "born": 2004,
+      "status": "estero",
+      "queries": [
+        "Lorenzo Amatucci",
+        "Lorenzo Amatucci Deportivo"
+      ]
     }
   ],
   "extraQueries": [

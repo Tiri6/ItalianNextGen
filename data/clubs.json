@@ -382,5 +382,15 @@
    "Under 16",
    "Under 15"
   ]
+ },
+ "Deportivo La Coruña": {
+  "c1": "#1d4fa0",
+  "c2": "#ffffff",
+  "pattern": "stripes",
+  "stadium": "Riazor",
+  "alias": [
+   "Deportivo",
+   "Depor"
+  ]
  }
 }

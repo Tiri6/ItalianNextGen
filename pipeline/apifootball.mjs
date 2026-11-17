@@ -40,6 +40,7 @@ const CLUB_ALIASES = {
   'atalanta u23': ['atalanta u23', 'atalanta bc u23', 'atalanta ii'],
   'inter': ['inter', 'inter milan', 'internazionale'],
   'milan': ['milan', 'ac milan'],
+  'deportivo la coruna': ['deportivo la coruna', 'deportivo', 'rc deportivo', 'depor'],
 };
 export function clubNames(club) {
   const base = clubKey(club);
