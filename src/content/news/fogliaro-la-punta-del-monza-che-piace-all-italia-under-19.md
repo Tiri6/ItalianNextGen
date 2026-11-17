@@ -1,0 +1,29 @@
+---
+title: "Fogliaro, la punta del Monza che piace all'Italia Under 19"
+titleEn: "Fogliaro, Monza's striker catching Italy's youth attention"
+excerpt: "Diciottenne nato nel 2008, l'attaccante brianzolo ha già firmato il suo primo contratto professionista e brilla nel campionato Primavera con 3 gol in 9 partite."
+excerptEn: "Born in 2008, the 18-year-old Monza forward has already signed his first professional deal and is shining in the Primavera league with 3 goals in 9 matches."
+date: 2026-11-17
+publishedAt: 2026-11-17T09:40:00+01:00
+category: news
+players: ["Christian Fogliaro"]
+competitions: []
+source: "QS Quotidiano Sportivo"
+sourceUrl: "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajFBb0lUb1RjWnhHNGZ6WmloVnU4eElvV0hwaExqMFFURWd3X2xXMlk5RzIyVDIwYWRpdm1NeVJrbEZmWl93Tk4zMGxtUk1vSWt4bWM1UFhiS2FOTHhnMTM1bHlZSDBncnJhSFdrRkRaUXA2Sk1YUnJDdTlVUnBidWN6ZHE0SHRkRlk1cE5zWnotMWQ1ZzlPMlVLS085eGh2dVNOV0lCVTFHM1pWWjJUeDV2Ulkwa05k?oc=5"
+sourceDate: "2026-11-16T17:21:46.000Z"
+socialPick: true
+---
+
+Christian Fogliaro rappresenta uno dei profili più interessanti del settore giovanile del Monza. L'attaccante classe 2008, nato il 24 febbraio, ha già sottoscritto il suo primo contratto da professionista con i brianzoli nel 2026, segnale tangibile della fiducia che la società ripone nel giovane prospetto. Ancora privo di esperienze nella massima serie, Fogliaro sta comunque maturando a ritmi sostenuti nella Primavera lombarda, dove in questa stagione ha collezionato 9 presenze con 3 reti e 2 assist all'attivo.
+
+Crescente anche dal punto di vista della nazionale: il diciannovenne è stato convocato dalle rappresentative Under 18 e Under 19 azzurre, benché finora abbia disputato solamente gare amichevoli e qualificazioni, senza ancora indossare la maglia dell'Italia in competizioni ufficiali. Sul piano tecnico, Fogliaro incarna il profilo della punta moderna: capace di operare sia da centravanti di riferimento sia da ala offensiva, dispone di una buona freddezza sotto porta e di una propensione marcata alla verticalizzazione per rompere gli assetti difensivi avversari.
+
+Il suo percorso calcistico ha preso avvio dalla Virtus Abbiatense, sua squadra locale, prima del passaggio al Novara e infine l'approdo alla struttura del Monza, dove è cresciuto progressivamente fino alla categoria Primavera. L'obiettivo dichiarato rimane quello di migliorare le cifre della scorsa stagione, quando aveva messo a segno 4 reti e distribuito 4 assist.
+
+<!--EN-->
+
+Christian Fogliaro represents one of Monza's most compelling youth prospects. The forward, born on February 24, 2008, has already signed his first professional contract with the Brianzoli in 2026, a clear indication of the club's confidence in the young talent. Though yet to debut in Serie A, Fogliaro is making steady progress within Monza's Primavera squad, where this season he has accumulated 9 appearances with 3 goals and 2 assists.
+
+His standing within the Italian national setup is also growing: the 18-year-old has been called up by both the Under 18 and Under 19 youth teams, though to date he has featured only in friendlies and qualifying matches, never yet wearing the Azzurri jersey in official tournaments. Technically, Fogliaro embodies the profile of the modern forward: capable of operating both as a central striker and as an attacking winger, he possesses clinical finishing ability and a marked tendency to play penetrative passes that break down defensive structures.
+
+His footballing journey began at local side Virtus Abbiatense before moving to Novara and eventually joining Monza's youth system, where he has developed steadily through the ranks to the Primavera level. His stated objective is to improve upon last season's output, when he recorded 4 goals and provided 4 assists.
