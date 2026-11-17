@@ -8,7 +8,7 @@
 import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
-import { scout } from './agents/scout.mjs';
+import { scout, scoutStats } from './agents/scout.mjs';
 import { validate } from './agents/validator.mjs';
 import { buildQueries } from './queries.mjs';
 
@@ -46,16 +46,42 @@ async function main() {
   ];
   console.log(`Agenti scout da lanciare: ${queries.length}`);
 
-  // Lancia gli scout in batch da 5 per non martellare le fonti
+  // Lancia gli scout a piccoli gruppi (3) con una pausa: Google News limita (429/503) le raffiche dai server di GitHub
   const rawItems = [];
-  for (let i = 0; i < queries.length; i += 5) {
-    const batch = queries.slice(i, i + 5);
-    const results = await Promise.all(batch.map((q) => scout(q, { days, maxAgeHours: days * 24 })));
+  const opts = { days, maxAgeHours: days * 24 };
+  const PAUSE_MS = Number(process.env.SCOUT_PAUSE_MS ?? 1500);
+  for (let i = 0; i < queries.length; i += 3) {
+    const batch = queries.slice(i, i + 3);
+    const results = await Promise.all(batch.map((q) => scout(q, opts)));
     for (const [j, items] of results.entries()) {
       console.log(`  ✓ scout "${batch[j]}" → ${items.length} item`);
       rawItems.push(...items);
     }
+    await new Promise((r) => setTimeout(r, PAUSE_MS));
   }
+  // Secondo giro per le query fallite dopo un po' di calma
+  if (scoutStats.failed.length) {
+    const again = [...scoutStats.failed];
+    console.log(`\n↻ ${again.length} query fallite: nuovo tentativo tra 60 s`);
+    await new Promise((r) => setTimeout(r, Number(process.env.SCOUT_COOLDOWN_MS ?? 60000)));
+    for (const q of again) {
+      const items = await scout(q, opts);
+      console.log(`  ↻ scout "${q}" → ${items.length} item`);
+      rawItems.push(...items);
+      await new Promise((r) => setTimeout(r, PAUSE_MS * 2));
+    }
+  }
+  const failedFinal = [...scoutStats.failed];
+  await mkdir(path.join(ROOT, 'data'), { recursive: true });
+  await writeFile(path.join(ROOT, 'data', 'scout-status.json'), JSON.stringify({
+    at: new Date().toISOString(),
+    queries: queries.length,
+    ok: scoutStats.ok,
+    failed: failedFinal.length,
+    failedQueries: failedFinal,
+    msg: failedFinal.length ? `⚠️ ${failedFinal.length} query su ${queries.length} fallite (Google News limita le richieste)` : `✅ ${queries.length} query riuscite`,
+  }, null, 2));
+  if (failedFinal.length) console.log(`⚠️  Query fallite anche dopo il nuovo tentativo: ${failedFinal.length}`);
   console.log(`\nItem grezzi raccolti: ${rawItems.length}`);
 
   // Validazione
