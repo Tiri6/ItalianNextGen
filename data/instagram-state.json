@@ -533,11 +533,19 @@
       "players": [
         "Giovanni Daffara"
       ]
+    },
+    "fogliaro-la-punta-del-monza-che-piace-all-italia-under-19": {
+      "id": "18131188372799874",
+      "at": "2026-11-17T11:22:07.170Z",
+      "category": "news",
+      "players": [
+        "Christian Fogliaro"
+      ]
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1,
     "l-italia-u21-piega-la-francia-in-amichevole-camarda-e-lipani": 1
   },
-  "lastPostAt": "2026-11-17T09:41:46.125Z"
+  "lastPostAt": "2026-11-17T11:22:07.170Z"
 }
