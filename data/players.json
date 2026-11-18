@@ -1503,6 +1503,50 @@
         "Lorenzo Amatucci",
         "Lorenzo Amatucci Deportivo"
       ]
+    },
+    {
+      "name": "Marcello Fugazzola",
+      "club": "Atalanta",
+      "role": "Punta",
+      "born": 2009,
+      "status": "primavera",
+      "queries": [
+        "Marcello Fugazzola Atalanta",
+        "Marcello Fugazzola Under 17"
+      ]
+    },
+    {
+      "name": "Thomas Corigliano",
+      "club": "Juventus",
+      "role": "Trequartista",
+      "born": 2009,
+      "status": "primavera",
+      "queries": [
+        "Thomas Corigliano Juventus",
+        "Thomas Corigliano Under 17"
+      ]
+    },
+    {
+      "name": "Andrea Donato",
+      "club": "Inter",
+      "role": "Difensore",
+      "born": 2009,
+      "status": "primavera",
+      "queries": [
+        "Andrea Donato Inter",
+        "Andrea Donato Under 17"
+      ]
+    },
+    {
+      "name": "Jacopo Landi",
+      "club": "Lazio",
+      "role": "Attaccante",
+      "born": 2009,
+      "status": "primavera",
+      "queries": [
+        "Jacopo Landi Lazio",
+        "Jacopo Landi Under 17"
+      ]
     }
   ],
   "extraQueries": [
