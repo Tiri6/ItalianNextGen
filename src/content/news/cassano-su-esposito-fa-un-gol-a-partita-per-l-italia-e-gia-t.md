@@ -1,0 +1,29 @@
+---
+title: "Cassano su Esposito: «Fa un gol a partita, per l'Italia è già tanto»"
+titleEn: "Cassano on Esposito: «Scores every game, that's already plenty for Italy»"
+excerpt: "Antonio Cassano riconosce i meriti dell'attaccante nerazzurro in Nazionale, pur mantenendo alcune riserve sulla sua qualità complessiva. Per l'ex calciatore, però, la costanza realizzativa dell'Inter è un valore aggiunto per la squadra azzurra."
+excerptEn: "Antonio Cassano acknowledges the Inter striker's qualities in the national team, while maintaining some reservations about his overall level. For the former player, however, his consistent scoring record is a real asset for the Italian side."
+date: 2026-11-18
+publishedAt: 2026-11-18T12:00:00+01:00
+category: performance
+players: []
+competitions: []
+source: "FC Inter News"
+sourceUrl: "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3hPYXYxMFR2M2dWSlY4YXB3TEFKNzVqTEd4S3dISDMxZUZNZFppZzdLei1wVW1TLVFodnBkcUVuZS1CNkZ1Q1NGMEozYXRFcjNNR1RaUGZkRlNrWFFkZ1B3dFlMSDI2Z21iY2lOQTE1SmV3cndiOVgxck9UY2pkZmtyUWRzREM2NkcyekozWnc5Vlk?oc=5"
+sourceDate: "2026-11-17T12:23:37.000Z"
+social: false
+---
+
+Francesco Pio Esposito rappresenta una delle poche certezze nell'attacco della Nazionale italiana guidata da Roberto Mancini. A sottolinearlo è stato Antonio Cassano, che ha sempre mantenuto una posizione critica nei confronti dell'attaccante nerazzurro.
+
+Intervenendo su Viva El Futbol, Cassano ha provato a fare chiarezza sulla sua valutazione: «Abbiamo un goleador che realizza una rete per ogni partita, e per il momento è già significativo». Lo stesso commentatore ha spiegato di avere un giudizio personale sul giocatore, riconoscendolo come bravo professionista e impegnato sul campo. «A livello qualitativo non mi entusiasma particolarmente», ha aggiunto Cassano, «però almeno segna. E questo per la Nazionale conta».
+
+Di fatto, Esposito colma un vuoto storico: rappresenta una soluzione offensiva stabile che l'Italia non aveva avuto in precedenza. Se la qualità tecnica complessiva può essere discutibile, la sua capacità di incidere in zona gol rimane un elemento che difficilmente può essere messo in discussione.
+
+<!--EN-->
+
+Francesco Pio Esposito represents one of the few certainties in Italy's attack under Roberto Mancini's management. Antonio Cassano, who has always maintained a critical stance toward the Inter striker, recently highlighted this point.
+
+Speaking on Viva El Futbol, Cassano sought to clarify his assessment: «We have a goalscorer who finds the net in every match, and for now that's already significant». The same commentator explained he holds a personal judgment about the player, recognizing him as a hardworking professional committed on the pitch. «On a technical level he doesn't thrill me particularly», Cassano added, «but at least he scores. And for the national team, that counts».
+
+In fact, Esposito fills a historical gap: he represents a consistent attacking solution that Italy had lacked previously. While his overall technical quality may be debatable, his ability to make an impact in the box remains an element that is hard to dispute.

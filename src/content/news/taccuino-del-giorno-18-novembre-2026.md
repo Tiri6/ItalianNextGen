@@ -1,0 +1,29 @@
+---
+title: "Taccuino del giorno · 18 novembre 2026"
+titleEn: "Daily Notebook · November 18, 2026"
+excerpt: "Le giovanili azzurre continuano il loro percorso tra risultati e conferme di talento. Una giornata che premia soprattutto i giovani prospetti in circolazione nei principali campionati europei."
+excerptEn: "Italy's youth teams continue their journey amid results and talent confirmations. A day that especially rewards young prospects circulating in Europe's major leagues."
+date: 2026-11-18
+publishedAt: 2026-11-18T10:20:00+01:00
+featured: true
+category: taccuino
+players: ["Pietro Comuzzo", "Alessio Cacciamani", "Diego Mascardi", "Davide Bartesaghi", "Jeff Ekhator", "Samuele Inacio", "Luigi Cherubini", "Emanuele Rao", "Federico Coletta", "Francesco Pio Esposito", "Sebastiano Esposito"]
+competitions: ["euro-u21-2027", "mondiale-u20-2027"]
+source: "Taccuino da 5 fonti"
+sourceUrl: ""
+socialPick: true
+---
+
+**Francesco Pio Esposito** raggiunge quota 10 gol in Nazionale a soli 19 anni, entrando nel ristretto club degli italiani più precoci nella storia azzurra under. Un traguardo che sottolinea il fiuto del giovane attaccante nerazzurro. [fonte](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzJSa2xlWEhNeHpaZTdoQmJrVFoyTUN4N0pmc1BmamVrVURjdllmaTNVQ216R3hOWnM0dk5tQ1FFSUJVbEd2RnFrdGRsWU9tamNOdGZWSmJ5dkg0UWpWWExqYW1rNmVVNXA3ZkVBS1dtWjc3eGEwVzFkSDE0azdsa3dDbGVWTXJ1UmZaTG5HcGtVZHg3TmMyQkQtWHpoNGNUN19wVzBwMUVoZw?oc=5)
+
+**Italia U21** pareggia in rimonta contro il Belgio grazie alle reti di Cherubini ed Ekhator, confermando i progressi del gruppo. Comuzzo titolare in difesa, mentre Cacciamani ha avuto spazio dal primo minuto. [fonte](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbl9Zcldub09BbkN1d2hFaHlwNGdCam5HWUJuTjJhUzVkdHV4OUhKS3ZTZVNqbUxpVlFXRHdlQWxGbFVkS01MbWxpTzVlSW1lcjBjLWFpbEphYnZkQmxWaFF6YUdjNzhIeWV3Uklnd3I0VzFYRmIxTllpMm9UbF9kVjZrMGVCbTE0aXM2ek1Ed1JhdElWMXBrTC1tb2g4Qm9JM2V6blA3TjRUWXZ6UVBnRGFCZENQaHdpWFB3My04X3g3SEs0RzF6ZnY0akdDbVg0RGowbklJUXpZeURjcGFBZlgtcGZqNnVpZjVpU0FR?oc=5)
+
+**Italia U20** batte la Svizzera con una vittoria di misura e regala l'esordio azzurro a Conzato del Torino. Rao, in prestito al Pisa dal Napoli, si distingue servendo l'assist vincente a Coletta. [fonte](https://news.google.com/rss/articles/CBMingFBVV95cUxOOXNMOEFxRnVuY0tiVmtoSWRuei1uMDhjRW9zdXQ2UHkxV0J1c2VjUy11eHdyQmxIWm1kdTkyR0FZcVRUSWIyYS1qRXA1N3BMY0FIeGxFSEVqcGFDNk9jTTRFbmw2aHNPa3dDYi1ESEpPZkprTDRXRWhzb3phcDRUdS1odnVyZmFEcmx5LVdHS1ZpMEYyNEFzTDJZUWVvZw?oc=5)
+
+<!--EN-->
+
+**Francesco Pio Esposito** reaches 10 goals for the National Team at just 19 years old, entering the exclusive club of Italy's most precocious scorers in the Azzurri under history. A milestone that underscores the young Inter forward's striking instinct. [source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzJSa2xlWEhNeHpaZTdoQmJrVFoyTUN4N0pmc1BmamVrVURjdllmaTNVQ216R3hOWnM0dk5tQ1FFSUJVbEd2RnFrdGRsWU9tamNOdGZWSmJ5dkg0UWpWWExqYW1rNmVVNXA3ZkVBS1dtWjc3eGEwVzFkSDE0azdsa3dDbGVWTXJ1UmZaTG5HcGtVZHg3TmMyQkQtWHpoNGNUN19wVzBwMUVoZw?oc=5)
+
+**Italy U21** draws level against Belgium in a comeback, with goals from Cherubini and Ekhator confirming the squad's progress. Comuzzo starts in defense, while Cacciamani featured from the beginning. [source](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbl9Zcldub09BbkN1d2hFaHlwNGdCam5HWUJuTjJhUzVkdHV4OUhKS3ZTZVNqbUxpVlFXRHdlQWxGbFVkS01MbWxpTzVlSW1lcjBjLWFpbEphYnZkQmxWaFF6YUdjNzhIeWV3Uklnd3I0VzFYRmIxTllpMm9UbF9kVjZrMGVCbTE0aXM2ek1Ed1JhdElWMXBrTC1tb2g4Qm9JM2V6blA3TjRUWXZ6UVBnRGFCZENQaHdpWFB3My04X3g3SEs0RzF6ZnY0akdDbVg0RGowbklJUXpZeURjcGFBZlgtcGZqNnVpZjVpU0FR?oc=5)
+
+**Italy U20** defeats Switzerland with a narrow victory and awards debut caps to Conzato of Torino. Rao, on loan at Pisa from Napoli, stands out by providing the winning assist to Coletta. [source](https://news.google.com/rss/articles/CBMingFBVV95cUxOOXNMOEFxRnVuY0tiVmtoSWRuei1uMDhjRW9zdXQ2UHkxV0J1c2VjUy11eHdyQmxIWm1kdTkyR0FZcVRUSWIyYS1qRXA1N3BMY0FIeGxFSEVqcGFDNk9jTTRFbmw2aHNPa3dDYi1ESEpPZkprTDRXRWhzb3phcDRUdS1odnVyZmFEcmx5LVdHS1ZpMEYyNEFzTDJZUWVvZw?oc=5)
