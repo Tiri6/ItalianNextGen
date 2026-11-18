@@ -593,11 +593,17 @@
       "at": "2026-11-18T10:22:11.152Z",
       "category": "performance",
       "players": []
+    },
+    "scaglione-e-l-italia-under-17-battono-la-francia-nelle-quali": {
+      "id": "17966352627232898",
+      "at": "2026-11-18T12:02:21.106Z",
+      "category": "performance",
+      "players": []
     }
   },
   "failures": {
     "vergara-sfida-esposito-per-la-titolarita-mancini-sceglie-l-e": 1,
     "l-italia-u21-piega-la-francia-in-amichevole-camarda-e-lipani": 1
   },
-  "lastPostAt": "2026-11-18T10:22:11.152Z"
+  "lastPostAt": "2026-11-18T12:02:21.106Z"
 }
