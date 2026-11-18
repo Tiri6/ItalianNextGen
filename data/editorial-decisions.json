@@ -1,46 +1,81 @@
 {
   "version": 1,
-  "date": "2026-11-17",
-  "updatedAt": "2026-11-17T07:32:38.258Z",
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-18T08:58:44.079Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mwkbrvpx-vf94q",
-    "mwkbrvt9-oaz6h",
-    "mwkbrvry-b6qog",
-    "mwkbrvsb-xxruz",
-    "mwkbrvrg-yt2w9",
-    "mwkbrvrm-utoij",
-    "mwkbrvqj-nk91x"
+    "mwlr8ta2-94ep2",
+    "taccuino-2026-11-18",
+    "mwlr8t4r-azo3k",
+    "mwlr8taf-kj6db",
+    "mwlr8teq-96aht",
+    "mwlr8t61-ccd7r",
+    "mwlr8tf4-qz730",
+    "mwlr8t46-t1io2",
+    "mwlr8t4p-8z8r9",
+    "mwlr8t53-qg33f",
+    "mwlr8t8j-j9lhy",
+    "mwlr8t8s-3l1a2",
+    "mwlr8t9g-suz4o",
+    "mwlr8t95-pri95"
   ],
   "items": {
-    "mwkbrvpx-vf94q": {
+    "mwlr8ta2-94ep2": {
       "live": true,
       "instagram": true
     },
-    "mwkbrvt9-oaz6h": {
+    "taccuino-2026-11-18": {
       "live": true,
       "instagram": true
     },
-    "mwkbrvry-b6qog": {
+    "mwlr8t4r-azo3k": {
       "live": true,
       "instagram": false
     },
-    "mwkbrvsb-xxruz": {
-      "live": true,
-      "instagram": true
-    },
-    "mwkbrvrg-yt2w9": {
+    "mwlr8taf-kj6db": {
       "live": true,
       "instagram": false
     },
-    "mwkbrvrm-utoij": {
+    "mwlr8teq-96aht": {
+      "live": false,
+      "instagram": false
+    },
+    "mwlr8t61-ccd7r": {
+      "live": true,
+      "instagram": true
+    },
+    "mwlr8tf4-qz730": {
+      "live": true,
+      "instagram": true
+    },
+    "mwlr8t46-t1io2": {
+      "live": false,
+      "instagram": false
+    },
+    "mwlr8t4p-8z8r9": {
       "live": true,
       "instagram": false
     },
-    "mwkbrvqj-nk91x": {
+    "mwlr8t53-qg33f": {
+      "live": false,
+      "instagram": false
+    },
+    "mwlr8t8j-j9lhy": {
       "live": true,
-      "instagram": true
+      "instagram": false
+    },
+    "mwlr8t8s-3l1a2": {
+      "live": true,
+      "instagram": false
+    },
+    "mwlr8t9g-suz4o": {
+      "live": true,
+      "instagram": false
+    },
+    "mwlr8t95-pri95": {
+      "live": true,
+      "instagram": false
     }
   }
 }
