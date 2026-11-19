@@ -2,6 +2,18 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-11-18",
+      "player": "Andrea Ballanti",
+      "club": "Torino",
+      "opponent": "",
+      "competition": "Azzurrini",
+      "result": "0-0",
+      "note": "Ha mantenuto la titolarità per tutta la durata della sosta, confermando continuità di rendimento apprezzabile come colonna portante dello schieramento.",
+      "noteEn": "Maintained starting position throughout the break, confirming appreciable consistency as a key pillar of the squad.",
+      "source": "Toro News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkp4RkZrOS1MQ2NFcjZhNzZFWU5PcG5lYjJlLW9EbjlYT0hJblZRMlVCZmV5elpJTVJhc0g5VlR4d09rNmFydGFxdDl6dDk1YlhwOWxHREhZcUZaOFp3WllGNjd5aXVhZ2NmWG9SQUxmdzFmVXN0cFFra1VFTUVyTGlxVlNUU3FDNjhzRzRFenB0bHY2N2hFTWcwYVlDclpyQUhvVnd4UDlzNEtiMHMwY2t6TGttdmhN0gG-AUFVX3lxTE9WSXpBWDZmbWhRbmoyNzhVaXNxb0xkSTJKNEVJaHBReERDWUdhMEF6M3VPR1d2RXVzUGI5dnZjN2MzT182bkhNOXowUWxTandoVjdjNVRTbm1SRHdYZHc4LTBBUFB6RjlNVmNBdWRtQ2s2dlJHYkJLaE85OVNGM1RNbnlWVndEX2tIMVpydlp3OGx2Vkx4NlJtdnFidHh6TVR6UWlEQ1d5X0RIVi1nUmZsSVkzWmFuVzlVTW9LM0E?oc=5"
+    },
+    {
       "date": "2026-11-17",
       "player": "Jeff Ekhator",
       "club": "",
@@ -62,6 +74,19 @@
       "noteEn": "Ha giocato dall'inizio nel ruolo di centrale difensivo accanto a Lulli, Chiarodia e Bartesaghi, dimostrando la fiducia del commissario tecnico Baldini.",
       "source": "Torino Granata",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWE52U1ItZ1hRLVVYUnF6ZXBYbk9Jb3oyZGxXSllEUXhobENqaEZPM256RHFrVW9ma3ZueU40Yldwbmd3UWlFbVhQUGNqNDNNQmMtY2NMZmpRNmRXZHBmdTdHcS0yN00zUFB5amVwVElzX0UtLW9oRFJXSnB1TGoyNzNqVl9kVGlCbHVCeHkzTHBleWUzQW5hTV82Tjd3bGlVbWJXbTN4Q2w1OGdSVTJ2ejZWMFl3WEpXa0lRNVoxWEN4NGs3Z1VTeWM3VjFIZw?oc=5"
+    },
+    {
+      "date": "2026-11-16",
+      "player": "Samuel Wiafe",
+      "club": "Genoa",
+      "opponent": "Ucraina",
+      "competition": "Qualificazioni Europei Under 19",
+      "result": "0-1",
+      "minutes": 90,
+      "note": "Ha occupato una posizione di rilievo dall'inizio e ha acceso il gioco sulla destra con un traversone",
+      "noteEn": "He held a prominent position from the start and created play on the right with a cross",
+      "source": "Genoa Oggi",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc053RjFwdjlOdUVST0k5b0tLb1RFQXI1Z01mNEdsTG5MRndZZFRxSjZHTEFqMS1PNkhCcmRpQWFMTmY2M3praUZ2SVhGSGE5QkdoYjA2Qi1vMl9VbldPb1JETDRvNHVCdm5aWVd5cG1HWDR3UjIyNU1VaUxrLUtHUHJwT1BvTGV3VDBVSlFoM3JTbkNnS3h5eTVGS0NKZXc?oc=5"
     },
     {
       "date": "2026-11-16",
@@ -854,37 +879,6 @@
       "rating": 6.6,
       "note": "12' in campo.",
       "noteEn": "12 minutes played.",
-      "source": "Dati partita",
-      "fromApi": true
-    },
-    {
-      "date": "2026-11-04",
-      "player": "Mattia Liberali",
-      "club": "Como",
-      "opponent": "Lens",
-      "competition": "UEFA Champions League",
-      "result": "9-1",
-      "minutes": 32,
-      "goals": 1,
-      "assists": 2,
-      "rating": 8.4,
-      "note": "32' in campo, 1 gol, 2 assist.",
-      "noteEn": "32 minutes played, 1 goal, 2 assists.",
-      "source": "Dati partita",
-      "fromApi": true,
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWg3aWg5czZvTXNIUlRvaGs5TlI3WFYteXdNREFjY2gzeXNnWFcwRzBLa0NiTTl2a1RLM0JpMkVBYVBFZGtxcGphWmdqQlZDZ3ByV3p6ZjVCVnhtVlB5ZUhOVVI1a1kzZnBTMTk0RzVlUVRfWVdZbDZobXlJSy11Mkg4QlJ2M0VJ?oc=5"
-    },
-    {
-      "date": "2026-11-04",
-      "player": "Antonio Vergara",
-      "club": "Napoli",
-      "opponent": "FC Porto",
-      "competition": "UEFA Champions League",
-      "result": "1-4",
-      "minutes": 78,
-      "rating": 5.3,
-      "note": "78' in campo.",
-      "noteEn": "78 minutes played.",
       "source": "Dati partita",
       "fromApi": true
     }
