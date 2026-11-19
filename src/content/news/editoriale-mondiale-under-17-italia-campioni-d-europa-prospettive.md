@@ -4,6 +4,7 @@ titleEn: "European champions is not enough: what Italy U17 must prove in Doha"
 excerpt: "Il Mondiale Under 17 parte oggi e l'Italia di Franceschini arriva col titolo europeo in tasca e senza sconfitte. Girone, formato e rosa: dove può arrivare questa generazione e cosa conviene chiederle."
 excerptEn: "The U17 World Cup starts today and Franceschini's Italy arrive as unbeaten European champions. Group, format and squad: how far this generation can go and what it makes sense to ask of it."
 date: 2026-11-19
+publishedAt: 2026-11-19T21:00:00+01:00
 category: editoriale
 players: ["Christian Lupo", "Diego Perillo", "Federico Croci", "Marcello Fugazzola", "Thomas Corigliano", "Andrea Donato", "Jacopo Landi"]
 competitions: ["mondiale-u17-2026", "euro-u17"]
