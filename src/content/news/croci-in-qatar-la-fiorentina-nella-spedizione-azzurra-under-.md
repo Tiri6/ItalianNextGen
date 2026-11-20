@@ -1,0 +1,29 @@
+---
+title: "Croci in Qatar: la Fiorentina nella spedizione azzurra Under 17"
+titleEn: "Croci heads to Qatar: Fiorentina talent in Italy's U-17 World Cup squad"
+excerpt: "Il centrocampista offensivo della Primavera viola è tra i protagonisti della missione italiana al Mondiale. Lo scopritore: \"Volare bassi e mantenersi sereni\"."
+excerptEn: "The Fiorentina attacking midfielder is among Italy's key players at the U-17 World Cup. His talent scout: \"Stay humble and focused on the task.\""
+date: 2026-11-20
+publishedAt: 2026-11-20T11:20:00+01:00
+category: performance
+players: ["Federico Croci"]
+competitions: ["euro-u17", "road-to-2030"]
+source: "TUTTOmercatoWEB"
+sourceUrl: "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT015ZXptU2VrWGh3a1oyZWpVVzhEWWFRUWw0SGY3S0pXSnhsTW5oUTBmQ2VvdUcwaFJxSHVnbXNRR2R6Z3FoUlVqOEl6LTBYTEN6WmFlRG0tWUFtS3dRVUFNb3lEOVJJVEhSWUVlY2Q2NUNkeW5FVktfTjNsa2pGOENMbW55YTU2eGM3bTFiQTVMSlpnYTE0b01PejZZdzRkVE44VER4cEFpNTBmS2VxUw?oc=5"
+sourceDate: "2026-11-19T23:07:37.000Z"
+social: false
+---
+
+Federico Croci si prepara al debutto mondiale con la nazionale italiana Under 17 in Qatar. Il centrocampista offensivo della Primavera della Fiorentina, classe 2010, è stato convocato dal commissario tecnico Franceschini per la spedizione azzurra. Colpisce il dato di giocatore under età nel campionato giovanile, elemento che attesta il livello della sua maturazione calcistica.
+
+Andrea Ritorni, lo scout che ha contribuito alla sua valorizzazione nella Vigo Global Sport, ha sottolineato la condizione psicofisica del ragazzo alla vigilia della competizione. "È in Qatar da lunedì e si sta preparando nel migliore dei modi" ha raccontato a Repubblica-Firenze, aggiungendo che Croci ha superato un virus contratto prima della partenza. Lo scout ha richiamato l'importanza di proteggere il giovane dalle pressioni esterne: "Tocca a noi farlo rimanere sereno e allontanare la pressione. Continuare a volare bassi portando rispetto a tutti, perché bruciarsi a quell'età è facile".
+
+Ancora prima della sosta per le nazionali, il commissario tecnico Roberto Mancini aveva notato le qualità di Croci durante una conferenza stampa da Coverciano: "È un 2010 e gioca coi 2007, ha qualità importanti". Anche la redazione di TMW lo aveva già inserito tra i migliori prospetti italiani nella Top-100 dei talenti nati tra il 2005 e il 2010.
+
+<!--EN-->
+
+Federico Croci is preparing for his World Cup debut with Italy's Under 17 squad in Qatar. The attacking midfielder from Fiorentina's Primavera team, born in 2010, has been selected by coach Franceschini for the national squad. What stands out is his ability to compete against older age groups in the youth championship, a sign of his tactical maturity.
+
+Andrea Ritorni, the scout instrumental in his development at Vigo Global Sport, highlighted the player's mental and physical condition ahead of the tournament. "He arrived in Qatar on Monday and is preparing in the best possible way," he told Repubblica-Firenze, noting that Croci recovered quickly from a virus contracted before departure. The scout stressed the need to shield the young talent from external pressure: "Our job is to keep him calm and away from outside pressure. Continue flying low with respect for everyone, because burning out at this age is easy."
+
+Even before the recent international break, national team coach Roberto Mancini had noticed Croci's abilities during a Coverciano press conference: "He's a 2010 player competing against 2007s, he has important qualities." TMW's editorial team had already listed him among Italy's best prospects in their Top-100 rankings of talents born between 2005 and 2010.

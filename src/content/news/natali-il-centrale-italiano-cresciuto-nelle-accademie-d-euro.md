@@ -1,0 +1,29 @@
+---
+title: "Natali, il centrale italiano cresciuto nelle accademie d'Europa"
+titleEn: "Natali, Italian centre-back shaped by Europe's top academies"
+excerpt: "Andrea Natali ha completato la sua formazione tra Barcellona, Leverkusen e Alkmaar. Ora il difensore milanese è titolare nella squadra olandese dopo aver impressionato all'Europeo Under 19."
+excerptEn: "Andrea Natali completed his development between Barcelona, Leverkusen and Alkmaar. The Milan-born defender is now a regular starter in the Dutch club after impressing at the U19 Euros."
+date: 2026-11-20
+publishedAt: 2026-11-20T11:00:00+01:00
+category: news
+players: ["Andrea Natali"]
+competitions: []
+source: "11contro11"
+sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmlxYmREajJXTlpDYVBZVjR2TnVZRmZZdzlGbjlZWFRHa1I1OTF3ZldPNHJiRlkwcWYxem01QmRGTjZ3aTF2dmZHX3poS3cwTU0tb21FaXREZ1VscWpRVmpyOUE1ZHNHVjR1MFI0ZXJsSXp1VGl2cllEdHRDVzk3czk3eVY1Uk8tZTlVTlJMeTZybjdsTGZFQVc5T2hSeUQ2SkRVMnVZX01LeHI5Qzc2UWxPTQ?oc=5"
+sourceDate: "2026-11-19T06:00:54.000Z"
+socialPick: true
+---
+
+Un percorso formativo decisamente atipico per un difensore italiano quello di Andrea Natali. Nato a Milano il 28 gennaio 2008, figlio dell'ex difensore Cesare Natali, il classe 2008 ha costruito la sua crescita calcistica attraversando mezza Europa. Dalle giovanili del Bologna ai campi di Spagna e Inghilterra, dai vivai del Milan alla celebre La Masia del Barcellona: le tappe della sua carriera raccontano di un giovane che ha saputo trasformare ogni spostamento in opportunità di apprendimento.
+
+La scelta del Barcellona nell'estate del 2021 rappresenta il momento di svolta nella sua formazione. L'esperienza in Catalogna gli consente di affinare soprattutto la qualità tecnica nella costruzione dal basso, elemento che contraddistingue il suo profilo di centrale moderno. Alto circa 1,85 metri, destro naturale, Natali sa giocare sia in difesa a quattro che in linea a tre, integrandosi con naturalezza nei sistemi difensivi contemporanei. Il passaggio al Bayer Leverkusen nel 2024 rappresenta il primo passo verso la carriera professionistica, anche se il rilancio definitivo arriva con la cessione all'AZ Alkmaar nel luglio 2026.
+
+Il 2024-2025 costituisce una stagione di confirmazione. Convocato al Mondiale Under 20 in Cile a soli 17 anni, Natali disputa tutte e quattro le partite dell'Italia in qualità di titolare e mette a segno una rete nella fase a gironi contro Cuba. Poi l'Europeo Under 19 del 2026 in cui, nonostante l'eliminazione italiana nella prima fase, il difensore si distingue come uno dei migliori della competizione, entrando nel Team of the Tournament come unico azzurro. Ora ad Alkmaar ha trovato continuità nella prima squadra, alternando le presenze in Eerste Divisie con l'impiego nella Jong AZ, maturando con ogni partita una consapevolezza tattica che deriva tanto dall'istinto quanto da anni di osservazione nei migliori vivai europei.
+
+<!--EN-->
+
+Andrea Natali has followed an decidedly unconventional development path for an Italian defender. Born in Milan on 28 January 2008, son of former defender Cesare Natali, the 2008-born player has built his growth across half of Europe. From Bologna's youth ranks to fields in Spain and England, from Milan's academy to Barcelona's renowned La Masia: the stages of his career tell the story of a young player who transformed every move into a learning opportunity.
+
+The choice of Barcelona in the summer of 2021 marks the turning point in his formation. The experience in Catalonia allowed him to refine above all his technical quality in building from the back, an element that distinguishes his profile as a modern centre-back. Standing around 1.85 metres tall, naturally right-footed, Natali can play both in a four-man defence and in a back three, integrating seamlessly into contemporary defensive systems. His move to Bayer Leverkusen in 2024 represents the first step towards his professional career, though the definitive breakthrough arrives with his transfer to AZ Alkmaar in July 2026.
+
+The 2024-2025 season proves a period of confirmation. Drafted to the U20 World Cup in Chile at just 17 years old, Natali featured in all four of Italy's matches as a starter and scored against Cuba in the group stage. Then came the U19 Euros in 2026, where despite Italy's group-stage exit, the defender stood out as one of the tournament's finest players, earning a place in the Team of the Tournament as the sole Italian. Now at Alkmaar he has found consistent opportunities with the first team, alternating appearances in Eerste Divisie with Jong AZ employment, maturing with each match a tactical awareness derived from both instinct and years of observation in Europe's finest academies.
