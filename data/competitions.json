@@ -935,7 +935,7 @@
       "id": "mondiale-u17-2026",
       "teamId": "u17",
       "team": "Under 17",
-      "phase": "futura",
+      "phase": "in-corso",
       "period": "19 nov – 13 dic 2026 · Qatar",
       "periodEn": "19 Nov – 13 Dec 2026 · Qatar",
       "short": "Mondiale U17",
@@ -990,8 +990,8 @@
           "stage": "Gruppo E · 1ª giornata",
           "stageEn": "Group E · MD1",
           "home": "Italia",
-          "away": "Da definire",
-          "result": ""
+          "away": "Giamaica",
+          "result": "6-0"
         }
       ],
       "events": [
