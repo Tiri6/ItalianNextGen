@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-21-stefano-di-mario",
+  "collectedAt": "2026-11-22T06:46:14.129Z",
+  "title": "Di Mario in campo 90': Virtus Entella perde 0-1 con Carrarese",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 21 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Stefano Di Mario"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Di Mario in campo 90': Virtus Entella perde 0-1 con Carrarese",
+    "titleEn": "Di Mario plays 90 minutes: Virtus Entella lose 0-1 against Carrarese",
+    "excerpt": "Stefano Di Mario ha giocato una partita solida contro Carrarese: Virtus Entella ha perso 0-1.",
+    "excerptEn": "Stefano Di Mario put in a solid performance against Carrarese: Virtus Entella lost 0-1.",
+    "bodyIt": "Stefano Di Mario ha giocato una partita solida con il Virtus Entella nella sfida contro Carrarese (Serie B), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Stefano Di Mario put in a solid performance for Virtus Entella against Carrarese (Serie B), in a match that ended 0-1 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-21T20:00:00.000Z"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-21-fabio-rispoli",
+  "collectedAt": "2026-11-22T06:46:14.130Z",
+  "title": "Rispoli in campo 79': Südtirol vince 1-0 con Cremonese",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 21 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Fabio Rispoli"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Rispoli in campo 79': Südtirol vince 1-0 con Cremonese",
+    "titleEn": "Rispoli plays 79 minutes: Südtirol win 1-0 against Cremonese",
+    "excerpt": "Fabio Rispoli ha giocato una partita solida contro Cremonese: Südtirol ha vinto 1-0.",
+    "excerptEn": "Fabio Rispoli put in a solid performance against Cremonese: Südtirol won 1-0.",
+    "bodyIt": "Fabio Rispoli ha giocato una partita solida con il Südtirol nella sfida contro Cremonese (Serie B), chiusa sul 1-0 per i suoi: vittoria. Il giovane è rimasto in campo 79 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Fabio Rispoli put in a solid performance for Südtirol against Cremonese (Serie B), in a match that ended 1-0 for his side: a win. The youngster played 79 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-21T20:00:00.000Z"
+  }
+}

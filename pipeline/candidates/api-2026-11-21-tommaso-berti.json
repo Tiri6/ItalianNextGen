@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-21-tommaso-berti",
+  "collectedAt": "2026-11-22T06:46:14.131Z",
+  "title": "Berti in campo 90': Cremonese perde 0-1 con Sudtirol",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 21 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Tommaso Berti"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Berti in campo 90': Cremonese perde 0-1 con Sudtirol",
+    "titleEn": "Berti plays 90 minutes: Cremonese lose 0-1 against Sudtirol",
+    "excerpt": "Tommaso Berti ha giocato una partita solida contro Sudtirol: Cremonese ha perso 0-1.",
+    "excerptEn": "Tommaso Berti put in a solid performance against Sudtirol: Cremonese lost 0-1.",
+    "bodyIt": "Tommaso Berti ha giocato una partita solida con il Cremonese nella sfida contro Sudtirol (Serie B), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Tommaso Berti put in a solid performance for Cremonese against Sudtirol (Serie B), in a match that ended 0-1 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-21T20:00:00.000Z"
+  }
+}

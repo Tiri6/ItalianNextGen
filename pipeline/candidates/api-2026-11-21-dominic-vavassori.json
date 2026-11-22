@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-21-dominic-vavassori",
+  "collectedAt": "2026-11-22T06:46:14.128Z",
+  "title": "Vavassori segna: Palermo perde 1-3 con Catanzaro",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 21 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Dominic Vavassori"
+  ],
+  "category": "performance",
+  "score": 7,
+  "status": "pending",
+  "draft": {
+    "title": "Vavassori segna: Palermo perde 1-3 con Catanzaro",
+    "titleEn": "Vavassori scores: Palermo lose 1-3 against Catanzaro",
+    "excerpt": "Dominic Vavassori è andato a segno contro Catanzaro: Palermo ha perso 1-3.",
+    "excerptEn": "Dominic Vavassori found the net against Catanzaro: Palermo lost 1-3.",
+    "bodyIt": "Dominic Vavassori è andato a segno con il Palermo nella sfida contro Catanzaro (Serie B), chiusa sul 1-3 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Dominic Vavassori found the net for Palermo against Catanzaro (Serie B), in a match that ended 1-3 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-21T20:00:00.000Z"
+  }
+}

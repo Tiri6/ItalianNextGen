@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-21-fabio-chiarodia",
+  "collectedAt": "2026-11-22T06:46:14.131Z",
+  "title": "Chiarodia in campo 90': Borussia Mönchengladbach perde 0-1 con Borussia Dortmund",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 21 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Fabio Chiarodia"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Chiarodia in campo 90': Borussia Mönchengladbach perde 0-1 con Borussia Dortmund",
+    "titleEn": "Chiarodia plays 90 minutes: Borussia Mönchengladbach lose 0-1 against Borussia Dortmund",
+    "excerpt": "Fabio Chiarodia ha giocato una partita solida contro Borussia Dortmund: Borussia Mönchengladbach ha perso 0-1.",
+    "excerptEn": "Fabio Chiarodia put in a solid performance against Borussia Dortmund: Borussia Mönchengladbach lost 0-1.",
+    "bodyIt": "Fabio Chiarodia ha giocato una partita solida con il Borussia Mönchengladbach nella sfida contro Borussia Dortmund (Bundesliga), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Fabio Chiarodia put in a solid performance for Borussia Mönchengladbach against Borussia Dortmund (Bundesliga), in a match that ended 0-1 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-21T20:00:00.000Z"
+  }
+}

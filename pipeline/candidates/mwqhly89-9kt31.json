@@ -12,5 +12,15 @@
   ],
   "category": "news",
   "score": 4,
-  "status": "pending"
+  "status": "pending",
+  "draft": {
+    "title": "Milan, quattro giocatori nel mirino del mercato invernale",
+    "titleEn": "Milan, four players targeted in January transfer window",
+    "excerpt": "Filippo Terracciano tra i nomi accostati a possibili partenze dalla società rossonera nella finestra invernale. Il Milan valuta cessioni di elementi della rosa.",
+    "excerptEn": "Filippo Terracciano among the players linked with potential departures from Milan during the winter transfer window. The Rossoneri are considering selling squad members.",
+    "bodyIt": "Secondo le indiscrezioni, il Milan starebbe valutando la cessione di alcuni elementi della propria rosa nella sessione di gennaio. Tra i giocatori coinvolti nella riflessione della società milanese figurano anche Filippo Terracciano, il quale potrebbe lasciare il club rossonero nei prossimi mesi.\n\nLe dinamiche del mercato invernale potrebbero quindi interessare direttamente la formazione lombarda, con la dirigenza milanista pronta a operare eventuali cambiamenti in vista della seconda parte di stagione.\n\n(Bozza dal solo titolo: verificare i dettagli sulla fonte.)",
+    "bodyEn": "According to reports, Milan is evaluating the sale of several squad members during the January transfer window. Among the players under consideration for a potential departure from the Rossoneri is Filippo Terracciano, who could leave the club in the coming months.\n\nThe dynamics of the winter market could therefore directly affect the Lombard side's roster, with Milan's management ready to operate any changes ahead of the second half of the season.\n\n(Draft from title only: verify details on the source.)",
+    "_fromSource": false,
+    "_sourceDate": "2026-11-21T09:55:37.000Z"
+  }
 }
