@@ -1,44 +1,194 @@
 {
   "version": 1,
-  "date": "2026-11-20",
-  "updatedAt": "2026-11-20T09:46:54.710Z",
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T13:34:07.651Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mwom5vsv-0vj5h",
-    "mwom5vs7-oot50",
-    "mwn6pbt9-t7m9a",
-    "mwom5vq1-y7icw",
-    "mwom5vto-gt280",
-    "mwom5vs5-9f4tj",
-    "mwom5vnh-2o2j4"
+    "taccuino-2026-11-22",
+    "mwqhlycy-cz6un",
+    "mwrgzsr7-4t58c",
+    "mwrgzsiu-o4gqj",
+    "api-2026-11-21-giuseppe-ambrosino",
+    "api-2026-11-21-tommaso-rubino",
+    "mwrgzset-pimmr",
+    "mwrgzsgr-pxpxv",
+    "mwrgzsiv-bgwm0",
+    "api-2026-11-21-alessandro-romano",
+    "api-2026-11-21-fabio-chiarodia",
+    "api-2026-11-21-fabio-rispoli",
+    "api-2026-11-21-giovanni-fabbian",
+    "api-2026-11-21-luigi-cherubini",
+    "api-2026-11-21-mattia-zanotti",
+    "api-2026-11-21-raphael-kofler",
+    "api-2026-11-21-stefano-di-mario",
+    "api-2026-11-21-tommaso-berti",
+    "api-2026-11-21-dominic-vavassori",
+    "api-2026-11-21-emanuele-lulli",
+    "mwqhly7h-b2cx0",
+    "mwrgzsfw-02lxg",
+    "api-2026-11-21-alessio-cacciamani",
+    "api-2026-11-21-pietro-comuzzo",
+    "api-2026-11-21-giovanni-daffara",
+    "mwqhly6o-itvun",
+    "mwrgzsea-aagzz",
+    "mwqhly94-caix8",
+    "mwqhlya8-rj1dq",
+    "mwqhlyaa-zsb2m",
+    "mwqhly52-ztty1",
+    "mwqhly53-jedja",
+    "mwqhly5c-xqujz",
+    "mwrgzscr-k3bg9",
+    "mwqhlydu-apdqd",
+    "mwqhly59-3d80a",
+    "mwqhly5c-xz7mh"
   ],
   "items": {
-    "mwom5vsv-0vj5h": {
+    "taccuino-2026-11-22": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhlycy-cz6un": {
       "live": false,
       "instagram": false
     },
-    "mwom5vs7-oot50": {
-      "live": true,
-      "instagram": true
-    },
-    "mwn6pbt9-t7m9a": {
-      "live": true,
-      "instagram": true
-    },
-    "mwom5vq1-y7icw": {
-      "live": true,
-      "instagram": false
-    },
-    "mwom5vto-gt280": {
+    "mwrgzsr7-4t58c": {
       "live": false,
       "instagram": false
     },
-    "mwom5vs5-9f4tj": {
+    "mwrgzsiu-o4gqj": {
       "live": true,
       "instagram": false
     },
-    "mwom5vnh-2o2j4": {
+    "api-2026-11-21-giuseppe-ambrosino": {
+      "live": true,
+      "instagram": false
+    },
+    "api-2026-11-21-tommaso-rubino": {
+      "live": true,
+      "instagram": false
+    },
+    "mwrgzset-pimmr": {
+      "live": false,
+      "instagram": false
+    },
+    "mwrgzsgr-pxpxv": {
+      "live": false,
+      "instagram": false
+    },
+    "mwrgzsiv-bgwm0": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-alessandro-romano": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-fabio-chiarodia": {
+      "live": true,
+      "instagram": true
+    },
+    "api-2026-11-21-fabio-rispoli": {
+      "live": true,
+      "instagram": false
+    },
+    "api-2026-11-21-giovanni-fabbian": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-luigi-cherubini": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-mattia-zanotti": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-raphael-kofler": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-stefano-di-mario": {
+      "live": true,
+      "instagram": false
+    },
+    "api-2026-11-21-tommaso-berti": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-dominic-vavassori": {
+      "live": true,
+      "instagram": false
+    },
+    "api-2026-11-21-emanuele-lulli": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhly7h-b2cx0": {
+      "live": true,
+      "instagram": false
+    },
+    "mwrgzsfw-02lxg": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-alessio-cacciamani": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-pietro-comuzzo": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-21-giovanni-daffara": {
+      "live": false,
+      "instagram": false
+    },
+    "mwqhly6o-itvun": {
+      "live": true,
+      "instagram": false
+    },
+    "mwrgzsea-aagzz": {
+      "live": false,
+      "instagram": false
+    },
+    "mwqhly94-caix8": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhlya8-rj1dq": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhlyaa-zsb2m": {
+      "live": false,
+      "instagram": false
+    },
+    "mwqhly52-ztty1": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhly53-jedja": {
+      "live": false,
+      "instagram": false
+    },
+    "mwqhly5c-xqujz": {
+      "live": false,
+      "instagram": false
+    },
+    "mwrgzscr-k3bg9": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhlydu-apdqd": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhly59-3d80a": {
+      "live": true,
+      "instagram": false
+    },
+    "mwqhly5c-xz7mh": {
       "live": true,
       "instagram": false
     }
