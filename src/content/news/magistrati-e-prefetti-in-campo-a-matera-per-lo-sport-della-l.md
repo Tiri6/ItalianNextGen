@@ -1,0 +1,29 @@
+---
+title: "Magistrati e Prefetti in campo a Matera per lo sport della legalità"
+titleEn: "Judges and Prefects take the pitch in Matera for sport and the rule of law"
+excerpt: "A Matera si è disputata un'amichevole tra la Nazionale Italiana Magistrati e quella dei Prefetti, evento che ha coniugato calcio e valori istituzionali. I prefetti hanno vinto ai rigori per 4-3 dopo lo 0-0 nei tempi regolamentari."
+excerptEn: "An exhibition match between the Italian Judges and Prefects national teams took place in Matera, blending football with institutional values. The Prefects won on penalties 4-3 after a 0-0 draw."
+date: 2026-11-22
+publishedAt: 2026-11-22T19:20:00+01:00
+category: news
+players: []
+competitions: []
+source: "SassiLive"
+sourceUrl: "https://news.google.com/rss/articles/CBMiswJBVV95cUxOaEZ3cTVNbk03Sk5YSzVWR0pKa1U2ZkVDMUJYdEhSMnp6d1VVdENva0dFeXdpbUZJMl9mUC1WS29ZYnlGTkowVElZeVpIWDMzOGdYQlc2eEIwXzgzTXpjWmN5cFZEdnhSbi00cFM4dFA5QjNzdklSVXFyTktORGlIZ3RPU3MxdFRPRUdVbGFDMm9rWkFyV1IwaEFEN0FtVEZHWnNMUTNLSTBsTl9LckZJR3VqNEhxZHBkN3lPS0w2VTMzTFEzMDZPTXRreHg1NzNWMktybnlaVERhV3hzQU5HQUFwbHVsUEZVRDgzRElsa1R4MWgzUHNZQ2tSUFM1MzNsekk0T3YwXzlBRVR5VE5sVXJhYUpYcll6MlE1aVBnazViNWQyWFlIMnQ5MjVoZmNjOVdJ?oc=5"
+sourceDate: "2026-11-21T11:04:22.000Z"
+social: false
+---
+
+Un incontro di calcio che ha travalicato la semplice competizione sportiva. Allo stadio XXI Settembre-Franco Salerno di Matera si è consumata la sfida tra la Nazionale Italiana Magistrati e la Nazionale Italiana dei Prefetti, cornice di un'iniziativa volta a comunicare modelli comportamentali legati allo sport e alla solidarietà.
+
+L'evento ha coinvolto i giovani calciatori delle scuole affiliate alla FIGC e dei settori giovanili locali, oltre ai ragazzi diversamente abili del centro Pegaso-Aias. Prima della partita principale, l'assessore comunale allo sport ha consegnato copie della Costituzione Italiana ai piccoli atleti partecipanti. La terna arbitrale, designata dall'Associazione Italiana Arbitri sezione di Matera, era composta da Cosimo Contini in qualità di direttore di gara, con Rocco Iacovini e Santo Burgi come assistenti.
+
+I tempi regolamentari di trenta minuti ciascuno si sono conclusi a reti inviolate. Ai calci di rigore, la Nazionale dei Prefetti ha prevalso sulla Nazionale Magistrati per 4-3. La giornata ha visto la partecipazione del Prefetto di Matera Maria Carolina Ippolito, del sindaco Antonio Nicoletti e della leggenda mondiale Franco Selvaggi, campione nel 1982, che ha effettuato il calcio d'inizio simbolico insieme alle autorità locali.
+
+<!--EN-->
+
+A football match that transcended mere sport. At the XXI Settembre-Franco Salerno stadium in Matera, the Italian Judges national team faced the Italian Prefects national team in an initiative designed to promote behavioural models grounded in sport and solidarity.
+
+The event brought together youth players from FIGC-affiliated schools and local youth sectors, as well as disabled athletes from the Pegaso-Aias centre. Before the main match, the city sports assessor distributed copies of the Italian Constitution to the young participants. The referee crew, appointed by the Italian Referees Association Matera section, consisted of Cosimo Contini as the match official, with Rocco Iacovini and Santo Burgi as assistants.
+
+The two halves of thirty minutes each ended goalless. In the penalty shootout, the Prefects' national team defeated the Judges 4-3. The day saw the participation of Matera's Prefect Maria Carolina Ippolito, Mayor Antonio Nicoletti and World Cup legend Franco Selvaggi, champion in 1982, who performed the symbolic kick-off alongside local authorities.
