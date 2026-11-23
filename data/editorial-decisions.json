@@ -1,195 +1,70 @@
 {
   "version": 1,
-  "date": "2026-11-22",
-  "updatedAt": "2026-11-22T13:34:07.651Z",
+  "date": "2026-11-23",
+  "updatedAt": "2026-11-23T10:55:17.975Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "taccuino-2026-11-22",
-    "mwqhlycy-cz6un",
-    "mwrgzsr7-4t58c",
-    "mwrgzsiu-o4gqj",
-    "api-2026-11-21-giuseppe-ambrosino",
-    "api-2026-11-21-tommaso-rubino",
-    "mwrgzset-pimmr",
-    "mwrgzsgr-pxpxv",
-    "mwrgzsiv-bgwm0",
-    "api-2026-11-21-alessandro-romano",
-    "api-2026-11-21-fabio-chiarodia",
-    "api-2026-11-21-fabio-rispoli",
-    "api-2026-11-21-giovanni-fabbian",
-    "api-2026-11-21-luigi-cherubini",
-    "api-2026-11-21-mattia-zanotti",
-    "api-2026-11-21-raphael-kofler",
-    "api-2026-11-21-stefano-di-mario",
-    "api-2026-11-21-tommaso-berti",
-    "api-2026-11-21-dominic-vavassori",
-    "api-2026-11-21-emanuele-lulli",
-    "mwqhly7h-b2cx0",
-    "mwrgzsfw-02lxg",
-    "api-2026-11-21-alessio-cacciamani",
-    "api-2026-11-21-pietro-comuzzo",
-    "api-2026-11-21-giovanni-daffara",
-    "mwqhly6o-itvun",
-    "mwrgzsea-aagzz",
-    "mwqhly94-caix8",
-    "mwqhlya8-rj1dq",
-    "mwqhlyaa-zsb2m",
-    "mwqhly52-ztty1",
-    "mwqhly53-jedja",
-    "mwqhly5c-xqujz",
-    "mwrgzscr-k3bg9",
-    "mwqhlydu-apdqd",
-    "mwqhly59-3d80a",
-    "mwqhly5c-xz7mh"
+    "taccuino-2026-11-23",
+    "api-2026-11-22-paris-fc-angers",
+    "mwswgzv4-opkwq",
+    "api-2026-11-22-brando-moruzzi",
+    "mwswgzmg-99f5i",
+    "api-2026-11-22-alphadjo-cisse",
+    "api-2026-11-22-francesco-pio-esposito",
+    "mwswgzuu-ucpp8",
+    "mwswgzuu-bsfug",
+    "mwswgzux-5y0gv",
+    "mwswgzuy-u64zl",
+    "mwswgzy5-om2fr"
   ],
   "items": {
-    "taccuino-2026-11-22": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhlycy-cz6un": {
-      "live": false,
-      "instagram": false
-    },
-    "mwrgzsr7-4t58c": {
-      "live": false,
-      "instagram": false
-    },
-    "mwrgzsiu-o4gqj": {
-      "live": true,
-      "instagram": false
-    },
-    "api-2026-11-21-giuseppe-ambrosino": {
-      "live": true,
-      "instagram": false
-    },
-    "api-2026-11-21-tommaso-rubino": {
-      "live": true,
-      "instagram": false
-    },
-    "mwrgzset-pimmr": {
-      "live": false,
-      "instagram": false
-    },
-    "mwrgzsgr-pxpxv": {
-      "live": false,
-      "instagram": false
-    },
-    "mwrgzsiv-bgwm0": {
-      "live": false,
-      "instagram": false
-    },
-    "api-2026-11-21-alessandro-romano": {
-      "live": false,
-      "instagram": false
-    },
-    "api-2026-11-21-fabio-chiarodia": {
+    "taccuino-2026-11-23": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-21-fabio-rispoli": {
+    "api-2026-11-22-paris-fc-angers": {
+      "live": true,
+      "instagram": true
+    },
+    "mwswgzv4-opkwq": {
       "live": true,
       "instagram": false
     },
-    "api-2026-11-21-giovanni-fabbian": {
-      "live": false,
-      "instagram": false
-    },
-    "api-2026-11-21-luigi-cherubini": {
-      "live": false,
-      "instagram": false
-    },
-    "api-2026-11-21-mattia-zanotti": {
-      "live": false,
-      "instagram": false
-    },
-    "api-2026-11-21-raphael-kofler": {
-      "live": false,
-      "instagram": false
-    },
-    "api-2026-11-21-stefano-di-mario": {
+    "api-2026-11-22-brando-moruzzi": {
       "live": true,
       "instagram": false
     },
-    "api-2026-11-21-tommaso-berti": {
+    "mwswgzmg-99f5i": {
+      "live": true,
+      "instagram": true
+    },
+    "api-2026-11-22-alphadjo-cisse": {
+      "live": true,
+      "instagram": true
+    },
+    "api-2026-11-22-francesco-pio-esposito": {
       "live": false,
       "instagram": false
     },
-    "api-2026-11-21-dominic-vavassori": {
+    "mwswgzuu-ucpp8": {
       "live": true,
       "instagram": false
     },
-    "api-2026-11-21-emanuele-lulli": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhly7h-b2cx0": {
-      "live": true,
-      "instagram": false
-    },
-    "mwrgzsfw-02lxg": {
+    "mwswgzuu-bsfug": {
       "live": false,
       "instagram": false
     },
-    "api-2026-11-21-alessio-cacciamani": {
+    "mwswgzux-5y0gv": {
+      "live": true,
+      "instagram": false
+    },
+    "mwswgzuy-u64zl": {
       "live": false,
       "instagram": false
     },
-    "api-2026-11-21-pietro-comuzzo": {
+    "mwswgzy5-om2fr": {
       "live": false,
-      "instagram": false
-    },
-    "api-2026-11-21-giovanni-daffara": {
-      "live": false,
-      "instagram": false
-    },
-    "mwqhly6o-itvun": {
-      "live": true,
-      "instagram": false
-    },
-    "mwrgzsea-aagzz": {
-      "live": false,
-      "instagram": false
-    },
-    "mwqhly94-caix8": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhlya8-rj1dq": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhlyaa-zsb2m": {
-      "live": false,
-      "instagram": false
-    },
-    "mwqhly52-ztty1": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhly53-jedja": {
-      "live": false,
-      "instagram": false
-    },
-    "mwqhly5c-xqujz": {
-      "live": false,
-      "instagram": false
-    },
-    "mwrgzscr-k3bg9": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhlydu-apdqd": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhly59-3d80a": {
-      "live": true,
-      "instagram": false
-    },
-    "mwqhly5c-xz7mh": {
-      "live": true,
       "instagram": false
     }
   }
