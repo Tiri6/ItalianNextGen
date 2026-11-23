@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-21-luigi-cherubini",
+  "collectedAt": "2026-11-23T06:46:02.379Z",
+  "title": "Cherubini in campo 64': Benevento perde 1-3 con Sampdoria",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 21 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Luigi Cherubini"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Cherubini in campo 64': Benevento perde 1-3 con Sampdoria",
+    "titleEn": "Cherubini plays 64 minutes: Benevento lose 1-3 against Sampdoria",
+    "excerpt": "Luigi Cherubini ha giocato una partita solida contro Sampdoria: Benevento ha perso 1-3.",
+    "excerptEn": "Luigi Cherubini put in a solid performance against Sampdoria: Benevento lost 1-3.",
+    "bodyIt": "Luigi Cherubini ha giocato una partita solida con il Benevento nella sfida contro Sampdoria (Serie B), chiusa sul 1-3 per i suoi: sconfitta. Il giovane è rimasto in campo 64 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Luigi Cherubini put in a solid performance for Benevento against Sampdoria (Serie B), in a match that ended 1-3 for his side: a defeat. The youngster played 64 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-21T20:00:00.000Z"
+  }
+}

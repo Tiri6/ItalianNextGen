@@ -1,5 +1,618 @@
 {
-  "generatedAt": "2026-11-22T13:34:29.148Z",
-  "day": "2026-11-22",
-  "items": []
+  "generatedAt": "2026-11-23T06:50:17.202Z",
+  "day": "2026-11-23",
+  "items": [
+    {
+      "id": "taccuino-2026-11-23",
+      "file": "taccuino-2026-11-23.json",
+      "title": "Taccuino del giorno · 23 novembre 2026",
+      "excerpt": "Una giornata ricca di movimenti nel vivaio rossonero e reti decisive in cadetteria, mentre i prestiti si moltiplicano tra i giovani talenti italiani.",
+      "category": "taccuino",
+      "source": "Taccuino da 5 fonti",
+      "link": "",
+      "players": [
+        "Francesco Camarda",
+        "Mattia Liberali",
+        "Francesco Coppola",
+        "Diego Coppola",
+        "Giuseppe Ambrosino",
+        "Tommaso Rubino",
+        "Mattia Angelicchio"
+      ],
+      "sourceDate": null,
+      "isDigest": true,
+      "bodyPreview": "**Francesco Camarda e Mattia Liberali** Il Milan potrebbe spedire Camarda in prestito sotto la guida di Amorim, mentre rimane da risolvere la spinosa situazione di Liberali in casa rossonera. [fonte](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVUFqRE8yVlRFLXNua1AtVmZ2SGhCc0VTYW82TWY4TXRBQTJ6XzVpQlFzOG90SVY3c3FwLUFPZzZjM0ViUWluMW5tZEU5LXAxODl2ZENZbnFQQTcwazhQQ1RldUZkU2FFSWpNQVA2cWxCUDE2MTl2bTVMeHlNV3dCd2NUS2F",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mwswh027-u6qkp",
+      "file": "mwswh027-u6qkp.json",
+      "title": "Italia Under 21, pareggio con il Belgio a Livorno: Ekhator firma l'1-1 finale",
+      "excerpt": "Termina 2-2 l'amichevole tra i giovani azzurri e i Diavoli Rossi. Cherubini sblocca il risultato, ma il Belgio la ribalta con la doppietta di Mirisola; Ekhator ristabilisce la parità dal dischetto all'88'.",
+      "category": "performance",
+      "source": "Sport2U",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZWtVc0UwUlRaYXNFRjJlUWtUWnEwclJaR2xnMEhMMFdLeDVkSUktcmRLY0tHSkNwQTFSLV8xMFpsbC1vTXJFSUtTQnF5eUQxb1pLcU5hMks2dHhBcHVJWTVMUXJBbzc2OWNuaDRlaEhJVGIydFBveFFkTGh4ZTdkWUdrMWE3THRHOENmZ052bGxPTXV4TUVESXhCczJZSi1kNnB6QWZkNml1WVg0RERtWjhSXzMyU05PQlN4VXFBdzhlRmc3RFYzQnBEbUprUFVvQmxiSlRaaFYwWXJNQmc3YWFvTXVDSC1ibUp6SDA0UzNqdHdUQjUzQ3hQUkE5ZHVnRV9qZjN1NWdJcUk?oc=5",
+      "players": [
+        "Jeff Ekhator",
+        "Luigi Cherubini"
+      ],
+      "sourceDate": "2026-11-22T00:42:06.000Z",
+      "isDigest": false,
+      "bodyPreview": "Poche emozioni e altrettanti vincitori al Picchi di Livorno, dove Italia e Belgio Under 21 hanno terminato con un pareggio a reti pari al termine di novanta minuti di test amichevole. La sfida rientra nel programma di preparazione del commissario tecnico Silvio Baldini in vista degli Europei di categoria previsti per il prossimo anno. Gli azzurrini trovano il vantaggio al 27' con il guizzo di Cherubini, che capitaliz",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-22-diego-coppola",
+      "file": "api-2026-11-22-diego-coppola.json",
+      "title": "Coppola segna: Paris FC vince 4-0 con Angers",
+      "excerpt": "Diego Coppola ha segnato un gol e fornito un assist contro Angers: Paris FC ha vinto 4-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Diego Coppola"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Diego Coppola ha segnato un gol e fornito un assist con il Paris FC nella sfida contro Angers (Ligue 1), chiusa sul 4-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-22-luca-koleosho",
+      "file": "api-2026-11-22-luca-koleosho.json",
+      "title": "Koleosho in gol, Paris FC vince 4-0 contro Angers",
+      "excerpt": "Luca Koleosho è andato a segno contro Angers: Paris FC ha vinto 4-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Luca Koleosho"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Luca Koleosho è andato a segno con il Paris FC nella sfida contro Angers (Ligue 1), chiusa sul 4-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mwswgzv4-opkwq",
+      "file": "mwswgzv4-opkwq.json",
+      "title": "Milan Primavera espugna Formello: Angelicchio decide il derby con la Lazio",
+      "excerpt": "I rossoneri battono 1-0 gli avversari all'undicesima giornata di Primavera 1 grazie al colpo di testa dell'attaccante al 8'. Terza vittoria consecutiva per la formazione di Renna.",
+      "category": "performance",
+      "source": "VAVEL Italia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmt5ZHFFYTVIQnVfYlhIVVhLSm9XTzN3R2QyZDFaREFiTHhSNGxDOFhZc2VJU00xWkpNSU9tVXNteTFtTGV5bEJDV3EweVZXSm9mUGZpWUJBbkNtNmVsY2xiWWQ4TjZaV2NYYXhGcGNaVC1ETlozZXhfcWwyaTV1NGNld3FsSWx5TUNqRkRJUE42N253eTZsNy1Sdk92cWw1REc0?oc=5",
+      "players": [
+        "Mattia Angelicchio"
+      ],
+      "sourceDate": "2026-11-22T13:56:03.000Z",
+      "isDigest": false,
+      "bodyPreview": "Il Milan Primavera consolida il proprio momento vincente espugnando il Mirko Fersini di Formello con un successo netto sulla Lazio. Una rete di Mattia Angelicchio, siglata già nei primi tempi della sfida, è bastata ai rossoneri per portare a casa tre punti fondamentali nella lotta di campionato, proseguendo così una striscia positiva che raggiunge quota tre vittorie di fila. Angelicchio ha trovato il bersaglio grosso",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-22-tommaso-martinelli",
+      "file": "api-2026-11-22-tommaso-martinelli.json",
+      "title": "Martinelli in campo 90': Avellino vince 4-1 con Mantova",
+      "excerpt": "Tommaso Martinelli ha giocato una partita solida contro Mantova: Avellino ha vinto 4-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Martinelli"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Martinelli ha giocato una partita solida con il Avellino nella sfida contro Mantova (Serie B), chiusa sul 4-1 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-21-giovanni-fabbian",
+      "file": "api-2026-11-21-giovanni-fabbian.json",
+      "title": "Fabbian in campo 67': Parma perde 1-5 con AS Roma",
+      "excerpt": "Giovanni Fabbian ha giocato una partita solida contro AS Roma: Parma ha perso 1-5.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giovanni Fabbian"
+      ],
+      "sourceDate": "2026-11-21T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giovanni Fabbian ha giocato una partita solida con il Parma nella sfida contro AS Roma (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 67 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-21-luigi-cherubini",
+      "file": "api-2026-11-21-luigi-cherubini.json",
+      "title": "Cherubini in campo 64': Benevento perde 1-3 con Sampdoria",
+      "excerpt": "Luigi Cherubini ha giocato una partita solida contro Sampdoria: Benevento ha perso 1-3.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Luigi Cherubini"
+      ],
+      "sourceDate": "2026-11-21T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Luigi Cherubini ha giocato una partita solida con il Benevento nella sfida contro Sampdoria (Serie B), chiusa sul 1-3 per i suoi: sconfitta. Il giovane è rimasto in campo 64 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Luigi Cherubini) di un'altra notizia in questa lista: «Italia Under 21, pareggio con il Belgio a Livorno: Ekhator firma l'1-1». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-21-mattia-zanotti",
+      "file": "api-2026-11-21-mattia-zanotti.json",
+      "title": "Zanotti in campo 90': Lugano vince 2-1 con Grasshoppers",
+      "excerpt": "Mattia Zanotti ha giocato una partita solida contro Grasshoppers: Lugano ha vinto 2-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Mattia Zanotti"
+      ],
+      "sourceDate": "2026-11-21T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Mattia Zanotti ha giocato una partita solida con il Lugano nella sfida contro Grasshoppers (Super League), chiusa sul 2-1 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-21-raphael-kofler",
+      "file": "api-2026-11-21-raphael-kofler.json",
+      "title": "Kofler in campo 90': Cagliari perde 0-2 con Como",
+      "excerpt": "Raphael Kofler ha giocato una partita solida contro Como: Cagliari ha perso 0-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Raphael Kofler"
+      ],
+      "sourceDate": "2026-11-21T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Raphael Kofler ha giocato una partita solida con il Cagliari nella sfida contro Como (Serie A), chiusa sul 0-2 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-21-tommaso-berti",
+      "file": "api-2026-11-21-tommaso-berti.json",
+      "title": "Berti in campo 90': Cremonese perde 0-1 con Sudtirol",
+      "excerpt": "Tommaso Berti ha giocato una partita solida contro Sudtirol: Cremonese ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Berti"
+      ],
+      "sourceDate": "2026-11-21T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Berti ha giocato una partita solida con il Cremonese nella sfida contro Sudtirol (Serie B), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-22-gabriele-calvani",
+      "file": "api-2026-11-22-gabriele-calvani.json",
+      "title": "Calvani in campo 90': Frosinone perde 1-5 con AC Milan",
+      "excerpt": "Gabriele Calvani ha giocato una partita solida contro AC Milan: Frosinone ha perso 1-5.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Gabriele Calvani"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Gabriele Calvani ha giocato una partita solida con il Frosinone nella sfida contro AC Milan (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-22-giorgio-scalvini",
+      "file": "api-2026-11-22-giorgio-scalvini.json",
+      "title": "Scalvini in campo 90': Atalanta pareggia 4-4 con Inter",
+      "excerpt": "Giorgio Scalvini ha giocato una partita solida contro Inter: Atalanta ha pareggiato 4-4.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giorgio Scalvini"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giorgio Scalvini ha giocato una partita solida con il Atalanta nella sfida contro Inter (Serie A), chiusa sul 4-4 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-22-tommaso-baldanzi",
+      "file": "api-2026-11-22-tommaso-baldanzi.json",
+      "title": "Baldanzi in campo 63': Genoa vince 2-0 con Sassuolo",
+      "excerpt": "Tommaso Baldanzi ha giocato una partita solida contro Sassuolo: Genoa ha vinto 2-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Baldanzi"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Baldanzi ha giocato una partita solida con il Genoa nella sfida contro Sassuolo (Serie A), chiusa sul 2-0 per i suoi: vittoria. Il giovane è rimasto in campo 63 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-22-brando-moruzzi",
+      "file": "api-2026-11-22-brando-moruzzi.json",
+      "title": "Moruzzi segna: Avellino vince 4-1 con Mantova",
+      "excerpt": "Brando Moruzzi è andato a segno contro Mantova: Avellino ha vinto 4-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Brando Moruzzi"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Brando Moruzzi è andato a segno con il Avellino nella sfida contro Mantova (Serie B), chiusa sul 4-1 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-22-lorenzo-palmisani",
+      "file": "api-2026-11-22-lorenzo-palmisani.json",
+      "title": "Palmisani in campo 90': Frosinone perde 1-5 con AC Milan",
+      "excerpt": "Lorenzo Palmisani ha giocato una partita solida contro AC Milan: Frosinone ha perso 1-5.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Lorenzo Palmisani"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Lorenzo Palmisani ha giocato una partita solida con il Frosinone nella sfida contro AC Milan (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "mwswgzmg-99f5i",
+      "file": "mwswgzmg-99f5i.json",
+      "title": "Esposito tripletta non basta, Inter sciupa 4-2 a Bergamo",
+      "excerpt": "Pio Esposito firma tre gol nella ripresa ma l'Atalanta rimonta dal 2-4 con De Ketelaere e Kessié. I nerazzurri restano terzi a 29 punti.",
+      "category": "performance",
+      "source": "365Scores",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1YtYnZXa0FqTFNaYV9SNTRTUF9DV3REeUtTd2hrbzVFU21fWC1ZZW8tWmQybURDNXk2VzF6SFdDVUZOWXF5V0tvU1AyV1JSaU81YmpuckJJOEhjZWt1WW9TZDF1UFVhNGNXLUx3N3R1Y1Fxc1lNUEFvd2tEOTg2NXhSWTRBSG02MnBrQURZaWc0N0ZuclJLaHJWMF9pU2dIdm1J?oc=5",
+      "players": [
+        "Francesco Pio Esposito",
+        "Sebastiano Esposito"
+      ],
+      "sourceDate": "2026-11-22T21:06:17.000Z",
+      "isDigest": false,
+      "bodyPreview": "La serata di Pio Esposito è da incorniciare: tre reti fra il 16' e il 52' che accendono la serata nerazzurra a Bergamo e gli valgono il migliore in campo con un voto di 9,5. L'Inter conduce con autorevolezza nel primo tempo, con i gol dell'esterno nel 16' e nel 32', mentre l'Atalanta accorcia con Elmas al 35'. Nella ripresa il copione sembra scritto quando Esposito completa la tripletta e Sucic segna dal dischetto il",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-22-alphadjo-cisse",
+      "file": "api-2026-11-22-alphadjo-cisse.json",
+      "title": "Cissè in gol, Milan vince 5-1 contro Frosinone",
+      "excerpt": "Alphadjo Cissè è andato a segno contro Frosinone: Milan ha vinto 5-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Alphadjo Cissè"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Alphadjo Cissè è andato a segno con il Milan nella sfida contro Frosinone (Serie A), chiusa sul 5-1 per i suoi: vittoria. Il giovane è rimasto in campo 39 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Alphadjo Cissè) di un'altra notizia in questa lista: «Baldini: Cissé e Camarda pronti per la Nazionale A». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-22-francesco-pio-esposito",
+      "file": "api-2026-11-22-francesco-pio-esposito.json",
+      "title": "Esposito segna: Inter pareggia 4-4 con Atalanta",
+      "excerpt": "Francesco Pio Esposito ha segnato 3 gol contro Atalanta: Inter ha pareggiato 4-4.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Francesco Pio Esposito"
+      ],
+      "sourceDate": "2026-11-22T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Francesco Pio Esposito ha segnato 3 gol con il Inter nella sfida contro Atalanta (Serie A), chiusa sul 4-4 per i suoi: pareggio. Il giovane è rimasto in campo 77 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Francesco Pio Esposito) di un'altra notizia in questa lista: «Esposito tripletta non basta, Inter sciupa 4-2 a Bergamo». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "mwswgzuu-ucpp8",
+      "file": "mwswgzuu-ucpp8.json",
+      "title": "Under 17, l'Italia travolge la Giamaica: 6-0 all'esordio mondiale",
+      "excerpt": "Azzurrini devastanti nel primo match della fase a gironi in Qatar. Croci firma una doppietta e viene premiato come miglior giocatore della partita.",
+      "category": "performance",
+      "source": "FC Inter 1908",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TkFpZURzY3NqdVFKMkRGUUh3MkZBcm51UTB1TS1BUjJEZHlmSTd5YzFSU055SW1hcUlmeWc0VVNuUmx4VTVHdjNkOHMzRFV4WUF2OHhIVElDR2hhRmhWeURZd3ZHQ29CR3hnWGt0TFRxZTdDc3l2X2Q0eFZDUjDSAX9BVV95cUxPOE5BaWVEc2NzanVRSjJERlFIdzJGQXJudVEwdU0tQVIyRGR5Zkk3eWMxUlNOeUltYXFJZnlnNFVTblJseFU1R3YzZDhzM0RVeFlBdjh4SFRJQ0doYUZoVnlEWXd2R0NvQkd4Z1hrdExUcWU3Q3N5dl9kNHhWQ1Iw?oc=5",
+      "players": [
+        "Andrea Donato"
+      ],
+      "sourceDate": "2026-11-21T12:15:54.000Z",
+      "isDigest": false,
+      "bodyPreview": "L'Italia Under 17 ha iniziato il proprio cammino mondiale nel migliore dei modi, travolgendo la Giamaica con un netto 6-0 nello stadio Bader Bilal dell'Aspire Zone di Doha. Una prestazione senza freni quella della formazione di Daniele Franceschini, che ha già fatto valere il proprio valore nel Gruppo E con una prova caratterizzata da fluidità offensiva e solidità difensiva. Federico Croci, fantasista della Fiorentin",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwswgzuu-bsfug",
+      "file": "mwswgzuu-bsfug.json",
+      "title": "Under 18, esordio da campioni: l'Italia demolisce la Giamaica 6-0",
+      "excerpt": "Gli Azzurrini campioni d'Europa calano sei reti nel primo match del torneo in Qatar. Croci in evidenza con una doppietta, Giammattei firma un gol spettacolare.",
+      "category": "performance",
+      "source": "11giovani.it",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObzdIREloM0g4SU1RNlJ2R3YzVXc2ZEdfbTdTdnBrNV9GWWJDZ1B0dl9UU1BsdGtfWHM4eU1nRGVWbXV6b0ZsckpmMGo0blFkT1E4VzNWVDNBN2l0VlFYakdqT0VadTlZTTZxcmlnYzR3dGQ0MHVKTGJOd0gwM2lpX0RMMDRZMzgyVjR3Mk5JTzdnT0J1Mk5Bc2psSUY3WGNmQTBHVV9qallLRGRSdXFqV0Vja19ELWpDcU82VXhiSGpfZlVLZnUzalB0V0hSUklzUWVPNHZRQXRPYmRUcUNfSlZGcUVfdkF1?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-21T08:02:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Partenza perfetta per l'Italia Under 18 al mondiale di categoria. La formazione di Franceschini ha travolto la Giamaica con un netto 6-0 a Doha, imponendosi sin dai primi minuti e senza mai concedere spazi agli avversari. Un esordio convincente per i campioni d'Europa, che hanno costruito il vantaggio già nella prima frazione con uno show offensivo quasi disarmante. Federico Croci, fantasista della Fiorentina, ha cat",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-21-giovanni-daffara",
+      "file": "api-2026-11-21-giovanni-daffara.json",
+      "title": "Daffara in campo 90': Parma perde 1-5 con AS Roma",
+      "excerpt": "Giovanni Daffara ha giocato una partita solida contro AS Roma: Parma ha perso 1-5.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giovanni Daffara"
+      ],
+      "sourceDate": "2026-11-21T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giovanni Daffara ha giocato una partita solida con il Parma nella sfida contro AS Roma (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "mwswgzux-5y0gv",
+      "file": "mwswgzux-5y0gv.json",
+      "title": "Croci si accende subito: doppietta in 15 minuti con l'Under 18",
+      "excerpt": "L'attaccante della Fiorentina Primavera realizza due gol nei primi minuti della sfida contro la Giamaica, valevole per la prima giornata del Gruppo E.",
+      "category": "performance",
+      "source": "Saturno Notizie",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tMXQ2UmVndnN3akRSVWkyMDZ6X2twcm52cm9yTTdQMUMyLXVJQzdLZFlNVC1nQmdpQ3ZXX1psenNKb2R6MHFxWGZmeXBReEZsODJURTBlc0RUelBaYTVvOXE0VkdPcjF1alVpTE5PVHhEeVpJWHphdw?oc=5",
+      "players": [
+        "Federico Croci"
+      ],
+      "sourceDate": "2026-11-22T06:58:41.000Z",
+      "isDigest": false,
+      "bodyPreview": "Federico Croci ha lasciato subito il segno sulla scena internazionale. L'attaccante viola, classe 2010, ha firmato una doppietta nei primi 15 minuti della partita tra l'Under 18 italiana e la Giamaica, match che apre il percorso della nazionale nel Gruppo E. Un debutto di rilievo per il giovane calciatore, che ha messo in mostra efficacia realizzativa e tempismo sotto porta sin dalle battute iniziali della sfida. Nat",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwswgzuy-u64zl",
+      "file": "mwswgzuy-u64zl.json",
+      "title": "Croci illumina il Mondiale U17: doppietta all'esordio con l'Italia",
+      "excerpt": "Federico Croci ha deciso la sfida contro la Giamaica segnando due reti in quindici minuti. Il talento della Fiorentina, classe 2010, conquista il premio di miglior giocatore della partita.",
+      "category": "performance",
+      "source": "Labaro Viola",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEVGRUpiWUd2d1VGSFJmazEtZkhHUkplTmFscW5FSk1jeGt3U3kwa01maGdmcGgwY29jSVRNOWI2TXN6bVh4SFpSSERjU25TNjI0XzdHWjlKbHo3bGlxYnBQbHgybWJXV1hjVk5JX0I3YmJDN2dMODZ1UWRLc0NnNHNrTENDb05LYTNrSy1kS0FjSjdJajZ4aURnM01ERElvY2NiNmg4R3lVTU1MUnRhX1ZRN0xRRmh2UmJFTG9fRkhBLW50?oc=5",
+      "players": [
+        "Federico Croci"
+      ],
+      "sourceDate": "2026-11-22T17:57:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Bastano pochi minuti a Federico Croci per far capire perché il suo nome circola tra i migliori prospetti under 17 del calcio mondiale. All'esordio nel Mondiale in Qatar, l'attaccante della Fiorentina impiega solo quindici minuti per lasciare il segno nella sfida contro la Giamaica, siglando una doppietta che gli vale anche il riconoscimento di MVP della partita. Una prestazione che conferma quanto raccolto nel settor",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Federico Croci) di un'altra notizia in questa lista: «Croci si accende subito: doppietta in 15 minuti con l'Under 18». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "mwswgzoe-58ezv",
+      "file": "mwswgzoe-58ezv.json",
+      "title": "Baldini: Cissé e Camarda pronti per la Nazionale A",
+      "excerpt": "Il ct dell'Under 21 vede i due talenti del Milan già idonei al calcio di vertice. Bartesaghi, invece, rappresenta un'eccezione nel suo progetto giovanile.",
+      "category": "news",
+      "source": "Gianluca Di Marzio",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1h4a3VwREVRdldRMGpldHdaaTJPQml3UnB2VHF1YjQyM2RDaWFtQ01Ic3lNSEFDVThvcFJvVG5oMUVSb2FINzdjSk9RVVozSU5ob1FGYXpPbVJyUHdjRDV5NG9aSHdyUnpGNkdzVXgwbTdTUGZnSUlUTUpNaFFlSWlnUEg4VlRiSkd4NFBPV2dQOV84bVhKdWZNVzNmdDk4aGU5ZWxydnlrcDZHXzJ5b2UtTExUMURKREtsclJpQ1BEQmtn?oc=5",
+      "players": [
+        "Davide Bartesaghi",
+        "Francesco Camarda",
+        "Alphadjo Cissè"
+      ],
+      "sourceDate": "2026-11-21T08:24:21.000Z",
+      "isDigest": false,
+      "bodyPreview": "Silvio Baldini, commissario tecnico dell'Under 21, non ha dubbi sul percorso dei suoi talenti rossoneri: Alphadjo Cissé e Francesco Camarda hanno acquisito le credenziali per transitare stabilmente in Nazionale maggiore. Per il primo, il ct sottolinea la trasformazione rispetto al passato. \"Rispetto a un anno fa ho trovato un altro ragazzo, più maturo e preparato\", dichiara Baldini. Merito dell'ambiente milanista, ch",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwswgzy5-om2fr",
+      "file": "mwswgzy5-om2fr.json",
+      "title": "Napoli domina il Torino, McTominay decide al Maradona",
+      "excerpt": "Gli azzurri si impongono 1-0 sulla squadra granata. Sugli spalti Sebastiano Esposito: l'attaccante campano alimenta le voci di mercato in vista di gennaio.",
+      "category": "news",
+      "source": "Nano TV",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSEoyU1dJaGZaZ2x5V2t5WG5odENMdDRhMEN0TVhHZmwtdDliNXB5RmhCNTZaT2xOR3JGTXJtaF9TVkd6NmdRUlhRWER2ZnZ6clJPSkYxZjdKUlFCX3g3bnQ3SURXNWhLa1FSUFQ4MjU2dml0XzJhSElQQno3Q3FPWWxmcjZVbVRnN2otbGEyNHBJSVBDSmZLV0N4QWJscmJaTUxYQ1JLd0NBaFVuWXAyTm96OV9VdXo3UWhKS2hiLVBjLXRHYnJTZ2pYX1hTVC1HaVBzRks5N1pEYkFmRlVsN014bnVHczVrT1RXMXBRUi1CTVhqSi1pQlhpUGkzLUcybDMzT2t3UG1MU3dWNXZsaHdBQThiYWt3Q3YwTDJEOWUzb1F0emJBRWh5RjdIekgyeWprZTBabDlsTG1xaFJpZ1h4dWRPUHRweVE?oc=5",
+      "players": [
+        "Stefano Di Mario",
+        "Sebastiano Esposito"
+      ],
+      "sourceDate": "2026-11-22T10:45:53.000Z",
+      "isDigest": false,
+      "bodyPreview": "Il Napoli torna al successo tra le mura amiche. Nella serata di sabato 21 novembre, gli azzurri hanno superato il Torino grazie al gol di McTominay nella ripresa, coronando una prova di sostanza contro un avversario che ha provato a contrastare il dominio partenopeo. La formazione diretta da Massimiliano Allegri ha creato diverse occasioni fin dai primi minuti, con McTominay tra i più propositivi offensivamente. I gr",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwswh02v-7zywy",
+      "file": "mwswh02v-7zywy.json",
+      "title": "U16 Femminile, la Germania rimonta a Tirrenia: Italia ko 4-1",
+      "excerpt": "Le azzurrine vanno in vantaggio con Pistolesi ma subiscono quattro reti nel corso della partita. Girini: il passivo non rispecchia la prestazione delle ragazze.",
+      "category": "news",
+      "source": "FIGC",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdS1lODBJLVRNOUdRNHBhSl9DVFVGMlphNU9MdkJ1Y3JITTRvQTBBUjBxazhNbDlFUWpBd2xYbkJ0SWRYMXBIbVZDZU1zMGpkZmc5R2RvWGU4Y0Vqd0lITzd0clRETHRjWW43NVF0Mm4xR0lVQWJOR2Rnck1aa01FMXdYZ3l0dkdxVFZSTURaMnA5R2VMQkY3TDFhTllRT3pISVJUd3d4clBqSzNnV2NWcHM1QkNaRVFBSWw5Nkh2MUVaLXFFZWZtZXdWZGRDLWlIVkQxdEFRX1NqTlVpR2FCbUhxbTlCNnA3OTNDVUhRa1JKZw?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-22T03:27:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Nazionale Under 16 femminile esce sconfitta dalla seconda amichevole di Tirrenia contro la Germania, dopo il pareggio senza reti della sfida precedente. Le azzurrine partono bene e trovano il vantaggio al 7' con un gran tiro da distanza di Benedetta Pistolesi del Sassuolo. Nel primo tempo, però, le tedesche operano la rimonta: Romy Nagel al 34' e Liz Sassmannhausen al 40' rovesciano il risultato prima dell'interva",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    }
+  ]
 }

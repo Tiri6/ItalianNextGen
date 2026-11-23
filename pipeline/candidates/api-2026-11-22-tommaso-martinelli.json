@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-22-tommaso-martinelli",
+  "collectedAt": "2026-11-23T06:46:02.377Z",
+  "title": "Martinelli in campo 90': Avellino vince 4-1 con Mantova",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 22 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Tommaso Martinelli"
+  ],
+  "category": "performance",
+  "score": 5,
+  "status": "pending",
+  "draft": {
+    "title": "Martinelli in campo 90': Avellino vince 4-1 con Mantova",
+    "titleEn": "Martinelli plays 90 minutes: Avellino win 4-1 against Mantova",
+    "excerpt": "Tommaso Martinelli ha giocato una partita solida contro Mantova: Avellino ha vinto 4-1.",
+    "excerptEn": "Tommaso Martinelli put in a solid performance against Mantova: Avellino won 4-1.",
+    "bodyIt": "Tommaso Martinelli ha giocato una partita solida con il Avellino nella sfida contro Mantova (Serie B), chiusa sul 4-1 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Tommaso Martinelli put in a solid performance for Avellino against Mantova (Serie B), in a match that ended 4-1 for his side: a win. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-22T20:00:00.000Z"
+  }
+}

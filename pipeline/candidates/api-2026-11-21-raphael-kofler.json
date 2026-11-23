@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-21-raphael-kofler",
+  "collectedAt": "2026-11-23T06:46:02.379Z",
+  "title": "Kofler in campo 90': Cagliari perde 0-2 con Como",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sat, 21 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Raphael Kofler"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Kofler in campo 90': Cagliari perde 0-2 con Como",
+    "titleEn": "Kofler plays 90 minutes: Cagliari lose 0-2 against Como",
+    "excerpt": "Raphael Kofler ha giocato una partita solida contro Como: Cagliari ha perso 0-2.",
+    "excerptEn": "Raphael Kofler put in a solid performance against Como: Cagliari lost 0-2.",
+    "bodyIt": "Raphael Kofler ha giocato una partita solida con il Cagliari nella sfida contro Como (Serie A), chiusa sul 0-2 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Raphael Kofler put in a solid performance for Cagliari against Como (Serie A), in a match that ended 0-2 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-21T20:00:00.000Z"
+  }
+}

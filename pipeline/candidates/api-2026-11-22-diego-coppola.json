@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-22-diego-coppola",
+  "collectedAt": "2026-11-23T06:46:02.370Z",
+  "title": "Coppola segna: Paris FC vince 4-0 con Angers",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 22 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Diego Coppola"
+  ],
+  "category": "performance",
+  "score": 7,
+  "status": "pending",
+  "draft": {
+    "title": "Coppola segna: Paris FC vince 4-0 con Angers",
+    "titleEn": "Coppola scores: Paris FC win 4-0 against Angers",
+    "excerpt": "Diego Coppola ha segnato un gol e fornito un assist contro Angers: Paris FC ha vinto 4-0.",
+    "excerptEn": "Diego Coppola scored a goal and set up a goal against Angers: Paris FC won 4-0.",
+    "bodyIt": "Diego Coppola ha segnato un gol e fornito un assist con il Paris FC nella sfida contro Angers (Ligue 1), chiusa sul 4-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Diego Coppola scored a goal and set up a goal for Paris FC against Angers (Ligue 1), in a match that ended 4-0 for his side: a win. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-22T20:00:00.000Z"
+  }
+}

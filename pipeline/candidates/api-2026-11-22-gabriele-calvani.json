@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-22-gabriele-calvani",
+  "collectedAt": "2026-11-23T06:46:02.377Z",
+  "title": "Calvani in campo 90': Frosinone perde 1-5 con AC Milan",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 22 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Gabriele Calvani"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Calvani in campo 90': Frosinone perde 1-5 con AC Milan",
+    "titleEn": "Calvani plays 90 minutes: Frosinone lose 1-5 against AC Milan",
+    "excerpt": "Gabriele Calvani ha giocato una partita solida contro AC Milan: Frosinone ha perso 1-5.",
+    "excerptEn": "Gabriele Calvani put in a solid performance against AC Milan: Frosinone lost 1-5.",
+    "bodyIt": "Gabriele Calvani ha giocato una partita solida con il Frosinone nella sfida contro AC Milan (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Gabriele Calvani put in a solid performance for Frosinone against AC Milan (Serie A), in a match that ended 1-5 for his side: a defeat. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-22T20:00:00.000Z"
+  }
+}
