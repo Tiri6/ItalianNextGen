@@ -35,6 +35,12 @@ if (!apiKey) {
   process.exit(1);
 }
 
+// Di lunedì il Taccuino è quello del weekend (taccuino-weekend.mjs): se esiste già, non lo sovrascrivo
+try {
+  const ex = JSON.parse(await readFile(path.join(CANDIDATES, `taccuino-${new Date().toISOString().slice(0, 10)}.json`), 'utf8'));
+  if (ex._weekend) { console.log('Taccuino del weekend già creato: salto il Taccuino delle notizie.'); process.exit(0); }
+} catch {}
+
 // Prendi le candidate SENZA bozza (le storie grosse le gestisce npm run write)
 let files = [];
 try { files = (await readdir(CANDIDATES)).filter((f) => f.endsWith('.json')); } catch {}

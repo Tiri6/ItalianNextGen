@@ -1,27 +1,64 @@
 {
-  "generatedAt": "2026-11-23T08:24:33.879Z",
+  "generatedAt": "2026-11-23T10:53:04.466Z",
   "day": "2026-11-23",
   "items": [
     {
       "id": "taccuino-2026-11-23",
       "file": "taccuino-2026-11-23.json",
       "title": "Taccuino del giorno · 23 novembre 2026",
-      "excerpt": "Una giornata ricca di movimenti nel vivaio rossonero e reti decisive in cadetteria, mentre i prestiti si moltiplicano tra i giovani talenti italiani.",
+      "excerpt": "Gol, assist e minuti dei giovani della lista tra venerdì e domenica: 44 giocatori in 19 partite.",
       "category": "taccuino",
-      "source": "Taccuino da 5 fonti",
+      "source": "Dati partita",
       "link": "",
       "players": [
-        "Francesco Camarda",
-        "Mattia Liberali",
-        "Francesco Coppola",
         "Diego Coppola",
-        "Giuseppe Ambrosino",
+        "Luca Koleosho",
+        "Alphadjo Cissè",
+        "Francesco Pio Esposito",
+        "Tommaso Baldanzi",
+        "Samuel Wiafe",
+        "Sebastiano Esposito",
+        "Davide Bartesaghi",
+        "Wisdom Amey",
+        "Lorenzo Palmisani",
+        "Gabriele Calvani",
+        "Giorgio Scalvini",
+        "Emanuele Lulli",
+        "Lorenzo Amatucci",
+        "Alessandro Romano",
+        "Raphael Kofler",
+        "Mattia Liberali",
+        "Fabio Chiarodia",
+        "Niccolò Pisilli",
+        "Giovanni Fabbian",
+        "Giovanni Daffara",
+        "Simone Lontani",
+        "Mattia Zanotti",
+        "Costantino Favasuli",
+        "Antonio Vergara",
+        "Cesare Casadei",
+        "Pietro Comuzzo",
+        "Alessio Cacciamani",
+        "Brando Moruzzi",
+        "Tommaso Martinelli",
+        "Giacomo Faticanti",
         "Tommaso Rubino",
-        "Mattia Angelicchio"
+        "Giuseppe Ambrosino",
+        "Dominic Vavassori",
+        "Stefano Di Mario",
+        "Luigi Cherubini",
+        "Fabio Rispoli",
+        "Tommaso Berti",
+        "Emanuele Rao",
+        "Gabriel Kulla",
+        "Federico Croci",
+        "Diego Perillo",
+        "Thomas Corigliano",
+        "Marcello Fugazzola"
       ],
       "sourceDate": null,
       "isDigest": true,
-      "bodyPreview": "**Francesco Camarda e Mattia Liberali** Il Milan potrebbe spedire Camarda in prestito sotto la guida di Amorim, mentre rimane da risolvere la spinosa situazione di Liberali in casa rossonera. [fonte](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVUFqRE8yVlRFLXNua1AtVmZ2SGhCc0VTYW82TWY4TXRBQTJ6XzVpQlFzOG90SVY3c3FwLUFPZzZjM0ViUWluMW5tZEU5LXAxODl2ZENZbnFQQTcwazhQQ1RldUZkU2FFSWpNQVA2cWxCUDE2MTl2bTVMeHlNV3dCd2NUS2F",
+      "bodyPreview": "Il weekend dei nostri giovani, partita per partita: 44 giocatori della lista in campo in 19 gare, con 16 gol e 3 assist tra campionati e nazionali. ### Venerdì 20 novembre **Italia U17 6-0 Giamaica** (Mondiale Under 17) — Federico Croci firma una doppietta; Thomas Corigliano segna; Diego Perillo segna; Marcello Fugazzola serve un assist. ### Sabato 21 novembre **Carrarese 1-0 Virtus Entella** (Serie B) — Tommaso Rubi",
       "proposed": {
         "live": true,
         "instagram": true
@@ -29,39 +66,20 @@
       "flags": []
     },
     {
-      "id": "api-2026-11-22-diego-coppola",
-      "file": "api-2026-11-22-diego-coppola.json",
-      "title": "Coppola segna: Paris FC vince 4-0 con Angers",
-      "excerpt": "Diego Coppola ha segnato un gol e fornito un assist contro Angers: Paris FC ha vinto 4-0.",
+      "id": "api-2026-11-22-paris-fc-angers",
+      "file": "api-2026-11-22-paris-fc-angers.json",
+      "title": "Coppola e Koleosho: Paris FC vince 4-0 con Angers",
+      "excerpt": "Paris FC vince 4-0 con Angers: Coppola è andato a segno e ha fornito un assist e Koleosho è andato a segno.",
       "category": "performance",
       "source": "Dati partita",
       "link": "",
       "players": [
-        "Diego Coppola"
-      ],
-      "sourceDate": "2026-11-22T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Diego Coppola ha segnato un gol e fornito un assist con il Paris FC nella sfida contro Angers (Ligue 1), chiusa sul 4-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "api-2026-11-22-luca-koleosho",
-      "file": "api-2026-11-22-luca-koleosho.json",
-      "title": "Koleosho in gol, Paris FC vince 4-0 contro Angers",
-      "excerpt": "Luca Koleosho è andato a segno contro Angers: Paris FC ha vinto 4-0.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
+        "Diego Coppola",
         "Luca Koleosho"
       ],
       "sourceDate": "2026-11-22T20:00:00.000Z",
       "isDigest": false,
-      "bodyPreview": "Luca Koleosho è andato a segno con il Paris FC nella sfida contro Angers (Ligue 1), chiusa sul 4-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "bodyPreview": "Paris FC-Angers (Ligue 1): 4-0 per Paris FC, vittoria. In campo 2 giovani della nostra lista. Diego Coppola è andato a segno e ha fornito un assist, rimanendo in campo 90 minuti. Luca Koleosho è andato a segno, rimanendo in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
       "proposed": {
         "live": true,
         "instagram": true
@@ -89,226 +107,6 @@
       "flags": []
     },
     {
-      "id": "api-2026-11-22-tommaso-martinelli",
-      "file": "api-2026-11-22-tommaso-martinelli.json",
-      "title": "Martinelli in campo 90': Avellino vince 4-1 con Mantova",
-      "excerpt": "Tommaso Martinelli ha giocato una partita solida contro Mantova: Avellino ha vinto 4-1.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Tommaso Martinelli"
-      ],
-      "sourceDate": "2026-11-22T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Tommaso Martinelli ha giocato una partita solida con il Avellino nella sfida contro Mantova (Serie B), chiusa sul 4-1 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
-      "id": "api-2026-11-21-giovanni-fabbian",
-      "file": "api-2026-11-21-giovanni-fabbian.json",
-      "title": "Fabbian in campo 67': Parma perde 1-5 con AS Roma",
-      "excerpt": "Giovanni Fabbian ha giocato una partita solida contro AS Roma: Parma ha perso 1-5.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Giovanni Fabbian"
-      ],
-      "sourceDate": "2026-11-21T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Giovanni Fabbian ha giocato una partita solida con il Parma nella sfida contro AS Roma (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 67 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
-      "id": "api-2026-11-21-luigi-cherubini",
-      "file": "api-2026-11-21-luigi-cherubini.json",
-      "title": "Cherubini in campo 64': Benevento perde 1-3 con Sampdoria",
-      "excerpt": "Luigi Cherubini ha giocato una partita solida contro Sampdoria: Benevento ha perso 1-3.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Luigi Cherubini"
-      ],
-      "sourceDate": "2026-11-21T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Luigi Cherubini ha giocato una partita solida con il Benevento nella sfida contro Sampdoria (Serie B), chiusa sul 1-3 per i suoi: sconfitta. Il giovane è rimasto in campo 64 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
-      "id": "api-2026-11-21-mattia-zanotti",
-      "file": "api-2026-11-21-mattia-zanotti.json",
-      "title": "Zanotti in campo 90': Lugano vince 2-1 con Grasshoppers",
-      "excerpt": "Mattia Zanotti ha giocato una partita solida contro Grasshoppers: Lugano ha vinto 2-1.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Mattia Zanotti"
-      ],
-      "sourceDate": "2026-11-21T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Mattia Zanotti ha giocato una partita solida con il Lugano nella sfida contro Grasshoppers (Super League), chiusa sul 2-1 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
-      "id": "api-2026-11-21-raphael-kofler",
-      "file": "api-2026-11-21-raphael-kofler.json",
-      "title": "Kofler in campo 90': Cagliari perde 0-2 con Como",
-      "excerpt": "Raphael Kofler ha giocato una partita solida contro Como: Cagliari ha perso 0-2.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Raphael Kofler"
-      ],
-      "sourceDate": "2026-11-21T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Raphael Kofler ha giocato una partita solida con il Cagliari nella sfida contro Como (Serie A), chiusa sul 0-2 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
-      "id": "api-2026-11-21-tommaso-berti",
-      "file": "api-2026-11-21-tommaso-berti.json",
-      "title": "Berti in campo 90': Cremonese perde 0-1 con Sudtirol",
-      "excerpt": "Tommaso Berti ha giocato una partita solida contro Sudtirol: Cremonese ha perso 0-1.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Tommaso Berti"
-      ],
-      "sourceDate": "2026-11-21T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Tommaso Berti ha giocato una partita solida con il Cremonese nella sfida contro Sudtirol (Serie B), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
-      "id": "api-2026-11-22-gabriele-calvani",
-      "file": "api-2026-11-22-gabriele-calvani.json",
-      "title": "Calvani in campo 90': Frosinone perde 1-5 con AC Milan",
-      "excerpt": "Gabriele Calvani ha giocato una partita solida contro AC Milan: Frosinone ha perso 1-5.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Gabriele Calvani"
-      ],
-      "sourceDate": "2026-11-22T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Gabriele Calvani ha giocato una partita solida con il Frosinone nella sfida contro AC Milan (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
-      "id": "api-2026-11-22-giorgio-scalvini",
-      "file": "api-2026-11-22-giorgio-scalvini.json",
-      "title": "Scalvini in campo 90': Atalanta pareggia 4-4 con Inter",
-      "excerpt": "Giorgio Scalvini ha giocato una partita solida contro Inter: Atalanta ha pareggiato 4-4.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Giorgio Scalvini"
-      ],
-      "sourceDate": "2026-11-22T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Giorgio Scalvini ha giocato una partita solida con il Atalanta nella sfida contro Inter (Serie A), chiusa sul 4-4 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "api-2026-11-22-tommaso-baldanzi",
-      "file": "api-2026-11-22-tommaso-baldanzi.json",
-      "title": "Baldanzi in campo 63': Genoa vince 2-0 con Sassuolo",
-      "excerpt": "Tommaso Baldanzi ha giocato una partita solida contro Sassuolo: Genoa ha vinto 2-0.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Tommaso Baldanzi"
-      ],
-      "sourceDate": "2026-11-22T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Tommaso Baldanzi ha giocato una partita solida con il Genoa nella sfida contro Sassuolo (Serie A), chiusa sul 2-0 per i suoi: vittoria. Il giovane è rimasto in campo 63 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
       "id": "api-2026-11-22-brando-moruzzi",
       "file": "api-2026-11-22-brando-moruzzi.json",
       "title": "Moruzzi segna: Avellino vince 4-1 con Mantova",
@@ -324,34 +122,9 @@
       "bodyPreview": "Brando Moruzzi è andato a segno con il Avellino nella sfida contro Mantova (Serie B), chiusa sul 4-1 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
       "proposed": {
         "live": true,
-        "instagram": false
+        "instagram": true
       },
       "flags": []
-    },
-    {
-      "id": "api-2026-11-22-lorenzo-palmisani",
-      "file": "api-2026-11-22-lorenzo-palmisani.json",
-      "title": "Palmisani in campo 90': Frosinone perde 1-5 con AC Milan",
-      "excerpt": "Lorenzo Palmisani ha giocato una partita solida contro AC Milan: Frosinone ha perso 1-5.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Lorenzo Palmisani"
-      ],
-      "sourceDate": "2026-11-22T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Lorenzo Palmisani ha giocato una partita solida con il Frosinone nella sfida contro AC Milan (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
     },
     {
       "id": "mwswgzmg-99f5i",
@@ -370,7 +143,7 @@
       "bodyPreview": "La serata di Pio Esposito è da incorniciare: tre reti fra il 16' e il 52' che accendono la serata nerazzurra a Bergamo e gli valgono il migliore in campo con un voto di 9,5. L'Inter conduce con autorevolezza nel primo tempo, con i gol dell'esterno nel 16' e nel 32', mentre l'Atalanta accorcia con Elmas al 35'. Nella ripresa il copione sembra scritto quando Esposito completa la tripletta e Sucic segna dal dischetto il",
       "proposed": {
         "live": true,
-        "instagram": false
+        "instagram": true
       },
       "flags": []
     },
@@ -415,7 +188,7 @@
       "flags": [
         {
           "type": "stesso-giocatore",
-          "label": "Stesso giocatore (Francesco Pio Esposito) di un'altra notizia in questa lista: «Esposito tripletta non basta, Inter sciupa 4-2 a Bergamo». Ne esce una sola al giorno."
+          "label": "Stesso giocatore (Francesco Pio Esposito) di un'altra notizia in questa lista: «Taccuino del giorno · 23 novembre 2026». Ne esce una sola al giorno."
         }
       ]
     },
@@ -458,31 +231,6 @@
       "flags": []
     },
     {
-      "id": "api-2026-11-21-giovanni-daffara",
-      "file": "api-2026-11-21-giovanni-daffara.json",
-      "title": "Daffara in campo 90': Parma perde 1-5 con AS Roma",
-      "excerpt": "Giovanni Daffara ha giocato una partita solida contro AS Roma: Parma ha perso 1-5.",
-      "category": "performance",
-      "source": "Dati partita",
-      "link": "",
-      "players": [
-        "Giovanni Daffara"
-      ],
-      "sourceDate": "2026-11-21T20:00:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "Giovanni Daffara ha giocato una partita solida con il Parma nella sfida contro AS Roma (Serie A), chiusa sul 1-5 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
-      "proposed": {
-        "live": false,
-        "instagram": false
-      },
-      "flags": [
-        {
-          "type": "doppione",
-          "label": "Notizia molto simile a una già uscita o già in lista"
-        }
-      ]
-    },
-    {
       "id": "mwswgzux-5y0gv",
       "file": "mwswgzux-5y0gv.json",
       "title": "Croci si accende subito: doppietta in 15 minuti con l'Under 18",
@@ -523,7 +271,7 @@
       "flags": [
         {
           "type": "stesso-giocatore",
-          "label": "Stesso giocatore (Federico Croci) di un'altra notizia in questa lista: «Croci si accende subito: doppietta in 15 minuti con l'Under 18». Ne esce una sola al giorno."
+          "label": "Stesso giocatore (Federico Croci) di un'altra notizia in questa lista: «Taccuino del giorno · 23 novembre 2026». Ne esce una sola al giorno."
         }
       ]
     },

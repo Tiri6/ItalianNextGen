@@ -1,0 +1,28 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-22-paris-fc-angers",
+  "collectedAt": "2026-11-23T10:52:56.173Z",
+  "title": "Coppola e Koleosho: Paris FC vince 4-0 con Angers",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Sun, 22 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Diego Coppola",
+    "Luca Koleosho"
+  ],
+  "category": "performance",
+  "score": 8,
+  "status": "pending",
+  "draft": {
+    "title": "Coppola e Koleosho: Paris FC vince 4-0 con Angers",
+    "titleEn": "Coppola and Koleosho: Paris FC win 4-0 against Angers",
+    "excerpt": "Paris FC vince 4-0 con Angers: Coppola è andato a segno e ha fornito un assist e Koleosho è andato a segno.",
+    "excerptEn": "Paris FC won 4-0 against Angers: Coppola scored and set up a goal and Koleosho scored.",
+    "bodyIt": "Paris FC-Angers (Ligue 1): 4-0 per Paris FC, vittoria. In campo 2 giovani della nostra lista.\n\nDiego Coppola è andato a segno e ha fornito un assist, rimanendo in campo 90 minuti.\n\nLuca Koleosho è andato a segno, rimanendo in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Paris FC vs Angers (Ligue 1): 4-0 for Paris FC, a win. 2 young players from our list were on the pitch.\n\nDiego Coppola scored and set up a goal, playing 90 minutes.\n\nLuca Koleosho scored, playing 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-22T20:00:00.000Z"
+  }
+}

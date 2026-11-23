@@ -4,7 +4,7 @@
 // risultato, minuti, gol, assist. Niente cronaca, niente minuti dei gol, niente giudizi inventati.
 // Marco decide nel cockpit se pubblicarle. Salta chi ha già un articolo uscito dopo la partita o una candidata.
 // Uso: node pipeline/schede-prestazione.mjs [--giorni=2] [--dry]
-import { readFile, writeFile, readdir } from 'node:fs/promises';
+import { readFile, writeFile, readdir, unlink } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -73,14 +73,76 @@ function build(p) {
   return { title, titleEn, excerpt, excerptEn, bodyIt, bodyEn, _fromSource: true, _fromApi: true, _sourceDate: `${p.date}T20:00:00.000Z` };
 }
 
+// Più giocatori della stessa partita = UNA scheda sola (es. Koleosho e Coppola, Paris FC-Angers 4-0).
+const canon = (x) => fold(String(x ?? '').replace(/\b(ac|as|fc|ssc|us|ss|sc|afc|calcio|football|club)\b/gi, ''));
+const sortedScore = (r) => r.replace(/\s/g, '').split('-').sort().join('-');
+const names = (arr) => (arr.length === 1 ? arr[0] : arr.slice(0, -1).join(', ') + ' e ' + arr[arr.length - 1]);
+const namesEn = (arr) => (arr.length === 1 ? arr[0] : arr.slice(0, -1).join(', ') + ' and ' + arr[arr.length - 1]);
+const actShort = (p, en) => {
+  const g = p.goals || 0, a = p.assists || 0, parts = [];
+  if (g) parts.push(en ? (g === 1 ? 'scored' : g === 2 ? 'scored twice' : `scored ${g}`) : (g === 1 ? 'è andato a segno' : g === 2 ? 'ha firmato una doppietta' : `ha segnato ${g} gol`));
+  if (a) parts.push(en ? (a === 1 ? 'set up a goal' : `set up ${a} goals`) : (a === 1 ? 'ha fornito un assist' : `ha fornito ${a} assist`));
+  return parts.length ? parts.join(en ? ' and ' : ' e ') : (en ? 'played' : 'è sceso in campo');
+};
+function buildGroup(ps) {
+  const h = ps[0];
+  const [a, b] = h.result.split('-').map(Number);
+  const esito = a > b ? 'win' : a < b ? 'loss' : 'draw';
+  const verbIt = { win: 'vince', loss: 'perde', draw: 'pareggia' }[esito];
+  const verbEn = { win: 'win', loss: 'lose', draw: 'draw' }[esito];
+  const score = `${a}-${b}`;
+  const sameClub = ps.every((p) => canon(p.club) === canon(h.club));
+  const sn = ps.map((p) => surname(p.player));
+  const comp = h.competition ? ` (${h.competition})` : '';
+  const title = sameClub
+    ? `${names(sn)}: ${h.club} ${verbIt} ${score} con ${h.opponent}`
+    : `${h.club}-${h.opponent} ${score}: ${names(sn)} in campo`;
+  const titleEn = sameClub
+    ? `${namesEn(sn)}: ${h.club} ${verbEn} ${score} against ${h.opponent}`
+    : `${h.club} ${score} ${h.opponent}: ${namesEn(sn)} in action`;
+  const lineIt = (p) => `${p.player}${sameClub ? '' : ` (${p.club})`} ${actShort(p, false)}, rimanendo in campo ${p.minutes} minuti.`;
+  const lineEn = (p) => `${p.player}${sameClub ? '' : ` (${p.club})`} ${actShort(p, true)}, playing ${p.minutes} minutes.`;
+  const esitoIt = { win: 'vittoria', loss: 'sconfitta', draw: 'pareggio' }[esito];
+  const esitoEn = { win: 'win', loss: 'defeat', draw: 'draw' }[esito];
+  const bodyIt = `${h.club}-${h.opponent}${comp}: ${score} per ${h.club}, ${esitoIt}. In campo ${ps.length} giovani della nostra lista.\n\n${ps.map(lineIt).join('\n\n')}\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.`;
+  const bodyEn = `${h.club} vs ${h.opponent}${h.competition ? ` (${h.competition})` : ''}: ${score} for ${h.club}, a ${esitoEn}. ${ps.length} young players from our list were on the pitch.\n\n${ps.map(lineEn).join('\n\n')}\n\nGoals, assists and minutes come from the official match statistics.`;
+  const excerpt = `${h.club} ${verbIt} ${score} con ${h.opponent}: ${names(ps.map((p) => `${surname(p.player)} ${actShort(p, false)}`))}.`;
+  const excerptEn = `${h.club} ${verbEn === 'win' ? 'won' : verbEn === 'lose' ? 'lost' : 'drew'} ${score} against ${h.opponent}: ${namesEn(ps.map((p) => `${surname(p.player)} ${actShort(p, true)}`))}.`;
+  return { title, titleEn, excerpt, excerptEn, bodyIt, bodyEn, _fromSource: true, _fromApi: true, _sourceDate: `${h.date}T20:00:00.000Z` };
+}
+
+// di lunedì il Taccuino del weekend racconta già i minuti di tutti: qui restano solo gol e assist
+const wanted = perfs.filter((p) => p.goals || p.assists || (!isMonday && (p.minutes ?? 0) >= 60));
+const todo = wanted.filter((p) => {
+  if (articles.some((x) => x.players.includes(fold(p.player)) && x.when >= p.date)) { console.log(`  = ${p.player}: già coperto da un articolo`); return false; }
+  return true;
+});
+const parent = todo.map((_, i) => i);
+const find = (i) => (parent[i] === i ? i : (parent[i] = find(parent[i])));
+for (let i = 0; i < todo.length; i++) for (let j = i + 1; j < todo.length; j++) {
+  const A = todo[i], B = todo[j];
+  if (A.date !== B.date || sortedScore(A.result) !== sortedScore(B.result)) continue;
+  if ([canon(A.club), canon(A.opponent)].some((x) => x && (x === canon(B.club) || x === canon(B.opponent)))) parent[find(j)] = find(i);
+}
+const groups = new Map();
+todo.forEach((p, i) => { const r = find(i); if (!groups.has(r)) groups.set(r, []); groups.get(r).push(p); });
+
+// di lunedì le schede «solo minuti» (nessun gol/assist) non servono più: sono già nel Taccuino del weekend
+if (isMonday && !DRY) {
+  for (const p of perfs.filter((x) => !x.goals && !x.assists)) {
+    const old = `api-${p.date}-${fold(p.player)}`;
+    if (existing.has(old)) { await unlink(path.join(CANDS, `${old}.json`)).catch(() => {}); console.log(`  − scheda solo minuti tolta (nel Taccuino): ${old}`); }
+  }
+}
+
 let made = 0;
-const wanted = perfs.filter((p) => p.goals || p.assists || (p.minutes ?? 0) >= 60);
-for (const p of wanted) {
-  const id = `api-${p.date}-${fold(p.player)}`;
+for (const ps0 of groups.values()) {
+  const ps = [...ps0].sort((x, y) => ((y.goals || 0) * 3 + (y.assists || 0) * 2) - ((x.goals || 0) * 3 + (x.assists || 0) * 2) || (y.minutes || 0) - (x.minutes || 0));
+  const h = ps[0];
+  const id = ps.length === 1 ? `api-${h.date}-${fold(h.player)}` : `api-${h.date}-${fold(h.club)}-${fold(h.opponent)}`;
   if (existing.has(id)) continue;
-  const covered = articles.some((x) => x.players.includes(fold(p.player)) && x.when >= p.date);
-  if (covered) { console.log(`  = ${p.player}: già coperto da un articolo`); continue; }
-  const d = build(p);
+  const d = ps.length === 1 ? build(h) : buildGroup(ps);
+  const best = Math.max(...ps.map((p) => (p.goals ? 7 : p.assists ? 6 : (p.rating ?? 0) >= 7 ? 5 : 3)));
   const cand = {
     competitions: [],
     id,
@@ -88,16 +150,20 @@ for (const p of wanted) {
     title: d.title,
     link: '',
     source: 'Dati partita',
-    pubDate: new Date(`${p.date}T20:00:00Z`).toUTCString(),
+    pubDate: new Date(`${h.date}T20:00:00Z`).toUTCString(),
     query: 'dati-partita',
-    players: [p.player],
+    players: ps.map((p) => p.player),
     category: 'performance',
-    score: (p.goals ? 7 : p.assists ? 6 : (p.rating ?? 0) >= 7 ? 5 : 3),
+    score: best + (ps.length > 1 ? 1 : 0),
     status: 'pending',
     draft: { title: d.title, titleEn: d.titleEn, excerpt: d.excerpt, excerptEn: d.excerptEn, bodyIt: d.bodyIt, bodyEn: d.bodyEn, _fromSource: true, _fromApi: true, _sourceDate: d._sourceDate },
   };
-  console.log(`  + ${d.title}`);
-  if (!DRY) await writeFile(path.join(CANDS, `${id}.json`), JSON.stringify(cand, null, 2));
+  console.log(`  + ${d.title}${ps.length > 1 ? `  [${ps.length} giocatori]` : ''}`);
+  if (!DRY) {
+    await writeFile(path.join(CANDS, `${id}.json`), JSON.stringify(cand, null, 2));
+    // le schede singole dello stesso gruppo create in giri precedenti vengono assorbite da quella di gruppo
+    if (ps.length > 1) for (const p of ps) { const old = `api-${p.date}-${fold(p.player)}`; if (existing.has(old)) { await unlink(path.join(CANDS, `${old}.json`)).catch(() => {}); console.log(`    − assorbita ${old}`); } }
+  }
   made++;
 }
 console.log(`\n✅ Schede-prestazione create: ${made}${DRY ? ' (prova, nulla scritto)' : ''}.`);
