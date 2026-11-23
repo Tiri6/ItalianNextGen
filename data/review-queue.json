@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:50:17.202Z",
+  "generatedAt": "2026-11-23T08:24:33.879Z",
   "day": "2026-11-23",
   "items": [
     {
@@ -22,27 +22,6 @@
       "sourceDate": null,
       "isDigest": true,
       "bodyPreview": "**Francesco Camarda e Mattia Liberali** Il Milan potrebbe spedire Camarda in prestito sotto la guida di Amorim, mentre rimane da risolvere la spinosa situazione di Liberali in casa rossonera. [fonte](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVUFqRE8yVlRFLXNua1AtVmZ2SGhCc0VTYW82TWY4TXRBQTJ6XzVpQlFzOG90SVY3c3FwLUFPZzZjM0ViUWluMW5tZEU5LXAxODl2ZENZbnFQQTcwazhQQ1RldUZkU2FFSWpNQVA2cWxCUDE2MTl2bTVMeHlNV3dCd2NUS2F",
-      "proposed": {
-        "live": true,
-        "instagram": true
-      },
-      "flags": []
-    },
-    {
-      "id": "mwswh027-u6qkp",
-      "file": "mwswh027-u6qkp.json",
-      "title": "Italia Under 21, pareggio con il Belgio a Livorno: Ekhator firma l'1-1 finale",
-      "excerpt": "Termina 2-2 l'amichevole tra i giovani azzurri e i Diavoli Rossi. Cherubini sblocca il risultato, ma il Belgio la ribalta con la doppietta di Mirisola; Ekhator ristabilisce la parità dal dischetto all'88'.",
-      "category": "performance",
-      "source": "Sport2U",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZWtVc0UwUlRaYXNFRjJlUWtUWnEwclJaR2xnMEhMMFdLeDVkSUktcmRLY0tHSkNwQTFSLV8xMFpsbC1vTXJFSUtTQnF5eUQxb1pLcU5hMks2dHhBcHVJWTVMUXJBbzc2OWNuaDRlaEhJVGIydFBveFFkTGh4ZTdkWUdrMWE3THRHOENmZ052bGxPTXV4TUVESXhCczJZSi1kNnB6QWZkNml1WVg0RERtWjhSXzMyU05PQlN4VXFBdzhlRmc3RFYzQnBEbUprUFVvQmxiSlRaaFYwWXJNQmc3YWFvTXVDSC1ibUp6SDA0UzNqdHdUQjUzQ3hQUkE5ZHVnRV9qZjN1NWdJcUk?oc=5",
-      "players": [
-        "Jeff Ekhator",
-        "Luigi Cherubini"
-      ],
-      "sourceDate": "2026-11-22T00:42:06.000Z",
-      "isDigest": false,
-      "bodyPreview": "Poche emozioni e altrettanti vincitori al Picchi di Livorno, dove Italia e Belgio Under 21 hanno terminato con un pareggio a reti pari al termine di novanta minuti di test amichevole. La sfida rientra nel programma di preparazione del commissario tecnico Silvio Baldini in vista degli Europei di categoria previsti per il prossimo anno. Gli azzurrini trovano il vantaggio al 27' con il guizzo di Cherubini, che capitaliz",
       "proposed": {
         "live": true,
         "instagram": true
@@ -179,8 +158,8 @@
       },
       "flags": [
         {
-          "type": "stesso-giocatore",
-          "label": "Stesso giocatore (Luigi Cherubini) di un'altra notizia in questa lista: «Italia Under 21, pareggio con il Belgio a Livorno: Ekhator firma l'1-1». Ne esce una sola al giorno."
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
         }
       ]
     },
@@ -300,7 +279,7 @@
       "bodyPreview": "Giorgio Scalvini ha giocato una partita solida con il Atalanta nella sfida contro Inter (Serie A), chiusa sul 4-4 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
       "proposed": {
         "live": true,
-        "instagram": false
+        "instagram": true
       },
       "flags": []
     },
@@ -410,15 +389,10 @@
       "isDigest": false,
       "bodyPreview": "Alphadjo Cissè è andato a segno con il Milan nella sfida contro Frosinone (Serie A), chiusa sul 5-1 per i suoi: vittoria. Il giovane è rimasto in campo 39 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
       "proposed": {
-        "live": false,
+        "live": true,
         "instagram": false
       },
-      "flags": [
-        {
-          "type": "stesso-giocatore",
-          "label": "Stesso giocatore (Alphadjo Cissè) di un'altra notizia in questa lista: «Baldini: Cissé e Camarda pronti per la Nazionale A». Ne esce una sola al giorno."
-        }
-      ]
+      "flags": []
     },
     {
       "id": "api-2026-11-22-francesco-pio-esposito",
@@ -554,28 +528,6 @@
       ]
     },
     {
-      "id": "mwswgzoe-58ezv",
-      "file": "mwswgzoe-58ezv.json",
-      "title": "Baldini: Cissé e Camarda pronti per la Nazionale A",
-      "excerpt": "Il ct dell'Under 21 vede i due talenti del Milan già idonei al calcio di vertice. Bartesaghi, invece, rappresenta un'eccezione nel suo progetto giovanile.",
-      "category": "news",
-      "source": "Gianluca Di Marzio",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1h4a3VwREVRdldRMGpldHdaaTJPQml3UnB2VHF1YjQyM2RDaWFtQ01Ic3lNSEFDVThvcFJvVG5oMUVSb2FINzdjSk9RVVozSU5ob1FGYXpPbVJyUHdjRDV5NG9aSHdyUnpGNkdzVXgwbTdTUGZnSUlUTUpNaFFlSWlnUEg4VlRiSkd4NFBPV2dQOV84bVhKdWZNVzNmdDk4aGU5ZWxydnlrcDZHXzJ5b2UtTExUMURKREtsclJpQ1BEQmtn?oc=5",
-      "players": [
-        "Davide Bartesaghi",
-        "Francesco Camarda",
-        "Alphadjo Cissè"
-      ],
-      "sourceDate": "2026-11-21T08:24:21.000Z",
-      "isDigest": false,
-      "bodyPreview": "Silvio Baldini, commissario tecnico dell'Under 21, non ha dubbi sul percorso dei suoi talenti rossoneri: Alphadjo Cissé e Francesco Camarda hanno acquisito le credenziali per transitare stabilmente in Nazionale maggiore. Per il primo, il ct sottolinea la trasformazione rispetto al passato. \"Rispetto a un anno fa ho trovato un altro ragazzo, più maturo e preparato\", dichiara Baldini. Merito dell'ambiente milanista, ch",
-      "proposed": {
-        "live": true,
-        "instagram": false
-      },
-      "flags": []
-    },
-    {
       "id": "mwswgzy5-om2fr",
       "file": "mwswgzy5-om2fr.json",
       "title": "Napoli domina il Torino, McTominay decide al Maradona",
@@ -590,24 +542,6 @@
       "sourceDate": "2026-11-22T10:45:53.000Z",
       "isDigest": false,
       "bodyPreview": "Il Napoli torna al successo tra le mura amiche. Nella serata di sabato 21 novembre, gli azzurri hanno superato il Torino grazie al gol di McTominay nella ripresa, coronando una prova di sostanza contro un avversario che ha provato a contrastare il dominio partenopeo. La formazione diretta da Massimiliano Allegri ha creato diverse occasioni fin dai primi minuti, con McTominay tra i più propositivi offensivamente. I gr",
-      "proposed": {
-        "live": true,
-        "instagram": false
-      },
-      "flags": []
-    },
-    {
-      "id": "mwswh02v-7zywy",
-      "file": "mwswh02v-7zywy.json",
-      "title": "U16 Femminile, la Germania rimonta a Tirrenia: Italia ko 4-1",
-      "excerpt": "Le azzurrine vanno in vantaggio con Pistolesi ma subiscono quattro reti nel corso della partita. Girini: il passivo non rispecchia la prestazione delle ragazze.",
-      "category": "news",
-      "source": "FIGC",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdS1lODBJLVRNOUdRNHBhSl9DVFVGMlphNU9MdkJ1Y3JITTRvQTBBUjBxazhNbDlFUWpBd2xYbkJ0SWRYMXBIbVZDZU1zMGpkZmc5R2RvWGU4Y0Vqd0lITzd0clRETHRjWW43NVF0Mm4xR0lVQWJOR2Rnck1aa01FMXdYZ3l0dkdxVFZSTURaMnA5R2VMQkY3TDFhTllRT3pISVJUd3d4clBqSzNnV2NWcHM1QkNaRVFBSWw5Nkh2MUVaLXFFZWZtZXdWZGRDLWlIVkQxdEFRX1NqTlVpR2FCbUhxbTlCNnA3OTNDVUhRa1JKZw?oc=5",
-      "players": [],
-      "sourceDate": "2026-11-22T03:27:00.000Z",
-      "isDigest": false,
-      "bodyPreview": "La Nazionale Under 16 femminile esce sconfitta dalla seconda amichevole di Tirrenia contro la Germania, dopo il pareggio senza reti della sfida precedente. Le azzurrine partono bene e trovano il vantaggio al 7' con un gran tiro da distanza di Benedetta Pistolesi del Sassuolo. Nel primo tempo, però, le tedesche operano la rimonta: Romy Nagel al 34' e Liz Sassmannhausen al 40' rovesciano il risultato prima dell'interva",
       "proposed": {
         "live": true,
         "instagram": false
