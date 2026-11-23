@@ -38,7 +38,7 @@ const NAZIONALE_CTX = /\bnazionale\b|\bazzurr|italia\s*(under|u)\s?\d{1,2}|\bita
 // titolo, gol, sorteggio, amichevole…). Serve a scartare i "pezzi vuoti" senza
 // contenuto reale, tipo "I talenti Under-21 del progetto azzurro verso il 2030".
 // Il sito copre SOLO il calcio maschile (regola di Marco, 6 ott 2026)
-const WOMEN_KW = /femminil|calciatric|\bwomen|\bdonne\b|\bragazze\b|\bazzurre\b|\bgirls?\b/i;
+const WOMEN_KW = /femminil|calciatric|\bwomen|\bdonne\b|\bragazze\b|\bazzurr(e|ine)\b|\bgirls?\b/i;
 
 // "azzurri" è anche il soprannome del Napoli (e "nerazzurri", "giallazzurri"… di altri club):
 // se il titolo nomina un club e non ha un segnale forte di nazionale, NON è una notizia di nazionale.

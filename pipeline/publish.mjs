@@ -75,6 +75,23 @@ function isStalePrematch(c) {
   return !g || g < todayRome;
 }
 
+// Resoconto di una partita GIÀ raccontata da noi più di 2 giorni fa: il feed (Google News/aggregatori) ne cambia
+// la data a ogni aggiornamento e la pagina non dichiara la data (caso Italia U21-Belgio 2-2 del 16 nov, riproposto
+// per una settimana). Regola: stesso punteggio nel titolo della fonte + almeno un giocatore in comune + almeno 3 parole
+// distintive in comune con un articolo nostro di 3-21 giorni fa.
+function isRehashedResult(c) {
+  if (c.isDigest || String(c.id).startsWith('api-')) return false;
+  const m = String(c.title).match(/(?<![\d:])(\d{1,2})\s*[-–]\s*(\d{1,2})(?![\d:])/);
+  if (!m) return false;
+  const score = m[1] + '-' + m[2];
+  const pls = c.players ?? [];
+  if (!pls.length) return false;
+  const d = c.draft ?? {};
+  const nameParts = new Set(pls.flatMap((p) => [...sigWords(p)]));
+  const w = new Set([...sigWords([c.title, d.title, d.excerpt].filter(Boolean).join(' '))].filter((x) => !nameParts.has(x)));
+  return oldResults.some((o) => o.scores.has(score) && pls.some((p) => o.players.has(p)) && [...w].filter((x) => o.w.has(x)).length >= 3);
+}
+
 function slugify(s) {
   return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
@@ -101,6 +118,7 @@ const SIM_THRESHOLD = 0.62; // sopra questa soglia = notizia praticamente uguale
 //  - usedToday: giocatori di cui si è già parlato OGGI (max 1 articolo/giorno per giocatore)
 //  - weekCount: quante volte ogni giocatore è apparso negli ultimi 7 giorni (per la rotazione)
 const recentPrints = [];
+const oldResults = []; // articoli di 3-21 giorni fa: serve a riconoscere i resoconti di partite già raccontate e ripubblicati dal feed
 const usedToday = new Set();
 const weekCount = {};
 const today = new Date().toISOString().slice(0, 10);
@@ -118,6 +136,10 @@ try {
     const su = fm.match(/^sourceUrl:\s*"(.*)"/m)?.[1];
     if (su) publishedUrls.add(su);
     const pls = [...(fm.match(/^players:\s*\[(.*)\]/m)?.[1] ?? '').matchAll(/"([^"]+)"/g)].map((m) => m[1]);
+    if (cat !== 'taccuino' && ageDays > 2 && ageDays <= 21) {
+      const body = t.slice(fm.length).slice(0, 1500);
+      oldResults.push({ players: new Set(pls), scores: new Set([...(title + ' ' + exc + ' ' + body).matchAll(/(?<![\d:])(\d{1,2})\s*[-–]\s*(\d{1,2})(?![\d:])/g)].map((m) => m[1] + '-' + m[2])), w: sigWords(title + ' ' + exc + ' ' + body) });
+    }
     if (ageDays <= 4) recentPrints.push({ w: sigWords(title + ' ' + exc), cat, players: new Set(pls) });
     if (cat !== 'taccuino' && ageDays <= 7) for (const p of pls) weekCount[p] = (weekCount[p] ?? 0) + 1;
     if (cat !== 'taccuino' && dstr === today) for (const p of pls) usedToday.add(p);
@@ -166,6 +188,7 @@ let eligible = queue
       const ageDays = (Date.now() - pageMs) / 86400000;
       if (ageDays > 2) { console.log(`  ⤫ fonte di ${Math.round(ageDays)} giorni fa: ${String(c.title).slice(0, 60)}`); return false; }
     }
+    if (isRehashedResult(c)) { console.log(`  ⤫ resoconto di una partita già raccontata da giorni (feed rilanciato): ${String(c.title).slice(0, 60)}`); return false; }
     if (isStalePrematch(c)) { console.log(`  ⤫ pre-partita di ieri (partita già giocata): ${String(c.title).slice(0, 60)}`); return false; }
     const d = c.draft;
     if (!d || !d.bodyIt || d.bodyIt.trim().length < 40) return false; // mai senza testo
@@ -175,7 +198,7 @@ let eligible = queue
     if (cls === 'confirm' && c.category === 'mercato') return false;
     // Regole editoriali (solo calcio maschile, niente club spacciati per nazionale…)
     if (!c.isDigest) {
-      const why = editorialReject(c.title, (c.players ?? []).length > 0);
+      const why = editorialReject(c.title, (c.players ?? []).length > 0) || (/femminil|calciatric|\bwomen\b|\bazzurr(e|ine)\b/i.test(`${c.draft?.title ?? ''} ${c.draft?.titleEn ?? ''}`) ? 'calcio femminile' : null);
       if (why) { console.log(`  ⤫ fuori linea (${why}): ${String(c.title).slice(0, 60)}`); return false; }
     }
     return ALL || d._fromSource || c.isDigest;
