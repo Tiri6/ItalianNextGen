@@ -680,6 +680,18 @@
         "Thomas Corigliano",
         "Marcello Fugazzola"
       ]
+    },
+    "under-17-italia-costa-d-avorio-2-1-sedicesimi-mondiale": {
+      "id": "18496324798129798",
+      "at": "2026-11-23T21:09:53.589Z",
+      "category": "performance",
+      "players": [
+        "Thomas Corigliano",
+        "Marcello Fugazzola",
+        "Diego Perillo",
+        "Jacopo Landi",
+        "Federico Croci"
+      ]
     }
   },
   "failures": {
@@ -688,5 +700,5 @@
     "under-17-l-italia-campione-d-europa-debutta-con-la-giamaica": 1,
     "mondiale-u17-italia-giamaica-6-0-doppietta-croci-esordio-show": 3
   },
-  "lastPostAt": "2026-11-22T14:41:41.025Z"
+  "lastPostAt": "2026-11-23T21:09:53.589Z"
 }
