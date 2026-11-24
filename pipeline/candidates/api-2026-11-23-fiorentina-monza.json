@@ -1,0 +1,29 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-23-fiorentina-monza",
+  "collectedAt": "2026-11-24T06:44:57.041Z",
+  "title": "Fiorentina-Monza 0-3: Ndour, Colombo e Kouadio in campo",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Mon, 23 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Cher Ndour",
+    "Leonardo Colombo",
+    "Eddy Kouadio"
+  ],
+  "category": "performance",
+  "score": 4,
+  "status": "pending",
+  "draft": {
+    "title": "Fiorentina-Monza 0-3: Ndour, Colombo e Kouadio in campo",
+    "titleEn": "Fiorentina 0-3 Monza: Ndour, Colombo and Kouadio in action",
+    "excerpt": "Fiorentina perde 0-3 con Monza: Ndour è sceso in campo, Colombo è sceso in campo e Kouadio è sceso in campo.",
+    "excerptEn": "Fiorentina lost 0-3 against Monza: Ndour played, Colombo played and Kouadio played.",
+    "bodyIt": "Fiorentina-Monza (Serie A): 0-3 per Fiorentina, sconfitta. In campo 3 giovani della nostra lista.\n\nCher Ndour (Fiorentina) è sceso in campo, rimanendo in campo 90 minuti.\n\nLeonardo Colombo (Monza) è sceso in campo, rimanendo in campo 90 minuti.\n\nEddy Kouadio (Monza) è sceso in campo, rimanendo in campo 74 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Fiorentina vs Monza (Serie A): 0-3 for Fiorentina, a defeat. 3 young players from our list were on the pitch.\n\nCher Ndour (Fiorentina) played, playing 90 minutes.\n\nLeonardo Colombo (Monza) played, playing 90 minutes.\n\nEddy Kouadio (Monza) played, playing 74 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-23T20:00:00.000Z"
+  }
+}
