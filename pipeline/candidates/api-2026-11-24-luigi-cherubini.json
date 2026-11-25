@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-24-luigi-cherubini",
+  "collectedAt": "2026-11-25T06:45:15.925Z",
+  "title": "Cherubini in gol, Benevento vince 5-0 contro Empoli",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Tue, 24 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Luigi Cherubini"
+  ],
+  "category": "performance",
+  "score": 7,
+  "status": "pending",
+  "draft": {
+    "title": "Cherubini in gol, Benevento vince 5-0 contro Empoli",
+    "titleEn": "Cherubini scores: Benevento win 5-0 against Empoli",
+    "excerpt": "Luigi Cherubini è andato a segno contro Empoli: Benevento ha vinto 5-0.",
+    "excerptEn": "Luigi Cherubini found the net against Empoli: Benevento won 5-0.",
+    "bodyIt": "Luigi Cherubini è andato a segno con il Benevento nella sfida contro Empoli (Serie B), chiusa sul 5-0 per i suoi: vittoria. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Luigi Cherubini found the net for Benevento against Empoli (Serie B), in a match that ended 5-0 for his side: a win. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-24T20:00:00.000Z"
+  }
+}

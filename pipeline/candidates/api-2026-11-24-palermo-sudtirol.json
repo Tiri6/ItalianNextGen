@@ -1,0 +1,28 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-24-palermo-sudtirol",
+  "collectedAt": "2026-11-25T06:45:15.922Z",
+  "title": "Palermo-Sudtirol 4-1: Vavassori e Rispoli in campo",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Tue, 24 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Dominic Vavassori",
+    "Fabio Rispoli"
+  ],
+  "category": "performance",
+  "score": 8,
+  "status": "pending",
+  "draft": {
+    "title": "Palermo-Sudtirol 4-1: Vavassori e Rispoli in campo",
+    "titleEn": "Palermo 4-1 Sudtirol: Vavassori and Rispoli in action",
+    "excerpt": "Palermo vince 4-1 con Sudtirol: Vavassori è andato a segno e ha fornito un assist e Rispoli è andato a segno.",
+    "excerptEn": "Palermo won 4-1 against Sudtirol: Vavassori scored and set up a goal and Rispoli scored.",
+    "bodyIt": "Palermo-Sudtirol (Serie B): 4-1 per Palermo, vittoria. In campo 2 giovani della nostra lista.\n\nDominic Vavassori (Palermo) è andato a segno e ha fornito un assist, rimanendo in campo 64 minuti.\n\nFabio Rispoli (Südtirol) è andato a segno, rimanendo in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Palermo vs Sudtirol (Serie B): 4-1 for Palermo, a win. 2 young players from our list were on the pitch.\n\nDominic Vavassori (Palermo) scored and set up a goal, playing 64 minutes.\n\nFabio Rispoli (Südtirol) scored, playing 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-24T20:00:00.000Z"
+  }
+}
