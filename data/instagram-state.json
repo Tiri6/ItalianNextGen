@@ -692,6 +692,26 @@
         "Jacopo Landi",
         "Federico Croci"
       ]
+    },
+    "taccuino-del-giorno-25-novembre-2026": {
+      "id": "18104741777560302",
+      "at": "2026-11-25T08:01:56.903Z",
+      "category": "taccuino",
+      "players": [
+        "Brando Moruzzi",
+        "Federico Steffanoni",
+        "Marco Palestra",
+        "Tommaso Martinelli",
+        "Tommaso Rubino"
+      ]
+    },
+    "cherubini-in-gol-benevento-vince-5-0-contro-empoli": {
+      "id": "18095532869200635",
+      "at": "2026-11-25T08:02:24.327Z",
+      "category": "performance",
+      "players": [
+        "Luigi Cherubini"
+      ]
     }
   },
   "failures": {
@@ -700,5 +720,5 @@
     "under-17-l-italia-campione-d-europa-debutta-con-la-giamaica": 1,
     "mondiale-u17-italia-giamaica-6-0-doppietta-croci-esordio-show": 3
   },
-  "lastPostAt": "2026-11-23T21:09:53.589Z"
+  "lastPostAt": "2026-11-25T08:02:24.327Z"
 }
