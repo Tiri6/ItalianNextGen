@@ -1,69 +1,74 @@
 {
   "version": 1,
-  "date": "2026-11-23",
-  "updatedAt": "2026-11-23T10:55:17.975Z",
+  "date": "2026-11-25",
+  "updatedAt": "2026-11-25T06:55:25.017Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "taccuino-2026-11-23",
-    "api-2026-11-22-paris-fc-angers",
-    "mwswgzv4-opkwq",
-    "api-2026-11-22-brando-moruzzi",
-    "mwswgzmg-99f5i",
-    "api-2026-11-22-alphadjo-cisse",
-    "api-2026-11-22-francesco-pio-esposito",
-    "mwswgzuu-ucpp8",
-    "mwswgzuu-bsfug",
-    "mwswgzux-5y0gv",
-    "mwswgzuy-u64zl",
-    "mwswgzy5-om2fr"
+    "taccuino-2026-11-25",
+    "api-2026-11-24-luigi-cherubini",
+    "api-2026-11-24-virtus-entella-hellas-verona",
+    "api-2026-11-24-palermo-sudtirol",
+    "mwvrccud-tovma",
+    "mwvrccsj-0iet1",
+    "mwvrcct1-5gxjc",
+    "mwvrcct8-e4bme",
+    "mwvrccxi-74lus",
+    "mwvrccte-do9eb",
+    "mwvrcczd-f4xp9",
+    "mwvrcd00-bzyqt",
+    "mwvrccy5-83l7u"
   ],
   "items": {
-    "taccuino-2026-11-23": {
+    "taccuino-2026-11-25": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-22-paris-fc-angers": {
+    "api-2026-11-24-luigi-cherubini": {
       "live": true,
       "instagram": true
     },
-    "mwswgzv4-opkwq": {
+    "api-2026-11-24-virtus-entella-hellas-verona": {
       "live": true,
       "instagram": false
     },
-    "api-2026-11-22-brando-moruzzi": {
+    "api-2026-11-24-palermo-sudtirol": {
       "live": true,
       "instagram": false
     },
-    "mwswgzmg-99f5i": {
+    "mwvrccud-tovma": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-22-alphadjo-cisse": {
+    "mwvrccsj-0iet1": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-22-francesco-pio-esposito": {
+    "mwvrcct1-5gxjc": {
+      "live": true,
+      "instagram": true
+    },
+    "mwvrcct8-e4bme": {
+      "live": true,
+      "instagram": false
+    },
+    "mwvrccxi-74lus": {
+      "live": true,
+      "instagram": false
+    },
+    "mwvrccte-do9eb": {
+      "live": true,
+      "instagram": true
+    },
+    "mwvrcczd-f4xp9": {
       "live": false,
       "instagram": false
     },
-    "mwswgzuu-ucpp8": {
+    "mwvrcd00-bzyqt": {
       "live": true,
       "instagram": false
     },
-    "mwswgzuu-bsfug": {
-      "live": false,
-      "instagram": false
-    },
-    "mwswgzux-5y0gv": {
-      "live": true,
-      "instagram": false
-    },
-    "mwswgzuy-u64zl": {
-      "live": false,
-      "instagram": false
-    },
-    "mwswgzy5-om2fr": {
+    "mwvrccy5-83l7u": {
       "live": false,
       "instagram": false
     }
