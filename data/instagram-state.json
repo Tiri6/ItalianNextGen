@@ -720,6 +720,15 @@
       "players": [
         "Dominic Vavassori"
       ]
+    },
+    "borussia-dortmund-su-kulla-il-sassuolo-ricorda-il-caso-reggi": {
+      "id": "17920637331468350",
+      "at": "2026-11-25T11:22:10.440Z",
+      "category": "news",
+      "players": [
+        "Luca Reggiani",
+        "Gabriel Kulla"
+      ]
     }
   },
   "failures": {
@@ -728,5 +737,5 @@
     "under-17-l-italia-campione-d-europa-debutta-con-la-giamaica": 1,
     "mondiale-u17-italia-giamaica-6-0-doppietta-croci-esordio-show": 3
   },
-  "lastPostAt": "2026-11-25T09:42:21.036Z"
+  "lastPostAt": "2026-11-25T11:22:10.440Z"
 }
