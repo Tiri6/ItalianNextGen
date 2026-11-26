@@ -1,74 +1,89 @@
 {
   "version": 1,
-  "date": "2026-11-25",
-  "updatedAt": "2026-11-25T06:55:25.017Z",
+  "date": "2026-11-26",
+  "updatedAt": "2026-11-26T13:02:49.033Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "taccuino-2026-11-25",
-    "api-2026-11-24-luigi-cherubini",
-    "api-2026-11-24-virtus-entella-hellas-verona",
-    "api-2026-11-24-palermo-sudtirol",
-    "mwvrccud-tovma",
-    "mwvrccsj-0iet1",
-    "mwvrcct1-5gxjc",
-    "mwvrcct8-e4bme",
-    "mwvrccxi-74lus",
-    "mwvrccte-do9eb",
-    "mwvrcczd-f4xp9",
-    "mwvrcd00-bzyqt",
-    "mwvrccy5-83l7u"
+    "mwx6s1pa-bt1rw",
+    "api-2026-11-25-issa-doumbia",
+    "api-2026-11-25-tommaso-berti",
+    "api-2026-11-25-giuseppe-ambrosino",
+    "api-2026-11-25-niccolo-pisilli",
+    "api-2026-11-25-francesco-pio-esposito",
+    "mwx6s1o1-32dln",
+    "mwx6s1nm-biooj",
+    "mwx6s1oo-fc4o6",
+    "mwx6s1uc-uooli",
+    "mwx6s1v0-euwdb",
+    "mwx6s1v0-laekx",
+    "mwx6s1v1-6m08v",
+    "mwx6s1vl-nzas3",
+    "mwx6s1vm-9ek6g",
+    "mwx6s1w4-93m0b"
   ],
   "items": {
-    "taccuino-2026-11-25": {
+    "mwx6s1pa-bt1rw": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-24-luigi-cherubini": {
+    "api-2026-11-25-issa-doumbia": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-24-virtus-entella-hellas-verona": {
-      "live": true,
-      "instagram": false
-    },
-    "api-2026-11-24-palermo-sudtirol": {
-      "live": true,
-      "instagram": false
-    },
-    "mwvrccud-tovma": {
+    "api-2026-11-25-tommaso-berti": {
       "live": true,
       "instagram": true
     },
-    "mwvrccsj-0iet1": {
-      "live": true,
-      "instagram": true
-    },
-    "mwvrcct1-5gxjc": {
-      "live": true,
-      "instagram": true
-    },
-    "mwvrcct8-e4bme": {
-      "live": true,
-      "instagram": false
-    },
-    "mwvrccxi-74lus": {
-      "live": true,
-      "instagram": false
-    },
-    "mwvrccte-do9eb": {
-      "live": true,
-      "instagram": true
-    },
-    "mwvrcczd-f4xp9": {
+    "api-2026-11-25-giuseppe-ambrosino": {
       "live": false,
       "instagram": false
     },
-    "mwvrcd00-bzyqt": {
+    "api-2026-11-25-niccolo-pisilli": {
+      "live": true,
+      "instagram": true
+    },
+    "api-2026-11-25-francesco-pio-esposito": {
       "live": true,
       "instagram": false
     },
-    "mwvrccy5-83l7u": {
+    "mwx6s1o1-32dln": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1nm-biooj": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1oo-fc4o6": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1uc-uooli": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1v0-euwdb": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1v0-laekx": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1v1-6m08v": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1vl-nzas3": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1vm-9ek6g": {
+      "live": true,
+      "instagram": false
+    },
+    "mwx6s1w4-93m0b": {
       "live": false,
       "instagram": false
     }
