@@ -1,25 +1,29 @@
 ---
-title: "Under 15, Battisti convoca 66 azzurrini per il Torneo di Natale a Novarello"
-titleEn: "Italy U15, Battisti names 66 players for Christmas Tournament in Novarello"
-excerpt: "La Nazionale Under 15 torna in campo dal 27 al 29 novembre per il consueto appuntamento invernale. Il tecnico ha selezionato giovani classe 2012 con l'eccezione dell'attaccante Alessandro Criscito del Genoa."
-excerptEn: "Italy U15 returns to action from November 27-29 for the traditional winter event. Coach Battisti selected players born in 2012, with the exception of Genoa forward Alessandro Criscito."
-date: 2026-11-25
-publishedAt: 2026-11-25T12:00:00+01:00
+title: "Under 15, Battisti convoca 66 azzurrini per il torneo di Natale"
+titleEn: "Italy U15, Battisti calls up 66 players for Christmas tournament"
+excerpt: "Il commissario tecnico Enrico Battisti ha diramato la lista dei convocati per la manifestazione di Novarello (27-29 novembre). Tra i selezionati anche tre giovani del Milan e il giovane Criscito del Genoa."
+excerptEn: "Head coach Enrico Battisti has announced his squad for the tournament in Novarello (27-29 November). The squad includes three young Milan players and Genoa's talented Criscito."
+date: 2026-11-26
+publishedAt: 2026-11-26T17:00:00+01:00
 category: news
 players: []
 competitions: ["under-15-16"]
-source: "Tuttocampo"
-sourceUrl: "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTGdLSWNRRjN1dXJTVUcydmZid2FzeVhkaGhDQndLX0UyOHZPSGlzZ0c0SXVNNWJhUnA4ajh5OXhXTHBQbzVOYm1KeWotTGxWSURIcFlzeHJwWks1N2pwdXE5SU5BNjRoMzdxRXpjTjUtek5LV0FVbmVMM1prRTNHNGRFTW5hVnNoWWR3OVA3anJxbXltRFZXQnJwLTdLa3pDSG9uVGFQbDNfOGdWX2Z4YzVPbzNlOE5iVUtOY2dfNXVUM00zSmpubThqT19waDg2TFRnRtIB2AFBVV95cUxQMmNUbTE2aXpQaUxwc2xtRkhPQ095M0RMUkoySnRGZ001ZDEwSmxLZ0tUVVZjTWlvTm9GZ1Q4TUJuRVRVdWZvenY2aVRhSXdkQzh0bG1ZWlZ6aVVwdFdIVUlXZzhPMDhlMGZMYkc4X01OS0tHU2N3N19wNjd1SjJfYUlZZFFNWmJud0lqQ1l4SVdjeTJYbTd5clJDckhPTFJ0Mklad0pWNlFIeXh4ekJUTV9UTUFXMTJFcEYzOTJuWDRJZ1JtbnB3aFFNTnN5WEdnd1lzMXdOeGQ?oc=5"
-sourceDate: "2026-11-24T20:04:00.000Z"
+source: "Milan News"
+sourceUrl: "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdEZzTFJ2Vm9KUF83a29vQUdfQnA0UGVZbFZJNjJjV2RMdVZvRmNCQjF3d1JXQzlVOTFhSnVGX0xjSkRpYU1KbHZVWUR5RHJfUEJib1Y1ZklsTkFsZVo5WHJBYkg5WnpFd012RUZhQUNPaVRPWjBYUWZEVWthNFVsYjZSMU9IZUxpZ2tGZ2hKaw?oc=5"
+sourceDate: "2026-11-25T13:40:03.000Z"
 social: false
 ---
 
-La Nazionale Under 15 riprenderà gli allenamenti e le competizioni presso l'impianto di Novarello a fine novembre, dopo la partecipazione al mondiale giovanile disputatosi in Azerbaigian lo scorso mese, dove gli azzurrini hanno concluso in dodicesima posizione. L'allenatore Enrico Battisti ha diramato una lista di 66 convocati per l'occasione, composta principalmente da calciatori della leva 2012.
+La Federazione ha ufficializzato i 66 azzurrini convocati dal ct Enrico Battisti per il Torneo di Natale che si disputerà a Novarello tra il 27 e il 29 novembre. L'organico, composto quasi interamente da calciatori del 2012, conta una sola eccezione: Alessandro Criscito, attaccante classe 2013 in forza al Genoa e figlio d'arte—suo padre Domenico ha vestito 26 volte la maglia della nazionale maggiore, mentre il fratello Alfredo difende i colori liguri ed è anch'egli in lista.
 
-L'unica eccezione alla regola anagrafica è rappresentata da Alessandro Criscito, attaccante classe 2013 tesserato con il Genoa, figlio del difensore Domenico (26 presenze nella nazionale maggiore) e fratello di Alfredo, anch'egli convocato tra i difensori. I 66 giocatori verranno suddivisi in tre squadre da ventidue elementi ciascuna, che si contenderanno il titolo attraverso una formula triangolare con partite incrociate. La competizione prenderà il via venerdì 27 novembre, con il primo incontro tra le selezioni A e B in programma alle quindici. Sabato 28 e domenica 29 novembre scenderanno in campo i giocatori della selezione C, affrontando rispettivamente la perdente e la vincente della partita inaugurale.
+I convocati saranno divisi in tre gruppi da 22 elementi ciascuno (Selezione A, B e C) per un torneo triangolare. Il programma prevede l'avvio venerdì 27 novembre alle 15 con la sfida tra A e B, mentre la Selezione C debutterà sabato 28 novembre (ore 15) affrontando la perdente della gara d'apertura, prima di giocare domenica 29 (ore 11) contro la vincente.
+
+Tra i nomi presenti figurano tre giovani del Milan: il difensore Ricardo Baratti, il terzino Alessandro Lupica e l'attaccante Andrea Kostyuk. Nella rosa anche il centrocampista Malick Koite e l'attaccante Nicolò Bini dell'Atalanta, oltre a talenti provenienti dalle principali società italiane.
 
 <!--EN-->
 
-Italy's Under 15 squad will resume training and competitive action in Novarello at the end of November, following their participation in the youth world championship held in Azerbaijan last month, where the young Azzurri finished in twelfth place. Coach Enrico Battisti has announced a squad of 66 players for the occasion, comprised primarily of footballers born in 2012.
+The Italian Football Federation has confirmed 66 young players called up by head coach Enrico Battisti for the Christmas Tournament in Novarello from 27 to 29 November. The squad is composed almost entirely of 2012-born players, with just one exception: Alessandro Criscito, a 2013-born striker at Genoa and son of Domenico—a former holder of 26 caps for Italy's senior side—while his brother Alfredo, also on the list, plays as a defender for the Ligurian club.
 
-The sole exception to the age rule is Genoa forward Alessandro Criscito, born in 2013 and son of defender Domenico (26 appearances for the senior national team) and brother of Alfredo, also selected among the defenders. The 66 players will be split into three squads of twenty-two players each, competing for the title through a triangular format with crossover matches. Competition will begin on Friday, November 27, with the opening match between selections A and B scheduled for 3:00 p.m. On Saturday, November 28 and Sunday, November 29, players from selection C will take the field, facing respectively the loser and winner of the opening game.
+The convoked players will be divided into three groups of 22 each (Selection A, B, and C) for a triangular tournament. The schedule kicks off Friday 27 November at 3 p.m. with a match between A and B, while Selection C debuts Saturday 28 November (3 p.m.) against the loser of the opening game, before playing Sunday 29 (11 a.m.) against the winner.
+
+Among the names called up are three Milan youngsters: defender Ricardo Baratti, full-back Alessandro Lupica, and striker Andrea Kostyuk. The roster also features Atalanta's midfielder Malick Koite and forward Nicolò Bini, alongside talents from Italy's leading academies.

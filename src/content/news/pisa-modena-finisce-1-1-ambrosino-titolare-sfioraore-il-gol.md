@@ -1,0 +1,25 @@
+---
+title: "Pisa-Modena finisce 1-1, Ambrosino titolare sfioraore il gol"
+titleEn: "Pisa-Modena draws 1-1, Ambrosino starts and nearly scores"
+excerpt: "Nella tredicesima giornata di Serie B, il match tra gli emiliani e i toscani si conclude in parità. Per il Napoli, buona prestazione di Ambrosino da titolare con Modena, mentre Rao entra solo in chiusura con Pisa."
+excerptEn: "In Serie B's matchday 13, the encounter ends level. Naples' loanees have different fortunes: Ambrosino starts strong for Modena, while Rao comes off the bench late for Pisa."
+date: 2026-11-26
+publishedAt: 2026-11-26T14:02:00+01:00
+category: performance
+players: ["Emanuele Rao", "Giuseppe Ambrosino"]
+competitions: []
+source: "Tutto Napoli"
+sourceUrl: "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnJ2WS1RSGxmY2JUVTVNOXVGM3hoaXpVTGFqQ0JDaHpidktxRlNxYU5vcVpTMXNhYi1ERUJqcV9FdzZCS0k5OWFuRzVwTUpyaDlCUzh2SHpTMUxkYnhOZFZzVUhFUE5tdl96NTkzYXFvUzhzQzdQX2gyUk9KT1VtLUNxQ1pkdHVsM3ZPMlRMMTVILVk1UG5MZTFrSTBqMkx5LXVIS0s5cmRUOEdPcGJqLUM1OXBuYUlENmtJX0JzczlVN0o0TlFyZy1YbzRfRVpaYWxTdHE3UTNDdTg?oc=5"
+sourceDate: "2026-11-25T21:40:15.000Z"
+socialPick: true
+---
+
+La sfida tra Pisa e Modena della tredicesima giornata si conclude senza vincitori. Dopo un primo tempo equilibrato, il vantaggio viene sbloccato dai toscani al 47' con Marras, favorito da una deviazione difensiva. Una breve interruzione per il blackout dell'illuminazione dell'impianto interrompe il flusso della gara, ma gli ospiti reagiscono trovando il pareggio al 64' con Alessandro Bianco, che approfitta di un errore in fase costruttiva.
+
+Giuseppe Ambrosino scende in campo dal primo minuto nel Modena, affiancando Belotti nel reparto offensivo. Il centravanti partenopeo crea pericoli nella meta campo avversaria e sfiora la rete nel primo tempo. Al 69' propone anche un'azione interessante sulla fascia sinistra, anche se il cross non trova la giusta conclusione. Nel secondo tempo si prende anche un'ammonizione al 73'. Percorso diverso per Emanuele Rao, che parte dalla panchina con la maglia del Pisa e subentra soltanto nell'82' al posto di Tramoni, senza riuscire a incidere negli ultimi minuti della partita.
+
+<!--EN-->
+
+The matchday 13 clash between Pisa and Modena ends in a stalemate. Following a balanced first half, the hosts take the lead at the 47th minute through Marras, who benefits from a defensive deflection. A brief stoppage due to floodlight issues interrupts the rhythm, but the visitors equalize at the 64th with Alessandro Bianco, capitalizing on a construction error.
+
+Giuseppe Ambrosino starts for Modena, pairing with Belotti in attack. The Napoli loanee creates problems in the opponent's box and comes close to scoring in the opening period. At the 69th minute he generates an engaging play down the left wing, though the cross fails to find a finisher. He is also booked at the 73rd. Emanuele Rao follows a different path: he starts on the bench with Pisa and replaces Tramoni at the 82nd minute, unable to influence the closing stages of the encounter.

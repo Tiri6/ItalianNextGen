@@ -1,0 +1,29 @@
+---
+title: "Dortmund su Kulla: il Sassuolo blindato fino al 2030"
+titleEn: "Dortmund eyes Kulla: Sassuolo holds firm until 2030"
+excerpt: "Il Borussia Dortmund ha avviato i primi contatti per l'attaccante del Sassuolo, valutato intorno ai 5 milioni. Ma i neroverdi hanno già rinnovato il contratto al classe 2008 fino al termine del decennio."
+excerptEn: "Borussia Dortmund has opened initial talks for Sassuolo's striker, valued around 5 million euros. But the Emilia club has already extended the 2008-born prospect's contract through 2030."
+date: 2026-11-26
+publishedAt: 2026-11-26T16:20:00+01:00
+category: news
+players: ["Gabriel Kulla"]
+competitions: []
+source: "MondoPrimavera"
+sourceUrl: "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXc3NnN6blNSeEtUS0lSTWRuNGJMNks4bi1PQWJzRW55MGRBRFdSZ25BNXRGVWxzTnBKR2k2ZXJBbVA5RnZLY3ZNd2ttREZpc1FkakU3NVRoX2tHUEU4Tk5rZkN3aDk5VHVOZWhuVUZ6N1NvdTNubzhVSDk5dHhwTkZ4QWgyaFl2YmJwRU1ia2RGYWlUQVlKQXBWaFNrcXRtMjNMWlNJQjktQjZlam5SOE8wQ0prV2c?oc=5"
+sourceDate: "2026-11-25T21:27:47.000Z"
+social: false
+---
+
+L'attenzione dei grandi club europei su Gabriel Kulla non accenna a diminuire. Secondo le indiscrezioni provenienti dall'Albania e riportate in Germania, il Borussia Dortmund ha iniziato a sondare il terreno con il Sassuolo per l'attaccante classe 2008, ponendo una valutazione iniziale attorno ai 5 milioni di euro. Il club della Ruhr, attualmente capolista in Bundesliga con 24 punti, rappresenta una delle destinazioni più appetibili per i giovani talenti europei.
+
+Le cifre che sostengono Kulla sono significative: 16 gol e 8 assist nella scorsa stagione in Primavera 1, proseguendo il rendimento anche nel campionato in corso con 8 reti finora. Il ragazzo ha già debuttato in Serie A con due presenze contro Atalanta e Fiorentina, confermando di possedere le caratteristiche ricercate dagli scout tedeschi: mobilità, struttura fisica e già nel giro dell'Under 19 albanese.
+
+Ma il Sassuolo ha già messo i paletti. Lo scorso giugno la dirigenza emiliana ha sottoscritto con Kulla un accordo valido fino al 30 giugno 2030, trasformando eventuali trattative da posizione di forza. Non è la prima volta che il Dortmund guarda in casa neroverde: nel 2024 portò in Germania il difensore Luca Reggiani, operazione che aveva creato qualche frizione. Questa volta, però, le carte in tavola sono diverse.
+
+<!--EN-->
+
+European interest in Gabriel Kulla continues unabated. According to reports from Albania and German outlets, Borussia Dortmund has begun exploring options with Sassuolo for the 2008-born striker, with an initial valuation around 5 million euros. The Ruhr club, currently topping the Bundesliga with 24 points, represents one of the most attractive destinations for emerging European talent.
+
+Kulla's statistics speak volumes: 16 goals and 8 assists last season in Primavera 1, continuing his output in the current campaign with 8 strikes so far. The prospect has already made two Serie A appearances against Atalanta and Fiorentina, displaying the qualities German scouts seek: mobility, physical build and established experience with Albania's U19 squad.
+
+But Sassuolo has already fortified their position. Last June the Emilia-based club tied Kulla to a contract running until June 30, 2030, placing them in control of any potential negotiations. This is not the first time Dortmund has looked at Sassuolo's academy: in 2024 they secured defender Luca Reggiani, a move that stirred some friction. This time, however, the dynamics are reversed.

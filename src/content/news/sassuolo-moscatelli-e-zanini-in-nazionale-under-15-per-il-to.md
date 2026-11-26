@@ -1,0 +1,25 @@
+---
+title: "Sassuolo, Moscatelli e Zanini in nazionale Under 15 per il Torneo di Natale"
+titleEn: "Sassuolo duo Moscatelli and Zanini called up for Italy U-15 Christmas Tournament"
+excerpt: "Due giovani neroverde convocati da Enrico Battisti per la manifestazione in programma a Novarello dal 27 al 29 novembre. L'appuntamento rappresenta un'importante vetrina per i migliori prospetti della generazione 2012."
+excerptEn: "Two Sassuolo prospects selected by coach Enrico Battisti for the tournament scheduled in Novarello from November 27-29. The event serves as a key showcase for Italy's best young talents from the 2012 generation."
+date: 2026-11-26
+publishedAt: 2026-11-26T17:40:00+01:00
+category: news
+players: []
+competitions: ["under-15-16"]
+source: "Sassuolo News"
+sourceUrl: "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWd1LUlUUUNqQ2RGYmFzZmEyS1RlT2RZdzRBdU02SDl0c01NV2toaU5QNEh5M3N6TzQ1QVVlT1VLalBJR1FMOGlzVVdqeElya3gzVE9KMGY1T0EtX2p3ZFdJbllweEFJYmc5YVpoaHRybzRyQ1pmQk82OFJWTzQ1bVdxbGhlWmp2NTM4Yk1uR2g4QVVxWmNPdURVZ3FKOTB0aXVNLXdHS1A3Nnh0MXlxdUdqeVBuR0dQVXFSXzVJS2hNV3JFZnc?oc=5"
+sourceDate: "2026-11-25T17:55:23.000Z"
+social: false
+---
+
+Il settore giovanile del Sassuolo sarà rappresentato al Torneo di Natale dall'Under 15 azzurra con due convocazioni: David Moscatelli, inserito nel gruppo dei difensori, e Giuseppe Zanini, selezionato tra gli attaccanti. La manifestazione, che si terrà presso il Centro Sportivo Novarello Villaggio Azzurro in provincia di Novara, vedrà la partecipazione di 66 calciatori di vertice della categoria, tra cui alcuni figli d'arte come Alfredo e Alessandro Criscito del Genoa.
+
+Il commissario tecnico federale Battisti avrà a disposizione tre giorni per osservare i migliori prospetti della generazione 2012 attraverso un triangolare all'italiana: i 66 convocati saranno suddivisi in tre selezioni da 22 giocatori ciascuna. Tra i nomi più interessanti figurano anche talenti che già militano in società europee di rilievo, come Dubem Okechukwu del Manchester City. L'appuntamento di Novarello segue la recente partecipazione dell'Italia alla FIFA U-15 World Cup & Festival disputata in Azerbaigian, dove gli Azzurrini hanno concluso al dodicesimo posto.
+
+<!--EN-->
+
+Sassuolo's youth academy will have two representatives at Italy's U-15 Christmas Tournament: David Moscatelli in the defensive contingent and Giuseppe Zanini among the forwards. The event at the Novarello Villaggio Azzurro facility in the province of Novara will host 66 top-tier prospects from the 2012 generation, including notable family connections like Alfredo and Alessandro Criscito from Genoa.
+
+Coach Battisti will have three days to evaluate the country's finest young talents through a round-robin format: the 66 convocations will be split into three squads of 22 players each. The roster also includes players already competing at prestigious European academies, such as Dubem Okechukwu of Manchester City. The Novarello gathering comes after Italy's recent participation in the FIFA U-15 World Cup & Festival held in Azerbaijan, where the Azzurrini finished twelfth overall.
