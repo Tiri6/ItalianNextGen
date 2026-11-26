@@ -318,14 +318,14 @@
       "teamId": "u21",
       "team": "Under 21",
       "phase": "in-corso",
-      "period": "Qualificazioni fino a ott 2026 · Fase finale estate 2027",
-      "periodEn": "Qualifiers until Oct 2026 · Finals summer 2027",
+      "period": "Fase finale 16 giugno-3 luglio 2027",
+      "periodEn": "Finals 16 June-3 July 2027",
       "short": "Euro U21 2027",
       "shortEn": "U21 Euro 2027",
       "name": "Europeo Under 21 — Albania/Serbia 2027",
       "nameEn": "UEFA Under 21 Euro — Albania/Serbia 2027",
-      "format": "Nove gironi di qualificazione fino a ottobre 2026: passano le prime e la migliore seconda, le altre seconde agli spareggi di novembre. Fase finale a 16 nell'estate 2027. L'Italia è nel Gruppo E con Polonia, Svezia, Macedonia del Nord, Montenegro e Armenia.",
-      "formatEn": "Nine qualifying groups until October 2026: winners and the best runner-up go through, the other runners-up enter November play-offs. A 16-team finals follows in summer 2027. Italy are in Group E with Poland, Sweden, North Macedonia, Montenegro and Armenia.",
+      "format": "Fase finale a 16 squadre in Albania e Serbia (16 giugno-3 luglio 2027, fonti discordi di un giorno). Sorteggio del 26 novembre 2026 a Belgrado: l'Italia è nel Gruppo B con Albania, Spagna e Finlandia. Passano ai quarti le prime due di ogni girone (incroci A-C e B-D); tre posti per i Giochi di Los Angeles 2028.",
+      "formatEn": "16-team finals in Albania and Serbia (16 June-3 July 2027, sources differ by a day). Draw held on 26 November 2026 in Belgrade: Italy are in Group B with Albania, Spain and Finland. The top two in each group reach the quarter-finals (A-C and B-D crossovers); three places at the Los Angeles 2028 Olympics.",
       "honours5": [
         {
           "edition": "2017",
@@ -357,11 +357,9 @@
       "italyEn": "Italy and Spain remain the joint record-holders with 5 titles. The road to 2027 began in La Spezia in September 2025; the last qualifying window is September/October 2026.",
       "teams": [
         "Italia",
-        "Polonia",
-        "Svezia",
-        "Macedonia del Nord",
-        "Montenegro",
-        "Armenia"
+        "Albania",
+        "Spagna",
+        "Finlandia"
       ],
       "squad": [
         "Simone Pafundi",
@@ -421,14 +419,19 @@
       ],
       "events": [
         {
-          "date": "2026-11-12",
-          "label": "Eventuali spareggi (finestra di novembre)",
-          "labelEn": "Possible play-offs (November window)"
+          "date": "2027-06-16",
+          "label": "Italia-Finlandia a Elbasan",
+          "labelEn": "Italy-Finland in Elbasan"
         },
         {
-          "date": "2027-06-15",
-          "label": "Fase finale in Albania e Serbia (data indicativa)",
-          "labelEn": "Finals in Albania and Serbia (indicative)"
+          "date": "2027-06-19",
+          "label": "Albania-Italia a Tirana",
+          "labelEn": "Albania-Italy in Tirana"
+        },
+        {
+          "date": "2027-06-22",
+          "label": "Italia-Spagna a Tirana",
+          "labelEn": "Italy-Spain in Tirana"
         }
       ],
       "newsKeywords": [

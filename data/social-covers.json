@@ -17,5 +17,11 @@
   "club": "Italia",
   "kind": "mondiali",
   "label": "Doha"
+ },
+ "europeo-under-21-2027-italia-nel-girone-b-con-spagna-albania-e-finlandia": {
+  "type": "stadiocoppa",
+  "club": "Italia",
+  "kind": "europei",
+  "label": "Euro U21"
  }
 }
