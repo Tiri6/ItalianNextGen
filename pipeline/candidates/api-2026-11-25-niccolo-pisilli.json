@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-25-niccolo-pisilli",
+  "collectedAt": "2026-11-26T06:45:25.211Z",
+  "title": "Pisilli in campo 90': Roma pareggia 2-2 con Paris Saint Germain",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Wed, 25 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Niccolò Pisilli"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Pisilli in campo 90': Roma pareggia 2-2 con Paris Saint Germain",
+    "titleEn": "Pisilli plays 90 minutes: Roma draw 2-2 against Paris Saint Germain",
+    "excerpt": "Niccolò Pisilli ha giocato una partita solida contro Paris Saint Germain: Roma ha pareggiato 2-2.",
+    "excerptEn": "Niccolò Pisilli put in a solid performance against Paris Saint Germain: Roma drew 2-2.",
+    "bodyIt": "Niccolò Pisilli ha giocato una partita solida con il Roma nella sfida contro Paris Saint Germain (UEFA Champions League), chiusa sul 2-2 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Niccolò Pisilli put in a solid performance for Roma against Paris Saint Germain (UEFA Champions League), in a match that ended 2-2 for his side: a draw. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-25T20:00:00.000Z"
+  }
+}

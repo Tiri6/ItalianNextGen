@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-25-giuseppe-ambrosino",
+  "collectedAt": "2026-11-26T06:45:25.210Z",
+  "title": "Ambrosino in campo 90': Modena pareggia 1-1 con Pisa",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Wed, 25 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Giuseppe Ambrosino"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Ambrosino in campo 90': Modena pareggia 1-1 con Pisa",
+    "titleEn": "Ambrosino plays 90 minutes: Modena draw 1-1 against Pisa",
+    "excerpt": "Giuseppe Ambrosino ha giocato una partita solida contro Pisa: Modena ha pareggiato 1-1.",
+    "excerptEn": "Giuseppe Ambrosino put in a solid performance against Pisa: Modena drew 1-1.",
+    "bodyIt": "Giuseppe Ambrosino ha giocato una partita solida con il Modena nella sfida contro Pisa (Serie B), chiusa sul 1-1 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Giuseppe Ambrosino put in a solid performance for Modena against Pisa (Serie B), in a match that ended 1-1 for his side: a draw. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-25T20:00:00.000Z"
+  }
+}

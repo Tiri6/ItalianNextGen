@@ -1,5 +1,326 @@
 {
-  "generatedAt": "2026-11-25T06:55:45.632Z",
-  "day": "2026-11-25",
-  "items": []
+  "generatedAt": "2026-11-26T06:48:51.739Z",
+  "day": "2026-11-26",
+  "items": [
+    {
+      "id": "mwx6s1pa-bt1rw",
+      "file": "mwx6s1pa-bt1rw.json",
+      "title": "Pisa-Modena finisce 1-1, Ambrosino titolare sfioraore il gol",
+      "excerpt": "Nella tredicesima giornata di Serie B, il match tra gli emiliani e i toscani si conclude in parità. Per il Napoli, buona prestazione di Ambrosino da titolare con Modena, mentre Rao entra solo in chiusura con Pisa.",
+      "category": "performance",
+      "source": "Tutto Napoli",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnJ2WS1RSGxmY2JUVTVNOXVGM3hoaXpVTGFqQ0JDaHpidktxRlNxYU5vcVpTMXNhYi1ERUJqcV9FdzZCS0k5OWFuRzVwTUpyaDlCUzh2SHpTMUxkYnhOZFZzVUhFUE5tdl96NTkzYXFvUzhzQzdQX2gyUk9KT1VtLUNxQ1pkdHVsM3ZPMlRMMTVILVk1UG5MZTFrSTBqMkx5LXVIS0s5cmRUOEdPcGJqLUM1OXBuYUlENmtJX0JzczlVN0o0TlFyZy1YbzRfRVpaYWxTdHE3UTNDdTg?oc=5",
+      "players": [
+        "Emanuele Rao",
+        "Giuseppe Ambrosino"
+      ],
+      "sourceDate": "2026-11-25T21:40:15.000Z",
+      "isDigest": false,
+      "bodyPreview": "La sfida tra Pisa e Modena della tredicesima giornata si conclude senza vincitori. Dopo un primo tempo equilibrato, il vantaggio viene sbloccato dai toscani al 47' con Marras, favorito da una deviazione difensiva. Una breve interruzione per il blackout dell'illuminazione dell'impianto interrompe il flusso della gara, ma gli ospiti reagiscono trovando il pareggio al 64' con Alessandro Bianco, che approfitta di un erro",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-25-issa-doumbia",
+      "file": "api-2026-11-25-issa-doumbia.json",
+      "title": "Doumbia in campo 76': Sporting CP pareggia 2-2 con Manchester United",
+      "excerpt": "Issa Doumbia ha giocato una partita solida contro Manchester United: Sporting CP ha pareggiato 2-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Issa Doumbia"
+      ],
+      "sourceDate": "2026-11-25T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Issa Doumbia ha giocato una partita solida con il Sporting CP nella sfida contro Manchester United (UEFA Champions League), chiusa sul 2-2 per i suoi: pareggio. Il giovane è rimasto in campo 76 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-25-tommaso-berti",
+      "file": "api-2026-11-25-tommaso-berti.json",
+      "title": "Berti in campo 90': Cremonese perde 0-1 con Avellino",
+      "excerpt": "Tommaso Berti ha giocato una partita solida contro Avellino: Cremonese ha perso 0-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Tommaso Berti"
+      ],
+      "sourceDate": "2026-11-25T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tommaso Berti ha giocato una partita solida con il Cremonese nella sfida contro Avellino (Serie B), chiusa sul 0-1 per i suoi: sconfitta. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-25-giuseppe-ambrosino",
+      "file": "api-2026-11-25-giuseppe-ambrosino.json",
+      "title": "Ambrosino in campo 90': Modena pareggia 1-1 con Pisa",
+      "excerpt": "Giuseppe Ambrosino ha giocato una partita solida contro Pisa: Modena ha pareggiato 1-1.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Giuseppe Ambrosino"
+      ],
+      "sourceDate": "2026-11-25T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Giuseppe Ambrosino ha giocato una partita solida con il Modena nella sfida contro Pisa (Serie B), chiusa sul 1-1 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Giuseppe Ambrosino) di un'altra notizia in questa lista: «Pisa-Modena finisce 1-1, Ambrosino titolare sfioraore il gol». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-25-niccolo-pisilli",
+      "file": "api-2026-11-25-niccolo-pisilli.json",
+      "title": "Pisilli in campo 90': Roma pareggia 2-2 con Paris Saint Germain",
+      "excerpt": "Niccolò Pisilli ha giocato una partita solida contro Paris Saint Germain: Roma ha pareggiato 2-2.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Niccolò Pisilli"
+      ],
+      "sourceDate": "2026-11-25T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Niccolò Pisilli ha giocato una partita solida con il Roma nella sfida contro Paris Saint Germain (UEFA Champions League), chiusa sul 2-2 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-25-francesco-pio-esposito",
+      "file": "api-2026-11-25-francesco-pio-esposito.json",
+      "title": "Esposito in campo 86': Inter vince 2-0 con VfB Stuttgart",
+      "excerpt": "Francesco Pio Esposito ha giocato una partita solida contro VfB Stuttgart: Inter ha vinto 2-0.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Francesco Pio Esposito"
+      ],
+      "sourceDate": "2026-11-25T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Francesco Pio Esposito ha giocato una partita solida con il Inter nella sfida contro VfB Stuttgart (UEFA Champions League), chiusa sul 2-0 per i suoi: vittoria. Il giovane è rimasto in campo 86 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Francesco Pio Esposito) di un'altra notizia in questa lista: «Napoli torna su Esposito, la Juventus valuta Ekhator in prestito». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "mwx6s1o1-32dln",
+      "file": "mwx6s1o1-32dln.json",
+      "title": "Camarda out per la Grecia, Amorim tra Ramos e l'alternativa Cissè",
+      "excerpt": "L'infortunio alla caviglia esclude il giovane attaccante dalla trasferta del Milan a Pireo. Il tecnico rossonero deve scegliere tra il peso specifico di Ramos e la mobilità di Cissè.",
+      "category": "performance",
+      "source": "Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWJHZTVtRmdqdjlFazNEWGpuUFlsbXk3ZUQ0eXN1Y1BDNkJ5ZFI5ZWpSbnJhYk5MaVRkTzhtcVdMS2NNRF9WR3dCalpYSlZ3cVQtZ2FGT2NPQWY5RVlSVFZ0WDJJX3diVzlUeGF1dndXdDZxQWYxNVhkOGlfb1E1WnBuNm5NN2tVcFNvNEFNbHE0eTBSQXVtcWtkREh6b1I0c0hRU255REZncWxPMTZHSWU3STZRZzhnWVRMVUxHOEVGNGc4ck1NNHBQeU5DcldtbHpZRW9mZl9hX0RIZTExOWV0OA?oc=5",
+      "players": [
+        "Francesco Camarda",
+        "Alphadjo Cissè"
+      ],
+      "sourceDate": "2026-11-25T12:47:39.000Z",
+      "isDigest": false,
+      "bodyPreview": "Francesco Camarda non sarà della partita per il Milan in Grecia. Un problema alla caviglia, accusato nella giornata di rifinitura, ha spinto lo staff medico rossonero a lasciare il giovane attaccante a riposo. La scelta rispecchia una strategia prudenziale: evitare rischi su una trasferta ad alta intensità per scongiurare ricadute che potrebbero allungare i tempi di recupero oltre la singola gara europea. Ruben Amori",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1nm-biooj",
+      "file": "mwx6s1nm-biooj.json",
+      "title": "Napoli torna su Esposito, la Juventus valuta Ekhator in prestito",
+      "excerpt": "Le manovre di mercato di gennaio si definiscono: i partenopei riprendono la pista verso il talento neroverde dopo l'infortunio di Vergara, mentre i bianconeri studiano il prestito dell'esterno della Juve.",
+      "category": "news",
+      "source": "Sassuolo News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ205ejJaOHptSGpuYjZ3VXlvd2EwZG84M3RzUjR1dnVNLUttNG1laW9BaXdjVFZGZXFnX3JtVHRfeEt1dzFUNVI4cTBpSnFCY2c1T09XdTh0ZGJDWVZfRjhXeG5kbXpyRDNhQVRxUWNBaHFOSHpzdjU3LXlwOVpEQng2TTdkbC16SXM4WmlyZ2pGMXFFQ2FKRzJZWTU5am4zdkVESjNuaEhfWU4wZkVKLWlBX0luYnRnbFFJenQybXRxcUhMOENMdw?oc=5",
+      "players": [
+        "Francesco Pio Esposito",
+        "Jeff Ekhator",
+        "Sebastiano Esposito"
+      ],
+      "sourceDate": "2026-11-26T01:07:35.000Z",
+      "isDigest": false,
+      "bodyPreview": "L'infortunio di Vergara riapre i giochi nel mercato napoletano. Il Napoli torna a bussare alla porta del Sassuolo per Sebastiano Esposito, il talentuoso attaccante che già in estate aveva stuzzicato l'interesse azzurro. Ora la situazione si ripresenta con urgenza per la squadra di De Laurentiis, che valuta come risolvere una casella rimasta scoperta dopo il ko del difensore. Parallelo alle operazioni in entrata, la J",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1oo-fc4o6",
+      "file": "mwx6s1oo-fc4o6.json",
+      "title": "Dortmund su Kulla: il Sassuolo blindato fino al 2030",
+      "excerpt": "Il Borussia Dortmund ha avviato i primi contatti per l'attaccante del Sassuolo, valutato intorno ai 5 milioni. Ma i neroverdi hanno già rinnovato il contratto al classe 2008 fino al termine del decennio.",
+      "category": "news",
+      "source": "MondoPrimavera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXc3NnN6blNSeEtUS0lSTWRuNGJMNks4bi1PQWJzRW55MGRBRFdSZ25BNXRGVWxzTnBKR2k2ZXJBbVA5RnZLY3ZNd2ttREZpc1FkakU3NVRoX2tHUEU4Tk5rZkN3aDk5VHVOZWhuVUZ6N1NvdTNubzhVSDk5dHhwTkZ4QWgyaFl2YmJwRU1ia2RGYWlUQVlKQXBWaFNrcXRtMjNMWlNJQjktQjZlam5SOE8wQ0prV2c?oc=5",
+      "players": [
+        "Gabriel Kulla"
+      ],
+      "sourceDate": "2026-11-25T21:27:47.000Z",
+      "isDigest": false,
+      "bodyPreview": "L'attenzione dei grandi club europei su Gabriel Kulla non accenna a diminuire. Secondo le indiscrezioni provenienti dall'Albania e riportate in Germania, il Borussia Dortmund ha iniziato a sondare il terreno con il Sassuolo per l'attaccante classe 2008, ponendo una valutazione iniziale attorno ai 5 milioni di euro. Il club della Ruhr, attualmente capolista in Bundesliga con 24 punti, rappresenta una delle destinazion",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1uc-uooli",
+      "file": "mwx6s1uc-uooli.json",
+      "title": "U15, Torino e Juventus dominano le convocazioni per il Torneo di Natale",
+      "excerpt": "Battisti ha chiamato 66 calciatori per la manifestazione di Novarello (27-29 novembre). Tra i convocati spicca Alessandro Criscito del Genoa, unico 2013 della selezione.",
+      "category": "news",
+      "source": "11giovani",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMEl1TWhiQ0xIM0ZXOEdwMkRkUXNCcENrX25GX0FlNFBYcDl5ZzVKS3dCbXZDMWs5VFcxOVZBckI2UjI0eXRqVlZ2ZkZUOUdYWFBOb0hudmdKdlpFZmh2ZVV0UWtfZjRvWUZDUWxUSGgtUEpJY3htMXZ6Z2pOQk9CclJVYVNhYXhIdHh4Z2F2Q2xVRlQ3cnk5NjlWVnhsdnNYRU1jMzlhR1V6eXZvZ2ZFcmg2NkJ6cU1yQW5ua0tPbktZSVgzUEJPeHFPekR0QXdQM0ZBa0VSdlMzRldjVVoxTGJTWG1rOGNYNmEwaHVDQQ?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-25T09:47:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Nazionale Under 15 torna in campo per il consueto appuntamento invernale. Il tecnico Enrico Battisti ha diramato le convocazioni per il Torneo di Natale che si disputerà a Novarello nel fine settimana del 27-29 novembre: in tutto 66 calciatori, quasi tutti nati nel 2012, con una sola eccezione rappresentata da Alessandro Criscito, attaccante genovese classe 2013 e figlio dell'internazionale Domenico. Forte la rapp",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1v0-euwdb",
+      "file": "mwx6s1v0-euwdb.json",
+      "title": "Under 15, Battisti convoca 66 azzurrini per il torneo di Natale",
+      "excerpt": "Il commissario tecnico Enrico Battisti ha diramato la lista dei convocati per la manifestazione di Novarello (27-29 novembre). Tra i selezionati anche tre giovani del Milan e il giovane Criscito del Genoa.",
+      "category": "news",
+      "source": "Milan News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdEZzTFJ2Vm9KUF83a29vQUdfQnA0UGVZbFZJNjJjV2RMdVZvRmNCQjF3d1JXQzlVOTFhSnVGX0xjSkRpYU1KbHZVWUR5RHJfUEJib1Y1ZklsTkFsZVo5WHJBYkg5WnpFd012RUZhQUNPaVRPWjBYUWZEVWthNFVsYjZSMU9IZUxpZ2tGZ2hKaw?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-25T13:40:03.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Federazione ha ufficializzato i 66 azzurrini convocati dal ct Enrico Battisti per il Torneo di Natale che si disputerà a Novarello tra il 27 e il 29 novembre. L'organico, composto quasi interamente da calciatori del 2012, conta una sola eccezione: Alessandro Criscito, attaccante classe 2013 in forza al Genoa e figlio d'arte—suo padre Domenico ha vestito 26 volte la maglia della nazionale maggiore, mentre il fratel",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1v0-laekx",
+      "file": "mwx6s1v0-laekx.json",
+      "title": "Quattro talenti del Cagliari convocati per il Torneo Under 15",
+      "excerpt": "Riccardo Fiori, Fabrizio Bacciu, Diego Porcu e Giuseppe Sanna rappresenteranno il club sardo nella competizione di Novarello dal 27 al 29 novembre. Sessantasei giovani in totale nella selezione dell'Italia Under 15.",
+      "category": "news",
+      "source": "Tutto Cagliari",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGxxNEN0el9oYm0xSWNXQ1IwYW9kQlVsZnE2ZG1hR2ZEMmxZMk9GdW5BUEJCS2lXOG82cVRzTFJBNHBZTnBCa3pobmc4a3hMdDA0SGtRQ0lOY1F1SXl1MzhOLWRCVVJ6bHB4YXR5S2xPUWM5X01VWFJ1TnZFYzdacFVtLUtLaEptNUpqb1R6RVdiaS1G?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-25T15:00:05.000Z",
+      "isDigest": false,
+      "bodyPreview": "Sessantasei giovani calciatori sono stati selezionati dal commissario tecnico Enrico Battisti per il Torneo di Natale dell'Italia Under 15, appuntamento tradizionale in programma a Novarello tra il 27 e il 29 novembre. Tra i convocati figurano quattro elementi del Cagliari, che avranno l'occasione di mettersi in mostra di fronte agli osservatori della nazionale. I quattro rossoblù sono il difensore Riccardo Fiori, i ",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1v1-6m08v",
+      "file": "mwx6s1v1-6m08v.json",
+      "title": "Sassuolo, Moscatelli e Zanini in nazionale Under 15 per il Torneo di Natale",
+      "excerpt": "Due giovani neroverde convocati da Enrico Battisti per la manifestazione in programma a Novarello dal 27 al 29 novembre. L'appuntamento rappresenta un'importante vetrina per i migliori prospetti della generazione 2012.",
+      "category": "news",
+      "source": "Sassuolo News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWd1LUlUUUNqQ2RGYmFzZmEyS1RlT2RZdzRBdU02SDl0c01NV2toaU5QNEh5M3N6TzQ1QVVlT1VLalBJR1FMOGlzVVdqeElya3gzVE9KMGY1T0EtX2p3ZFdJbllweEFJYmc5YVpoaHRybzRyQ1pmQk82OFJWTzQ1bVdxbGhlWmp2NTM4Yk1uR2g4QVVxWmNPdURVZ3FKOTB0aXVNLXdHS1A3Nnh0MXlxdUdqeVBuR0dQVXFSXzVJS2hNV3JFZnc?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-25T17:55:23.000Z",
+      "isDigest": false,
+      "bodyPreview": "Il settore giovanile del Sassuolo sarà rappresentato al Torneo di Natale dall'Under 15 azzurra con due convocazioni: David Moscatelli, inserito nel gruppo dei difensori, e Giuseppe Zanini, selezionato tra gli attaccanti. La manifestazione, che si terrà presso il Centro Sportivo Novarello Villaggio Azzurro in provincia di Novara, vedrà la partecipazione di 66 calciatori di vertice della categoria, tra cui alcuni figli",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1vl-nzas3",
+      "file": "mwx6s1vl-nzas3.json",
+      "title": "Genoa, tre azzurrini per il Torneo di Natale dell'Under 15",
+      "excerpt": "Convocati dalla FIGC i fratelli Criscito e Di Vita per la competizione di fine novembre. Alessandro Criscito è l'unico giocatore sottoleva tra i sessantasei selezionati dagli osservatori federali.",
+      "category": "news",
+      "source": "Buon Calcio a Tutti",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzZHUkRhNWNKRUh5LTJJVW1rMHlQYWozakFNR0poLVFFNnNGWEROcjhFdU1kaDF6ck5ld3lreVhkRTdGcnd3NDRUUFRRakhKb1V6T1dkYzhQZkF5X3VDU0t5MjI4NEtyeHJ1YldoVzROZUxGdUFjYnF3SkxkQ05nQmZiWHhsbmpTdWRIYWZiQTlUVFRfMnQ5cXBMTTdOVHlGcUtfcEdZR25kTWJMRmFRbm96eldTRzVXOGpGRjh3a2ZscmVjcTAwZ2VXZENuNUhxRllNUdIB2gFBVV95cUxQX0V4VW5mdUk2d3RJdDd4bmhNdXFCeUQxcWxtTEluVll2cHJNN1IyWkY4b3BlNzVDWFlWc3padHNadjk1YkNlMFdQYXo3Sl9CbElfdjl2YTFkRm5TZU1JbEotdW82OS16NjZvNTRUQUcySG1vSGJ1WUhwR1pJbmx4dWltUktHSWo1ZFNuZ2I3Y0hORHNQZm13dk5vM2ZEeFdOZHJwQ0VtWGhZQmVJcDMwemU3XzdLd3Vtam5hQmRQaElRN2xMaFJLQlVzN1JPU2NJbDFYQzhaV1NuQQ?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-25T09:30:31.000Z",
+      "isDigest": false,
+      "bodyPreview": "Tre giovani del vivaio rossoblu hanno ricevuto la chiamata della nazionale Under 15 allenata da Enrico Battisti per il Torneo di Natale in programma dal 27 al 29 novembre a Novarello. I convocati sono Alfredo Criscito e Samuele Di Vita, entrambi classe 2012, oltre ad Alessandro Criscito, classe 2013, suo fratello. Afredo Criscito aveva già vestito l'azzurro durante la prima edizione del Mondiale Under 15 disputato a ",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1vm-9ek6g",
+      "file": "mwx6s1vm-9ek6g.json",
+      "title": "Cinque laziali convocati per il Torneo Under 15 della Nazionale",
+      "excerpt": "Il settore giovanile biancoceleste manda cinque rappresentanti al consueto appuntamento federale in programma a fine novembre in Piemonte.",
+      "category": "news",
+      "source": "Lazio News 24",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVlVMWNVc3RVbEE4cnRleldFb21WMVUtZXRkalgwelBCbDZZQ2c3Nl9ka3Nwbl9ZUlVkVmdaMlRLaTRLTU9RTHc5bHc4Q05aRjBNRzUtcjcwcEpXOE5Pd1cwWjVndmxFcWZRbF9EQW5qLWl3T0Q3U0xCQ2FGRHQyVFFhWHA?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-25T20:01:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Lazio conquista una rappresentanza numerica nella selezione azzurra Under 15. Il commissario tecnico Enrico Battisti ha incluso cinque talenti del vivaio capitolino nella lista dei 66 convocati per il Torneo di Natale, manifestazione tradizionale della Federazione italiana che si disputerà da venerdì 27 a domenica 29 novembre presso il Centro Sportivo Novarello di Granozzo con Monticello, in provincia di Novara. I",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mwx6s1w4-93m0b",
+      "file": "mwx6s1w4-93m0b.json",
+      "title": "Skicross, otto azzurri a Livigno per l'ultimo test prima della Coppa del Mondo",
+      "excerpt": "La nazionale italiana si raduna in Lombardia da fine novembre in vista dell'esordio a Val Thorens. Deromedis e Tomasoni, medagliati a Milano Cortina, guidano il gruppo.",
+      "category": "news",
+      "source": "OA Sport",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGJjWnU3XzdxdUdfazNsLVVaUGVWTjdDM2JKT2NTZHNXWXlzTjRsdzYyS3otVE5IU1JIdGMzZGVwLUtUVThXYm9IMUJaYTlKYlFrV1lncDI2OTR1azUzR3Q0ckRPNWh3VlVtaGVUZWJYd2xxUTFra2tRM281X0xiRTE0UjNoMGk5cGkyZVlrQnJoRk9NdUJDQ0ZOY0NvdlJZZnp5ZmkwdmE5bFJWamo0eUJJMnBYR1RUTTJfU3dEWlpFSUNLeVVkWWZweFVtS3pLb3Vz0gHTAUFVX3lxTE9EYmNadTdfN3F1R19rM2wtVVpQZVZON0MzYkpPY1Nkc1dZeXNONGx3NjJLei1UTkhTUkh0YzNkZXAtS1RVOFdib0gxQlphOUpiUWtXWWdwMjY5NHVrNTNHdDRyRE81aHdWVW1oZVRlYlh3bHFRMWtra1EzbzVfTGJFMTRSM2gwaTlwaTJlWWtCcmhGT011QkNDRk5jQ292UllmenlmaTB2YTlsUlZqajR5QkkycFhHVFRNMl9Td0RaWkVJQ0t5VWRZZnB4VW1LektvdXM?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-25T12:18:35.000Z",
+      "isDigest": false,
+      "bodyPreview": "La squadra italiana di skicross si prepara all'avvio della stagione internazionale con un raduno collettivo a Livigno, in programma dalla domenica 29 novembre al mercoledì 2 dicembre. L'appuntamento rappresenta l'ultimo collegiale prima del debutto sulla Coppa del Mondo, fissato a Val Thorens dal'8 all'11 dicembre in territorio francese. Sotto la guida del direttore tecnico Bartolomeo Pala e del suo staff tecnico com",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    }
+  ]
 }
