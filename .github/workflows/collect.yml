@@ -116,6 +116,6 @@ jobs:
               echo "::error::push fallito dopo 3 tentativi (probabile conflitto con un altro workflow che ha scritto su main nello stesso momento)"
               exit 1
             fi
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
             sleep 5
           done
