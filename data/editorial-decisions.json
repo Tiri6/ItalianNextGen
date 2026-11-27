@@ -1,89 +1,79 @@
 {
   "version": 1,
-  "date": "2026-11-26",
-  "updatedAt": "2026-11-26T13:02:49.033Z",
+  "date": "2026-11-27",
+  "updatedAt": "2026-11-27T08:19:31.498Z",
   "updatedBy": "tirinatomarco@gmail.com",
   "enabled": true,
   "order": [
-    "mwx6s1pa-bt1rw",
-    "api-2026-11-25-issa-doumbia",
-    "api-2026-11-25-tommaso-berti",
-    "api-2026-11-25-giuseppe-ambrosino",
-    "api-2026-11-25-niccolo-pisilli",
-    "api-2026-11-25-francesco-pio-esposito",
-    "mwx6s1o1-32dln",
-    "mwx6s1nm-biooj",
-    "mwx6s1oo-fc4o6",
-    "mwx6s1uc-uooli",
-    "mwx6s1v0-euwdb",
-    "mwx6s1v0-laekx",
-    "mwx6s1v1-6m08v",
-    "mwx6s1vl-nzas3",
-    "mwx6s1vm-9ek6g",
-    "mwx6s1w4-93m0b"
+    "taccuino-2026-11-27",
+    "mwynuuf7-dwnko",
+    "mwynuuqt-dc0qx",
+    "api-2026-11-26-giorgio-scalvini",
+    "mwynuueq-om42y",
+    "mwx6s1mw-w2jfy",
+    "mwynuufr-4r3h3",
+    "mwynuurz-b0ok5",
+    "mwynuuot-48j0n",
+    "api-2026-11-26-alphadjo-cisse",
+    "mwynuul1-pagf5",
+    "mwynuuge-4rstd",
+    "mwynuuho-oxov0",
+    "mwynuuov-9629p"
   ],
   "items": {
-    "mwx6s1pa-bt1rw": {
+    "taccuino-2026-11-27": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-25-issa-doumbia": {
+    "mwynuuf7-dwnko": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-25-tommaso-berti": {
+    "mwynuuqt-dc0qx": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-25-giuseppe-ambrosino": {
+    "api-2026-11-26-giorgio-scalvini": {
+      "live": true,
+      "instagram": true
+    },
+    "mwynuueq-om42y": {
+      "live": true,
+      "instagram": true
+    },
+    "mwx6s1mw-w2jfy": {
+      "live": true,
+      "instagram": false
+    },
+    "mwynuufr-4r3h3": {
       "live": false,
       "instagram": false
     },
-    "api-2026-11-25-niccolo-pisilli": {
+    "mwynuurz-b0ok5": {
+      "live": true,
+      "instagram": false
+    },
+    "mwynuuot-48j0n": {
+      "live": false,
+      "instagram": false
+    },
+    "api-2026-11-26-alphadjo-cisse": {
       "live": true,
       "instagram": true
     },
-    "api-2026-11-25-francesco-pio-esposito": {
-      "live": true,
+    "mwynuul1-pagf5": {
+      "live": false,
       "instagram": false
     },
-    "mwx6s1o1-32dln": {
-      "live": true,
+    "mwynuuge-4rstd": {
+      "live": false,
       "instagram": false
     },
-    "mwx6s1nm-biooj": {
-      "live": true,
+    "mwynuuho-oxov0": {
+      "live": false,
       "instagram": false
     },
-    "mwx6s1oo-fc4o6": {
-      "live": true,
-      "instagram": false
-    },
-    "mwx6s1uc-uooli": {
-      "live": true,
-      "instagram": false
-    },
-    "mwx6s1v0-euwdb": {
-      "live": true,
-      "instagram": false
-    },
-    "mwx6s1v0-laekx": {
-      "live": true,
-      "instagram": false
-    },
-    "mwx6s1v1-6m08v": {
-      "live": true,
-      "instagram": false
-    },
-    "mwx6s1vl-nzas3": {
-      "live": true,
-      "instagram": false
-    },
-    "mwx6s1vm-9ek6g": {
-      "live": true,
-      "instagram": false
-    },
-    "mwx6s1w4-93m0b": {
+    "mwynuuov-9629p": {
       "live": false,
       "instagram": false
     }
