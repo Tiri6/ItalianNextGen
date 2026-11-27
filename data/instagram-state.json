@@ -777,6 +777,18 @@
       "at": "2026-11-26T19:51:14.218Z",
       "category": "news",
       "players": []
+    },
+    "taccuino-del-giorno-27-novembre-2026": {
+      "id": "18155313367555064",
+      "at": "2026-11-27T08:21:37.045Z",
+      "category": "taccuino",
+      "players": [
+        "Emanuele Rao",
+        "Giuseppe Ambrosino",
+        "Gabriel Kulla",
+        "Niccolò Pisilli",
+        "Alphadjo Cissè"
+      ]
     }
   },
   "failures": {
