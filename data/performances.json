@@ -2,6 +2,78 @@
   "_note": "REGOLA: solo prestazioni verificate, ogni voce deve avere una fonte. Campi opzionali: minutes, rating, goals, assists (ometti ciò che non è verificato). Aggiorna dopo ogni giornata.",
   "performances": [
     {
+      "date": "2026-11-26",
+      "player": "Alphadjo Cissè",
+      "club": "Milan",
+      "opponent": "Olympiakos Piraeus",
+      "competition": "UEFA Europa League",
+      "result": "4-2",
+      "minutes": 85,
+      "goals": 1,
+      "rating": 7.2,
+      "note": "85' in campo, 1 gol.",
+      "noteEn": "85 minutes played, 1 goal.",
+      "source": "Dati partita",
+      "fromApi": true
+    },
+    {
+      "date": "2026-11-26",
+      "player": "Jeff Ekhator",
+      "club": "Juventus",
+      "opponent": "Omonia Nicosia",
+      "competition": "UEFA Europa League",
+      "result": "4-1",
+      "minutes": 66,
+      "goals": 1,
+      "rating": 8,
+      "note": "66' in campo, 1 gol.",
+      "noteEn": "66 minutes played, 1 goal.",
+      "source": "Dati partita",
+      "fromApi": true
+    },
+    {
+      "date": "2026-11-26",
+      "player": "Filippo Terracciano",
+      "club": "Milan",
+      "opponent": "Olympiakos Piraeus",
+      "competition": "UEFA Europa League",
+      "result": "4-2",
+      "minutes": 23,
+      "rating": 6.2,
+      "note": "23' in campo.",
+      "noteEn": "23 minutes played.",
+      "source": "Dati partita",
+      "fromApi": true
+    },
+    {
+      "date": "2026-11-26",
+      "player": "Christian Comotto",
+      "club": "Milan",
+      "opponent": "Olympiakos Piraeus",
+      "competition": "UEFA Europa League",
+      "result": "4-2",
+      "minutes": 5,
+      "rating": 6,
+      "note": "5' in campo.",
+      "noteEn": "5 minutes played.",
+      "source": "Dati partita",
+      "fromApi": true
+    },
+    {
+      "date": "2026-11-26",
+      "player": "Giorgio Scalvini",
+      "club": "Atalanta",
+      "opponent": "Borac Banja Luka",
+      "competition": "UEFA Europa Conference League",
+      "result": "3-2",
+      "minutes": 90,
+      "rating": 6.5,
+      "note": "90' in campo.",
+      "noteEn": "90 minutes played.",
+      "source": "Dati partita",
+      "fromApi": true
+    },
+    {
       "date": "2026-11-25",
       "player": "Tommaso Berti",
       "club": "Cremonese",
@@ -55,7 +127,8 @@
       "note": "7' in campo.",
       "noteEn": "7 minutes played.",
       "source": "Dati partita",
-      "fromApi": true
+      "fromApi": true,
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnJ2WS1RSGxmY2JUVTVNOXVGM3hoaXpVTGFqQ0JDaHpidktxRlNxYU5vcVpTMXNhYi1ERUJqcV9FdzZCS0k5OWFuRzVwTUpyaDlCUzh2SHpTMUxkYnhOZFZzVUhFUE5tdl96NTkzYXFvUzhzQzdQX2gyUk9KT1VtLUNxQ1pkdHVsM3ZPMlRMMTVILVk1UG5MZTFrSTBqMkx5LXVIS0s5cmRUOEdPcGJqLUM1OXBuYUlENmtJX0JzczlVN0o0TlFyZy1YbzRfRVpaYWxTdHE3UTNDdTg?oc=5"
     },
     {
       "date": "2026-11-25",
@@ -69,7 +142,8 @@
       "note": "90' in campo.",
       "noteEn": "90 minutes played.",
       "source": "Dati partita",
-      "fromApi": true
+      "fromApi": true,
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnJ2WS1RSGxmY2JUVTVNOXVGM3hoaXpVTGFqQ0JDaHpidktxRlNxYU5vcVpTMXNhYi1ERUJqcV9FdzZCS0k5OWFuRzVwTUpyaDlCUzh2SHpTMUxkYnhOZFZzVUhFUE5tdl96NTkzYXFvUzhzQzdQX2gyUk9KT1VtLUNxQ1pkdHVsM3ZPMlRMMTVILVk1UG5MZTFrSTBqMkx5LXVIS0s5cmRUOEdPcGJqLUM1OXBuYUlENmtJX0JzczlVN0o0TlFyZy1YbzRfRVpaYWxTdHE3UTNDdTg?oc=5"
     },
     {
       "date": "2026-11-25",
@@ -1171,20 +1245,6 @@
       "noteEn": "Enters with good timing in the second half and immediately wins a penalty",
       "source": "Virgilio",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOV09FS0V1QmFoTTRMeW9SRzRUdzQ3WnFadV90bFM4SHE3NlFNMml4a3I3czAzS2ZMSktZYWo3bUcxUE1YUlktTWY0Z3k1bjh1Sko3OXJKTWVIVzdNVlRWY1JtNWVxX0lCaXB5T1poQlE3VkYyMi1XZF90WExnUkNLVGZnQUtoM05vNFRCYzNLVmJTd1k2R1VJbVRmbkstTnppMHVzaTYzbGpnTm5MOWF0SVlwZnZxOG82aWloTmxiaVQzOUV4akVJWklZeURxQmZDTEhjLUVnb2lsdjk2Ri1nWVh3cEIzVjdnQ3RtYzh0VmM5Vnpja3ZIZC1B?oc=5"
-    },
-    {
-      "date": "2026-11-12",
-      "player": "Mattia Marello",
-      "club": "Inter",
-      "opponent": "Romania",
-      "competition": "Qualificazioni Europee Under 19",
-      "result": "2-0",
-      "minutes": 90,
-      "assists": 1,
-      "note": "Ha completato l'intera gara e fornito un assist per il secondo gol",
-      "noteEn": "Completed the entire match and provided an assist for the second goal",
-      "source": "FC Inter News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU83SGNCTURrLU9ZbHJpWXdDZFFHaVpQZlBIdTFuTWRBcHBUaUJHdU82TXNXSGRnMy1WbHlOQkdiRTZiU2RsVXplN29uM3V1eFVCZ0xBckFsM2gyVERjUzNreWZBWnpGWW5IUGpGLTFLOGtjX1hQeVZXck40THJEVmNidHBqSmtGbmQtZ3U3NDRQQzdyWDVXNw?oc=5"
     }
   ]
 }
