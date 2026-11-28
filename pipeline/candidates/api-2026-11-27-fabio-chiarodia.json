@@ -1,0 +1,27 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-27-fabio-chiarodia",
+  "collectedAt": "2026-11-28T06:49:49.798Z",
+  "title": "Chiarodia in campo 90': Borussia Mönchengladbach pareggia 3-3 con Werder Bremen",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Fri, 27 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Fabio Chiarodia"
+  ],
+  "category": "performance",
+  "score": 3,
+  "status": "pending",
+  "draft": {
+    "title": "Chiarodia in campo 90': Borussia Mönchengladbach pareggia 3-3 con Werder Bremen",
+    "titleEn": "Chiarodia plays 90 minutes: Borussia Mönchengladbach draw 3-3 against Werder Bremen",
+    "excerpt": "Fabio Chiarodia ha giocato una partita solida contro Werder Bremen: Borussia Mönchengladbach ha pareggiato 3-3.",
+    "excerptEn": "Fabio Chiarodia put in a solid performance against Werder Bremen: Borussia Mönchengladbach drew 3-3.",
+    "bodyIt": "Fabio Chiarodia ha giocato una partita solida con il Borussia Mönchengladbach nella sfida contro Werder Bremen (Bundesliga), chiusa sul 3-3 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Fabio Chiarodia put in a solid performance for Borussia Mönchengladbach against Werder Bremen (Bundesliga), in a match that ended 3-3 for his side: a draw. The youngster played 90 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-27T20:00:00.000Z"
+  }
+}

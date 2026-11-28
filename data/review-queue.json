@@ -1,5 +1,285 @@
 {
-  "generatedAt": "2026-11-27T08:19:47.152Z",
-  "day": "2026-11-27",
-  "items": []
+  "generatedAt": "2026-11-28T06:53:23.313Z",
+  "day": "2026-11-28",
+  "items": [
+    {
+      "id": "taccuino-2026-11-28",
+      "file": "taccuino-2026-11-28.json",
+      "title": "Taccuino del giorno · 28 novembre 2026",
+      "excerpt": "Cinque storie di talenti azzurri tra le coppe europee, i Mondiali Under 17 e le vicende di club: il punto sui giovani della nazionale.",
+      "category": "taccuino",
+      "source": "Taccuino da 5 fonti",
+      "link": "",
+      "players": [
+        "Jeff Ekhator",
+        "Christian Lupo",
+        "Tommaso Rubino",
+        "Marco Palestra",
+        "Davide Bartesaghi",
+        "Francesco Camarda"
+      ],
+      "sourceDate": null,
+      "isDigest": true,
+      "bodyPreview": "**Jeff Ekhator** Dalla strada di Sampierdarena al palcoscenico europeo con la Juventus: il percorso del giovane bianconero prosegue tra i grandi d'Europa. [fonte](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXA5RXNKanJ3c1ZMMTQ1OFQ3dFpBQWtUdjZvTUF6TnVCOHcxWXgzLXhSRnJTb25XM3hmTHNZYVdmRklxcUFTTU1tLVFCZ2NodDVDYnAzZWlFV2FlSTBrNXp2SUxFX3JaMlpFUTVTY1dBN09KT2ZmTm5KbFdIVE1aRXBiLU1rTEVQUFJQUkZPRWZjSTBmbUpneDgzYmgzM1JW",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "api-2026-11-27-paris-fc-stade-brestois-29",
+      "file": "api-2026-11-27-paris-fc-stade-brestois-29.json",
+      "title": "Coppola e Koleosho: Paris FC perde 0-1 con Stade Brestois 29",
+      "excerpt": "Paris FC perde 0-1 con Stade Brestois 29: Coppola è sceso in campo e Koleosho è sceso in campo.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Diego Coppola",
+        "Luca Koleosho"
+      ],
+      "sourceDate": "2026-11-27T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Paris FC-Stade Brestois 29 (Ligue 1): 0-1 per Paris FC, sconfitta. In campo 2 giovani della nostra lista. Diego Coppola è sceso in campo, rimanendo in campo 90 minuti. Luca Koleosho è sceso in campo, rimanendo in campo 80 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Diego Coppola, Luca Koleosho) di un'altra notizia in questa lista: «Paris FC fermato dal Brest: sfuma l'aggancio al PSG». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "api-2026-11-27-fabio-chiarodia",
+      "file": "api-2026-11-27-fabio-chiarodia.json",
+      "title": "Chiarodia in campo 90': Borussia Mönchengladbach pareggia 3-3 con Werder Bremen",
+      "excerpt": "Fabio Chiarodia ha giocato una partita solida contro Werder Bremen: Borussia Mönchengladbach ha pareggiato 3-3.",
+      "category": "performance",
+      "source": "Dati partita",
+      "link": "",
+      "players": [
+        "Fabio Chiarodia"
+      ],
+      "sourceDate": "2026-11-27T20:00:00.000Z",
+      "isDigest": false,
+      "bodyPreview": "Fabio Chiarodia ha giocato una partita solida con il Borussia Mönchengladbach nella sfida contro Werder Bremen (Bundesliga), chiusa sul 3-3 per i suoi: pareggio. Il giovane è rimasto in campo 90 minuti. I dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tvp8-wm6eo",
+      "file": "mx01tvp8-wm6eo.json",
+      "title": "Spinaccè al Mantova: l'Inter conta sul rilancio dell'attaccante",
+      "excerpt": "Matteo Spinaccè, classe 2006, è stato ceduto in prestito dai nerazzurri al club lombardo. L'attaccante pordenonese punta al riscatto in Serie B.",
+      "category": "performance",
+      "source": "agenzia giornalistica opinione",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX0lkT2Z3NnVGT3hzZWxzLVlCckZTeHI5X2phTC1xcE1OY2VrTk43S0o4MDZsYU5qWXNQX1dvQnFWWnJSRzF6b2g4Sm8xY1hwdV80QVNlNUxkenB5T2JEdWhtalE5bk9lRzV5QkF6QTBPU0UwZ3pfZkpmZHZjaUVZNVNCeTVSWm85WVBNMHlsWU5GREJPMXowRUdYakw1UURKTndqRU91OENSUV9HNUxZbWlHaUtCTHY4eEw2eVpyd1l0RU5nYVNVeHBGajRSblVza29NUUIwX0lMbUV4SDJKbmRxUFFSSHVPVS1NYnJ1cVJJSG1ldUtpd1BjQzFHSGN5cnpBb2RJVHFRUQ?oc=5",
+      "players": [
+        "Francesco Pio Esposito",
+        "Sebastiano Esposito"
+      ],
+      "sourceDate": "2026-11-27T07:01:13.000Z",
+      "isDigest": false,
+      "bodyPreview": "Matteo Spinaccè riparte dal Mantova, dove l'Inter lo ha mandato in prestito per la stagione. L'attaccante della provincia di Pordenone, nato nel 2006, è convinto di poter lasciare il segno nei cadetti e ha riposto fiducia nel progetto che lo vede protagonista in Lombardia. Il classe 2006 ha sottolineato come senta una certa affinità con il profilo di Pio Esposito, anche lui cresciuto nel vivaio nerazzurro e capace di",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "stesso-giocatore",
+          "label": "Stesso giocatore (Francesco Pio Esposito, Sebastiano Esposito) di un'altra notizia in questa lista: «Raimondo torna al Frosinone, brutte notizie per Adzic». Ne esce una sola al giorno."
+        }
+      ]
+    },
+    {
+      "id": "mx01tw0h-ybvc5",
+      "file": "mx01tw0h-ybvc5.json",
+      "title": "Tre azzurrini del Napoli convocati per il Torneo di Natale",
+      "excerpt": "Paolo Chirico, Filippo Ferrara e Mario Tambaro rappresenteranno l'Italia Under 15 a Novarello in una manifestazione che si conclude domenica.",
+      "category": "performance",
+      "source": "Gol del Napoli",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHpoQlc0TEhhekxUY01zdEYydlJCa0Yxd3pTdzRuX2xNc3JmSXRsU1BROTlxS1JuU2Y5dWwxQy1zck9KUUxtdnhIZ1hrZERNRDhsdWdkZDcyb29yQkp1SWJud1dWVUc2TVdobk1ZTWZOa19CcDU2RHpFY1lmRFhQSFR3eXJBSGprV1lpNEpLZzVPdmI2TzJkQTdXaWdIUlE?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-27T10:24:08.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Nazionale Under 15 italiana si arricchisce di tre elementi provenienti dal settore giovanile napoletano. Paolo Chirico, Filippo Ferrara e Mario Tambaro vestiranno la maglia azzurra nel Torneo di Natale in programma a Novarello, una vetrina importante per i giovani talenti italiani. L'appuntamento rappresenta un'occasione preziosa di crescita agonistica per i tre calciatori partenopei, chiamati a confrontarsi con i",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tvte-kqfe3",
+      "file": "mx01tvte-kqfe3.json",
+      "title": "Serie B, il nodo dei giovani in prestito: Rao, Faticanti e Pafundi cercano continuità",
+      "excerpt": "Tre profili di talenti italiani faticano a trovare spazio nei rispettivi club cadetti. A gennaio potrebbero cambiare casacca per sbloccare la loro crescita.",
+      "category": "news",
+      "source": "TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN053QldkbFFmMTI4TzMzUEFEc05LU2ZNX2M2OWkyX3c1NzV3WlNJNkdLYWc4NEZNMl9RbGI2MTNOVS02ekNMS0doWGxYeUxjLUVTdG9GeXlvWEFfUk02bkpoS0NUMldXN1pESm9aejJIUWd4UDVGZDZEMVN2OWZoT1JtODExcWdsNDlQM0xFMXY4QURoaFNlY2pNbWJwMkgtdXB0NkFGYjl0OUNyM054aTQwR0h4RlU?oc=5",
+      "players": [
+        "Emanuele Rao",
+        "Giacomo Faticanti",
+        "Simone Pafundi"
+      ],
+      "sourceDate": "2026-11-27T16:45:14.000Z",
+      "isDigest": false,
+      "bodyPreview": "La Serie B ospita una fitta schiera di giovani promesse che faticano a incidere nelle loro squadre attuali. Tre nomi emergono in maniera netta dalla massa: Emanuele Rao al Pisa, Giacomo Faticanti all'Avellino e Simone Pafundi al Catanzaro. Accomunati da una medesima sorte, ovvero quella di trovare poco spazio nonostante il valore riconosciuto dal mercato. Rao è arrivato in nerazzurro in prestito dal Napoli dopo una s",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tvx3-m4q1h",
+      "file": "mx01tvx3-m4q1h.json",
+      "title": "Raimondo torna al Frosinone, brutte notizie per Adzic",
+      "excerpt": "L'attaccante giallazzurro rientra dopo due turni di stop. Ancora incertezza sulle condizioni di Esposito al Sassuolo, mentre il Montenegro dovrà fare i conti con un lungo infortunio.",
+      "category": "news",
+      "source": "TUTTOmercatoWEB",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTVmZThiVVNLNV9nZVFUSVVfOHptY2Jjc0dzS0g0cXFkUnp4ZXBWSE1ScXo4b1hpeHVDaHlhY0ZuWEJRMmVvS3kwNVhHZzEtTjlLNXZDUS1NdHRsT3JNTy1kMzhOa212QkVILVl1aV81WVlLVVpwcXJyZWR4VXcxczBTa09wWUZhWHhSdVpqNUo5cGN6SDBlOTdfU1NqYlp2TnVVdFdjbTEybUU?oc=5",
+      "players": [
+        "Francesco Pio Esposito",
+        "Sebastiano Esposito",
+        "Antonio Raimondo"
+      ],
+      "sourceDate": "2026-11-27T21:00:36.000Z",
+      "isDigest": false,
+      "bodyPreview": "Settimana di movimenti importanti in casa Frosinone, dove Antonio Raimondo è stato recuperato per la trasferta di domani contro il Parma dopo uno stop di due partite legato a un infortunio. Insieme all'attaccante, torna a disposizione anche il centrocampista Florian Grillitsch. Il tecnico Massimiliano Alvini ha già comunicato i 26 convocati per la sfida allo Stirpe. Meno lieti gli sviluppi in casa Sassuolo. Vasilije ",
+      "proposed": {
+        "live": true,
+        "instagram": true
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tvt7-na7ua",
+      "file": "mx01tvt7-na7ua.json",
+      "title": "Paris FC fermato dal Brest: sfuma l'aggancio al PSG",
+      "excerpt": "Koleosho e Coppola escono sconfitti da Brest (1-0) nella dodicesima giornata di Ligue 1. Il distacco dalla capolista resta di tre punti, mentre i bretoni si avvicinano alla zona europea.",
+      "category": "news",
+      "source": "Calciomercato",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQU0VCRWMtR1FraGJjbV8tNFRJeDFWV0tXdGV6TThvZGRIVGsyNnQ5d0dtMzJkcW92cHFaOC1SaXhabXNzOFByMml5ZnhTS090ZHZTYS1VWGlwaEFrNEFSdlJjZjQ3YUNXQlhObE1vU2M3NjVIXzg5dVNTVGMteTJmdUN2ZXJfUE0xSU15eFpPSlRTRUdSdjhidXZBTFJKUzZCaXJVT2dQcXV4ZWdjWHpxd0JVUTMtcGF2N2pKVkxnT3RFQWp2bWU1QkVKY051ZjRSdWdqU3RIVUhuVXd3RV92MEFUbTJPc3RsTFNlQno4UU1FOUcyZnB4ZWsxajFHQ1FxZ09SMGNXR3VpTThCUWRLOEJGRlZCNmxWVVNvdnR3a05zVThxQ3JlLWxZMA?oc=5",
+      "players": [
+        "Luca Koleosho",
+        "Francesco Coppola",
+        "Diego Coppola"
+      ],
+      "sourceDate": "2026-11-27T21:44:19.000Z",
+      "isDigest": false,
+      "bodyPreview": "Il Paris FC mancava l'appuntamento con la storia. La seconda squadra della capitale francese aveva l'occasione di portarsi a un solo punto dal Paris Saint-Germain, ma la trasferta al Brest si è rivelata insidiosa: sconfitta per 1-0 firmata dalla rete di Zogbe. Con questo risultato, il Paris rimane a quota venti punti, sempre a tre lunghezze dal vertice, mentre il Brest sale a ventuno e si piazza a soli due punti dall",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tvq1-v00ee",
+      "file": "mx01tvq1-v00ee.json",
+      "title": "Serie A scopre i giovani: Cissé ed Ekhator trascinano l'Italia verso il rinnovamento",
+      "excerpt": "Raddoppiati i gol dei giovanissimi in campionato. Milan e Juventus puntano sui talenti azzurri, mentre la Nazionale di Mancini traccia una nuova strada.",
+      "category": "news",
+      "source": "LaPresse",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0tfTWVJZk9yaXREcnZveHJtdllpdVBvV0l6Q1cwN1hFcDJhZkUxMld5QldhWWpadTdRLTAtM0dmNlRDS1l0R2pZY19wdkJMUWgyWWJjcTktVG9EMHZJVmR5V0hXTWNzSEpnajh6U3prXzhrNE0zVXNXN0tuak1qeHd2OFdTVVFjUkhPRWlYc3FrT25kM3dvc3ducnBvbXp2bHdqTEh2MnhndUFRbmI3eGNDWkpCUTNHeXR2UzJYMHhBVVFPaDltaFdqclhCVGlibi1N?oc=5",
+      "players": [
+        "Jeff Ekhator",
+        "Alphadjo Cissè"
+      ],
+      "sourceDate": "2026-11-27T16:32:18.000Z",
+      "isDigest": false,
+      "bodyPreview": "Un cambio di rotta profondo attraversa il calcio italiano. Dopo tre eliminazioni consecutive ai Mondiali, il sistema ha accelerato una rivoluzione nel modo di concepire i giovani in campo: meno emergenza, più scelta consapevole. I numeri confermano la svolta. Nelle prime dieci giornate di questa stagione, i gol segnati dagli Under 18 in Serie A sono saliti da 19 a 51, un incremento del 168,4 per cento rispetto al med",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tvz3-6f0lb",
+      "file": "mx01tvz3-6f0lb.json",
+      "title": "Azzurrini perfetti nel girone: l'Italia batte l'Uzbekistan 3-1",
+      "excerpt": "A Doha gli Azzurrini chiudono il gruppo E a punteggio pieno con tre vittorie consecutive. Casagrande, Croci e Corigliano decidono il primo tempo; nella ripresa l'espulsione di Cassano non compromette il risultato.",
+      "category": "news",
+      "source": "DiariodelWeb.it",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazFXMTdQSmRna1hrNE5GOXFFQXJSNTBNU1k1bUVrQjI1Zy1IdG5QWjFBdUtaOVM2MndaUGlNLUJBU3VyaWNMR1JTeFpGRkh5ck41M2pSMENuZkRaMkxLYXNXN1g5UGRHTXRDakx2VEdYSDJGaXpqVVE2c0FsMHlQS0ViNElwOEloanoyNGtHcTU?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-26T23:07:44.000Z",
+      "isDigest": false,
+      "bodyPreview": "La formazione di Daniele Franceschini prosegue la sua marcia nel Mondiale Under 17 in Qatar con la terza vittoria consecutiva. Gli Azzurrini liquidano l'Uzbekistan e si qualificano per gli ottavi da protagonisti assoluti del gruppo E, con nove punti conquistati senza sconfitte. Il match si decide nei quarantacinque minuti iniziali. Casagrande apre le marcature di testa al settimo minuto su cross dalla destra di Giamm",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tw0g-4duzc",
+      "file": "mx01tw0g-4duzc.json",
+      "title": "Vicenza, Sorzato e Zanella convocati dall'Under 15",
+      "excerpt": "Due talenti del settore giovanile biancorosso raggiungeranno il raduno di Club Italia a Novarello. I calciatori prenderanno parte al Torneo di Natale dal 27 al 29 novembre sotto la guida di Cesare Battisti.",
+      "category": "news",
+      "source": "L.R. Vicenza",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnVac3BTYzZpd1JWS1NwY0paR3pRYWFndktCVnBhMlRoWm04Vy1ZM250WEtwX01pYWJualA4SnFZcEZqQ1Q3bTZFUl9XTkNNc01mYW5TQ051aFVEeUpGblR2NkZ3WkQwSHBndUdsMlZxNGZfVHdTR19zV3lDTy14Z29B?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-27T11:32:08.000Z",
+      "isDigest": false,
+      "bodyPreview": "Matteo Sorzato e Nicolas Zanella hanno ricevuto la convocazione della Nazionale Under 15. I due giovani del Vicenza parteciperanno al raduno presso il Centro Sportivo di Novarello, dove resteranno a disposizione del commissario tecnico Cesare Battisti per il Torneo di Natale in programma dal 27 al 29 novembre. Si tratta di un riconoscimento significativo per il percorso formativo dei due calciatori e per il lavoro sv",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    },
+    {
+      "id": "mx01tw12-27xbh",
+      "file": "mx01tw12-27xbh.json",
+      "title": "Vicenza, Sorzato e Zanella in azzurro per il Torneo di Natale Under 15",
+      "excerpt": "Due talenti del vivaio biancorosso convocati da Cesare Battisti per il raduno di Club Italia a Novarello dal 27 al 29 novembre.",
+      "category": "news",
+      "source": "Vicenzareport",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNajF1cW5lUVpkamE5N3ZFQVVLM3FGZEh2QTZqbnowcVM3MnNoQk1LeEktbFVjN2NFb0lJa0J5THNnR2N0TGNmTl8yVm5YdEdiS09FcXhDYmZYODhaRllVQzlkZXlMbnY2WlZ1WEtQX0hKY3ptSjdHZHVPSEZ0RHd0bnhzcEdtQ1FGR3MxSUc1MnhSYkxwdkdxWEY5TFgzZWdTVmdYZA?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-27T12:03:04.000Z",
+      "isDigest": false,
+      "bodyPreview": "Matteo Sorzato e Nicolas Zanella rappresenteranno il Vicenza nella Nazionale Under 15 durante il Torneo di Natale. I due giovani del settore giovanile biancorosso sono stati convocati dal commissario tecnico Cesare Battisti e hanno raggiunto il Centro Sportivo di Novarello per il raduno di Club Italia, l'appuntamento tradizionale che chiude la stagione delle selezioni giovanili azzurre. I ragazzi rimarranno in ritiro",
+      "proposed": {
+        "live": false,
+        "instagram": false
+      },
+      "flags": [
+        {
+          "type": "doppione",
+          "label": "Notizia molto simile a una già uscita o già in lista"
+        }
+      ]
+    },
+    {
+      "id": "mx01tw1m-psxu9",
+      "file": "mx01tw1m-psxu9.json",
+      "title": "Sorzato e Zanella in azzurro, il Vicenza promuove i suoi baby",
+      "excerpt": "Due prospetti biancorossi convocati dal ct Battisti per il Torneo di Natale con la Nazionale Under 15. Un riconoscimento al lavoro del settore giovanile vicentino.",
+      "category": "news",
+      "source": "Il Giornale di Vicenza",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnZwNFVpMUVXYTFJMUZyVWo3V1JHNEpxTWJPSWZQRG1sM1h0bURreGJVOTZBZWNmUTFuLXdZOUtWUVg0QmVuTEEtWG1QZnQwTDVSRElzNnV5eEdTNHVubHlJcHU1Qms2cUxVb0FXejRCaEVtSmUwOXMzSVZrRjhOb2Z3bC1MSlFHXzZJVnFrdDZ5RFBXTzhYUDVwT2NWSmZpbUk5SHJlRm1kZUhOck1pY0c3VE11cmtDcGQzSV9zd0NKOXN2c2VFSU1wam1vU3ZORUpUMzY1VzM1YkRMbjlQdXJPeG7SAeoBQVVfeXFMUEVkb3ZpTnRod1hCMV8xWjh2dDNFcThObnpSa0tsNVgyd2U4NFVMcV8zWU9nQlZRV0xqR0FnejUyTkpfYlo1RTJPX052TmdQUzRiTHVnekh5SzlUcjh3a01mQmJDR2hnY0VaeWhscGFadmJnSmlrdXp0SUtzUldBbDJjaWstMTFwRkplcnptUzZJNE5hSDc4YXNQUWhIenFYdnpaa3pmNF9XN2NJV0ZVU1J5OW1VN2x2OVRVODZLcW1Jd1lkdWdVcG04aTJ0amdBOEdkVlB2Qm1wSVM2ZWRTU2puY3E1NVRNdWF3?oc=5",
+      "players": [],
+      "sourceDate": "2026-11-27T12:31:10.000Z",
+      "isDigest": false,
+      "bodyPreview": "Matteo Sorzato e Nicolas Zanella raggiungono il centro sportivo di Novarello per il raduno della selezione Under 15, chiamati dal commissario tecnico Enrico Battisti in vista del tradizionale torneo natalizio. La convocazione arriva come culminazione di un percorso di crescita portato avanti dalle giovanili del Vicenza, che vedono riconosciuto il proprio operato attraverso l'inserimento di due calciatori nei ranghi a",
+      "proposed": {
+        "live": true,
+        "instagram": false
+      },
+      "flags": []
+    }
+  ]
 }

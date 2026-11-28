@@ -1,0 +1,28 @@
+{
+  "competitions": [],
+  "id": "api-2026-11-27-paris-fc-stade-brestois-29",
+  "collectedAt": "2026-11-28T06:49:49.799Z",
+  "title": "Coppola e Koleosho: Paris FC perde 0-1 con Stade Brestois 29",
+  "link": "",
+  "source": "Dati partita",
+  "pubDate": "Fri, 27 Nov 2026 20:00:00 GMT",
+  "query": "dati-partita",
+  "players": [
+    "Diego Coppola",
+    "Luca Koleosho"
+  ],
+  "category": "performance",
+  "score": 6,
+  "status": "pending",
+  "draft": {
+    "title": "Coppola e Koleosho: Paris FC perde 0-1 con Stade Brestois 29",
+    "titleEn": "Coppola and Koleosho: Paris FC lose 0-1 against Stade Brestois 29",
+    "excerpt": "Paris FC perde 0-1 con Stade Brestois 29: Coppola è sceso in campo e Koleosho è sceso in campo.",
+    "excerptEn": "Paris FC lost 0-1 against Stade Brestois 29: Coppola played and Koleosho played.",
+    "bodyIt": "Paris FC-Stade Brestois 29 (Ligue 1): 0-1 per Paris FC, sconfitta. In campo 2 giovani della nostra lista.\n\nDiego Coppola è sceso in campo, rimanendo in campo 90 minuti.\n\nLuca Koleosho è sceso in campo, rimanendo in campo 80 minuti.\n\nI dati di gol, assist e minutaggio arrivano dalle statistiche ufficiali della partita.",
+    "bodyEn": "Paris FC vs Stade Brestois 29 (Ligue 1): 0-1 for Paris FC, a defeat. 2 young players from our list were on the pitch.\n\nDiego Coppola played, playing 90 minutes.\n\nLuca Koleosho played, playing 80 minutes.\n\nGoals, assists and minutes come from the official match statistics.",
+    "_fromSource": true,
+    "_fromApi": true,
+    "_sourceDate": "2026-11-27T20:00:00.000Z"
+  }
+}
